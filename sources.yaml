@@ -1,0 +1,62 @@
+# Upstream sources consolidated into this list.
+# Each entry documents where the data came from, its license, and whether
+# the build script pulls it automatically (`auto_fetch: true`) or whether it
+# lives in sources/ as a static snapshot.
+
+sources:
+  - name: CREDO Action internal exclude list (historical)
+    kind: snapshot
+    contributor: Jordan Krueger (original co-curator at CREDO Action)
+    year_snapshot: 2019
+    path: sources/original-community-list.xlsx (sheet "CREDO")
+    license: community-shared, CC0 equivalent by Jordan's attestation
+    notes: |
+      Originally curated for CREDO Action's mailing program. CREDO Action
+      was the progressive advocacy arm of the CREDO brand; it shut down
+      on January 1, 2020. This is a historical snapshot from that program.
+      Not affiliated with CREDO Mobile (the still-active wireless carrier),
+      which did not use this list.
+
+  - name: Avaaz internal exclude list
+    kind: snapshot
+    contributor: Avaaz (unknown individual)
+    year_snapshot: 2020
+    path: sources/original-community-list.xlsx (sheet "Avaaz")
+    license: shared publicly in a community spreadsheet with an open "add your org" invitation
+    notes: |
+      Avaaz's list was largely typo-derived — misspellings of major email
+      providers (Gmail, Yahoo, Hotmail) across many country-code TLDs.
+
+  - name: disposable-email-domains/disposable-email-domains
+    kind: upstream_fetch
+    url: https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/master/disposable_email_blocklist.conf
+    auto_fetch: true
+    license: CC0-1.0
+    notes: |
+      The largest community-maintained list of disposable email services.
+      Pulled nightly by the build script.
+
+  - name: FGRibreau/mailchecker
+    kind: upstream_fetch
+    url: https://raw.githubusercontent.com/FGRibreau/mailchecker/master/list.txt
+    auto_fetch: true
+    license: MIT
+    notes: |
+      Another large, well-maintained disposable email provider list.
+
+  - name: 7c/fakefilter
+    kind: upstream_fetch
+    url: https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt
+    auto_fetch: true
+    license: MIT
+    notes: |
+      Fake email provider filter — overlaps with the above but catches
+      edge cases.
+
+# Sources we deliberately do NOT include:
+#
+#  - Spamhaus DBL, SURBL, URIBL — commercial / restricted licenses,
+#    cannot be redistributed.
+#  - URLhaus, PhishTank, OpenPhish — these are threat feeds for known
+#    malicious domains. Useful for defense, but we don't mirror them.
+#    Users who need that data should query the source directly.
