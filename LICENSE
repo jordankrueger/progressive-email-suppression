@@ -1,11 +1,51 @@
+Progressive email suppression list — licensing summary
+=======================================================
+
+This repository is a mixed-license compilation. Read the short version first,
+then the details.
+
+Short version
+-------------
+- The build scripts, integration guides, this repository's documentation,
+  and the two historical advocacy-org snapshots contributed directly to
+  this repo are released under CC0 1.0 (public domain) — by the repository
+  author and the original contributors' attestation.
+- The file `data/combined.txt` is a compilation that also includes entries
+  pulled from upstream community lists licensed under MIT, BSD 3-Clause,
+  and CC0. Those upstream licenses are preserved in the `LICENSES/` directory.
+- If you redistribute `data/combined.txt`, the cleanest posture is to carry
+  the `LICENSES/` directory alongside it, or point consumers at the upstream
+  sources listed in `sources.yaml`.
+
+CC0 1.0 — for the portions originated or curated by this repository
+-------------------------------------------------------------------
 Creative Commons Zero v1.0 Universal (CC0 1.0)
 
-The person who associated a work with this deed has dedicated the work to the
-public domain by waiving all of his or her rights to the work worldwide under
-copyright law, including all related and neighboring rights, to the extent
-allowed by law.
+The person who associated a work with this deed has dedicated the work to
+the public domain by waiving all of his or her rights to the work worldwide
+under copyright law, including all related and neighboring rights, to the
+extent allowed by law.
 
 You can copy, modify, distribute and perform the work, even for commercial
 purposes, all without asking permission.
 
 Full text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Upstream portions in `data/combined.txt`
+----------------------------------------
+`data/combined.txt` folds in entries from:
+
+  - FGRibreau/mailchecker                    — MIT
+  - 7c/fakefilter                            — BSD 3-Clause
+  - disposable-email-domains/disposable-...  — CC0 1.0
+
+Full license texts are in the `LICENSES/` directory. See also `sources.yaml`.
+
+Note on copyright in lists of domains
+-------------------------------------
+Individual domain strings are facts and are not themselves copyrightable.
+However, the selection and arrangement of a list — what's in, what's out,
+what's grouped together — can carry a compilation copyright in some
+jurisdictions. The upstream projects chose MIT / BSD / CC0 for their lists,
+and this repository preserves those choices rather than trying to re-license
+them.

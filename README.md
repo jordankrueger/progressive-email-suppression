@@ -14,9 +14,9 @@ It's purely defensive. The list exists so you can *not* send mail to these domai
 
 ## Who put this together
 
-Curated by [Jordan Krueger](https://jordankrueger.com) — formerly at CREDO Action (the progressive advocacy arm of the CREDO brand, defunct as of January 2020), where I helped build the internal exclude list this repo is partly based on. Also one of the people who sketched out the "Blackhole Domains" feature in ActionKit back in the day. Now running [CampaignHelp](https://campaign.help), consulting for progressive advocacy orgs on IT and operations.
+Curated by [Jordan Krueger](https://jordankrueger.com) — operations consultant for progressive nonprofits and advocacy orgs, running [CampaignHelp](https://campaign.help). Nearly two decades in the progressive movement, and one of the people who sketched out the "Blackhole Domains" feature in ActionKit back in the day.
 
-Contributing sources are credited in [`sources.yaml`](sources.yaml) — Avaaz, the CREDO Action historical snapshot, and the big community disposable-email repos. Full attribution preserved.
+The list draws on two progressive advocacy orgs' historical internal exclude lists (shared years ago through a community spreadsheet), plus the big community-maintained disposable-email repos. Per-source provenance and licensing is in [`sources.yaml`](sources.yaml).
 
 ## What's in the list
 
@@ -25,8 +25,8 @@ Four files live in `data/`:
 | File | Size | What it is |
 |------|------|------------|
 | `combined.txt` | ~66k | The one most people want. Everything below, deduped. |
-| `credo.txt` | ~1.2k | The CREDO Action internal list (historical snapshot, circa 2019). |
-| `avaaz.txt` | ~4.4k | Avaaz's internal list (historical snapshot, heavily typo-derived). |
+| `historical-a.txt` | ~1.2k | Historical snapshot of an internal exclude list from a progressive advocacy org (circa 2019). |
+| `historical-b.txt` | ~4.4k | Historical snapshot of an internal exclude list from a second progressive advocacy org, heavily typo-derived. |
 | `typos.txt` | ~3.2k | Subset of combined that looks like typos of Gmail/Yahoo/Hotmail/iCloud/AOL/Outlook across TLDs. |
 
 All files are one-domain-per-line plain text, with a comment header.
@@ -61,11 +61,18 @@ If your org maintains an internal list you'd like to fold in, open an issue or P
 
 ## Licensing
 
-Released under [CC0 1.0](LICENSE) — public domain, no attribution required. Use it however helps your mission.
+Mixed-license compilation. Short version:
+
+- **This repository's original work** — build scripts, integration guides, docs, and the two historical snapshots contributed directly to this repo — is [CC0 1.0](LICENSE) (public domain, no attribution required).
+- **`data/combined.txt`** also folds in upstream community lists licensed under MIT (mailchecker), BSD 3-Clause (fakefilter), and CC0 (disposable-email-domains). Their original license texts are preserved in [`LICENSES/`](LICENSES/).
+
+If you redistribute `combined.txt`, carry the `LICENSES/` directory alongside it (or point consumers at the upstream sources in [`sources.yaml`](sources.yaml)).
+
+Individual domain strings are facts and aren't copyrightable on their own, but the *selection and arrangement* of a list can be — which is why we preserve each upstream's license rather than relicensing under CC0.
 
 ## How the list is built
 
-A [GitHub Action](.github/workflows/rebuild.yml) runs `scripts/build.py` nightly. The script reads local snapshots (from `sources/`) and fetches upstream community lists, normalizes every entry (lowercase, strip, validate), deduplicates, and writes the output files. If an upstream source is unavailable, the build soft-fails for that source and continues — the list never goes dark because one upstream went down.
+A [GitHub Action](.github/workflows/rebuild.yml) runs `scripts/build.py` nightly. The script reads the local historical snapshots (`sources/historical-a.txt`, `sources/historical-b.txt`) and fetches upstream community lists, normalizes every entry (lowercase, strip, punycode for IDNs, validate), deduplicates, and writes the output files. If an upstream source is unavailable, the build soft-fails for that source and continues — the list never goes dark because one upstream went down.
 
 To rebuild locally:
 
@@ -74,7 +81,7 @@ python3 scripts/build.py               # fetches upstream
 python3 scripts/build.py --no-fetch    # uses local snapshots only
 ```
 
-Requires `openpyxl` (`pip install openpyxl`).
+No dependencies — pure Python stdlib.
 
 ## Questions and known limits
 

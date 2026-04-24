@@ -38,6 +38,16 @@ For people already in AN whose email is on the suppression list, run a periodic 
 3. For each person whose email domain matches, PUT their record with `email_addresses[0].status = "unsubscribed"`
 4. Optionally add a tag for tracking
 
+**Use the `self` URL from the GET response, not a URL you construct.** Every AN resource returns a `_links.self.href` that is the canonical URL for updates — follow the hypermedia rather than building `/people/{numeric_id}`. AN's internal identifiers are UUIDs surfaced in `identifiers`, and their URL structure is not guaranteed to be stable. Example:
+
+```python
+# GET a page of people, then for each match:
+self_url = person["_links"]["self"]["href"]
+requests.put(self_url, headers=..., json={
+    "email_addresses": [{"address": person_email, "status": "unsubscribed"}]
+})
+```
+
 Valid `status` values per AN's docs: `subscribed`, `unsubscribed`, `bouncing`, `previous bounce`, `spam complaint`, `previous spam complaint`. Only `subscribed` and `unsubscribed` can be set by API callers — the others are system-managed.
 
 Throttle at 3-4 requests/sec and back off on 429s.

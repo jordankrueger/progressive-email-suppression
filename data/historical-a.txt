@@ -1,7 +1,7 @@
 # progressive-email-suppression — generated 2026-04-24
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: CC0 1.0 (public domain)
-# CREDO Action internal list, circa 2019 (1208 domains)
+# Historical internal exclude list from a progressive advocacy org, circa 2019 (1253 domains)
 000.net
 001.com
 017.net
@@ -83,6 +83,7 @@ aagmail.com
 aaim.com
 aal.com
 aatt.net
+abc.xn--d-fca6pd98f
 acol.com
 act.credoaction.com
 actblue.hackernun.com
@@ -102,6 +103,7 @@ aol.comail.com
 aol.community
 aol.pm
 aol.vc
+aol.xn--com-klae46h
 aol1.com
 aola.com
 aolc.com
@@ -246,6 +248,7 @@ cpdglaw.com.com
 cpmpuserve.com
 cpomcast.net
 cpox.net
+cs.xn--com1h-5qag41l
 cum.com
 cxenturylink.net
 cxomcast.net
@@ -402,6 +405,7 @@ gmagmail.com
 gmahil.com
 gmai.cm
 gmai.co
+gmai.xn--et-hea9qe46h
 gmai8l.com
 gmaial.com
 gmaidl.com
@@ -422,6 +426,16 @@ gmail.comcomcast.net
 gmail.coml.com
 gmail.mom
 gmail.uncc.edu
+gmail.xn--c2-piad98f
+gmail.xn--com-1ea8zf1507c
+gmail.xn--com-kha8of93j
+gmail.xn--com-klae46h
+gmail.xn--com-leaf27abfc16oda
+gmail.xn--com-tea80af1507c
+gmail.xn--com-tea80af93j
+gmail.xn--com1-7ea4duvbf6201f7kb
+gmail.xn--como-doaf1507c
+gmail.xn--om-mda9ue46h
 gmail0.com
 gmail27.com
 gmail8.com
@@ -558,6 +572,8 @@ hotmail.com.mx
 hotmail.comhotmail.com
 hotmail.comoo.com
 hotmail.o.uk
+hotmail.xn--co-yea9oe46h
+hotmail.xn--com-jga3tf93j
 hotmaila.com
 hotmailc.com
 hotmailco.uk
@@ -850,6 +866,7 @@ sbscglobal.net
 sc.rr.com.com
 sendmymailhere.com.com
 sequitur.com.com
+skewiswines.xn--com...-1ia35bfa
 soic.net
 sol.aol.com
 solarinsights.com.com
@@ -963,6 +980,7 @@ vverizon.net
 vwerizon.net
 vwrizon.net
 vyahoo.com
+wanadoo.xn--fr2-jlae0609b
 wavecable.com.com
 wcenturylink.net
 windsdtream.net
@@ -992,9 +1010,34 @@ www.hotmail.com
 www.trillianpro.com
 wyahoo.com
 xerizon.net
+xn--...eb-5qad62h737r.de
+xn--2iol-9naf93j.it
+xn--a3l-ilae46h.com
+xn--ao-jea9qe46h.com
+xn--ao-yea9oe46h.com
+xn--g...14ail-e2ah5157g.com
+xn--gail-bha70ag41l.com
+xn--gma-mfa3xf93j.com
+xn--gmai-eha70ag41l.cpm
+xn--gmai...-vwaf87jz71s.com
+xn--gmail-3fa9ozlha5fx3d.com
+xn--gmaio-6qag4705d.com
 xn--gmil-1na.com
+xn--gmil-rfa37aga4705dtbb.govs
+xn--gmx-yea8zf1507c.net
+xn--hotmai-8ja50bia46o.com
 xn--hotmal-fwa.com
+xn--htmail-3ja50bia4601f.com
+xn--mail-4ea4duvag67jz71s.it
+xn--mail-4fa55aga2405d.com
+xn--ox-mda9ue46h.net
+xn--t-online-boa35bka41s.de
+xn--veri...oon-94ai.net
 xn--yaho-nqa.com
+xn--yaho2-6qag41l.comvvv
+xn--yahoo-2fa86bha3303e.com
+xn--yahoo-2ka8vh3303e.com
+xn--yahoo-oia65aha98m.com
 xn--yhoo-0na.com
 xol.com
 xomxast.net
@@ -1085,6 +1128,8 @@ yahoo.lol
 yahoo.pa
 yahoo.sr
 yahoo.vo.uk
+yahoo.xn--co-yea9oe46h
+yahoo.xn--com...r-9ja80cga
 yahoo.xo.uk
 yahoo.yahoo.de
 yahoo0.com

@@ -1,7 +1,9 @@
 # progressive-email-suppression — generated 2026-04-24
 # Source: https://github.com/jordankrueger/progressive-email-suppression
-# License: CC0 1.0 (public domain)
-# 66113 domains (CREDO + Avaaz + upstream community lists)
+# License: mixed — see LICENSE and LICENSES/ in the source repo.
+# Compilation: CC0 1.0 where permissible; portions from
+# mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
+# 66158 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3787,6 +3789,7 @@ abbeyrose.info
 abboudsh.site
 abbuzz.com
 abc-payday-loans.co.uk
+abc.xn--d-fca6pd98f
 abc.yopmail.com
 abc1.ch
 abc1918.xyz
@@ -6117,6 +6120,7 @@ aol.pm
 aol.vc
 aol.vo.uk
 aol.vom
+aol.xn--com-klae46h
 aol.xom
 aol1.com
 aola.com
@@ -14749,6 +14753,7 @@ crystempens.site
 crystle.club
 cs-murzyn.pl
 cs.email
+cs.xn--com1h-5qag41l
 cs4h4nbou3xtbsn.cf
 cs4h4nbou3xtbsn.ga
 cs4h4nbou3xtbsn.gq
@@ -24409,6 +24414,7 @@ gmahil.com
 gmai.cm
 gmai.co
 gmai.com
+gmai.xn--et-hea9qe46h
 gmai1.kr
 gmai8l.com
 gmai9l.com
@@ -24518,6 +24524,16 @@ gmail.spymail.one
 gmail.uncc.edu
 gmail.vo.uk
 gmail.vom
+gmail.xn--c2-piad98f
+gmail.xn--com-1ea8zf1507c
+gmail.xn--com-kha8of93j
+gmail.xn--com-klae46h
+gmail.xn--com-leaf27abfc16oda
+gmail.xn--com-tea80af1507c
+gmail.xn--com-tea80af93j
+gmail.xn--com1-7ea4duvbf6201f7kb
+gmail.xn--como-doaf1507c
+gmail.xn--om-mda9ue46h
 gmail.xo.uk
 gmail.xom
 gmail.yopmail.fr
@@ -27724,6 +27740,8 @@ hotmail.vom
 hotmail.vom.ar
 hotmail.vom.br
 hotmail.work
+hotmail.xn--co-yea9oe46h
+hotmail.xn--com-jga3tf93j
 hotmail.xom
 hotmail.xom.ar
 hotmail.xom.br
@@ -52602,6 +52620,7 @@ skdl.de
 skedware.com
 skeefmail.com
 skeet.software
+skewiswines.xn--com...-1ia35bfa
 skg3qvpntq.cf
 skg3qvpntq.ga
 skg3qvpntq.ml
@@ -61366,6 +61385,7 @@ wanadoo.fr.fr
 wanadoo.frr
 wanadoo.rf
 wanadoo.se
+wanadoo.xn--fr2-jlae0609b
 wanadooo.es
 wanadooo.fr
 wanadoux.fr
@@ -63372,11 +63392,16 @@ xmule.gq
 xmule.ml
 xmuss.com
 xmxry.anonbox.net
+xn--...eb-5qad62h737r.de
+xn--2iol-9naf93j.it
 xn--42c9bsq2d4f7a2a.site
 xn--4dbceig1b7e.com
 xn--53h1310o.ws
 xn--80aabqk5atp.com
 xn--9kq967o.com
+xn--a3l-ilae46h.com
+xn--ao-jea9qe46h.com
+xn--ao-yea9oe46h.com
 xn--aufsteckbrsten-kaufen-hic.de
 xn--b-dga.vn
 xn--b1accdn5bheqm.site
@@ -63387,12 +63412,25 @@ xn--bei.ml
 xn--bei.tk
 xn--bluewn-7va.cf
 xn--d-bga.net
+xn--g...14ail-e2ah5157g.com
+xn--gail-bha70ag41l.com
+xn--gma-mfa3xf93j.com
+xn--gmai-eha70ag41l.cpm
+xn--gmai...-vwaf87jz71s.com
+xn--gmail-3fa9ozlha5fx3d.com
+xn--gmaio-6qag4705d.com
 xn--gmal-spa.cam
 xn--gmil-1na.com
+xn--gmil-rfa37aga4705dtbb.govs
+xn--gmx-yea8zf1507c.net
+xn--hotmai-8ja50bia46o.com
 xn--hotmal-fwa.com
+xn--htmail-3ja50bia4601f.com
 xn--iloveand-5z9m0a.gq
 xn--j6h.ml
 xn--kabeldurchfhrung-tzb.info
+xn--mail-4ea4duvag67jz71s.it
+xn--mail-4fa55aga2405d.com
 xn--mgbgvi3fi.com
 xn--mll-hoa.email
 xn--mllemail-65a.com
@@ -63400,12 +63438,19 @@ xn--mllmail-n2a.com
 xn--namnh-7ya4834c.net
 xn--odszkodowania-usugi-lgd.waw.pl
 xn--oi-jia8q.vn
+xn--ox-mda9ue46h.net
 xn--qei8618m9qa.ws
 xn--sd-pla.elk.pl
+xn--t-online-boa35bka41s.de
+xn--veri...oon-94ai.net
 xn--wkr.cf
 xn--wkr.gq
 xn--yaho-nqa.com
 xn--yaho-sqa.com
+xn--yaho2-6qag41l.comvvv
+xn--yahoo-2fa86bha3303e.com
+xn--yahoo-2ka8vh3303e.com
+xn--yahoo-oia65aha98m.com
 xn--yhoo-0na.com
 xn--z8hxwp135i.ws
 xne2jaw.pl
@@ -64208,6 +64253,8 @@ yahoo.vom.hk
 yahoo.vom.mx
 yahoo.vom.sg
 yahoo.vom.tw
+yahoo.xn--co-yea9oe46h
+yahoo.xn--com...r-9ja80cga
 yahoo.xo.uk
 yahoo.xom
 yahoo.xom.ar

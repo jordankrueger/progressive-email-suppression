@@ -10,15 +10,15 @@ ActionKit is the only major progressive ESP with a native domain-level exclusion
 - Blackholed Domains (domain-level exclusion — what this list targets)
 - Blackholed Patterns (regex patterns)
 
-Under the hood, matches are recorded in `core_blackholedhistory` and matched users get `subscription_status='blocked'` on `core_user`. AK's docs note there's a propagation delay — typically under 20 minutes — between adding a domain or pattern and the `subscription_status` actually updating for existing users.
+On many AK installs the match is recorded in a history table and the affected user's subscription status gets flipped to a blocked state — the exact table and column names are version-specific, so verify against your own schema before writing queries. What's consistent across installs is the behavior: AK's docs note there's a propagation delay — typically under 20 minutes — between adding a domain or pattern and existing users' subscription state actually updating.
 
 ## Loading this list
 
 Three paths, in order of preference:
 
-### 1. Ask the Walkers
+### 1. Ask the Walkers (ActionKit support)
 
-Best option today. Send ActionKit support the `combined.txt` file (or the raw URL) and ask them to bulk-import it into your instance's Blackholed Domains list. In our experience they'll do it — they just need a clean file.
+Best option today. Send ActionKit support ("the Walkers" in AK parlance) the `combined.txt` file (or the raw URL) and ask them to bulk-import it into your instance's Blackholed Domains list. In our experience they'll do it — they just need a clean file.
 
 A draft email template for this ask lives outside this repo in Jordan's local notes. If you want a copy, open an issue.
 

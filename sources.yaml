@@ -8,7 +8,7 @@ sources:
     kind: snapshot
     contributor: Jordan Krueger (original co-curator at CREDO Action)
     year_snapshot: 2019
-    path: sources/original-community-list.xlsx (sheet "CREDO")
+    path: sources/historical-a.txt
     license: community-shared, CC0 equivalent by Jordan's attestation
     notes: |
       Originally curated for CREDO Action's mailing program. CREDO Action
@@ -21,7 +21,7 @@ sources:
     kind: snapshot
     contributor: Avaaz (unknown individual)
     year_snapshot: 2020
-    path: sources/original-community-list.xlsx (sheet "Avaaz")
+    path: sources/historical-b.txt
     license: shared publicly in a community spreadsheet with an open "add your org" invitation
     notes: |
       Avaaz's list was largely typo-derived — misspellings of major email
@@ -32,6 +32,7 @@ sources:
     url: https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/master/disposable_email_blocklist.conf
     auto_fetch: true
     license: CC0-1.0
+    license_file: LICENSES/disposable-email-domains.CC0-1.0.txt
     notes: |
       The largest community-maintained list of disposable email services.
       Pulled nightly by the build script.
@@ -41,6 +42,7 @@ sources:
     url: https://raw.githubusercontent.com/FGRibreau/mailchecker/master/list.txt
     auto_fetch: true
     license: MIT
+    license_file: LICENSES/mailchecker.MIT.txt
     notes: |
       Another large, well-maintained disposable email provider list.
 
@@ -48,7 +50,8 @@ sources:
     kind: upstream_fetch
     url: https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt
     auto_fetch: true
-    license: MIT
+    license: BSD-3-Clause
+    license_file: LICENSES/fakefilter.BSD-3-Clause.txt
     notes: |
       Fake email provider filter — overlaps with the above but catches
       edge cases.
