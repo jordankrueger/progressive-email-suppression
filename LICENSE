@@ -1,5 +1,18 @@
-Progressive email suppression list — licensing summary
-=======================================================
+Progressive email suppression list — licensing
+==============================================
+
+TL;DR for campaigners
+---------------------
+Using this list inside your own org (loading it into your ESP, filtering
+signups, or whatever helps your mission) is free and requires no attribution.
+
+Republishing the list (mirroring the repo, posting combined.txt on your
+own site, bundling it into a product) is also fine. Please carry the
+LICENSES/ folder along with it so the upstream authors stay credited.
+
+That's it. The rest of this file is the details for anyone who wants them.
+
+---
 
 This repository is a mixed-license compilation. Read the short version first,
 then the details.
@@ -8,7 +21,7 @@ Short version
 -------------
 - The build scripts, integration guides, this repository's documentation,
   and the two historical advocacy-org snapshots contributed directly to
-  this repo are released under CC0 1.0 (public domain) — by the repository
+  this repo are released under CC0 1.0 (public domain), by the repository
   author and the original contributors' attestation.
 - The file `data/combined.txt` is a compilation that also includes entries
   pulled from upstream community lists licensed under MIT, BSD 3-Clause,
