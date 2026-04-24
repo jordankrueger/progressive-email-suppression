@@ -1,0 +1,21 @@
+# AI Code Review — progressive-email-suppression
+#
+# Defensive email-domain suppression list for progressive nonprofits. Will
+# go public on GitHub after Walkers review. No user data, no auth, no
+# payments — risk surface is domain-validation correctness, input
+# normalization, and license compliance when new upstream sources are added.
+
+project_context: |
+  Pure-Python (stdlib only) tool that builds a consolidated list of email
+  domains progressive orgs should suppress from their mailings. No runtime
+  service; nightly GitHub Action regenerates data/ files. Public-facing
+  repo (currently private until initial review complete). Mixed-license
+  compilation: CC0 for repo-originated content, MIT/BSD-3-Clause/CC0 for
+  upstream community lists preserved in LICENSES/.
+
+extra_checks:
+  - "Any changes to scripts/build.py — domain normalization, dedupe, IDNA handling. Flag if normalization can be bypassed or if upstream fetches can inject unvalidated data past the DOMAIN_RE gate."
+  - "License file changes — flag any rewording that could misrepresent the compound-license posture or drop attribution for MIT/BSD-3-Clause upstream (mailchecker, fakefilter)."
+  - "New upstream sources added to UPSTREAM_URLS — confirm LICENSES/ preserves the upstream license text and sources.yaml records the correct license string."
+  - "Keep the build pipeline pure stdlib — flag any new pip dependency since that breaks the workflow's no-install posture."
+  - "Allowlist awareness: until sources/allowlist.txt lands, major providers (gmail.com, yahoo.com, etc.) could in theory slip into combined.txt via a buggy upstream. Flag any change that weakens validation in that direction."

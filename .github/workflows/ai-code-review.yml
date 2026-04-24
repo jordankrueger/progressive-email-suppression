@@ -1,0 +1,339 @@
+# AI Code Review — Drop-in GitHub Actions Workflow
+#
+# Copy this file to any repo's .github/workflows/ directory.
+# Requires repo secrets: OPENAI_API_KEY, ANTHROPIC_API_KEY
+# GITHUB_TOKEN is provided automatically.
+#
+# Two parallel reviews run on every PR to main:
+#   1. OpenAI gpt-5.1-codex-mini — logic bugs, error handling, edge cases, data integrity
+#   2. Anthropic claude-code-security-review — security-specific checks
+#
+# Both must pass for the PR to merge (enforce via branch protection).
+
+name: AI Code Review
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+
+# Cancel in-progress runs for the same PR when new commits are pushed
+concurrency:
+  group: ai-review-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pull-requests: write
+  id-token: write
+
+jobs:
+  # ─── Job 1: OpenAI Logic Review ───────────────────────────────────
+  openai-review:
+    name: "OpenAI Logic Review"
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install openai pyyaml
+
+      - name: Run OpenAI review
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          python3 << 'REVIEW_SCRIPT'
+          import json
+          import os
+          import sys
+          import textwrap
+          import urllib.request
+          import yaml
+
+          from openai import OpenAI
+
+          # ── Config ──────────────────────────────────────────────────
+          GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
+          REPO = os.environ["REPO"]
+          PR_NUMBER = os.environ["PR_NUMBER"]
+          # Default model — override per-repo via .github/ai-review-config.yml
+          DEFAULT_MODEL = "gpt-5.1-codex-mini"
+          MAX_DIFF_CHARS = 350_000  # gpt-5-codex-mini has 400K context
+
+          # Files to skip (lockfiles, build artifacts, images, etc.)
+          SKIP_PATTERNS = [
+              "package-lock.json", "yarn.lock", "pnpm-lock.yaml", "bun.lockb",
+              ".min.js", ".min.css",
+              "dist/", "build/", ".next/", "out/", "node_modules/",
+              "__generated__/", "CHANGELOG",
+              ".png", ".jpg", ".jpeg", ".gif", ".svg", ".ico", ".woff", ".woff2",
+              ".ttf", ".eot", ".mp4", ".webm", ".mp3", ".pdf",
+          ]
+
+          # ── Load optional per-repo config ───────────────────────────
+          config = {}
+          config_path = ".github/ai-review-config.yml"
+          if os.path.exists(config_path):
+              with open(config_path) as f:
+                  config = yaml.safe_load(f) or {}
+
+          project_context = config.get("project_context", "")
+          extra_checks = config.get("extra_checks", [])
+          severity_threshold = config.get("severity_threshold", "important")
+          MODEL = config.get("model", DEFAULT_MODEL)
+
+          # ── GitHub API helper ───────────────────────────────────────
+          def gh_api(endpoint):
+              url = f"https://api.github.com{endpoint}"
+              req = urllib.request.Request(url, headers={
+                  "Authorization": f"token {GITHUB_TOKEN}",
+                  "Accept": "application/vnd.github.v3+json",
+              })
+              with urllib.request.urlopen(req) as resp:
+                  return json.loads(resp.read())
+
+          def gh_post(endpoint, data):
+              url = f"https://api.github.com{endpoint}"
+              body = json.dumps(data).encode()
+              req = urllib.request.Request(url, data=body, method="POST", headers={
+                  "Authorization": f"token {GITHUB_TOKEN}",
+                  "Accept": "application/vnd.github.v3+json",
+                  "Content-Type": "application/json",
+              })
+              with urllib.request.urlopen(req) as resp:
+                  return json.loads(resp.read())
+
+          # ── Fetch PR diff ───────────────────────────────────────────
+          def should_skip(filename):
+              for pattern in SKIP_PATTERNS:
+                  if pattern.startswith(".") and filename.endswith(pattern):
+                      return True
+                  if "/" in pattern and pattern.rstrip("/") in filename:
+                      return True
+                  if filename.endswith(pattern):
+                      return True
+              return False
+
+          print(f"Fetching files for PR #{PR_NUMBER}...")
+          files = gh_api(f"/repos/{REPO}/pulls/{PR_NUMBER}/files?per_page=100")
+
+          diff_parts = []
+          total_chars = 0
+          skipped = []
+
+          for f in files:
+              filename = f["filename"]
+              if should_skip(filename):
+                  skipped.append(filename)
+                  continue
+
+              patch = f.get("patch", "")
+              if not patch:
+                  continue
+
+              header = f"## {filename} ({f['status']}, +{f['additions']}/-{f['deletions']})"
+              part = f"{header}\n```diff\n{patch}\n```\n"
+
+              if total_chars + len(part) > MAX_DIFF_CHARS:
+                  diff_parts.append(f"\n[Diff truncated — {len(files) - len(diff_parts)} files omitted to stay within context limit]\n")
+                  break
+
+              diff_parts.append(part)
+              total_chars += len(part)
+
+          if not diff_parts:
+              print("No reviewable files in this PR. Skipping review.")
+              sys.exit(0)
+
+          diff_text = "\n".join(diff_parts)
+          if skipped:
+              print(f"Skipped {len(skipped)} files: {', '.join(skipped[:10])}{'...' if len(skipped) > 10 else ''}")
+          print(f"Reviewing {len(diff_parts)} files ({total_chars:,} chars of diff)...")
+
+          # ── Build review prompt ─────────────────────────────────────
+          extra_checks_text = ""
+          if extra_checks:
+              extra_checks_text = "\n\nAdditional project-specific checks:\n" + "\n".join(f"- {c}" for c in extra_checks)
+
+          context_text = ""
+          if project_context:
+              context_text = f"\n\nProject context: {project_context}"
+
+          prompt = textwrap.dedent(f"""\
+          You are a senior code reviewer. Review this pull request diff for issues.
+          Focus on problems that would cause bugs, data loss, or security vulnerabilities in production.
+          Do NOT comment on style, formatting, naming conventions, or missing documentation.
+          {context_text}
+
+          ## Review Categories
+
+          ### Security
+          - IDOR: every endpoint with an ID parameter has an ownership check
+          - Auth middleware covers all routes that need it
+          - No secrets in client-accessible code (check NEXT_PUBLIC_, VITE_, REACT_APP_ prefixes)
+          - Input validated at system boundaries
+          - No debug/dev/seed endpoints left active
+
+          ### Error Handling
+          - No silent error swallowing (every catch block does something useful)
+          - Promise.allSettled results are checked and failures logged
+          - External API calls have timeout and error handling
+          - User-facing errors are helpful without leaking internals
+
+          ### Data Integrity
+          - Database operations use transactions where needed
+          - Foreign key delete order is correct
+          - Concurrent access won't corrupt data
+          - No fetch-all-then-filter patterns
+
+          ### Logic
+          - Edge cases: empty inputs, null values, NaN from parseInt, negative numbers
+          - Type coercion bugs
+          - Off-by-one errors in pagination, slicing, date ranges
+          - Date handling: new Date("2026-02-31") silently rolls to March — validate parsed dates match input
+          {extra_checks_text}
+
+          ## Output Format
+
+          For each finding, output a JSON object on its own line:
+          {{"severity": "critical|important|minor", "file": "path/to/file.ts", "line": <number>, "message": "description of the issue"}}
+
+          If the line number is ambiguous, use the first line of the relevant hunk.
+
+          After all findings, output a summary line:
+          {{"summary": "Overall assessment in 1-2 sentences", "pass": true|false}}
+
+          Set pass=false if there are any critical or important findings.
+          Set pass=true if there are only minor findings or no findings.
+
+          If you find NO issues, output:
+          {{"summary": "No issues found. Code looks good.", "pass": true}}
+
+          Output ONLY valid JSON lines. No markdown, no commentary outside JSON.
+          """)
+
+          # ── Call OpenAI ─────────────────────────────────────────────
+          client = OpenAI()
+          print(f"Sending to {MODEL} for review...")
+
+          response = client.responses.create(
+              model=MODEL,
+              instructions=prompt,
+              input=f"Review this PR diff:\n\n{diff_text}",
+          )
+
+          review_text = response.output_text.strip()
+          print(f"Review complete. Parsing results...")
+
+          # ── Parse findings ──────────────────────────────────────────
+          findings = []
+          summary_obj = None
+
+          for line in review_text.split("\n"):
+              line = line.strip()
+              if not line:
+                  continue
+              try:
+                  obj = json.loads(line)
+                  if "summary" in obj:
+                      summary_obj = obj
+                  elif "severity" in obj:
+                      findings.append(obj)
+              except json.JSONDecodeError:
+                  continue
+
+          if not summary_obj:
+              summary_obj = {"summary": "Review completed.", "pass": len(findings) == 0}
+
+          # Apply severity threshold
+          severity_rank = {"critical": 3, "important": 2, "minor": 1}
+          threshold_rank = severity_rank.get(severity_threshold, 2)
+          blocking_findings = [f for f in findings if severity_rank.get(f.get("severity", "minor"), 1) >= threshold_rank]
+
+          # ── Post PR review ──────────────────────────────────────────
+          # Build review body
+          body_parts = [f"## AI Code Review ({MODEL})\n"]
+
+          if findings:
+              for f in findings:
+                  sev = f.get("severity", "unknown").upper()
+                  icon = {"CRITICAL": "🔴", "IMPORTANT": "🟡", "MINOR": "⚪"}.get(sev, "⚪")
+                  file_ref = f.get("file", "")
+                  line_ref = f.get("line", "")
+                  loc = f"{file_ref}:{line_ref}" if file_ref and line_ref else file_ref
+                  body_parts.append(f"{icon} **{sev}** `{loc}` — {f.get('message', '')}")
+          else:
+              body_parts.append("No issues found.")
+
+          body_parts.append(f"\n---\n**Summary:** {summary_obj['summary']}")
+          body_parts.append(f"**Result:** {'PASS' if summary_obj.get('pass', True) else 'FAIL — blocking findings detected'}")
+
+          if blocking_findings:
+              body_parts.append(f"\n_{len(blocking_findings)} finding(s) at or above '{severity_threshold}' threshold block this PR._")
+
+          review_body = "\n".join(body_parts)
+          event = "REQUEST_CHANGES" if blocking_findings else "COMMENT"
+
+          print(f"Posting review as {event}...")
+          gh_post(f"/repos/{REPO}/pulls/{PR_NUMBER}/reviews", {
+              "body": review_body,
+              "event": event,
+          })
+
+          print(f"Review posted: {len(findings)} finding(s), {len(blocking_findings)} blocking.")
+
+          if blocking_findings:
+              print("FAIL: Blocking findings detected.")
+              sys.exit(1)
+          else:
+              print("PASS: No blocking findings.")
+              sys.exit(0)
+          REVIEW_SCRIPT
+
+  # ─── Job 2: Anthropic Security Review ─────────────────────────────
+  anthropic-security-review:
+    name: "Anthropic Security Review"
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Claude security review
+        uses: anthropics/claude-code-action@main
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          direct_prompt: |
+            Review the changes in this PR for security vulnerabilities. Focus on:
+
+            1. Authentication and authorization gaps (IDOR, missing auth middleware)
+            2. Secrets or API keys exposed in client-accessible code
+            3. Input validation gaps at system boundaries
+            4. SQL injection, XSS, command injection, path traversal
+            5. Debug/dev/seed endpoints left active
+            6. Insecure cookie or session configuration
+            7. Missing rate limiting on auth endpoints
+            8. Predictable secrets or hardcoded credentials
+            9. Source maps enabled in production builds
+            10. Business logic flaws (privilege escalation, payment redirect)
+
+            For each finding, indicate severity (critical/important/minor) and the specific file and line.
+            If no security issues are found, say so clearly.
+
+          timeout_minutes: 8
