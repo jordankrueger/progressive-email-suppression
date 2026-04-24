@@ -59,17 +59,6 @@ If your org maintains an internal list you'd like to fold in, open an issue or P
 - Domains only (no local parts — `gmail.com`, not `abuse@gmail.com`)
 - Defensive in nature (domains *you* exclude from sends) — not a target list
 
-## Licensing
-
-Mixed-license compilation. Short version:
-
-- **This repository's original work** — build scripts, integration guides, docs, and the two historical snapshots contributed directly to this repo — is [CC0 1.0](LICENSE) (public domain, no attribution required).
-- **`data/combined.txt`** also folds in upstream community lists licensed under MIT (mailchecker), BSD 3-Clause (fakefilter), and CC0 (disposable-email-domains). Their original license texts are preserved in [`LICENSES/`](LICENSES/).
-
-If you redistribute `combined.txt`, carry the `LICENSES/` directory alongside it (or point consumers at the upstream sources in [`sources.yaml`](sources.yaml)).
-
-Individual domain strings are facts and aren't copyrightable on their own, but the *selection and arrangement* of a list can be — which is why we preserve each upstream's license rather than relicensing under CC0.
-
 ## How the list is built
 
 A [GitHub Action](.github/workflows/rebuild.yml) runs `scripts/build.py` nightly. The script reads the local historical snapshots (`sources/historical-a.txt`, `sources/historical-b.txt`) and fetches upstream community lists, normalizes every entry (lowercase, strip, punycode for IDNs, validate), deduplicates, and writes the output files. If an upstream source is unavailable, the build soft-fails for that source and continues — the list never goes dark because one upstream went down.
@@ -88,3 +77,21 @@ No dependencies — pure Python stdlib.
 - **This is not a threat feed.** For known malicious or phishing domains, use [URLhaus](https://urlhaus.abuse.ch/), [PhishTank](https://phishtank.org/), or [OpenPhish](https://openphish.com/). This list is about *mail you shouldn't bother sending*, not *domains that are attacking you*.
 - **Expect false positives on the typo list.** The typo-detection regex is intentionally aggressive. If you see a legitimate domain flagged, open an issue.
 - **Spamhaus DBL, SURBL, and URIBL are deliberately not included** — those are commercial licenses we can't redistribute. If your sending platform offers them as a paid add-on, use them alongside this list.
+
+## Licensing
+
+**If you're a campaigner just trying to use this list, here's all you need to know:**
+
+- **Using it inside your own org?** Go for it. Load `combined.txt` into your ESP, run your signup filters, use it however helps your mission. No cost, no paperwork, no attribution required.
+- **Republishing it?** (Mirroring the repo, posting `combined.txt` on your own site for others to download, bundling it into a product you ship.) Also fine — just carry the [`LICENSES/`](LICENSES/) folder along with it so the original authors of the upstream lists stay credited.
+
+That's really it. No lawyers needed for the common case.
+
+### The details, if you want them
+
+This repo is a mixed-license compilation:
+
+- Everything *this repo* creates — the build scripts, integration guides, docs, and the two progressive-advocacy-org historical snapshots contributed directly to this project — is released under [CC0 1.0](LICENSE) (public domain).
+- `data/combined.txt` also folds in upstream community lists under MIT ([mailchecker](https://github.com/FGRibreau/mailchecker)), BSD 3-Clause ([fakefilter](https://github.com/7c/fakefilter)), and CC0 ([disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains)). Their original license texts are preserved in [`LICENSES/`](LICENSES/).
+
+Individual domain strings are facts and aren't copyrightable on their own — but the *selection and arrangement* of a list can be, which is why we keep each upstream's license rather than relicensing the whole thing under CC0. Full breakdown in [LICENSE](LICENSE) and per-source provenance in [`sources.yaml`](sources.yaml).
