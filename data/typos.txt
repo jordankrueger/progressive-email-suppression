@@ -1,4 +1,4 @@
-# progressive-email-suppression — generated 2026-04-23
+# progressive-email-suppression — generated 2026-04-24
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: CC0 1.0 (public domain)
 # 3193 domains matching typosquat patterns of major providers

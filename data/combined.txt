@@ -1,7 +1,7 @@
-# progressive-email-suppression — generated 2026-04-23
+# progressive-email-suppression — generated 2026-04-24
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: CC0 1.0 (public domain)
-# 66106 domains (CREDO + Avaaz + upstream community lists)
+# 66113 domains (CREDO + Avaaz + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2694,7 +2694,6 @@
 6ugzob6xpyzwt.ml
 6ugzob6xpyzwt.tk
 6url.com
-6uydh.anonbox.net
 6v9haqno4e.cf
 6v9haqno4e.ga
 6v9haqno4e.gq
@@ -2937,6 +2936,7 @@
 7startruckdrivingschool.com
 7t6bp.anonbox.net
 7tags.com
+7texd.anonbox.net
 7thpeggroup.com
 7tiqqxsfmd2qx5.cf
 7tiqqxsfmd2qx5.ga
@@ -6534,6 +6534,8 @@ artemmel.info
 arteol.pl
 artflowerscorp.com
 artgmilos.de
+arthiq.life
+arthiq.world
 arthlink.net
 arthritisxpert.com
 arthurgerex.network
@@ -9863,7 +9865,6 @@ bm4e7.anonbox.net
 bm4gm.anonbox.net
 bm4zj.anonbox.net
 bm5.biz
-bm5.live
 bmail.com
 bmail.coom
 bmaker.net
@@ -10965,6 +10966,7 @@ bucqr.anonbox.net
 budakcinta.online
 buday.htsail.pl
 budaya-tionghoa.com
+budayasantri.com
 budayationghoa.com
 buddyfly.top
 budemeadows.com
@@ -15720,7 +15722,6 @@ dealsshack.com
 dealsway.org
 dealsyoga.com
 dealtern.site
-dealxin.com
 dealzing.info
 deapanendra.art
 deathfilm.com
@@ -18974,6 +18975,7 @@ elitokna.com
 elizabethlacio.com
 elizabethroberts.org
 elizabethscleanremedy.com
+eljawir.com
 elkgroveses.com
 elki-mkzn.ru
 elkomsa.net
@@ -19017,6 +19019,7 @@ elsetos.biz
 elsevierheritagecollection.org
 elsewhere.3amail.top
 elsexo.ru
+elsu.top
 elteh.me
 eltombis.pl
 elus.net
@@ -26009,6 +26012,7 @@ hactzayvgqfhpd.ml
 hactzayvgqfhpd.tk
 had.twoja-pozycja.biz
 hadal.net
+hadanu.us
 haddo.eu
 hadigel.net
 hadmins.com
@@ -43931,6 +43935,8 @@ optykslepvps.com
 optymalizacja.com.pl
 opude.com
 opulent-fx.com
+opus.my.id
+opusdei.web.id
 opusnet.com.au
 oputlook.com
 opwebw.com
@@ -45332,6 +45338,7 @@ pertera.com
 perthusedcars.co.uk
 pertinem.ml
 pertinenthersavira.net
+pertok.com
 peru-nedv.ru
 perutmules.buzz
 perverl.co.cc
@@ -52484,7 +52491,6 @@ sinorto.com
 sinportrhin.online
 sins.com
 sinsa12.com
-sinsize.org
 sintec.pl
 sinyago.com
 sinyomail.gq
@@ -53579,7 +53585,6 @@ specialkien.club
 specialkien.website
 specialkien.xyz
 specialmail.com
-specialmailmonster.online
 specialmassage.club
 specialmassage.fun
 specialmassage.online
@@ -61406,6 +61411,7 @@ wargot.ru
 warjungle.com
 warlus.asso.st
 warman.global
+warmeta.net
 warmnessgirl.com
 warmnessgirl.net
 warmthday.com
@@ -64873,6 +64879,7 @@ yougotgoated.com
 youiejfo03.com
 youinspiredfitness.com
 youinweb.xyz
+youk.biz.id
 youknowscafftowrsz.com
 youlike88box.com
 youlynx.com
