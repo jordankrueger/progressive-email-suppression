@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-04-24
+# progressive-email-suppression — generated 2026-04-25
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66158 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66166 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -9489,6 +9489,7 @@ bjimu.anonbox.net
 bjjj.ru
 bjmd.cf
 bjorn-frantzen.art
+bjorwi.store
 bjpkj.anonbox.net
 bjr3i.anonbox.net
 bjs-team.com
@@ -11374,7 +11375,6 @@ bx6r9q41bciv.ga
 bx6r9q41bciv.gq
 bx6r9q41bciv.ml
 bx6r9q41bciv.tk
-bx6sm.anonbox.net
 bx7rr.anonbox.net
 bx8.pl
 bx9puvmxfp5vdjzmk.cf
@@ -18956,6 +18956,7 @@ eli.hekko24.pl
 elia.com
 elifart.net
 eligou.store
+eliksir.foo
 elilogan.us
 elimam.org
 elinbox.com
@@ -19644,6 +19645,7 @@ enwi7gpptiqee5slpxt.tk
 enwsueicn.com
 eny.kr
 eo-z.com
+eobwz.anonbox.net
 eocoqoeoto.com
 eodfku.info
 eodocmdrof.com
@@ -21093,6 +21095,7 @@ faxjet.com
 faxzu.com
 faybe.anonbox.net
 faybetsy.com
+fayrozaa.shop
 faze.biz
 fazeclan.space
 fazendabrasil1.com
@@ -25319,6 +25322,7 @@ gpssport.com
 gpstrackerandroid.com
 gpstrackingreviews.net
 gptonesollution.live
+gptpluz2.shop
 gptpremapp.me
 gptworkone.dev
 gpwdrbqak.pl
@@ -28249,7 +28253,6 @@ huationgjk888.info
 hubglee.com
 hubhost.store
 hubii-network.com
-hubinfoai.com
 hubinstant.com
 hubmail.info
 hubopss.com
@@ -35675,6 +35678,7 @@ ludziepalikota.pl
 luewin.ch
 lueyonder.co.uk
 lufaf.com
+luffygadgets.com
 luggagetravelling.info
 luhman16.lavaweb.in
 luilkkgtq43q1a6mtl.cf
@@ -36634,6 +36638,7 @@ mailconect.info
 mailconn.com
 mailcontact.xyz
 mailcool45.us
+mailcuatoi.click
 mailcuk.com
 mailcupp.com
 mailcx.cf
@@ -38380,6 +38385,7 @@ merumart.com
 mervo.site
 merxo.me
 mesemails.fr.nf
+meser.cc
 mesotheliomasrates.ml
 mesrt.online
 mess-mails.fr.nf
@@ -40808,6 +40814,7 @@ narutogamesforum.xyz
 nasamdele.ru
 nascimento.com
 nash.ml
+nashapoultryshop.com
 nashvilledaybook.com
 nashvillestreettacos.com
 nasibasi.online
@@ -58016,6 +58023,7 @@ triad.rr.com.com
 triadelta.com
 trialforyou.com
 trialmail.de
+trialname.shop
 trialseparationtop.com
 tribesascendhackdownload.com
 tribonox79llr.tk
