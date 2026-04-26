@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-04-25
+# progressive-email-suppression — generated 2026-04-26
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66166 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66167 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4674,7 +4674,6 @@ ahmadidik.cf
 ahmadidik.ga
 ahmadidik.gq
 ahmadidik.ml
-ahmadmohsen2.shop
 ahmail.xyz
 ahmedkhlef.com
 ahoj.co.uk
@@ -8234,7 +8233,6 @@ bauchtanzkunst.info
 bauff.anonbox.net
 bauimail.ga
 baumhotels.de
-bauscn.com
 bauwerke-online.com
 baver.com
 baxidy.com
@@ -9489,7 +9487,9 @@ bjimu.anonbox.net
 bjjj.ru
 bjmd.cf
 bjorn-frantzen.art
+bjorwi.buzz
 bjorwi.store
+bjorwi.top
 bjpkj.anonbox.net
 bjr3i.anonbox.net
 bjs-team.com
@@ -11341,7 +11341,6 @@ bvoxsleeps.com
 bvqjwzeugmk.pl
 bvrs5.anonbox.net
 bvstj.anonbox.net
-bvttq.anonbox.net
 bvwtu.anonbox.net
 bvx3l.anonbox.net
 bvxay.anonbox.net
@@ -11872,6 +11871,7 @@ caosusaoviet.vn
 cap-or.com
 capatal.com
 capcud.shop
+capcut.buzz
 capcut.digital
 capcut.sbs
 capcut.team
@@ -15057,7 +15057,6 @@ cxcc.ml
 cxcc.tk
 cxenturylink.net
 cxmyal.com
-cxnlab.com
 cxoc.us
 cxomcast.net
 cxox.net
@@ -20613,7 +20612,6 @@ f53tuxm9btcr.gq
 f53tuxm9btcr.ml
 f53tuxm9btcr.tk
 f5foster.com
-f5url.com
 f6w0tu0skwdz.cf
 f6w0tu0skwdz.ga
 f6w0tu0skwdz.gq
@@ -21174,7 +21172,6 @@ fbeaveraqb.com
 fbf24.de
 fbfree.ml
 fbft.com
-fbfubao.com
 fbhive.com
 fbhotro.com
 fbi.coms.hk
@@ -26854,6 +26851,7 @@ hideweb.xyz
 hidezzdnc.com
 hidheadlightconversion.com
 hidingmail.com
+hidingmail.net
 hidjuhxanx9ga6afdia.cf
 hidjuhxanx9ga6afdia.ga
 hidjuhxanx9ga6afdia.gq
@@ -33560,6 +33558,7 @@ laboratortehnicadentara.ro
 laboriously.com
 laborstart.org
 labum.com
+labuncame.com
 labworld.org
 lacedmail.com
 lacercadecandi.ml
@@ -34521,7 +34520,6 @@ linuxmail.so
 linuxmail.tk
 linuxpl.eu
 linx.email
-linxues.com
 linyukaifa.com
 lioasdero.tk
 liocbrco.com
@@ -37479,6 +37477,7 @@ manifestgenerator.com
 manifietso.org
 maninblacktequila.com
 manipurbjp.org
+maniskan.com
 maniskata.online
 manitowc.com
 mankindmedia.com
@@ -43009,6 +43008,7 @@ odysseybuilders.com
 odzyskiwaniedanych.com
 odzywkidorzes.eu
 oe1f42q.com
+oehjk.anonbox.net
 oeioswn.com
 oekakies.com
 oelmjo.com
@@ -49353,7 +49353,6 @@ rh3qqqmfamt3ccdgfa.ga
 rh3qqqmfamt3ccdgfa.gq
 rh3qqqmfamt3ccdgfa.ml
 rh3qqqmfamt3ccdgfa.tk
-rhadryeir.com
 rhause.com
 rheank.com
 rheiop.com
@@ -55301,6 +55300,7 @@ takipcisatinal.shop
 takmailing.com
 takmemberi.cf
 takmemberi.gq
+tako.skin
 taktalk.net
 takuino.app
 takumipay.xyz
@@ -63201,6 +63201,7 @@ xedmi.com
 xeg.spymail.one
 xehop.org
 xeiex.com
+xelio.sbs
 xemaps.com
 xemkqxs.com
 xemne.com
