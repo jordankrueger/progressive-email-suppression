@@ -68,20 +68,7 @@ def normalize(raw: object) -> str | None:
     return d
 
 
-def read_list_file(path: Path) -> set[str]:
-    out = set()
-    for line in path.read_text(encoding="utf-8").splitlines():
-        line = line.split("#", 1)[0].strip()
-        d = normalize(line)
-        if d:
-            out.add(d)
-    return out
-
-
-def fetch_upstream(url: str, timeout: int = 20) -> set[str]:
-    req = urllib.request.Request(url, headers={"User-Agent": "progressive-email-suppression/0.1"})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        text = r.read().decode("utf-8", errors="replace")
+def _parse_lines(text: str) -> set[str]:
     out = set()
     for line in text.splitlines():
         line = line.split("#", 1)[0].strip()
@@ -89,6 +76,17 @@ def fetch_upstream(url: str, timeout: int = 20) -> set[str]:
         if d:
             out.add(d)
     return out
+
+
+def read_list_file(path: Path) -> set[str]:
+    return _parse_lines(path.read_text(encoding="utf-8"))
+
+
+def fetch_upstream(url: str, timeout: int = 20) -> set[str]:
+    req = urllib.request.Request(url, headers={"User-Agent": "progressive-email-suppression/0.1"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        text = r.read().decode("utf-8", errors="replace")
+    return _parse_lines(text)
 
 
 def classify_typo(domain: str) -> bool:
