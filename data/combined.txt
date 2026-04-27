@@ -3,7 +3,7 @@
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66170 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66169 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -47824,7 +47824,6 @@ qpi8iqrh8wtfpee3p.ml
 qpi8iqrh8wtfpee3p.tk
 qpptplypblyp052.cf
 qpulsa.com
-qq.com
 qq.my
 qq152.com
 qq163.com
