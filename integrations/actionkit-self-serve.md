@@ -80,6 +80,14 @@ Once the one-time setup above is done, importing is three clicks:
 
 A new run will appear in the list within a few seconds. Click it to watch progress, or come back in a few minutes.
 
+### Recommended for first-time runs: sanity-check first
+
+Before importing all 66k domains, do a small test run to confirm everything works:
+
+- **Dry-run first.** Check the **dry-run** box on the **Run workflow** form. Nothing gets POSTed; the log just shows the first 20 domains it *would* add. If that looks right, you know the credentials and connection are working.
+- **Then import a handful.** Set **limit** to `10` (instead of the default `0`) and run again. This adds 10 real entries — visible in **Mailings → List Hygiene → Blackhole** within seconds. If you see them, you're good to go.
+- **Then run the full import.** Run once more with **limit** back at `0` and **dry-run** unchecked. The first full run takes 30–60 minutes.
+
 ### What you'll see when it finishes
 
 A successful run looks like this in the workflow logs:

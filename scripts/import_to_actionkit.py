@@ -6,6 +6,10 @@ Reads credentials from environment variables:
     AK_USERNAME   ActionKit API username
     AK_PASSWORD   ActionKit API password
 
+Optional flags:
+    --dry-run     Don't POST anything; just show what would be added.
+    --limit N     Cap at N new domains (useful for first-time testing).
+
 Idempotent: pages through the existing Blackhole Domains list first and
 only POSTs domains that are not already present. Safe to re-run.
 
@@ -14,6 +18,7 @@ Stdlib only. Requires Python 3.9+.
 
 from __future__ import annotations
 
+import argparse
 import base64
 import json
 import os
@@ -107,6 +112,13 @@ def load_combined() -> list[str]:
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
+    parser.add_argument("--dry-run", action="store_true",
+                        help="Don't POST; just show what would be added.")
+    parser.add_argument("--limit", type=int, default=None,
+                        help="Stop after N new domains. Useful for first-time testing.")
+    args = parser.parse_args()
+
     instance = env_required("AK_INSTANCE").replace("https://", "").replace("http://", "").rstrip("/")
     username = env_required("AK_USERNAME")
     password = env_required("AK_PASSWORD")
@@ -129,6 +141,19 @@ def main() -> int:
     to_add = sorted(desired - existing)
     if not to_add:
         print("\n✓ Your instance is already up to date. Nothing to add.")
+        return 0
+
+    if args.limit is not None and args.limit < len(to_add):
+        print(f"\n[--limit {args.limit}] Capping at first {args.limit:,} of {len(to_add):,} new domains.")
+        to_add = to_add[:args.limit]
+
+    if args.dry_run:
+        print(f"\n[--dry-run] Would add {len(to_add):,} domain(s):")
+        for domain in to_add[:20]:
+            print(f"  + {domain}")
+        if len(to_add) > 20:
+            print(f"  ... and {len(to_add) - 20:,} more")
+        print("\nNo changes made. Drop --dry-run to actually POST.")
         return 0
 
     print(f"\nAdding {len(to_add):,} new domain(s)...\n")

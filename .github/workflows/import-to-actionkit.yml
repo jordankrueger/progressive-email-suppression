@@ -21,6 +21,14 @@ on:
         description: "Rebuild data/combined.txt from upstream sources before importing"
         type: boolean
         default: true
+      dry_run:
+        description: "Dry-run: show what would be added without POSTing anything"
+        type: boolean
+        default: false
+      limit:
+        description: "Cap at N new domains. Leave 0 for no limit. Use a small number (e.g. 10) for first-time sanity checks."
+        type: number
+        default: 0
 
 jobs:
   import:
@@ -58,4 +66,12 @@ jobs:
           AK_INSTANCE: ${{ secrets.AK_INSTANCE }}
           AK_USERNAME: ${{ secrets.AK_USERNAME }}
           AK_PASSWORD: ${{ secrets.AK_PASSWORD }}
-        run: python3 scripts/import_to_actionkit.py
+        run: |
+          flags=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            flags="$flags --dry-run"
+          fi
+          if [ "${{ inputs.limit }}" != "0" ]; then
+            flags="$flags --limit ${{ inputs.limit }}"
+          fi
+          python3 scripts/import_to_actionkit.py $flags
