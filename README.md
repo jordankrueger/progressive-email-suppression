@@ -1,8 +1,18 @@
 # Progressive email suppression list
 
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0%201.0-lightgrey.svg)](LICENSE)
+[![Nightly rebuild](https://github.com/jordankrueger/progressive-email-suppression/actions/workflows/rebuild.yml/badge.svg)](https://github.com/jordankrueger/progressive-email-suppression/actions/workflows/rebuild.yml)
+[![Last commit](https://img.shields.io/github/last-commit/jordankrueger/progressive-email-suppression)](https://github.com/jordankrueger/progressive-email-suppression/commits/main)
+[![Domains](https://img.shields.io/badge/domains-~66k-blue)](data/combined.txt)
+
 A regularly-updated list of email domains your org should skip when sending: disposable addresses, spam traps, and typos of providers like Gmail and Yahoo that never deliver mail.
 
-The current list is in [`data/combined.txt`](data/combined.txt), one domain per line, ready to load into most email platforms.
+**Quick links:**
+
+- **The list:** [`data/combined.txt`](data/combined.txt) — ~66k domains. Always-fresh raw URL: `https://raw.githubusercontent.com/jordankrueger/progressive-email-suppression/main/data/combined.txt`
+- **ActionKit users:** [self-serve import guide](integrations/actionkit-self-serve.md) — fork, set 3 secrets, click "Run workflow." 10 minutes, no code.
+- **Other platforms:** [`integrations/`](integrations/) — Action Network, EveryAction, Listmonk, more on the way.
+- **License:** CC0 1.0. Use it however your mission requires.
 
 ## Why this exists
 
