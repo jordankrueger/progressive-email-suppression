@@ -63,7 +63,13 @@ If your org maintains an internal list you'd like to fold in, open an issue or P
 
 A [GitHub Action](.github/workflows/rebuild.yml) runs `scripts/build.py` nightly. The script reads the local historical snapshots (`sources/historical-a.txt`, `sources/historical-b.txt`) and fetches upstream community lists, normalizes every entry (lowercase, strip, punycode for IDNs, validate), deduplicates, and writes the output files. If an upstream source is unavailable, the build soft-fails for that source and continues, so the list never goes dark because one upstream went down.
 
-To rebuild locally:
+### Major-provider safety net
+
+The build also strips a small allowlist of major email providers — Gmail, Outlook, Yahoo, iCloud, AOL, Proton, the big German/French/Russian/Chinese/Korean/Indian providers, plus Apple's `privaterelay.appleid.com` — out of every output file before writing. About 37 entries, listed in [`sources/allowlist.txt`](sources/allowlist.txt).
+
+This is defensive. If an upstream community list ever got vandalized and shipped `gmail.com` as a "bad" domain, the build silently drops it (with a stderr warning), and a self-test fails the build outright if any allowlisted domain leaks into output. By the time you read `combined.txt`, the filter has already run — nothing to do on your end.
+
+### Rebuilding locally
 
 ```bash
 python3 scripts/build.py               # fetches upstream
