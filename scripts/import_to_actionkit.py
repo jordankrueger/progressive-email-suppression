@@ -74,7 +74,7 @@ def http(method: str, url: str, headers: dict, body: dict | None = None,
     raise RuntimeError(f"Network error talking to ActionKit after {retries} attempts: {last_err}")
 
 
-def fetch_existing(base_url: str, instance: str, headers: dict) -> set[str]:
+def fetch_existing(instance: str, headers: dict) -> set[str]:
     """Page through GET /blackholeddomain/ and return all existing domains."""
     seen: set[str] = set()
     next_path = f"/rest/v1/blackholeddomain/?_limit={PAGE_SIZE}"
@@ -100,14 +100,14 @@ def fetch_existing(base_url: str, instance: str, headers: dict) -> set[str]:
     return seen
 
 
-def load_combined() -> list[str]:
+def load_combined() -> set[str]:
     if not COMBINED.exists():
         sys.exit(f"ERROR: {COMBINED} not found. Run scripts/build.py first.")
-    out: list[str] = []
+    out: set[str] = set()
     for line in COMBINED.read_text(encoding="utf-8").splitlines():
         line = line.split("#", 1)[0].strip().lower()
         if line:
-            out.append(line)
+            out.add(line)
     return out
 
 
@@ -123,19 +123,17 @@ def main() -> int:
     username = env_required("AK_USERNAME")
     password = env_required("AK_PASSWORD")
 
-    base_url = f"https://{instance}/rest/v1"
     headers = {
         "Authorization": basic_auth(username, password),
         "Accept": "application/json",
         "User-Agent": "progressive-email-suppression/1.0 (+https://github.com/jordankrueger/progressive-email-suppression)",
     }
 
-    domains = load_combined()
-    desired = set(domains)
+    desired = load_combined()
     print(f"Loaded {len(desired):,} domains from data/combined.txt")
     print(f"Connecting to {instance} as {username}...")
 
-    existing = fetch_existing(base_url, instance, headers)
+    existing = fetch_existing(instance, headers)
     print(f"Found {len(existing):,} domains already in your Blackhole list")
 
     to_add = sorted(desired - existing)
@@ -161,7 +159,7 @@ def main() -> int:
     failed = 0
     failures: list[tuple[str, int, str]] = []
     for i, domain in enumerate(to_add, start=1):
-        status, body = http("POST", f"{base_url}/blackholeddomain/", headers, {"domain": domain})
+        status, body = http("POST", f"https://{instance}/rest/v1/blackholeddomain/", headers, {"domain": domain})
         if 200 <= status < 300:
             added += 1
         else:
@@ -174,7 +172,7 @@ def main() -> int:
     print(f"\nDone. {added:,} added, {failed:,} failed.")
 
     if failures:
-        print("\nFirst 10 failures (out of {}):".format(len(failures)))
+        print(f"\nFirst 10 failures (out of {len(failures)}):")
         for d, s, b in failures[:10]:
             print(f"  {d}  HTTP {s}  {b}")
         return 1
