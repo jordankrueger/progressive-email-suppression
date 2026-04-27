@@ -1,6 +1,6 @@
 # ActionKit
 
-ActionKit is the only major progressive ESP with a native domain-level exclusion feature — they call it **Blackhole Domains**. Good news. The less-good news: bulk import isn't documented as self-serve.
+ActionKit is the only major progressive ESP with a native domain-level exclusion feature — they call it **Blackhole Domains**.
 
 ## The feature
 
@@ -14,47 +14,33 @@ On many AK installs the match is recorded in a history table and the affected us
 
 ## Loading this list
 
-Three paths, in order of preference:
+### Recommended: self-serve via GitHub Actions
 
-### 1. Ask the Walkers (ActionKit support)
+**👉 Step-by-step guide: [actionkit-self-serve.md](./actionkit-self-serve.md)**
 
-Best option today. Send ActionKit support ("the Walkers" in AK parlance) the `combined.txt` file (or the raw URL) and ask them to bulk-import it into your instance's Blackholed Domains list. In our experience they'll do it — they just need a clean file.
+The short version: fork this repo, add three secrets (`AK_INSTANCE`, `AK_USERNAME`, `AK_PASSWORD`), and click "Run workflow." Your credentials live only in your fork's encrypted secret store; the workflow runs on GitHub's servers and talks directly to your AK instance. Idempotent — safe to re-run.
 
-A draft email template for this ask lives outside this repo in Jordan's local notes. If you want a copy, open an issue.
+Designed to work without writing any code. About 10 minutes the first time, 30 seconds after that.
 
-### 2. Paste via UI (small additions only)
+### Alternative: run the import script locally
 
-For a handful of domains, the UI works fine. For thousands, don't. This exists as a reality check, not a recommendation.
+If you'd rather not put credentials in GitHub, `scripts/import_to_actionkit.py` runs anywhere with Python 3.9+ and stdlib only. Set `AK_INSTANCE`, `AK_USERNAME`, `AK_PASSWORD` as environment variables and run it.
 
-### 3. API (possibly available, undocumented)
+### Alternative: paste via UI (handful of domains only)
 
-There's an unconfirmed reference suggesting AK added API support for blackhole domain management in a past release, but the ActionKit REST API docs don't list such an endpoint. If the endpoint exists in your instance, a loop like this might work:
+For a small number of additions, ActionKit's UI works fine. For thousands, don't. This exists as a reality check, not a recommendation.
 
-```python
-# Hypothetical — confirm endpoint exists and verify payload shape
-# with AK support (the Walkers) before running at scale
-import requests
+## API reference
 
-TOKEN = "your-ak-api-token"
-BASE = "https://yourinstance.actionkit.com/rest/v1"
+The script and workflow above use the documented `/rest/v1/blackholeddomain/` endpoint. If you want to build your own integration:
 
-with open("combined.txt") as f:
-    domains = [line.strip() for line in f if line.strip() and not line.startswith("#")]
+- `GET /rest/v1/blackholeddomain/` — list current entries (paginated; use `_limit=` and follow `meta.next`)
+- `POST /rest/v1/blackholeddomain/` — add a domain. Body: `{"domain": "example.com"}`
+- `GET /rest/v1/blackholeddomain/schema/` — column names and filter options for your specific AK version
+- `GET /rest/v1/` — full list of supported REST resources
 
-for d in domains:
-    r = requests.post(
-        f"{BASE}/blackholed_domain/",
-        auth=("username", TOKEN),
-        json={"domain": d},
-    )
-    if not r.ok:
-        print(f"{d}: {r.status_code} {r.text}")
-```
-
-The endpoint name and payload shape are guesses based on AK's REST naming patterns, not a verified contract. Confirm with the Walkers first.
+Authentication is HTTP Basic with your AK API username and password.
 
 ## Keeping it fresh
 
-Once the initial bulk import is done, a quarterly refresh is usually enough. This repo rebuilds nightly, but AK's exclusion list doesn't need to stay that fresh — the rate of net-new bad domains is slow.
-
-A light automated approach: a GitHub Action or n8n workflow that fetches `combined.txt` quarterly, diffs against the last run, and POSTs only the new additions to AK (if the API is available) or emails a fresh delta file to the Walkers.
+Once the initial bulk import is done, a quarterly refresh is usually enough. This repo rebuilds nightly, but AK's exclusion list doesn't need to stay that fresh — the rate of net-new bad domains is slow. Just re-run the workflow with **rebuild first** checked.
