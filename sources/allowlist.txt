@@ -1,0 +1,79 @@
+# Top global email providers — MUST NEVER appear in suppression output.
+# Filtered out of every data/*.txt file by build.py, regardless of what
+# upstream feeds claim. This is a safety net against upstream feed poisoning
+# or malicious commits in community lists ever shipping a major provider as
+# a "bad" domain.
+#
+# Selection criteria: providers with hundreds of millions of active users,
+# OR dominant provider in a major market. Not exhaustive on country TLD
+# variants — only the high-volume ones included.
+#
+# Reviewed: 2026-04-27. Re-review annually.
+
+# Google
+gmail.com
+googlemail.com
+
+# Microsoft (Outlook / Hotmail / Live / MSN)
+outlook.com
+hotmail.com
+live.com
+msn.com
+hotmail.co.uk
+hotmail.fr
+hotmail.de
+outlook.co.uk
+outlook.fr
+outlook.de
+
+# Yahoo (global + major country variants)
+yahoo.com
+ymail.com
+rocketmail.com
+yahoo.co.uk
+yahoo.ca
+yahoo.com.au
+yahoo.co.jp
+yahoo.co.in
+
+# Apple
+icloud.com
+me.com
+mac.com
+privaterelay.appleid.com
+
+# AOL
+aol.com
+
+# Proton
+proton.me
+protonmail.com
+
+# German market (United Internet group + others)
+gmx.com
+gmx.de
+gmx.net
+web.de
+t-online.de
+
+# French market
+orange.fr
+laposte.net
+free.fr
+
+# Russian market
+mail.ru
+yandex.ru
+yandex.com
+
+# Chinese market
+qq.com
+163.com
+126.com
+
+# Korean market
+naver.com
+hanmail.net
+
+# Indian market
+rediffmail.com

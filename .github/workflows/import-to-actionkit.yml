@@ -1,0 +1,61 @@
+name: Import to ActionKit
+
+# Imports data/combined.txt into your ActionKit instance's Blackhole Domains
+# list, using the documented /rest/v1/blackholeddomain/ API endpoint.
+#
+# Run from your fork: Actions tab → "Import to ActionKit" → "Run workflow".
+# Idempotent — safe to re-run; skips domains that are already in the list.
+#
+# Required repository secrets (Settings → Secrets and variables → Actions):
+#   AK_INSTANCE   Your AK hostname only, e.g. "yourorg.actionkit.com"
+#                 (no https://, no trailing slash, no path)
+#   AK_USERNAME   Your ActionKit API username
+#   AK_PASSWORD   Your ActionKit API password
+#
+# See integrations/actionkit-self-serve.md for the full step-by-step guide.
+
+on:
+  workflow_dispatch:
+    inputs:
+      rebuild_first:
+        description: "Rebuild data/combined.txt from upstream sources before importing"
+        type: boolean
+        default: true
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify required secrets are set
+        env:
+          AK_INSTANCE: ${{ secrets.AK_INSTANCE }}
+          AK_USERNAME: ${{ secrets.AK_USERNAME }}
+          AK_PASSWORD: ${{ secrets.AK_PASSWORD }}
+        run: |
+          missing=""
+          [ -z "$AK_INSTANCE" ] && missing="$missing AK_INSTANCE"
+          [ -z "$AK_USERNAME" ] && missing="$missing AK_USERNAME"
+          [ -z "$AK_PASSWORD" ] && missing="$missing AK_PASSWORD"
+          if [ -n "$missing" ]; then
+            echo "::error::Missing required repository secret(s):$missing"
+            echo "Add them under Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+          echo "All required secrets are present."
+
+      - name: Rebuild data/combined.txt
+        if: ${{ inputs.rebuild_first }}
+        run: python3 scripts/build.py
+
+      - name: Import to ActionKit
+        env:
+          AK_INSTANCE: ${{ secrets.AK_INSTANCE }}
+          AK_USERNAME: ${{ secrets.AK_USERNAME }}
+          AK_PASSWORD: ${{ secrets.AK_PASSWORD }}
+        run: python3 scripts/import_to_actionkit.py

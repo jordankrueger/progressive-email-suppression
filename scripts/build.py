@@ -23,6 +23,8 @@ SNAPSHOTS = {
     "historical_b": SOURCES_DIR / "historical-b.txt",
 }
 
+ALLOWLIST_FILE = SOURCES_DIR / "allowlist.txt"
+
 UPSTREAM_URLS = {
     "disposable-email-domains": (
         "https://raw.githubusercontent.com/disposable-email-domains/"
@@ -101,6 +103,13 @@ def write_list(path: Path, domains: set[str], header: str) -> None:
 def build(fetch: bool = True) -> dict[str, int]:
     historical_a = read_list_file(SNAPSHOTS["historical_a"])
     historical_b = read_list_file(SNAPSHOTS["historical_b"])
+    allowlist = read_list_file(ALLOWLIST_FILE)
+
+    # Apply the allowlist to the historical snapshots first, so the
+    # per-source output files also exclude major providers if any ever
+    # slipped in.
+    historical_a -= allowlist
+    historical_b -= allowlist
 
     combined = historical_a | historical_b
 
@@ -114,6 +123,18 @@ def build(fetch: bool = True) -> dict[str, int]:
             except Exception as e:  # noqa: BLE001 — soft-fail on network errors
                 print(f"[warn] skipping {name}: {e}", file=sys.stderr)
                 upstream_summary[name] = -1
+
+    # Strip the allowlist from the merged output. This is the safety net
+    # that protects against upstream feed poisoning ever shipping a major
+    # provider as a "bad" domain.
+    poisoned = combined & allowlist
+    combined -= allowlist
+    if poisoned:
+        print(
+            f"[allowlist] blocked {len(poisoned)} major-provider domain(s) "
+            f"from output: {sorted(poisoned)}",
+            file=sys.stderr,
+        )
 
     typos = {d for d in combined if classify_typo(d)}
 
@@ -139,6 +160,17 @@ def build(fetch: bool = True) -> dict[str, int]:
                f"{cc0_stamp}\n# Historical internal exclude list from a second progressive advocacy org ({len(historical_b)} domains)")
     write_list(DATA_DIR / "typos.txt", typos,
                f"{mixed_stamp}\n# {len(typos)} domains matching typosquat patterns of major providers")
+
+    # Belt-and-suspenders: re-read every output file and assert no
+    # allowlisted domain made it through. Fail the build loudly if it did.
+    for path in (DATA_DIR / "combined.txt", DATA_DIR / "historical-a.txt",
+                 DATA_DIR / "historical-b.txt", DATA_DIR / "typos.txt"):
+        leaked = read_list_file(path) & allowlist
+        if leaked:
+            raise RuntimeError(
+                f"allowlist leak in {path.name}: {sorted(leaked)} — "
+                f"this should be impossible; investigate before publishing"
+            )
 
     return {
         "combined": len(combined),

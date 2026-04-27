@@ -1,7 +1,7 @@
 # progressive-email-suppression — generated 2026-04-27
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: CC0 1.0 (public domain)
-# Historical internal exclude list from a second progressive advocacy org (4400 domains)
+# Historical internal exclude list from a second progressive advocacy org (4399 domains)
 0-mail.com
 00hotmail.com
 0clickemail.com
@@ -2919,7 +2919,6 @@ qasti.com
 qisdo.com
 qisoa.com
 qoika.com
-qq.com
 quickinbox.com
 quickmail.nl
 r.com
