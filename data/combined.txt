@@ -3,7 +3,7 @@
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66169 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66182 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -9486,8 +9486,10 @@ bjgpond.com
 bjimu.anonbox.net
 bjjj.ru
 bjmd.cf
+bjork.wtf
 bjorn-frantzen.art
 bjorwi.buzz
+bjorwi.rest
 bjorwi.store
 bjorwi.top
 bjpkj.anonbox.net
@@ -9884,6 +9886,7 @@ bmoar.com
 bmonlinebanking.com
 bmpk.org
 bmsojon4d.pl
+bmst4.anonbox.net
 bmsus.anonbox.net
 bmtx47.com
 bmuss.com
@@ -10662,7 +10665,6 @@ brfw.com
 brgo.ru
 brgrid.com
 briandbry.us
-bribw.anonbox.net
 brickoll.tk
 brickrodeosteam.org
 bricomedical.info
@@ -11703,6 +11705,7 @@ callthegymguy.top
 callwer.com
 calmgatot.net
 calmpros.com
+calmriver.info
 calnam.com
 caloriecloaks.com
 caloriesandwghtlift.co.uk
@@ -11878,8 +11881,8 @@ capcut.team
 capcuter.com
 capcutgw.cfd
 capcutisme.app
-capcutisme.com
 capcutku.app
+capcutku.cc
 capcutku.com
 capcutku.io
 capcutmeflo.shop
@@ -13390,6 +13393,7 @@ cleantalkorg5.ru
 cleanzieofficial.online
 clear-code.ru
 clearancebooth.com
+clearbeam.pro
 clearcutcreative.com
 clearmail.online
 clearwaterarizona.com
@@ -15739,6 +15743,7 @@ debbiecynthiadewi.art
 debbykristy.art
 deboa.tk
 debonnehumeur.com
+deborahat.web.id
 deborahosullivan.com
 debruler.dynamailbox.com
 debsbluemoon.com
@@ -19643,6 +19648,7 @@ enwi7gpptiqee5slpxt.ml
 enwi7gpptiqee5slpxt.tk
 enwsueicn.com
 eny.kr
+enyashan.cfd
 eo-z.com
 eobwz.anonbox.net
 eocoqoeoto.com
@@ -22822,6 +22828,7 @@ frost2d.net
 frostmail.fr.nf
 frostmail.site
 frostyonpoint.site
+frostypeak.info
 frotier.com
 frountiernet.net
 frouse.ru
@@ -23827,6 +23834,7 @@ getcatstuff.site
 getchina.ru
 getcleanskin.info
 getcode1.com
+getcodeig.com
 getcoolmail.info
 getcoolstufffree.com
 getcraftbeersolutions.com
@@ -30694,6 +30702,7 @@ jack762.info
 jackaoutlet.com
 jackets-monclers-sale.com
 jacketwarm.com
+jackkz.sbs
 jackleg.info
 jackmailer.com
 jackopmail.tk
@@ -39829,7 +39838,6 @@ muamuawrtcxv7.gq
 muamuawrtcxv7.ml
 muamuawrtcxv7.tk
 muataikhoan.info
-muateledrop3.asia
 muathegame.com
 muaviagiare.com
 mucate.com
@@ -39937,6 +39945,7 @@ murattomruk.com
 murticans.com
 mus-max.info
 mus.email
+musashi.biz.id
 musclebuilding.club
 musclefactorxreviewfacts.com
 musclemailbox.com
@@ -41251,6 +41260,7 @@ nethermon4ik.ru
 nethers.store
 nethotmail.com
 nethubmail.net
+nethubmail.org
 netins.net.net
 netinta.com
 netjex.xyz
@@ -41575,6 +41585,7 @@ ng9rcmxkhbpnvn4jis.tk
 ngab.email
 ngancuk.online
 ngaydi.xyz
+ngelead.eu.org
 ngem.net
 ngeme.me
 ngemusic.academy
@@ -46469,7 +46480,6 @@ ppc-e.com
 ppcc.lol
 ppcmedia.co
 ppdf.cc
-pperspe.com
 ppetw.com
 ppgu8mqxrmjebc.ga
 ppgu8mqxrmjebc.gq
@@ -51027,6 +51037,7 @@ saynotospams.com
 sayonara.gq
 sayonara.ml
 saytren.tk
+sayverfox.com
 sayweee.tech
 sayyesyes.com
 saza.ga
@@ -56122,6 +56133,7 @@ ten.pl
 tend.favbat.com
 tenesu.tk
 tenet.gr
+tenhepe.tech
 tenhub.uk
 tennesseeinssaver.com
 tennisan.ru
@@ -56839,6 +56851,7 @@ tic.ec
 ticaipm.com
 ticali.co.uk
 ticali.it
+tichxanhabc.com
 ticket-please.ga
 ticketb.com
 ticketkick.com
@@ -61455,6 +61468,7 @@ waroengku.cfd
 waroengku.digital
 waroengkuy.com
 waroengmail.app
+waroengmail.com
 waroengpremium.com
 waroengpt.com
 waroengto.my.id
@@ -62603,7 +62617,6 @@ worktogetherbetter.com
 world-many.ru
 world-travel.online
 worldatnet.com
-worldbaseai.com
 worlddonation.org
 worldfridge.com
 worldfxza.com

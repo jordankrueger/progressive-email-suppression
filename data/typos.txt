@@ -3,7 +3,7 @@
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 3193 domains matching typosquat patterns of major providers
+# 3194 domains matching typosquat patterns of major providers
 0-mail.com
 000email.com
 001gmail.com
@@ -2954,6 +2954,7 @@ vyahoo.com
 w3mailbox.com
 w6mail.com
 wadzinski59.dynamailbox.com
+waroengmail.com
 wbfre2956mails.com
 web-mail1.com
 web-maill.com
