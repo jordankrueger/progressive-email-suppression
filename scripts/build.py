@@ -161,14 +161,20 @@ def build(fetch: bool = True) -> dict[str, int]:
     write_list(DATA_DIR / "typos.txt", typos,
                f"{mixed_stamp}\n# {len(typos)} domains matching typosquat patterns of major providers")
 
-    # Belt-and-suspenders: re-read every output file and assert no
-    # allowlisted domain made it through. Fail the build loudly if it did.
-    for path in (DATA_DIR / "combined.txt", DATA_DIR / "historical-a.txt",
-                 DATA_DIR / "historical-b.txt", DATA_DIR / "typos.txt"):
-        leaked = read_list_file(path) & allowlist
+    # Belt-and-suspenders: assert no allowlisted domain made it through any
+    # of the in-memory sets we just wrote. Checking in-memory is sufficient
+    # (write_list writes exactly the set we pass) and avoids re-parsing four
+    # 66k-domain files from disk.
+    for label, domain_set in (
+        ("combined.txt", combined),
+        ("historical-a.txt", historical_a),
+        ("historical-b.txt", historical_b),
+        ("typos.txt", typos),
+    ):
+        leaked = domain_set & allowlist
         if leaked:
             raise RuntimeError(
-                f"allowlist leak in {path.name}: {sorted(leaked)} — "
+                f"allowlist leak in {label}: {sorted(leaked)} — "
                 f"this should be impossible; investigate before publishing"
             )
 
