@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-04-28
+# progressive-email-suppression — generated 2026-04-29
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 3194 domains matching typosquat patterns of major providers
+# 3193 domains matching typosquat patterns of major providers
 0-mail.com
 000email.com
 001gmail.com
@@ -1380,7 +1380,6 @@ fivermail.com
 fizmail.com
 fkfgmailer.com
 flemail.com
-flyymail.com
 fmailxc.com
 fmgmail.com
 fnmail.com

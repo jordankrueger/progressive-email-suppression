@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-04-28
+# progressive-email-suppression — generated 2026-04-29
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66182 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66183 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -9486,6 +9486,7 @@ bjgpond.com
 bjimu.anonbox.net
 bjjj.ru
 bjmd.cf
+bjork.rest
 bjork.wtf
 bjorn-frantzen.art
 bjorwi.buzz
@@ -11668,6 +11669,7 @@ cajacket.com
 cajyre.xyz
 cakdays.com
 cake99.ml
+cakecaine.biz.id
 cakemayor.com
 cakeonline.ru
 cakesrecipesbook.com
@@ -15592,6 +15594,7 @@ dbawgrvxewgn3.gq
 dbawgrvxewgn3.ml
 dbawgrvxewgn3.tk
 dbdrainagenottingham.co.uk
+dblft.anonbox.net
 dbmaail.com
 dbmai.com
 dbmaiil.com
@@ -22103,7 +22106,6 @@ flyspam.com
 flyvisa.ir
 flywaverun.com
 flyxnet.pw
-flyymail.com
 flyzy.net
 fm.cloudns.nz
 fm365.com
@@ -22345,7 +22347,6 @@ fotonmail.com
 fotoplik.pl
 fotorezensionen.info
 fouadps.cf
-fouae.anonbox.net
 fouddas.gr
 foundationbay.com
 foundents.site
@@ -30125,7 +30126,6 @@ ipaddlez.info
 ipaddressforme.com
 ipadhd3.co
 ipadzzz.com
-ipahive.org
 ipalexis.site
 ipan.info
 ipark.pl
@@ -32517,6 +32517,7 @@ kiabws.online
 kiani.com
 kibristime.com
 kibwot.com
+kicaw.web.id
 kickers-world.be
 kickers.online
 kickit.ga
@@ -33829,7 +33830,6 @@ laud.net
 laudmed.com
 laugh.favbat.com
 launchjackings.com
-lauramiehillhomestead.com
 laurelmountainmustang.com
 laurenbt.com
 laurenscoaching.com
@@ -37301,6 +37301,7 @@ mailzi.ru
 mailzilla.com
 mailzilla.org
 mailzilla.orgmbx.cc
+mailzone38.click
 mailzxc.pl
 mailzy.org
 maimobis.com
@@ -37348,6 +37349,7 @@ majorsww.com
 majuteruslah.com
 makaor.com
 makasarpost.cf
+makbisah.site
 make-bootable-disks.com
 make.marksypark.com
 make.ploooop.com
@@ -41663,7 +41665,6 @@ nhs0armheivn.ml
 nhs0armheivn.tk
 nhserr.com
 nhtlaih.com
-nhuchienthang.com
 nhumaitravel.com
 nhungdang.xyz
 nhuthi.design
@@ -51487,6 +51488,7 @@ securox.com
 sedapetnya.guru
 sedasagreen01try.tk
 sedateviana.io
+sedekah-mudah.com
 sedexo.com
 sedric.ru
 seduck.com
@@ -54509,7 +54511,6 @@ sudoworld.net
 sudurr.mobi
 suedcore.com
 suepbergoyang.xyz
-sueplali.xyz
 suerig.com.br
 sueshaw.com
 suexamplesb.com
