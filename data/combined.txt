@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-04-29
+# progressive-email-suppression — generated 2026-04-30
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66183 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66178 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4318,6 +4318,7 @@ advantimal.com
 advantimals.com
 advantimo.com
 advarm.com
+advavel.com
 advdesignss.info
 adventurewe.us
 adventwe.us
@@ -5830,7 +5831,6 @@ angelsoflahore.com
 angesti.tech
 angielski.edu
 angielskie.synonimy.com
-angieplease.com
 angiiidayyy.click
 anginn.site
 angioblast.info
@@ -6041,6 +6041,7 @@ antonveneta.ga
 antonveneta.gq
 antonveneta.ml
 antonveneta.tk
+antttool.us
 antykoncepcjabytom.pl
 antylichwa.pl
 antywirusyonline.pl
@@ -8655,7 +8656,6 @@ benwes.xyz
 benwola.pl
 benznoi.com
 beo.kr
-beom5.anonbox.net
 beooo.anonbox.net
 bepdientugiare.net
 bephoa.com
@@ -15112,6 +15112,7 @@ cypi.fr
 cypresshop.com
 cypriummining.com
 cypruswm.com
+cyroz.anonbox.net
 cytsl.com
 cyz.com
 czarny.agencja-csk.pl
@@ -17846,6 +17847,7 @@ dupazsau2f.tk
 dupontmails.com
 durandinterstellar.com
 durhamtrans.com
+duriancompany.us
 durici.com
 duringly.site
 durttime.com
@@ -25745,7 +25747,6 @@ gulfofmexico.com
 gulftechology.com
 gulfwalkin.site
 gull-minnow.top
-gultalantemur.cfd
 gumaygo.com
 gumglue.app
 gummymail.info
@@ -26005,7 +26006,6 @@ habbuntt.com
 haben-wir.com
 habenwir.com
 haberci.com
-habibola22.com
 habibulfauzan.my.id
 habitue.net
 habrew.de
@@ -26588,7 +26588,6 @@ hedcet.com
 hedevpoc.pro
 hedgefundnews.info
 hedgehog.us
-hedotu.com
 hedvdeh.com
 hedy.gq
 heeco.me
@@ -29874,6 +29873,7 @@ instance-email.com
 instant-job.com
 instant-mail.de
 instantblingmail.info
+instantbox.live
 instantbox.online
 instantemailaddress.com
 instantgiveaway.xyz
@@ -31149,7 +31149,6 @@ jibbobodi.tech
 jibitpay.com
 jibjabprocode.com
 jicp.com
-jid.li
 jidanshoppu.com
 jieber.net
 jieluv.com
@@ -37225,7 +37224,6 @@ mailsy.top
 mailt.net
 mailt.top
 mailtal.com
-mailtamtw.top
 mailtanpakaudisini.com
 mailtechx.com
 mailtemp.info
@@ -42356,7 +42354,6 @@ npas.de
 npfd.de
 npfd.gq
 nphcsfz.pl
-npo2.com
 npofgo90ro.com
 npoopmeee.site
 nproxi.com
@@ -45258,6 +45255,7 @@ penest.bid
 pengangguran.me
 pengelan123.com
 penghasilan.online
+penghuan.pro
 penguincreationdate.pw
 penienet.ru
 penimed.at
@@ -46538,7 +46536,6 @@ pradahandbagsrjp.com
 pradahotonsale.com
 pradajapan.com
 pradajapan.org
-pradajapan.orgpradajapan.orgpradajapan.orgpradajapan.orgpradajapan.orgpradajapan.orgpradajapan.orgpradajapan.orgpradajapan.org
 pradanewjp.com
 pradanewjp.org
 pradanewstyle.com
@@ -52261,7 +52258,6 @@ shoppinguggboots.com
 shoppiny.com
 shopppy.shop
 shoppradabagsjp.com
-shoppung.com
 shoppyhunt.com
 shopravensteamjerseys.com
 shoproyal.net
@@ -55440,7 +55436,6 @@ tantrareview.com
 tantraspeeddating.com
 tantratv.com
 tanukis.org
-tao04121995.cloud
 tao399.com
 taobaigou.club
 taobudao.com
@@ -58857,7 +58852,6 @@ ueqmm.anonbox.net
 uetimer.com
 uewodia.com
 uewryweqiwuea.tk
-uf.edu.pl
 uf789.com
 ufa-decor.ru
 ufa-nedv.ru
@@ -65089,6 +65083,7 @@ ype68.com
 ypicall.shop
 ypmail.com
 ypmail.webarnak.fr.eu.org
+ypmp.me
 yppm0z5sjif.ga
 yppm0z5sjif.gq
 yppm0z5sjif.ml
