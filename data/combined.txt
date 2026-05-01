@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-04-30
+# progressive-email-suppression — generated 2026-05-01
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66178 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66177 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3944,7 +3944,6 @@ ac9fqq0qh6ucct.gq
 ac9fqq0qh6ucct.ml
 ac9fqq0qh6ucct.tk
 aca5.com
-acaciaa.top
 academail.net
 academic.edu.rs
 academiccommunity.com
@@ -5756,7 +5755,6 @@ anayikt.ml
 anbinhnet.com
 ancc.us
 ancestralfields.com
-ancewa.com
 anchrisbaton.acmetoy.com
 anchukatie.com
 anchukattie.com
@@ -6476,6 +6474,7 @@ arkonnide.cf
 arkotronic.pl
 arktive.com
 arlenedunkley-wood.co.uk
+arlia.ink
 arlinc.org
 armada4d.com
 armada4d.net
@@ -6861,7 +6860,6 @@ asterhostingg.com
 astermebel.com.pl
 asterrestaurant.com
 astheiss.gr
-astimei.com
 astipa.com
 astonut.cf
 astonut.ga
@@ -9451,7 +9449,6 @@ biuro-naprawcze.pl
 bivforbrooklyn.com
 biwf5.anonbox.net
 biyac.com
-biycy.anonbox.net
 biz.st
 bizalem.com
 bizalon.com
@@ -15104,7 +15101,6 @@ cygenics.com
 cyhui.com
 cyjd.top
 cylab.org
-cyluna.com
 cyng.com
 cynthialamusu.art
 cyotto.ml
@@ -16995,7 +16991,6 @@ docinsider.com
 docj.site
 dock.city
 dockeroo.com
-docknke.com
 docl.site
 docm.site
 docmaangers.com
@@ -24221,6 +24216,7 @@ givmy.com
 giwf.com
 giwwoljvhj.pl
 gixenmixen.com
+gixpos.com
 giyam.com
 giyanigold.com
 giyoyogangzi.com
@@ -24572,7 +24568,6 @@ gmailc.om
 gmailco.ml
 gmailcom.com
 gmailcomcom.com
-gmailcsdnetflix.com
 gmaild.com
 gmaildd.com
 gmaildd.net
@@ -28697,6 +28692,7 @@ ianz.pro
 iaol.com
 iaonne.com
 iaoss.com
+iapapi.com
 iapermisul.ro
 iaptkapkl53.tk
 iarica.com
@@ -29719,7 +29715,6 @@ ingfix.com
 ingfo.online
 inggo.org
 ingilterevize.eu
-ingitel.com
 ingles90dias.space
 ingleses.articles.vip
 inglewoodpaydayloans.info
@@ -29810,6 +29805,7 @@ inpowiki.xyz
 inppares.org.pe
 inpwa.com
 inrelations.ru
+inreur.com
 inrim.cf
 inrim.ga
 inrim.gq
@@ -30886,6 +30882,7 @@ jav8.cc
 javadmin.com
 javadoq.com
 javaemail.com
+javaka.live
 javamail.org
 javamusic.id
 javbing.com
@@ -31805,6 +31802,7 @@ justiphonewallpapers.com
 justlibre.com
 justmailservice.info
 justmakesense.com
+justnapa.com
 justnope.com
 justnowmail.com
 justonemail.net
@@ -32278,7 +32276,6 @@ keis.com
 kejenx.com
 kekecog.com
 keked.com
-kekemluye.cfd
 kekita.com
 kelangthang.com
 kelasbelajar.web.id
@@ -33446,6 +33443,7 @@ kxzaten9tboaumyvh.tk
 ky-ky-ky.ru
 ky.com
 ky019.com
+ky2xx.anonbox.net
 kyal.pl
 kyctrust.online
 kyfeapd.pl
@@ -33455,6 +33453,7 @@ kylemorin.co
 kylesphotography.com
 kylinara.ru
 kynet.be
+kynninc.com
 kynzxy.store
 kyois.com
 kyotosteakhouse.com
@@ -38802,7 +38801,6 @@ mior.in
 miototo.com
 mipodon.ga
 miptvdz.com
-miracle3.com
 miracle5123.com
 miraclegarciniareview.com
 miraclemillwork.com
@@ -39347,7 +39345,6 @@ moneyprofit.online
 moneyrobotdiagrams.club
 moneyslon.ru
 moneyup.club
-mongrec.com
 mongrec.top
 monica.org
 monijoa.com
@@ -45883,6 +45880,7 @@ playwithkol.com
 plclip.com
 plcschool.org
 plcshools.org
+pleaach.com
 pleasanthillapartments.com
 pleasegoheretofinish.com
 pleasenoham.org
@@ -60686,6 +60684,7 @@ vistomail.com
 vistore.co
 visualfx.com
 visualimpactreviews.com
+visualisme.com
 visualkonzept.de
 visualpro.online
 vitahicks.com
