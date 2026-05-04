@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-03
+# progressive-email-suppression — generated 2026-05-04
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66201 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66207 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -5944,7 +5944,6 @@ anonimousemail.bid
 anonimousemail.trade
 anonimousemail.website
 anonimousemail.win
-anonimsirketmail.online
 anonimsirketmail.xyz
 anonmail.top
 anonmail.xyz
@@ -7166,6 +7165,7 @@ automisly.org
 automizely.info
 automizelymail.info
 automizly.net
+autommo.net
 automobilerugs.com
 automotivesort.com
 autoodzaraz.com.pl
@@ -7742,6 +7742,7 @@ b6xufbtfpqco.ml
 b6xufbtfpqco.tk
 b6zel.anonbox.net
 b6zui.anonbox.net
+b755t.anonbox.net
 b77zz.anonbox.net
 b7aqs.anonbox.net
 b7ba4ef3a8f6.ga
@@ -9935,7 +9936,6 @@ bmwgroup.gq
 bmwgroup.ml
 bmwinformation.com
 bmwmail.pw
-bmx5s.anonbox.net
 bmx7z.anonbox.net
 bn254.anonbox.net
 bn3mo.anonbox.net
@@ -12413,7 +12413,6 @@ central-cargo.co.uk
 central-realestate.com
 central-series.com
 central-servers.xyz
-centralblogai.com
 centrale.wav.pl
 centrale.waw.pl
 centralgcc.biz
@@ -19316,6 +19315,7 @@ emailrtg.org
 emails-like-snails.bid
 emails.com
 emails.ga
+emails.garden
 emails92x.pl
 emailsalestoday.info
 emailsecurer.com
@@ -24915,6 +24915,7 @@ goessayhelp.com
 goffylopa.tk
 goffylosa.ga
 gofo.com
+gofood.sbs
 gofsaosa.cf
 gofsaosa.ga
 gofsaosa.ml
@@ -29358,6 +29359,7 @@ ilumail.com
 ilustrosonic.com
 ilvwe.anonbox.net
 ilyasov.tk
+ilyy.org
 im-irsyad.tech
 im.com
 im4ever.com
@@ -38787,6 +38789,7 @@ minisers.xyz
 minishop.site
 miniskirtswholesalestores.info
 ministry-of-silly-walks.de
+minitts.net
 minivacations.com
 miniwowo.com
 minkowitz.aquadivingaccessories.com
@@ -39406,6 +39409,7 @@ monta-ellis2011.info
 montaicu.com
 montana-nedv.ru
 montanaweddingdjs.com
+montecarlo.pw
 montefino.cf
 montefiore.com
 montepaschi.cf
@@ -41234,6 +41238,7 @@ netcabo.tp
 netcaboo.pt
 netcao.pt
 netcbo.pt
+netclick82.click
 netcol.club
 netcom.ws
 netcombase.com
@@ -47000,6 +47005,7 @@ promotionalcoder.com
 promotzy.com
 promptly700.com
 promtmt.ru
+promx.cc
 promyscandlines.pl
 prontobet.com
 prontonmail.com
@@ -51457,6 +51463,7 @@ secretsaiyan.xyz
 secretsurveyreviews.info
 secti.ga
 sector2.org
+securamail.org
 secure-box.info
 secure-box.online
 secure-fb.com
@@ -59225,7 +59232,6 @@ unif8nthemsmnp.ml
 unif8nthemsmnp.tk
 uniform.november.aolmail.top
 uniformpapa.wollomail.top
-unifreshai.com
 unigeol.com
 unijnedotacje.info.pl
 unikle.com
