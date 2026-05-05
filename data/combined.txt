@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-04
+# progressive-email-suppression — generated 2026-05-05
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66207 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66204 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2064,6 +2064,7 @@
 4suf6rohbfglzrlte.ml
 4suf6rohbfglzrlte.tk
 4sumki.org.ua
+4sy4r.anonbox.net
 4tb.host
 4timesover.com
 4tmail.com
@@ -9117,7 +9118,6 @@ bhuyarey.ml
 bhwbx.anonbox.net
 bhwjl.anonbox.net
 bhz2v.anonbox.net
-bi5h6.anonbox.net
 bi5zg.anonbox.net
 bialode.com
 bialy.agencja-csk.pl
@@ -11010,6 +11010,7 @@ buffysmut.com
 buford.us.to
 bug.cl
 bugfoo.com
+bughats.online
 bugmenever.com
 bugmenot.com
 bugmenot.ml
@@ -14675,7 +14676,6 @@ cronack.com
 cronicasdepicnic.com
 cronostv.site
 cronot.my.id
-cronot.xyz
 cronx.com
 cropur.com
 cropuv.info
@@ -21524,6 +21524,7 @@ fightwrinkles.edu
 figjs.com
 figmail.me
 figshot.com
+figureance.com
 figurescoin.com
 figuriety.site
 fihcana.net
@@ -24577,7 +24578,6 @@ gmailasdfas.net
 gmailbete.cf
 gmailbox.kr
 gmailbrt.com
-gmailbrt.online
 gmailc.om
 gmailco.ml
 gmailcom.com
@@ -29411,7 +29411,6 @@ imasser.info
 imaterrorist.com
 imationary.site
 imayji.com
-imbetain.com
 imboate.com
 imbricate.xyz
 imd044u68tcc4.cf
@@ -29699,7 +29698,6 @@ infogeneral.com
 infogenshin.online
 infoisp.me
 infokehilangan.com
-infolinkai.com
 infomail.club
 infomedia.ga
 infonetco.com
@@ -37441,7 +37439,6 @@ malinagames.ru
 malinator.com
 malioter.pro
 maliyetineambalaj.xyz
-malkapzolcam.cfd
 mall.tko.co.kr
 malldrops.com
 mallinator.com
@@ -58087,7 +58084,6 @@ trillianpro.com
 trimar.pl
 trimaxglobal.co.uk
 trimsj.com
-tringuyen.live
 tringuyen.shop
 triogempar.design
 trioschool.com
@@ -65552,6 +65548,7 @@ zenekpoczta.com.pl
 zenithagedcare.sydney
 zenithcalendars.info
 zenithlynow.com
+zenkaihub.tokyo
 zenocoomniki.ru
 zenopoker.com
 zenpocza.com.pl
