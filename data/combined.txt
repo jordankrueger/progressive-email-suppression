@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-05
+# progressive-email-suppression — generated 2026-05-06
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66204 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66203 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -5268,6 +5268,7 @@ aliexchangevn.com
 alif.co.pl
 alifestyle.ru
 aligamel.com
+alightmotion.cloud
 alightmotion.id
 alightmotion.top
 aligreen.top
@@ -8427,7 +8428,6 @@ beastmagic.com
 beastmail.space
 beastpanda.com
 beastrapleaks.blogspot.com
-beatdirectai.com
 beatelse.com
 beatoff.com
 beats-rock.com
@@ -29736,7 +29736,6 @@ ingleses.articles.vip
 inglewoodpaydayloans.info
 ingridyrodrigo.com
 ingrok.win
-ingum.xyz
 inhealthcds.com
 inhello.com
 inhomeideas.com
@@ -31692,6 +31691,7 @@ juliett.november.webmailious.top
 juliman.me
 juliustothecoinventor.com
 julsard.com
+julyacademy.com
 julymovo.com
 jumaelda4846.ml
 jumanindya8240.cf
@@ -32608,6 +32608,7 @@ kindbest.com
 kinderbook-inc.com
 kinderworkshops.de
 kindleebs.xyz
+kindnodenet.com
 kindtoc.com
 kindtoto12.com
 kindvideo.ru
@@ -36155,7 +36156,6 @@ magicmail.com
 magiconly.ru
 magicpaper.site
 magicsubmitter.biz
-magicth.com
 magigo.site
 magim.be
 magma.7amail.top
@@ -38210,6 +38210,7 @@ meetmeatthebar.com
 meetnova.my.id
 meetoricture.site
 meetwave.lat
+meevpo.site
 meflous.shop
 mefp.xyz
 mefvopic.com
@@ -38773,7 +38774,6 @@ mini-mail.net
 mini.pixymix.com
 mini.poisedtoshrike.com
 minifieur.com
-minii-market.xyz
 minikuchen.info
 minimail.eu.org
 minimail.gq
@@ -38967,7 +38967,6 @@ mjxfghdfe54bnf.cf
 mk24.at
 mk2u.eu
 mkalzacp.cfd
-mkalzopc.cfd
 mkathleen.com
 mkbmax.biz
 mkbw3iv5vqreks2r.ga
@@ -42401,7 +42400,6 @@ nqhe2.anonbox.net
 nqmo.com
 nqrk.luk2.com
 nrehi.com
-nrets.anonbox.net
 nrhskhmb6nwmpu5hii.cf
 nrhskhmb6nwmpu5hii.ga
 nrhskhmb6nwmpu5hii.gq
@@ -48953,6 +48951,7 @@ reflexgolf.com
 reflexologymarket.com
 refm.site
 refo.site
+reforgesaga.com
 refp.site
 refr.site
 refsb.site
@@ -50996,6 +50995,7 @@ satcom.cf
 satcom.ga
 satcom.gq
 satcom.ml
+sateayambento.com
 satedly.com
 satellitefirms.com
 satey.club
@@ -60529,7 +60529,6 @@ vintomaper.com
 viola.gq
 viole.cfd
 violimakos.com
-violympic.online
 vionarosalina.art
 viovisa.ir
 vip-dress.net
@@ -62186,6 +62185,7 @@ whymustyarz.com
 whyred.me
 whyrun.online
 whyspam.me
+wi44d.anonbox.net
 wiadomosc.pisz.pl
 wibb.ru
 wibblesmith.com
@@ -63945,7 +63945,6 @@ yaahoo.it
 yaahoo.se
 yaahooo.com
 yaandex.ru
-yaaoho.com
 yaaoo.com
 yaasked.com
 yabai-oppai.tk
