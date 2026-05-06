@@ -4,7 +4,11 @@ This guide walks you through importing the suppression list into your ActionKit 
 
 You'll fork this repo into your own GitHub account, add three secret values that tell GitHub how to reach your ActionKit instance, and click a button. GitHub Actions runs the import on its servers, then tells you what happened.
 
-Estimated time: **10 minutes** the first time, **30 seconds** every time after that.
+Estimated time:
+
+- **One-time setup:** about 10 minutes of clicking around in GitHub.
+- **First full import run:** 30–60 minutes. You start it with a click, then walk away — the work happens on GitHub's servers, not your computer.
+- **Future re-imports:** 30 seconds of clicking; the run itself is usually quick because almost everything is already in your list.
 
 ---
 
@@ -78,7 +82,11 @@ Once the one-time setup above is done, importing is three clicks:
 4. Leave the **rebuild first** checkbox checked (recommended — uses the freshest list)
 5. Click the green **Run workflow** button
 
-A new run will appear in the list within a few seconds. Click it to watch progress, or come back in a few minutes.
+A new run will appear in the list within a few seconds. Click it, then click into the **import** job to see the live log. You'll see lines like `200/53,766 (200 added, 0 failed)` ticking up as it works.
+
+**A full first-time import takes 30–60 minutes.** That's normal — there's a small built-in pause between calls so the script doesn't hammer ActionKit. As long as the count keeps climbing, it's working. If the log is completely silent for 10+ minutes, something's stuck; open an issue and include the log.
+
+You can close the browser tab and come back later — the run continues on GitHub's servers either way.
 
 ### Recommended for first-time runs: sanity-check first
 
