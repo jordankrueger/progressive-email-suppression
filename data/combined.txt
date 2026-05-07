@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-06
+# progressive-email-suppression — generated 2026-05-07
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66203 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66207 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -9491,6 +9491,7 @@ bjgpond.com
 bjimu.anonbox.net
 bjjj.ru
 bjmd.cf
+bjork.email
 bjork.rest
 bjork.wtf
 bjorn-frantzen.art
@@ -10772,6 +10773,7 @@ bruzdownice-v.pl
 brxkf.anonbox.net
 bryanlgx.com
 bryq.site
+brzgn.anonbox.net
 brzydmail.ml
 bs-evt.at
 bs30.fun
@@ -15742,6 +15744,7 @@ dealsway.org
 dealsyoga.com
 dealtern.site
 dealzing.info
+deapad.com
 deapanendra.art
 deathfilm.com
 deathward.info
@@ -21195,6 +21198,7 @@ fbhotro.com
 fbi.coms.hk
 fbi.one
 fbiagent.cyou
+fbins607.com
 fbkubro2024.cloud
 fblo.com
 fbma.tk
@@ -35761,6 +35765,7 @@ lutherhild.ga
 luutrudulieu.net
 luutrudulieu.online
 luv2.us
+luvara.de
 luvfun.site
 luvju.anonbox.net
 luxax.com
@@ -38767,7 +38772,6 @@ minhazfb.ga
 minhazfb.ml
 minhazfb.tk
 minhduc.live
-minhduc.shop
 minhducnow.xyz
 minhquang2000.com
 mini-mail.net
@@ -45470,7 +45474,6 @@ pgqudxz5tr4a9r.ml
 pgqudxz5tr4a9r.tk
 pgslotwallets.com
 pguar-t.com
-ph7cb.anonbox.net
 phaantm.de
 phamay.com
 phamtuki.com
@@ -48036,6 +48039,7 @@ qvestmail.com
 qvharrisu.com
 qvmao.com
 qvozt.anonbox.net
+qvttclass.us
 qvwthrows.com
 qvy.me
 qw.luk2.com
@@ -59495,7 +59499,6 @@ uroetueptriwe.cz.cc
 uroid.com
 urologcenter.ru
 uronva.com
-urruvel.com
 urta.cz
 uruarurqup5ri9s28ki.cf
 uruarurqup5ri9s28ki.ga
@@ -61515,6 +61518,7 @@ washingtongarricklawyers.com
 washoeschool.net
 washoeschool.org
 wasistforex.net
+waskat.id
 waskitacorp.cf
 waskitacorp.ga
 waskitacorp.gq
