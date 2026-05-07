@@ -59,7 +59,7 @@ A "fork" is your own personal copy of this repository. Your secrets will live in
 
 You now have your own copy at `https://github.com/YOUR-USERNAME/progressive-email-suppression`.
 
-<!-- screenshot: 01-fork-button.png — GitHub repo page with the Fork button highlighted -->
+![GitHub header showing the Fork button on the progressive-email-suppression repo page](images/01-fork-button.png)
 
 ### Step 2: Add your three ActionKit secrets
 
@@ -83,7 +83,7 @@ GitHub stores these in an encrypted vault inside your fork. Only your workflow r
 
 When you're done, the Secrets page lists three secrets: `AK_INSTANCE`, `AK_PASSWORD`, `AK_USERNAME`. (GitHub sorts them alphabetically.)
 
-<!-- screenshot: 02-secrets-page.png — GitHub Settings → Secrets and variables → Actions page with three secrets configured -->
+![GitHub Settings → Secrets and variables → Actions page showing three repository secrets: AK_INSTANCE, AK_PASSWORD, AK_USERNAME](images/02-secrets-page.png)
 
 ### Step 3: Enable Actions in your fork
 
@@ -93,7 +93,7 @@ GitHub disables Actions in newly-created forks by default. Turn them on.
 2. You'll see a yellow banner: **"Workflows aren't being run on this forked repository."**
 3. Click the green **I understand my workflows, go ahead and enable them** button
 
-<!-- screenshot: 03-enable-actions.png — Actions tab with the enable workflows banner -->
+![Actions tab on a fresh fork showing "Workflows aren't being run on this forked repository" banner with the green "I understand my workflows, go ahead and enable them" button](images/03-enable-actions.png)
 
 ### Step 4: Test the connection
 
@@ -171,7 +171,7 @@ Done. 53,766 added, 0 failed in 3,210s (16.7/sec).
 
 In ActionKit admin, **Mailings → List Hygiene → Blackhole** now shows the imported entries. ActionKit propagates new blackhole entries to existing users in under 20 minutes (per AK's docs) — meaning anyone already on your list whose email matches a newly-blocked domain gets their subscription state updated automatically. You don't need to do anything else.
 
-<!-- screenshot: 05-ak-admin-blackhole.png — AK admin Mailings → List Hygiene → Blackhole tab with imported entries visible -->
+![ActionKit admin Mailings → Blackholed Domains list with imported entries showing ID, domain, and Created/Updated timestamps](images/05-ak-admin-blackhole.png)
 
 ### Re-running and updates
 
