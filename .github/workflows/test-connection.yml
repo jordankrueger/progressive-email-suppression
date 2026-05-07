@@ -1,0 +1,45 @@
+name: Test ActionKit connection
+
+# Pre-flight check — verifies your secrets and connection BEFORE running a
+# real import. Takes about 5 seconds. Run this first if you've never run the
+# import workflow before, or if a previous run failed and you're not sure why.
+#
+# This workflow doesn't change anything in ActionKit. It only does a single
+# read-only GET against your /blackholeddomain/ endpoint to confirm setup.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify required secrets are set
+        env:
+          AK_INSTANCE: ${{ secrets.AK_INSTANCE }}
+          AK_USERNAME: ${{ secrets.AK_USERNAME }}
+          AK_PASSWORD: ${{ secrets.AK_PASSWORD }}
+        run: |
+          missing=""
+          [ -z "$AK_INSTANCE" ] && missing="$missing AK_INSTANCE"
+          [ -z "$AK_USERNAME" ] && missing="$missing AK_USERNAME"
+          [ -z "$AK_PASSWORD" ] && missing="$missing AK_PASSWORD"
+          if [ -n "$missing" ]; then
+            echo "::error::Missing required repository secret(s):$missing"
+            echo "Add them under Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+          echo "All required secrets are present."
+
+      - name: Run pre-flight check
+        env:
+          AK_INSTANCE: ${{ secrets.AK_INSTANCE }}
+          AK_USERNAME: ${{ secrets.AK_USERNAME }}
+          AK_PASSWORD: ${{ secrets.AK_PASSWORD }}
+        run: python3 scripts/import_to_actionkit.py --check

@@ -1,0 +1,70 @@
+name: Remove from ActionKit (UNDO)
+
+# UNDO for the import — removes every domain in data/combined.txt from your
+# AK Blackhole list. Use this if you imported to the wrong instance, want to
+# start over, or no longer want the suppression list applied.
+#
+# WARNING: this is destructive. It removes EVERY domain in combined.txt from
+# your Blackhole list, including any that were there BEFORE our import. There
+# is no way to distinguish after-the-fact. If pre-existing entries matter,
+# back them up first via the AK admin UI or API.
+#
+# Default behavior is dry-run — you must explicitly check the "confirm"
+# checkbox to actually delete anything.
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: "I understand this is destructive and want to proceed"
+        type: boolean
+        default: false
+      limit:
+        description: "Cap at N deletions. Leave 0 for no limit."
+        type: number
+        default: 0
+      workers:
+        description: "Parallel DELETE workers (default 8)."
+        type: number
+        default: 8
+
+jobs:
+  remove:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify required secrets are set
+        env:
+          AK_INSTANCE: ${{ secrets.AK_INSTANCE }}
+          AK_USERNAME: ${{ secrets.AK_USERNAME }}
+          AK_PASSWORD: ${{ secrets.AK_PASSWORD }}
+        run: |
+          missing=""
+          [ -z "$AK_INSTANCE" ] && missing="$missing AK_INSTANCE"
+          [ -z "$AK_USERNAME" ] && missing="$missing AK_USERNAME"
+          [ -z "$AK_PASSWORD" ] && missing="$missing AK_PASSWORD"
+          if [ -n "$missing" ]; then
+            echo "::error::Missing required repository secret(s):$missing"
+            exit 1
+          fi
+          echo "All required secrets are present."
+
+      - name: Remove from ActionKit
+        env:
+          AK_INSTANCE: ${{ secrets.AK_INSTANCE }}
+          AK_USERNAME: ${{ secrets.AK_USERNAME }}
+          AK_PASSWORD: ${{ secrets.AK_PASSWORD }}
+        run: |
+          flags="--workers ${{ inputs.workers }}"
+          if [ "${{ inputs.confirm }}" = "true" ]; then
+            flags="$flags --yes"
+          fi
+          if [ "${{ inputs.limit }}" != "0" ]; then
+            flags="$flags --limit ${{ inputs.limit }}"
+          fi
+          python3 scripts/remove_from_actionkit.py $flags
