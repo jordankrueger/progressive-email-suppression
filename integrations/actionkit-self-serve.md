@@ -134,7 +134,7 @@ Once **Test ActionKit connection** is green, run the import:
 4. Leave **rebuild first** checked (recommended — uses the freshest list)
 5. Click the green **Run workflow** button
 
-<!-- screenshot: 04-run-workflow.png — Run workflow dropdown form with rebuild_first checked -->
+![Import to ActionKit's Run workflow dropdown showing all four inputs: rebuild_first checked, dry_run unchecked, limit set to 0, and workers set to 8](images/04-run-workflow.png)
 
 A new run appears in the list within a few seconds. Click it, then click into the **import** job to see the live log. You'll see lines like `200/53,766 (200 added, 0 failed) 16.2/sec ETA 55m 12s` ticking up as it works.
 
@@ -264,7 +264,11 @@ Pick the one whose users you actually want protected by the suppression list. If
 - Or fork the repo multiple times, with each fork pointing at a different instance (cleaner — each fork has its own three secrets).
 
 **How do I sync updates from upstream?**
-Your fork doesn't auto-update. To pull in changes (new sources, script improvements, etc.), use GitHub's **Sync fork** button at the top of your fork's main page. It's safe — your secrets are stored separately and aren't affected. You don't *need* to sync regularly; the import workflow uses upstream data via the **rebuild first** step regardless of when you last synced.
+Your fork doesn't auto-update. To pull in changes (new sources, script improvements, etc.), use GitHub's **Sync fork** button at the top of your fork's main page, then click **Update branch** in the dropdown.
+
+![GitHub fork's Sync fork dropdown showing "This branch is out-of-date" with the green Update branch button](images/06-sync-fork.png)
+
+It's safe — your secrets are stored separately and aren't affected. You don't *need* to sync regularly; the import workflow uses upstream data via the **rebuild first** step regardless of when you last synced.
 
 **Is there a way to test against a staging AK before production?**
 Yes — point your fork at staging first (set `AK_INSTANCE` to the staging hostname, with a staging API user). Run **Test ActionKit connection** + a small `--limit 10` import. Once you're satisfied, update the three secrets to point at production and run again.
