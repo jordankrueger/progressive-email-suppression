@@ -90,6 +90,8 @@ A new run will appear in the list within a few seconds. Click it, then click int
 
 If you see HTTP 429 (rate-limit) errors in the log, your AK instance is asking the script to slow down. Re-run the workflow with **workers** lowered to `4` or `2`.
 
+If you want to go *faster* (and your AK instance is robust), bump **workers** to `16`. The script auto-retries on rate-limit errors with backoff, so cranking it up is safe to try — if AK pushes back, the run will slow down on its own. Defaults are conservative; 16 typically halves the wall-clock time without trouble.
+
 You can close the browser tab and come back later — the run continues on GitHub's servers either way.
 
 ### Recommended for first-time runs: sanity-check first

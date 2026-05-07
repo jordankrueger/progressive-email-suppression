@@ -28,10 +28,11 @@ import json
 import os
 import random
 import sys
+import threading
 import time
-import urllib.error
-import urllib.request
+import urllib.parse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from http.client import HTTPException, HTTPSConnection
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -70,28 +71,70 @@ def _retry_sleep(attempt: int, retry_after: str | None) -> float:
     return min(30.0, (2 ** attempt) + random.uniform(0, 1))
 
 
+# Per-thread HTTPSConnection so each worker reuses one keep-alive connection
+# across all of its requests. Avoids paying TCP+TLS handshake on every POST,
+# which is otherwise ~30-50% of per-request wall time.
+_thread_local = threading.local()
+
+
+def _get_conn(host: str) -> HTTPSConnection:
+    cached_host = getattr(_thread_local, "host", None)
+    conn = getattr(_thread_local, "conn", None)
+    if conn is None or cached_host != host:
+        if conn is not None:
+            try:
+                conn.close()
+            except Exception:
+                pass
+        conn = HTTPSConnection(host, timeout=HTTP_TIMEOUT)
+        _thread_local.host = host
+        _thread_local.conn = conn
+    return conn
+
+
+def _drop_conn() -> None:
+    conn = getattr(_thread_local, "conn", None)
+    if conn is not None:
+        try:
+            conn.close()
+        except Exception:
+            pass
+    _thread_local.conn = None
+
+
 def http(method: str, url: str, headers: dict, body: dict | None = None,
          retries: int = MAX_RETRIES) -> tuple[int, str]:
+    """Send an HTTP request via a per-thread keep-alive connection.
+
+    `url` must be a full URL (https://host/path?query). The host is parsed out
+    so AK pagination "next" links — which point at the same instance — keep
+    using the cached connection instead of opening a fresh one each page.
+    """
+    u = urllib.parse.urlparse(url)
+    host = u.netloc
+    path = u.path + (("?" + u.query) if u.query else "")
     payload = json.dumps(body).encode() if body is not None else None
     h = dict(headers)
     if body is not None:
         h["Content-Type"] = "application/json"
+
     last_err: Exception | None = None
     for attempt in range(retries):
         try:
-            req = urllib.request.Request(url, data=payload, headers=h, method=method)
-            with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT) as resp:
-                return resp.status, resp.read().decode("utf-8", errors="replace")
-        except urllib.error.HTTPError as e:
-            # Retry rate limits (429) and transient server errors (5xx).
-            if e.code == 429 or 500 <= e.code < 600:
+            conn = _get_conn(host)
+            conn.request(method, path, body=payload, headers=h)
+            resp = conn.getresponse()
+            retry_after = resp.getheader("Retry-After")
+            status = resp.status
+            data = resp.read().decode("utf-8", errors="replace")
+            if status == 429 or 500 <= status < 600:
                 if attempt + 1 < retries:
-                    retry_after = e.headers.get("Retry-After") if hasattr(e, "headers") else None
                     time.sleep(_retry_sleep(attempt, retry_after))
                     continue
-            return e.code, e.read().decode("utf-8", errors="replace")
-        except urllib.error.URLError as e:
+            return status, data
+        except (http.client.HTTPException, OSError, TimeoutError) as e:
             last_err = e
+            _drop_conn()  # connection may be in a bad state; reopen on retry
             if attempt + 1 < retries:
                 time.sleep(_retry_sleep(attempt, None))
     raise RuntimeError(f"Network error talking to ActionKit after {retries} attempts: {last_err}")
