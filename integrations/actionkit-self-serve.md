@@ -7,8 +7,10 @@ You'll fork this repo into your own GitHub account, add three secret values that
 Estimated time:
 
 - **One-time setup:** about 10 minutes of clicking around in GitHub.
-- **First full import run:** 30–60 minutes. You start it with a click, then walk away — the work happens on GitHub's servers, not your computer.
+- **First full import run:** 1–2 hours, depending on your AK instance's API latency. You start it with a click, then walk away — the work happens on GitHub's servers, not your computer.
 - **Future re-imports:** 30 seconds of clicking; the run itself is usually quick because almost everything is already in your list.
+
+> **If the run hits GitHub's 6-hour ceiling.** GitHub kills any single Actions job at exactly 6 hours, no exceptions. The default 8 parallel workers normally finishes the full ~66k list well inside that limit, but a slower AK instance can run long. If that happens, just re-run the workflow — the script is idempotent and picks up where it left off (it sees what's already in your Blackhole list and only POSTs the rest). One re-run almost always completes the job.
 
 ---
 
@@ -82,9 +84,11 @@ Once the one-time setup above is done, importing is three clicks:
 4. Leave the **rebuild first** checkbox checked (recommended — uses the freshest list)
 5. Click the green **Run workflow** button
 
-A new run will appear in the list within a few seconds. Click it, then click into the **import** job to see the live log. You'll see lines like `200/53,766 (200 added, 0 failed)` ticking up as it works.
+A new run will appear in the list within a few seconds. Click it, then click into the **import** job to see the live log. You'll see lines like `200/53,766 (200 added, 0 failed) 16.2/sec ETA 55m 12s` ticking up as it works.
 
-**A full first-time import takes 30–60 minutes.** That's normal — there's a small built-in pause between calls so the script doesn't hammer ActionKit. As long as the count keeps climbing, it's working. If the log is completely silent for 10+ minutes, something's stuck; open an issue and include the log.
+**A full first-time import typically takes 1–2 hours.** The script POSTs to ActionKit with 8 parallel workers by default; actual speed depends on your AK instance's response time. Progress prints every 100 domains or every 30 seconds, whichever comes first, so you can confirm it's still moving. If the log goes completely silent for 10+ minutes, something's stuck; open an issue and include the log.
+
+If you see HTTP 429 (rate-limit) errors in the log, your AK instance is asking the script to slow down. Re-run the workflow with **workers** lowered to `4` or `2`.
 
 You can close the browser tab and come back later — the run continues on GitHub's servers either way.
 
@@ -105,15 +109,15 @@ Loaded 66,169 domains from data/combined.txt
 Connecting to yourorg.actionkit.com as api-bot...
 Found 12,403 domains already in your Blackhole list
 
-Adding 53,766 new domain(s)...
+Adding 53,766 new domain(s) with 8 parallel worker(s)...
 
-  200/53,766  (200 added, 0 failed)
-  400/53,766  (400 added, 0 failed)
+  100/53,766  (100 added, 0 failed)  16.4/sec  ETA 54m 32s
+  200/53,766  (200 added, 0 failed)  16.7/sec  ETA 53m 31s
   ...
-Done. 53,766 added, 0 failed.
+Done. 53,766 added, 0 failed in 3,210s (16.7/sec).
 ```
 
-The first run may take 30–60 minutes depending on how many domains need to be added (the script is intentionally polite about rate). Future runs typically take seconds because almost everything is already there.
+The first run typically takes 1–2 hours depending on your AK instance's API latency. Future runs usually finish in seconds because almost everything is already there.
 
 ### Re-running
 
@@ -144,7 +148,16 @@ If the log says **"Your instance is already up to date. Nothing to add."** — t
 The log will show the first 10 failures with their HTTP status codes. Common cases:
 - **HTTP 400** with "domain already exists" — harmless; that domain was added in a previous run
 - **HTTP 422** — usually a malformed domain. Open an issue on the upstream repo with the failing domain
-- **HTTP 5xx** — ActionKit had a temporary issue. Re-run the workflow
+- **HTTP 429** — your AK instance asked the script to slow down. The script auto-retries with backoff, so a few of these are fine. Lots of them mean you should re-run with **workers** lowered to `4` or `2`.
+- **HTTP 5xx** — ActionKit had a temporary issue. The script retries automatically; if a 5xx still gets logged here, re-run the workflow.
+
+### "The job has exceeded the maximum execution time of 6h0m0s"
+
+GitHub Actions has a hard 6-hour ceiling on any single job. With the default 8 workers, a full ~66k import normally fits well under that, but a slow AK instance can occasionally run long. If you hit this:
+
+1. Don't panic — the domains posted before the timeout are already in your Blackhole list.
+2. Re-run the **Import to ActionKit** workflow. It'll see what's already there and only POST what's left.
+3. If a re-run also times out, lower **workers** to `4` and try again.
 
 ### Something else is wrong
 

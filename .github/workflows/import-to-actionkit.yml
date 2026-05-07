@@ -29,6 +29,10 @@ on:
         description: "Cap at N new domains. Leave 0 for no limit. Use a small number (e.g. 10) for first-time sanity checks."
         type: number
         default: 0
+      workers:
+        description: "Parallel POST workers. Default 8 fits the full ~66k list inside GitHub's 6h job limit. Lower (e.g. 2-4) if you see 429 rate-limit errors."
+        type: number
+        default: 8
 
 jobs:
   import:
@@ -67,7 +71,7 @@ jobs:
           AK_USERNAME: ${{ secrets.AK_USERNAME }}
           AK_PASSWORD: ${{ secrets.AK_PASSWORD }}
         run: |
-          flags=""
+          flags="--workers ${{ inputs.workers }}"
           if [ "${{ inputs.dry_run }}" = "true" ]; then
             flags="$flags --dry-run"
           fi
