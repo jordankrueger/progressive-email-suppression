@@ -6,8 +6,14 @@ Reads credentials from environment variables:
     AK_USERNAME   ActionKit API username
     AK_PASSWORD   ActionKit API password
 
-Optional flags:
+Modes:
+    (no flags)        Run the import: GET existing, diff, POST what's new.
+    --check           Pre-flight test only — verify env vars, DNS, TLS, auth,
+                      and read access. Doesn't POST anything. Use this BEFORE
+                      your first real import to confirm setup.
     --dry-run         Don't POST anything; just show what would be added.
+
+Optional flags:
     --limit N         Cap at N new domains (useful for first-time testing).
     --workers N       Parallel POST workers (default: 8). Lower if you see
                       429 (rate limit) errors or want to be gentler on AK.
@@ -23,17 +29,19 @@ Stdlib only. Requires Python 3.9+.
 from __future__ import annotations
 
 import argparse
-import base64
-import json
-import os
-import random
 import sys
-import threading
 import time
-import urllib.parse
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from http.client import HTTPException, HTTPSConnection
 from pathlib import Path
+
+from _ak_common import (
+    TransportError,
+    check_connection,
+    diagnose_transport_error,
+    fetch_existing,
+    get_credentials_and_headers,
+    http,
+)
 
 REPO = Path(__file__).resolve().parent.parent
 COMBINED = REPO / "data" / "combined.txt"
@@ -41,129 +49,6 @@ COMBINED = REPO / "data" / "combined.txt"
 DEFAULT_WORKERS = 8
 PROGRESS_EVERY = 100
 PROGRESS_INTERVAL_SECONDS = 30
-PAGE_SIZE = 200
-HTTP_TIMEOUT = 30
-MAX_RETRIES = 5
-
-
-def env_required(name: str) -> str:
-    v = os.environ.get(name, "").strip()
-    if not v:
-        sys.exit(
-            f"ERROR: {name} environment variable is not set.\n"
-            f"In GitHub Actions, add it under Settings → Secrets and variables → Actions."
-        )
-    return v
-
-
-def basic_auth(username: str, password: str) -> str:
-    token = base64.b64encode(f"{username}:{password}".encode()).decode()
-    return f"Basic {token}"
-
-
-def _retry_sleep(attempt: int, retry_after: str | None) -> float:
-    """Exponential backoff with jitter; honors Retry-After if present."""
-    if retry_after:
-        try:
-            return min(60.0, float(retry_after))
-        except ValueError:
-            pass
-    return min(30.0, (2 ** attempt) + random.uniform(0, 1))
-
-
-# Per-thread HTTPSConnection so each worker reuses one keep-alive connection
-# across all of its requests. Avoids paying TCP+TLS handshake on every POST,
-# which is otherwise ~30-50% of per-request wall time.
-_thread_local = threading.local()
-
-
-def _get_conn(host: str) -> HTTPSConnection:
-    cached_host = getattr(_thread_local, "host", None)
-    conn = getattr(_thread_local, "conn", None)
-    if conn is None or cached_host != host:
-        if conn is not None:
-            try:
-                conn.close()
-            except Exception:
-                pass
-        conn = HTTPSConnection(host, timeout=HTTP_TIMEOUT)
-        _thread_local.host = host
-        _thread_local.conn = conn
-    return conn
-
-
-def _drop_conn() -> None:
-    conn = getattr(_thread_local, "conn", None)
-    if conn is not None:
-        try:
-            conn.close()
-        except Exception:
-            pass
-    _thread_local.conn = None
-
-
-def http(method: str, url: str, headers: dict, body: dict | None = None,
-         retries: int = MAX_RETRIES) -> tuple[int, str]:
-    """Send an HTTP request via a per-thread keep-alive connection.
-
-    `url` must be a full URL (https://host/path?query). The host is parsed out
-    so AK pagination "next" links — which point at the same instance — keep
-    using the cached connection instead of opening a fresh one each page.
-    """
-    u = urllib.parse.urlparse(url)
-    host = u.netloc
-    path = u.path + (("?" + u.query) if u.query else "")
-    payload = json.dumps(body).encode() if body is not None else None
-    h = dict(headers)
-    if body is not None:
-        h["Content-Type"] = "application/json"
-
-    last_err: Exception | None = None
-    for attempt in range(retries):
-        try:
-            conn = _get_conn(host)
-            conn.request(method, path, body=payload, headers=h)
-            resp = conn.getresponse()
-            retry_after = resp.getheader("Retry-After")
-            status = resp.status
-            data = resp.read().decode("utf-8", errors="replace")
-            if status == 429 or 500 <= status < 600:
-                if attempt + 1 < retries:
-                    time.sleep(_retry_sleep(attempt, retry_after))
-                    continue
-            return status, data
-        except (http.client.HTTPException, OSError, TimeoutError) as e:
-            last_err = e
-            _drop_conn()  # connection may be in a bad state; reopen on retry
-            if attempt + 1 < retries:
-                time.sleep(_retry_sleep(attempt, None))
-    raise RuntimeError(f"Network error talking to ActionKit after {retries} attempts: {last_err}")
-
-
-def fetch_existing(instance: str, headers: dict) -> set[str]:
-    """Page through GET /blackholeddomain/ and return all existing domains."""
-    seen: set[str] = set()
-    next_path = f"/rest/v1/blackholeddomain/?_limit={PAGE_SIZE}"
-    while next_path:
-        url = next_path if next_path.startswith("http") else f"https://{instance}{next_path}"
-        status, body = http("GET", url, headers)
-        if status == 401:
-            sys.exit(
-                "ERROR: ActionKit rejected the credentials (HTTP 401).\n"
-                "Double-check AK_USERNAME and AK_PASSWORD in your repository secrets."
-            )
-        if status >= 400:
-            sys.exit(f"ERROR: GET existing list failed: HTTP {status}\n{body[:400]}")
-        try:
-            data = json.loads(body)
-        except json.JSONDecodeError:
-            sys.exit(f"ERROR: ActionKit returned non-JSON for {url}\n{body[:400]}")
-        for obj in data.get("objects", []):
-            domain = (obj.get("domain") or "").strip().lower()
-            if domain:
-                seen.add(domain)
-        next_path = (data.get("meta") or {}).get("next") or ""
-    return seen
 
 
 def load_combined() -> set[str]:
@@ -178,7 +63,10 @@ def load_combined() -> set[str]:
 
 
 def post_domain(instance: str, headers: dict, domain: str) -> tuple[str, int, str]:
-    status, body = http("POST", f"https://{instance}/rest/v1/blackholeddomain/", headers, {"domain": domain})
+    try:
+        status, body = http("POST", f"https://{instance}/rest/v1/blackholeddomain/", headers, {"domain": domain})
+    except TransportError as e:
+        return domain, 0, f"TransportError: {e.__cause__ or e}"[:200]
     return domain, status, body
 
 
@@ -192,38 +80,20 @@ def _format_eta(seconds: int) -> str:
     return f"{s}s"
 
 
-def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
-    parser.add_argument("--dry-run", action="store_true",
-                        help="Don't POST; just show what would be added.")
-    parser.add_argument("--limit", type=int, default=None,
-                        help="Stop after N new domains. Useful for first-time testing.")
-    parser.add_argument("--workers", type=int, default=DEFAULT_WORKERS,
-                        help=f"Parallel POST workers (default: {DEFAULT_WORKERS}). "
-                             "Lower if you see 429 errors or want to be gentler on AK.")
-    args = parser.parse_args()
-
-    if args.workers < 1:
-        sys.exit("ERROR: --workers must be >= 1")
-
-    instance = env_required("AK_INSTANCE").replace("https://", "").replace("http://", "").rstrip("/")
-    username = env_required("AK_USERNAME")
-    password = env_required("AK_PASSWORD")
-
-    headers = {
-        "Authorization": basic_auth(username, password),
-        "Accept": "application/json",
-        "User-Agent": "progressive-email-suppression/1.0 (+https://github.com/jordankrueger/progressive-email-suppression)",
-    }
+def run_import(args: argparse.Namespace) -> int:
+    instance, username, headers = get_credentials_and_headers()
 
     desired = load_combined()
     print(f"Loaded {len(desired):,} domains from data/combined.txt")
     print(f"Connecting to {instance} as {username}...")
 
-    existing = fetch_existing(instance, headers)
+    try:
+        existing = fetch_existing(instance, headers)
+    except TransportError as e:
+        sys.exit(f"ERROR: {diagnose_transport_error(e, instance)}")
     print(f"Found {len(existing):,} domains already in your Blackhole list")
 
-    to_add = sorted(desired - existing)
+    to_add = sorted(desired - set(existing))
     if not to_add:
         print("\n✓ Your instance is already up to date. Nothing to add.")
         return 0
@@ -288,6 +158,29 @@ def main() -> int:
         return 1
 
     return 0
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
+    parser.add_argument("--check", action="store_true",
+                        help="Pre-flight only: test env, DNS, TLS, auth, and read access. "
+                             "Don't POST anything. Use before your first real import.")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="Don't POST; just show what would be added.")
+    parser.add_argument("--limit", type=int, default=None,
+                        help="Stop after N new domains. Useful for first-time testing.")
+    parser.add_argument("--workers", type=int, default=DEFAULT_WORKERS,
+                        help=f"Parallel POST workers (default: {DEFAULT_WORKERS}). "
+                             "Lower if you see 429 errors or want to be gentler on AK.")
+    args = parser.parse_args()
+
+    if args.check:
+        return check_connection()
+
+    if args.workers < 1:
+        sys.exit("ERROR: --workers must be >= 1")
+
+    return run_import(args)
 
 
 if __name__ == "__main__":
