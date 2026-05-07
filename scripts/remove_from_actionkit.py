@@ -39,33 +39,18 @@ import argparse
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from pathlib import Path
 
 from _ak_common import (
+    DEFAULT_WORKERS,
+    PROGRESS_EVERY,
+    PROGRESS_INTERVAL_SECONDS,
     TransportError,
-    diagnose_transport_error,
+    _format_eta,
     fetch_existing,
     get_credentials_and_headers,
     http,
+    load_combined,
 )
-
-REPO = Path(__file__).resolve().parent.parent
-COMBINED = REPO / "data" / "combined.txt"
-
-DEFAULT_WORKERS = 8
-PROGRESS_EVERY = 100
-PROGRESS_INTERVAL_SECONDS = 30
-
-
-def load_combined() -> set[str]:
-    if not COMBINED.exists():
-        sys.exit(f"ERROR: {COMBINED} not found. Run scripts/build.py first.")
-    out: set[str] = set()
-    for line in COMBINED.read_text(encoding="utf-8").splitlines():
-        line = line.split("#", 1)[0].strip().lower()
-        if line:
-            out.add(line)
-    return out
 
 
 def delete_domain(instance: str, headers: dict, domain: str, obj_id: int) -> tuple[str, int, str]:
@@ -75,16 +60,6 @@ def delete_domain(instance: str, headers: dict, domain: str, obj_id: int) -> tup
     except TransportError as e:
         return domain, 0, f"TransportError: {e.__cause__ or e}"[:200]
     return domain, status, body
-
-
-def _format_eta(seconds: int) -> str:
-    h, rem = divmod(seconds, 3600)
-    m, s = divmod(rem, 60)
-    if h:
-        return f"{h}h {m}m"
-    if m:
-        return f"{m}m {s}s"
-    return f"{s}s"
 
 
 def main() -> int:
@@ -106,10 +81,7 @@ def main() -> int:
     print(f"Loaded {len(target):,} domains from data/combined.txt")
     print(f"Connecting to {instance} as {username}...")
 
-    try:
-        existing = fetch_existing(instance, headers)
-    except TransportError as e:
-        sys.exit(f"ERROR: {diagnose_transport_error(e, instance)}")
+    existing = fetch_existing(instance, headers)
     print(f"Found {len(existing):,} domains in your Blackhole list")
 
     to_remove = sorted((d for d in existing if d in target))
@@ -161,7 +133,6 @@ def main() -> int:
                 failed += 1
                 failures.append((futures[fut], 0, f"{type(e).__name__}: {e}"[:200]))
             else:
-                # AK typically returns 204 No Content for successful DELETE.
                 if 200 <= status < 300:
                     removed += 1
                 else:

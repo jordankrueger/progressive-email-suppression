@@ -32,34 +32,19 @@ import argparse
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from pathlib import Path
 
 from _ak_common import (
+    DEFAULT_WORKERS,
+    PROGRESS_EVERY,
+    PROGRESS_INTERVAL_SECONDS,
     TransportError,
+    _format_eta,
     check_connection,
-    diagnose_transport_error,
     fetch_existing,
     get_credentials_and_headers,
     http,
+    load_combined,
 )
-
-REPO = Path(__file__).resolve().parent.parent
-COMBINED = REPO / "data" / "combined.txt"
-
-DEFAULT_WORKERS = 8
-PROGRESS_EVERY = 100
-PROGRESS_INTERVAL_SECONDS = 30
-
-
-def load_combined() -> set[str]:
-    if not COMBINED.exists():
-        sys.exit(f"ERROR: {COMBINED} not found. Run scripts/build.py first.")
-    out: set[str] = set()
-    for line in COMBINED.read_text(encoding="utf-8").splitlines():
-        line = line.split("#", 1)[0].strip().lower()
-        if line:
-            out.add(line)
-    return out
 
 
 def post_domain(instance: str, headers: dict, domain: str) -> tuple[str, int, str]:
@@ -70,16 +55,6 @@ def post_domain(instance: str, headers: dict, domain: str) -> tuple[str, int, st
     return domain, status, body
 
 
-def _format_eta(seconds: int) -> str:
-    h, rem = divmod(seconds, 3600)
-    m, s = divmod(rem, 60)
-    if h:
-        return f"{h}h {m}m"
-    if m:
-        return f"{m}m {s}s"
-    return f"{s}s"
-
-
 def run_import(args: argparse.Namespace) -> int:
     instance, username, headers = get_credentials_and_headers()
 
@@ -87,13 +62,10 @@ def run_import(args: argparse.Namespace) -> int:
     print(f"Loaded {len(desired):,} domains from data/combined.txt")
     print(f"Connecting to {instance} as {username}...")
 
-    try:
-        existing = fetch_existing(instance, headers)
-    except TransportError as e:
-        sys.exit(f"ERROR: {diagnose_transport_error(e, instance)}")
+    existing = fetch_existing(instance, headers)
     print(f"Found {len(existing):,} domains already in your Blackhole list")
 
-    to_add = sorted(desired - set(existing))
+    to_add = sorted(desired - existing.keys())
     if not to_add:
         print("\n✓ Your instance is already up to date. Nothing to add.")
         return 0

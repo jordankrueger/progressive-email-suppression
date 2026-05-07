@@ -17,12 +17,40 @@ import threading
 import time
 import urllib.parse
 from http.client import HTTPException, HTTPSConnection
+from pathlib import Path
 
 HTTP_TIMEOUT = 30
 MAX_RETRIES = 5
 PAGE_SIZE = 200
+DEFAULT_WORKERS = 8
+PROGRESS_EVERY = 100
+PROGRESS_INTERVAL_SECONDS = 30
 
 USER_AGENT = "progressive-email-suppression/1.0 (+https://github.com/jordankrueger/progressive-email-suppression)"
+
+REPO = Path(__file__).resolve().parent.parent
+COMBINED = REPO / "data" / "combined.txt"
+
+
+def load_combined() -> set[str]:
+    if not COMBINED.exists():
+        sys.exit(f"ERROR: {COMBINED} not found. Run scripts/build.py first.")
+    out: set[str] = set()
+    for line in COMBINED.read_text(encoding="utf-8").splitlines():
+        line = line.split("#", 1)[0].strip().lower()
+        if line:
+            out.add(line)
+    return out
+
+
+def _format_eta(seconds: int) -> str:
+    h, rem = divmod(seconds, 3600)
+    m, s = divmod(rem, 60)
+    if h:
+        return f"{h}h {m}m"
+    if m:
+        return f"{m}m {s}s"
+    return f"{s}s"
 
 
 def env_required(name: str) -> str:
@@ -291,11 +319,7 @@ def check_connection() -> int:
 
     print(f"  ✓ DNS + HTTPS connection to {instance} OK")
 
-    if status == 401:
-        print()
-        print(diagnose_response_error(status, body, instance, url))
-        return 3
-    if status == 403:
+    if status in (401, 403):
         print()
         print(diagnose_response_error(status, body, instance, url))
         return 3
