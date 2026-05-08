@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-07
+# progressive-email-suppression — generated 2026-05-08
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66207 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66212 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -7912,6 +7912,7 @@ badcreditloanss.co.uk
 badfat.com
 badfist.com
 badger.tel
+badgerhole.com
 badgerland.eu
 badgettingnurdsusa.com
 badhus.org
@@ -12510,6 +12511,7 @@ cfllx7ix9.pl
 cflv.com
 cfo2go.ro
 cfoto24.pl
+cfpwe.anonbox.net
 cfremails.com
 cfskrxfnsuqck.cf
 cfskrxfnsuqck.ga
@@ -13842,6 +13844,7 @@ codm.community
 codm.site
 codmobilehack.club
 codn.site
+codoteam.com
 codp.site
 codq.site
 cods.space
@@ -15059,7 +15062,6 @@ cwkdx3gi90zut3vkxg5.ml
 cwkdx3gi90zut3vkxg5.tk
 cwmco.com
 cwqksnx.com
-cwrotzxks.com
 cwroutinesp.com
 cx.de-a.org
 cx.net
@@ -19005,6 +19007,7 @@ elki-mkzn.ru
 elkomsa.net
 ell.net
 ellahamid.art
+ellbit.com
 elle-news.com
 ellebox.com
 ellesecret.com
@@ -21754,7 +21757,6 @@ fintnesscent.com
 fintning.com
 finxmail.com
 finxmail.net
-finzastore.com
 fionawear.shop
 fioo.fun
 fiorino.glasslightbulbs.com
@@ -23576,6 +23578,7 @@ gcantikored.pw
 gcaoa.org
 gcasino.fun
 gcbcdiet.com
+gcervera.com
 gcfleh.com
 gchatz.ga
 gcheck.xyz
@@ -23799,7 +23802,6 @@ gers-phyto.com
 gerties.com.au
 ges-online.ru
 geschent.biz
-gesthedu.com
 get-bitcoins.club
 get-bitcoins.online
 get-dental-implants.com
@@ -26748,6 +26750,7 @@ hesoyam.space
 hessrohmercpa.com
 hestermail.men
 hetet.nl
+hethongtudong.store
 hetkanmijnietschelen.space
 hetne.nl
 hetneet.nl
@@ -29411,6 +29414,7 @@ imap521.mineweb.in
 imapiphone.minemail.in
 imaracing.com
 imarkconsulting.com
+imashr.com
 imasser.info
 imaterrorist.com
 imationary.site
@@ -32363,7 +32367,6 @@ kepqs.ovh
 keralaairport.net
 keratinhairtherapy.com
 keratosispilarisguide.info
-kerenamiburasi.sbs
 kerficians.xyz
 kerfuffle.me
 kerjqv.us
@@ -35570,7 +35573,6 @@ loyalhost.org
 loyalnfljerseys.com
 loyalwiranti.biz
 loyalworld.com
-lp6ng.anonbox.net
 lpaoaoao80101919.ibaloch.com
 lpd6j.anonbox.net
 lpdf.site
@@ -38772,7 +38774,6 @@ minhazfb.ga
 minhazfb.ml
 minhazfb.tk
 minhduc.live
-minhducnow.xyz
 minhquang2000.com
 mini-mail.net
 mini.pixymix.com
@@ -40374,7 +40375,6 @@ myjunkmail.ovh
 myjustmail.co.cc
 myk-pyk.eu
 mykcloud.com
-mykeiani.com
 mykickassideas.com
 mykidsfuture.com
 mykingle.xyz
@@ -40793,6 +40793,7 @@ namnerbca.com
 namtruong318.com
 namunathapa.com.np
 namuwikiusercontent.com
+namxuancompany.us
 nan.us.to
 nanana.uk
 nanatha.academy
@@ -48553,6 +48554,7 @@ raylee.ga
 raymondjames.co
 rayofshadow.xyz
 rayong.mobi
+rayrayactive.com
 rayyanta.com
 razemail.com
 razeny.com
@@ -62789,6 +62791,7 @@ wsh72eonlzb5swa22.ga
 wsh72eonlzb5swa22.gq
 wsh72eonlzb5swa22.ml
 wsh72eonlzb5swa22.tk
+wshu.net
 wshv.com
 wsj.homes
 wsj.promo
@@ -65438,6 +65441,7 @@ zauberfeile.com
 zavame.com
 zavio.com.pl
 zavio.nl
+zavmecor.store
 zavodzet.ru
 zaxby.com
 zaxoffice.com
@@ -66066,6 +66070,7 @@ zrmail.ga
 zrmail.ml
 zrpurhxql.pl
 zsazsautari.art
+zscapcut.my.id
 zsccyccxea.pl
 zsdigital.tech
 zsero.com
