@@ -1,5 +1,7 @@
 # Self-serve Action Network sweep
 
+> ℹ️ **Verified against AN's documented API contract; awaiting first real-org end-to-end validation.** Action Network's API access is a partner-tier feature, so we couldn't run this against a fresh test account before shipping. The scripts hit AN's documented endpoints (POST `/api/v2/tags/`, POST `/api/v2/tags/{uuid}/taggings/`, paginated GET `/api/v2/people/`) with the documented request shapes. If you're the first to run it against a live AN instance and something doesn't match, please [open an issue](https://github.com/jordankrueger/progressive-email-suppression/issues/new/choose) — we'll fix it the same day.
+
 This guide walks you through tagging existing people in your Action Network group whose primary email domain is on the suppression list — **without writing any code**. You fork this repo into your own GitHub account, add one secret (your AN API key), and click a button.
 
 The sweep applies a tag (default name: `psup_YYYY-MM-DD`). It does **not** unsubscribe anyone. You then use the tag in AN's standard mailing filters to exclude tagged people from sends. If you want to undo the sweep, a rollback workflow removes every tagging it applied.
@@ -29,7 +31,9 @@ A nightly **rebuild** workflow also exists; you do *not* need to enable or run i
 
 **One piece of information about your Action Network group:**
 
-- **API key** — a long random string in the OSDI-API-Token header format. Find it in your AN group's admin: **Start Organizing → Details → API & Sync** (label may vary slightly by tier). If you don't see API access, your AN tier may not include it — contact AN support.
+- **API key** — a long random string in the OSDI-API-Token header format. Find it in your AN group's admin under **Start Organizing → API & Sync**.
+
+> **Don't see API & Sync?** Action Network gates API access behind their partner / Integration Partnership program. If your org doesn't see the page, contact AN at `support@actionnetwork.org` to request API access. Most active orgs running on AN at any meaningful scale already have this; it's typically a quick yes for orgs with real campaigns. If you're trying this on a brand-new free Individual account, you'll need to apply first.
 
 A few practical notes:
 
@@ -52,7 +56,6 @@ A "fork" is your own personal copy of this repository. Your secret will live in 
 
 You now have your own copy at `https://github.com/YOUR-USERNAME/progressive-email-suppression`.
 
-> *[Screenshot pending: GitHub header showing the Fork button on the progressive-email-suppression repo page]*
 
 ### Step 2: Add your AN API key as a secret
 
@@ -66,7 +69,6 @@ GitHub stores this in an encrypted vault inside your fork. Only your workflow ru
    - **Secret:** your Action Network API key
    - Click **Add secret**
 
-> *[Screenshot pending: GitHub Settings → Secrets and variables → Actions page showing AN_API_KEY]*
 
 ### Step 3: Enable Actions in your fork
 
@@ -76,7 +78,6 @@ GitHub disables Actions in newly-created forks by default. Turn them on.
 2. You'll see a yellow banner: **"Workflows aren't being run on this forked repository."**
 3. Click the green **I understand my workflows, go ahead and enable them** button
 
-> *[Screenshot pending: Actions tab on a fresh fork showing the enable-workflows banner]*
 
 ### Step 4: Test the connection
 
@@ -115,7 +116,6 @@ Once the connection test is green, run the sweep:
 4. **For your first run:** leave **dry_run** checked, set **limit** to `50`, leave everything else as default
 5. Click the green **Run workflow** button
 
-> *[Screenshot pending: Sweep Action Network's Run workflow dropdown]*
 
 A new run appears in the list within a few seconds. Click it, then click into the **sweep** job to see the live log. The scan walks every person in your group at AN's hard 25-per-page limit — for a 10k-person group, expect ~5 minutes of scanning before any matches are reported.
 
@@ -158,7 +158,6 @@ This tags 10 actual people. Open AN admin, navigate to **Tags**, find your `psup
 
 If those 10 look right: run the full sweep with the same flags but `limit` set to `0`.
 
-> *[Screenshot pending: AN admin tags page showing the psup_2026-05-10 tag with the test entries]*
 
 ### What success looks like
 
