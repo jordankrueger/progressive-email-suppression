@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-09
+# progressive-email-suppression — generated 2026-05-10
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66212 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66213 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8663,7 +8663,6 @@ bentsgolf.com
 benv6.anonbox.net
 benwes.xyz
 benwola.pl
-benznoi.com
 beo.kr
 beooo.anonbox.net
 bepdientugiare.net
@@ -10016,7 +10015,6 @@ bobq.com
 bobs.ca
 bobs.dyndns.org
 bocaneyobalac.com
-bocapies.com
 bocas.tech
 bocav.com
 bocba.com
@@ -11895,6 +11893,7 @@ capcut.digital
 capcut.my.id
 capcut.sbs
 capcut.team
+capcut02.shop
 capcuter.com
 capcutgw.cfd
 capcutisme.app
@@ -12368,6 +12367,7 @@ celebrything.com
 celebslive.net
 celebwank.com
 celerto.tk
+celin.click
 celinea.info
 celinebags2012.sg
 celinecityitalia.com
@@ -12647,6 +12647,7 @@ chasefreedomactivate.com
 chat080.net
 chatbelgique.com
 chatdays.com
+chatech.site
 chatfap.info
 chatfrenchguiana.com
 chatgpt-ar.com
@@ -13225,6 +13226,7 @@ cinemalive.info
 cingcawow.guru
 cinnamonproductions.com
 cioin.pl
+cipcit.my.id
 ciproonlinesure.com
 ciprorxpharma.com
 ciqv53tgu.pl
@@ -13554,6 +13556,7 @@ cloudns.cx
 cloudns.gq
 cloudonf.com
 cloudscredit.com
+cloudserver.email
 cloudservicesproviders.net
 cloudsigmatrial.cf
 cloudsign.in
@@ -21766,7 +21769,6 @@ fioo.fun
 fiorino.glasslightbulbs.com
 fir.hk
 fira.my
-firain.com
 firamax.club
 firasbizzari.com
 fire.favbat.com
@@ -26310,7 +26312,6 @@ hargaspek.com
 hargrovetv.com
 haribu.com
 haribu.net
-harinv.com
 harkincap.com
 harleymoj.pl
 harlingenapartments.com
@@ -28993,7 +28994,6 @@ idnkil.ml
 idnpoker.link
 idobrestrony.pl
 idoc.com
-idoidraw.com
 idolsystems.info
 idomail.com
 idomain24.pl
@@ -30915,7 +30915,6 @@ javaemail.com
 javaka.live
 javamail.org
 javamusic.id
-javbing.com
 javhold.com
 javierllaca.com
 javmail.tech
@@ -34081,6 +34080,7 @@ lehman.gq
 lehman.ml
 lehman.tk
 lehoa.top
+lehoangbaoanh.shop
 lei.kr
 leifr.com
 lejada.pl
@@ -42644,7 +42644,6 @@ nutrizin.com
 nutrmil.site
 nutroastingmachine.net
 nutropin.in
-nutrv.com
 nuts2trade.com
 nutsmine.com
 nutte.com
@@ -46758,6 +46757,7 @@ priligyprime.com
 primabananen.net
 primails.me
 primalburnkenburge.com
+primalhigh.click
 primaryale.com
 primate.de
 prime-gaming.ru
@@ -54202,6 +54202,7 @@ stokoski.ml
 stokportal.ru
 stokyards.info
 stomach4m.com
+stomatogomail.ru
 stomatolog.pl
 stonesmails.cz.cc
 stonvpshostelx.com
@@ -55031,6 +55032,7 @@ sxzevvhpmitlc64k9.gq
 sxzevvhpmitlc64k9.ml
 sxzevvhpmitlc64k9.tk
 sy.com
+syaacantik.me
 syadouchebag.com
 syahmiqjoss.host
 syd.com
@@ -55249,7 +55251,6 @@ tabletki.org
 tabletkinaodchudzanie.biz.pl
 tabletkinapamiec.xyz
 tabletrafflez.info
-tabletship.com
 tabletstoextendthepenis.info
 tablighat24.com
 tabtop.site
@@ -58128,7 +58129,6 @@ trommlershop.com
 trompetarisca.co
 tron.pl
 tronghao.site
-trongtrung.xyz
 tronplatform.org
 tronques.ml
 tronzillion.com
@@ -58957,6 +58957,7 @@ uguf.gmail.keitin.site
 ugunduzi.com
 uguuchantele.com
 ugwu.com
+uh4hl.anonbox.net
 uha.kr
 uhds.tk
 uhe2.com
@@ -65439,6 +65440,7 @@ zasve.info
 zatopplomi.xyz
 zauberfeile.com
 zavame.com
+zavex.sbs
 zavio.com.pl
 zavio.nl
 zavmecor.store
@@ -65684,7 +65686,6 @@ ziggoo.nl
 ziggurattemple.info
 zigo.nl
 zigounet.com
-zigtc.anonbox.net
 zigurblog.com
 zigzagcreations.com
 zihaddd12.com
