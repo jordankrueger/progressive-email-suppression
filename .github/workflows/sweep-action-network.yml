@@ -1,0 +1,114 @@
+name: Sweep Action Network
+
+# Tags people in your Action Network group whose primary email domain is on
+# the suppression list (data/combined.txt). Does NOT change subscription
+# status — applies a tag the admin can use to exclude tagged people from
+# mailings via AN's standard mailing filters.
+#
+# The default workflow input has dry_run=true. You must explicitly uncheck
+# dry_run AND check apply_changes for any record to actually be tagged.
+#
+# Run from your fork: Actions tab → "Sweep Action Network" → "Run workflow".
+#
+# Required repository secret (Settings → Secrets and variables → Actions):
+#   AN_API_KEY   Your Action Network group's API key
+#
+# See integrations/action-network-self-serve.md for the full step-by-step guide.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry-run: scan and report matches without tagging anyone (recommended for first runs)."
+        type: boolean
+        default: true
+      apply_changes:
+        description: "Belt-and-suspenders: must also be checked to actually apply tags. Ignored if dry_run is on."
+        type: boolean
+        default: false
+      limit:
+        description: "Cap at N matches. Leave 0 for no limit. Use a small number (e.g. 10) for first-time sanity checks."
+        type: number
+        default: 50
+      workers:
+        description: "Concurrent taggers. Default 2 stays well under AN's ~4/sec rate limit. Max 4."
+        type: number
+        default: 2
+      force:
+        description: "Allow runs that match >25% of fetched people (default halts as a safety net)."
+        type: boolean
+        default: false
+      tag_name:
+        description: "Override the tag name. Leave blank to use psup_YYYY-MM-DD."
+        type: string
+        default: ""
+      rebuild_first:
+        description: "Rebuild data/combined.txt from upstream sources before sweeping (recommended)."
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify required secret is set
+        env:
+          AN_API_KEY: ${{ secrets.AN_API_KEY }}
+        run: |
+          if [ -z "$AN_API_KEY" ]; then
+            echo "::error::Missing required repository secret: AN_API_KEY"
+            echo "Add it under Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+          echo "AN_API_KEY is present."
+
+      - name: Refuse destructive runs without explicit opt-in
+        run: |
+          if [ "${{ inputs.dry_run }}" != "true" ] && [ "${{ inputs.apply_changes }}" != "true" ]; then
+            echo "::error::Both 'dry_run' and 'apply_changes' are unchecked. Refusing to run."
+            echo "To make this a safe-by-default workflow, you must EITHER:"
+            echo "  - leave dry_run checked (preview only — recommended for first runs), OR"
+            echo "  - uncheck dry_run AND check apply_changes (actually tag people)."
+            exit 1
+          fi
+
+      - name: Rebuild data/combined.txt
+        if: ${{ inputs.rebuild_first }}
+        run: python3 scripts/build.py
+
+      - name: Run the sweep
+        env:
+          AN_API_KEY: ${{ secrets.AN_API_KEY }}
+        run: |
+          flags="--workers ${{ inputs.workers }}"
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            flags="$flags --dry-run"
+          fi
+          if [ "${{ inputs.limit }}" != "0" ]; then
+            flags="$flags --limit ${{ inputs.limit }}"
+          fi
+          if [ "${{ inputs.force }}" = "true" ]; then
+            flags="$flags --force"
+          fi
+          if [ -n "${{ inputs.tag_name }}" ]; then
+            flags="$flags --tag ${{ inputs.tag_name }}"
+          fi
+          python3 scripts/sweep_action_network.py $flags
+
+      - name: Upload audit log
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: audit-log
+          path: audit-an-sweep-*.csv
+          if-no-files-found: ignore
+          retention-days: 90

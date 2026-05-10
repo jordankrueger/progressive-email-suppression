@@ -1,0 +1,38 @@
+name: Test Action Network connection
+
+# Pre-flight check — verifies your AN_API_KEY secret and connection BEFORE
+# running a real sweep. Takes a few seconds and makes one read-only call to
+# Action Network's API root.
+#
+# This workflow doesn't change anything in Action Network. Run it first if
+# you've never run the sweep workflow before, or if a previous run failed
+# and you're not sure why.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify required secret is set
+        env:
+          AN_API_KEY: ${{ secrets.AN_API_KEY }}
+        run: |
+          if [ -z "$AN_API_KEY" ]; then
+            echo "::error::Missing required repository secret: AN_API_KEY"
+            echo "Add it under Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+          echo "AN_API_KEY is present."
+
+      - name: Run pre-flight check
+        env:
+          AN_API_KEY: ${{ secrets.AN_API_KEY }}
+        run: python3 scripts/sweep_action_network.py --check
