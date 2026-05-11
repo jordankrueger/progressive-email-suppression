@@ -1,8 +1,8 @@
 # Self-serve Action Network sweep
 
-> ℹ️ **Verified against AN's documented API contract; awaiting first real-org end-to-end validation.** Action Network's API access is a partner-tier feature, so we couldn't run this against a fresh test account before shipping. The scripts hit AN's documented endpoints (POST `/api/v2/tags/`, POST `/api/v2/tags/{uuid}/taggings/`, paginated GET `/api/v2/people/`) with the documented request shapes. If you're the first to run it against a live AN instance and something doesn't match, please [open an issue](https://github.com/jordankrueger/progressive-email-suppression/issues/new/choose) — we'll fix it the same day.
+> ℹ️ **Verified against AN's documented API contract; awaiting first real-org end-to-end validation.** Action Network's API access is a partner-tier feature, so we couldn't run this against a fresh test account before shipping. The scripts hit AN's documented endpoints (POST `/api/v2/tags/`, POST `/api/v2/tags/{uuid}/taggings/`, paginated GET `/api/v2/people/`) with the documented request shapes. If you're the first to run it against a live AN instance and something doesn't match, please [open an issue](https://github.com/jordankrueger/progressive-email-suppression/issues/new/choose). We'll fix it the same day.
 
-This guide walks you through tagging existing people in your Action Network group whose primary email domain is on the suppression list — **without writing any code**. You fork this repo into your own GitHub account, add one secret (your AN API key), and click a button.
+This guide walks you through tagging existing people in your Action Network group whose primary email domain is on the suppression list, without writing any code. You fork this repo into your own GitHub account, add one secret (your AN API key), and click a button.
 
 The sweep applies a tag (default name: `psup_YYYY-MM-DD`). It does **not** unsubscribe anyone. You then use the tag in AN's standard mailing filters to exclude tagged people from sends. If you want to undo the sweep, a rollback workflow removes every tagging it applied.
 
@@ -10,20 +10,20 @@ The sweep applies a tag (default name: `psup_YYYY-MM-DD`). It does **not** unsub
 
 Four phases, in order:
 
-1. **Set up** (about 10 minutes, once) — fork the repo, add one secret, enable Actions.
-2. **Test the connection** (5 seconds) — confirm your secret works before running anything that makes changes.
-3. **Sanity-check** (2 minutes) — dry-run + a 10-person test sweep so you can see entries get tagged in AN.
-4. **Run the full sweep** (varies by group size, 20 minutes – 2 hours typical) — kick it off, walk away, check back later.
+1. **Set up** (about 10 minutes, once): fork the repo, add one secret, enable Actions.
+2. **Test the connection** (5 seconds): confirm your secret works before running anything that makes changes.
+3. **Sanity-check** (2 minutes): dry-run plus a 10-person test sweep so you can see entries get tagged in AN.
+4. **Run the full sweep** (varies by group size, 20 minutes to 2 hours typical): start it, then close the tab. The run continues on GitHub's servers.
 
 There are three workflows in the Actions tab once you fork:
 
-- **Test Action Network connection** — read-only pre-flight check. Use this first.
-- **Sweep Action Network** — the main event. Tags people whose email matches the suppression list.
-- **Rollback Action Network sweep** — destructive undo. Removes every tagging that a previous sweep applied. Reads from the audit-log artifact uploaded by the sweep run.
+- **Test Action Network connection**: read-only pre-flight check. Use this first.
+- **Sweep Action Network**: the main event. Tags people whose email matches the suppression list.
+- **Rollback Action Network sweep**: destructive undo. Removes every tagging that a previous sweep applied, reading from the audit-log artifact uploaded by the sweep run.
 
 A nightly **rebuild** workflow also exists; you do *not* need to enable or run it. It only matters for keeping your fork's local copy of the data current, which the sweep workflow handles automatically when you check "rebuild first".
 
-> **Why tag, not unsubscribe?** Subscription-state changes are not reversible at the API level. Tagging is. We tag matched people and let you decide how to use the tag — exclude them from a single mailing, exclude them permanently via a query, or run a separate "really unsubscribe these" step after you've spot-checked. If anything goes wrong, the rollback workflow restores the previous state.
+> **Why tag, not unsubscribe?** Subscription-state changes are not reversible at the API level. Tagging is. We tag matched people and leave it to you to decide how to use the tag: exclude them from a single mailing, build a saved query that excludes them from every future mailing, or run a separate "really unsubscribe these" step after spot-checking. If anything goes wrong, the rollback workflow restores the previous state.
 
 ---
 
@@ -31,7 +31,7 @@ A nightly **rebuild** workflow also exists; you do *not* need to enable or run i
 
 **One piece of information about your Action Network group:**
 
-- **API key** — a long random string in the OSDI-API-Token header format. Find it in your AN group's admin under **Start Organizing → API & Sync**.
+- **API key**: a long random string in the OSDI-API-Token header format. Find it in your AN group's admin under **Start Organizing → API & Sync**.
 
 > **Don't see API & Sync?** Action Network gates API access behind their partner / Integration Partnership program. If your org doesn't see the page, contact AN at `support@actionnetwork.org` to request API access. Most active orgs running on AN at any meaningful scale already have this; it's typically a quick yes for orgs with real campaigns. If you're trying this on a brand-new free Individual account, you'll need to apply first.
 
@@ -48,7 +48,7 @@ You also need a **GitHub account**. Free is fine. If you don't have one, create 
 
 ### Step 1: Fork this repository
 
-A "fork" is your own personal copy of this repository. Your secret will live in your fork — it never gets sent back to us.
+A "fork" is your own personal copy of this repository. Your secret will live in your fork. It never gets sent back to us.
 
 1. Go to **https://github.com/jordankrueger/progressive-email-suppression**
 2. Click the **Fork** button in the top-right corner
@@ -102,7 +102,7 @@ Checking Action Network connection...
 Connection check passed. You're ready to run the sweep workflow.
 ```
 
-If you see a **✗** anywhere, the log includes a friendly diagnosis pointing at the most common cause. Read it, fix the secret it points at, and run **Test Action Network connection** again. **Don't move on to the sweep until this is fully green** — every problem this catches will *also* show up in the sweep, but with much more wasted time.
+If you see a **✗** anywhere, the log includes a friendly diagnosis pointing at the most common cause. Read it, fix the secret it points at, and run **Test Action Network connection** again. **Don't move on to the sweep until this is fully green.** Every problem this catches will *also* show up in the sweep, but with much more wasted time.
 
 ---
 
@@ -117,7 +117,7 @@ Once the connection test is green, run the sweep:
 5. Click the green **Run workflow** button
 
 
-A new run appears in the list within a few seconds. Click it, then click into the **sweep** job to see the live log. The scan walks every person in your group at AN's hard 25-per-page limit — for a 10k-person group, expect ~5 minutes of scanning before any matches are reported.
+A new run appears in the list within a few seconds. Click it, then click into the **sweep** job to see the live log. The scan walks every person in your group at AN's hard 25-per-page limit. For a 10k-person group, expect about 5 minutes of scanning before any matches are reported.
 
 **A successful first dry-run looks like this:**
 
@@ -154,7 +154,7 @@ After dry-run looks right, do a small real sweep to confirm the round-trip works
 4. Set **limit** to `10`
 5. Click **Run workflow**
 
-This tags 10 actual people. Open AN admin, navigate to **Tags**, find your `psup_2026-05-10` tag, and click into it. You should see exactly 10 people tagged. **Spot-check 3-4 of them** — confirm their email addresses look like junk (disposable / typo / spam-trap domains).
+This tags 10 actual people. Open AN admin, navigate to **Tags**, find your `psup_2026-05-10` tag, and click into it. You should see exactly 10 people tagged. **Spot-check 3-4 of them.** Their email addresses should look like junk (disposables, typos of major providers, known spam-trap domains).
 
 If those 10 look right: run the full sweep with the same flags but `limit` set to `0`.
 
@@ -170,18 +170,18 @@ Audit log written to audit-an-sweep-psup_2026-05-10.csv
   → To roll back this sweep: python3 scripts/rollback_action_network.py --audit-log audit-an-sweep-psup_2026-05-10.csv
 ```
 
-Scroll back up in the run page to the **Artifacts** section — you'll see `audit-log` listed. **Download it now** (or note the run ID — the Rollback workflow can find it later by run ID). The CSV inside lists every person tagged.
+Scroll back up in the run page to the **Artifacts** section. You'll see `audit-log` listed. **Download it now** (or just note the run ID; the Rollback workflow can find the artifact later by run ID). The CSV inside lists every person tagged.
 
 In Action Network admin, navigate to **Tags → psup_YYYY-MM-DD** to see all tagged people in one view.
 
 ### Using the tag
 
-Tagging doesn't suppress anything by itself — you still have to use the tag. Two common patterns:
+Tagging doesn't suppress anything by itself. You still have to use the tag. Two common patterns:
 
 - **Mailing-by-mailing:** when sending an email blast, exclude `psup_YYYY-MM-DD` from the recipient query.
 - **Permanent suppression query:** create a saved query that always excludes `psup_*` tags. Use this query as the basis for any future blast.
 
-Some orgs prefer to also flip subscription status on tagged people (more permanent). That's a separate step we don't automate here — see the manual recipe in [everyaction.md](everyaction.md) for the equivalent process; the AN version is structurally identical.
+Some orgs prefer to also flip subscription status on tagged people (more permanent). That's a separate step we don't automate here. The manual recipe in [everyaction.md](everyaction.md) covers the equivalent process; the AN version is structurally identical.
 
 ---
 
@@ -189,19 +189,19 @@ Some orgs prefer to also flip subscription status on tagged people (more permane
 
 If you tagged the wrong group, want to start over, or no longer want the suppression applied, run **Rollback Action Network sweep** to remove every tagging the sweep applied.
 
-> ⚠️ **Read the audit log first.** The rollback only undoes what's in the audit log it reads. If the log is truncated (e.g., a workflow timeout), only the recorded portion gets rolled back. The CSV is line-buffered, so even a hard kill should preserve all rows up to the moment of failure — but verify the row count looks right before running rollback.
+> ⚠️ **Read the audit log first.** The rollback only undoes what's in the audit log it reads. If the log is truncated (e.g., a workflow timeout), only the recorded portion gets rolled back. The CSV is line-buffered, so even a hard kill should preserve all rows up to the moment of failure. Still, verify the row count looks right before running rollback.
 
 To run the rollback:
 
-1. Find the **Sweep Action Network** run you want to undo. Copy its run ID from the URL — the number after `/actions/runs/` (e.g., the URL `https://github.com/yourorg/.../actions/runs/12345678` → run ID `12345678`).
+1. Find the **Sweep Action Network** run you want to undo. Copy its run ID from the URL: the number after `/actions/runs/` (e.g., the URL `https://github.com/yourorg/.../actions/runs/12345678` gives a run ID of `12345678`).
 2. In your fork, click the **Actions** tab
 3. In the left sidebar, click **Rollback Action Network sweep**
 4. Click **Run workflow**, paste the run ID into **sweep_run_id**
-5. **Leave `confirm` unchecked.** This first run is a dry-run preview — it lists what would be removed but takes no action.
+5. **Leave `confirm` unchecked.** This first run is a dry-run preview that lists what would be removed but takes no action.
 6. Read the dry-run log. Confirm the count matches what you tagged.
 7. Run **Rollback** again with the same `sweep_run_id` AND **`confirm` checked**. This actually removes the taggings.
 
-After rollback, the audit log of removals is uploaded as a `rollback-audit-log` artifact (90-day retention). The tag entity itself remains in your AN — Action Network does not allow deleting tags via API. Hide it from the AN UI's tags list manually if it's in the way.
+After rollback, the audit log of removals is uploaded as a `rollback-audit-log` artifact (90-day retention). The tag entity itself remains in your AN, since Action Network does not allow deleting tags via API. Hide it from the AN UI's tags list manually if it's in the way.
 
 ---
 
@@ -213,10 +213,10 @@ This is a decision tree. Find what you saw, follow the fix.
 You skipped Step 2, or the secret name is misspelled. The name is case-sensitive: `AN_API_KEY`. Go back to **Settings → Secrets and variables → Actions** and check.
 
 **Test connection says ✗ "Action Network rejected the API key (HTTP 401)"**
-The key is wrong, expired, or revoked. Re-copy it from your AN admin (**Start Organizing → Details → API & Sync**) and update the secret. Note that each AN group has its own key — make sure you're using the right group's key.
+The key is wrong, expired, or revoked. Re-copy it from your AN admin (**Start Organizing → Details → API & Sync**) and update the secret. Each AN group has its own key, so double-check you're using the right group's.
 
 **Test connection says ✗ "Action Network authenticated but refused the request (HTTP 403)"**
-The key is valid but doesn't have permission for the API. Check your AN group's API settings — some tiers restrict API access; contact AN support if you can't enable it.
+The key is valid but doesn't have permission for the API. Check your AN group's API settings; some tiers restrict API access. Contact AN support if you can't enable it.
 
 **Sweep refuses to run with "Both 'dry_run' and 'apply_changes' are unchecked"**
 This is a safety guard. To run, you must either leave `dry_run` checked (preview only) OR uncheck `dry_run` AND check `apply_changes`. The double-flag prevents accidental destructive runs.
@@ -228,13 +228,13 @@ The halt-on-anomaly safety net kicked in. This is almost always a data problem, 
 - The allowlist isn't being applied (open an issue with your run log)
 
 **Sweep finishes with `0 tagged, X failed` and X is most or all of them**
-Something's structurally wrong — possibly an AN outage, a key revocation mid-run, or a bug in our handling. Check status.actionnetwork.org first. If AN is up, open an issue with the workflow log link.
+Something's structurally wrong. Possible causes: AN outage, key revocation mid-run, or a bug on our side. Check status.actionnetwork.org first. If AN is up, open an issue with the workflow log link.
 
 **Sweep was running fine, then the GitHub job timed out at 6h**
-Unusual at the default settings — AN's pagination caps the scan rate. If your group is large enough to hit this, contact us via an issue and we'll add explicit checkpoint/resume support. In the meantime, you can re-run; the sweep is idempotent (re-tagging an already-tagged person is a no-op via AN's natural API behavior).
+Unusual at the default settings, since AN's pagination caps the scan rate. If your group is large enough to hit this, contact us via an issue and we'll add explicit checkpoint/resume support. In the meantime, you can re-run; the sweep is idempotent (re-tagging an already-tagged person is a no-op via AN's natural API behavior).
 
 **Rollback says "No audit log CSV found in the downloaded artifact"**
-The sweep run you pointed at didn't produce an audit log — possibly because it failed before any tagging happened, or it was a dry-run (dry-runs don't write the log). Pick a different sweep run that actually applied tags.
+The sweep run you pointed at didn't produce an audit log. Likely it failed before any tagging happened, or it was a dry-run (dry-runs don't write the log). Pick a different sweep run that actually applied tags.
 
 **Something else**
 Open an issue using the **I need help with the AN sweep** template at https://github.com/jordankrueger/progressive-email-suppression/issues/new/choose. Include the workflow log link (secrets are never logged, but glance at it before sharing just in case).
@@ -244,15 +244,15 @@ Open an issue using the **I need help with the AN sweep** template at https://gi
 ## FAQ
 
 **Will tagged people stop receiving mail immediately?**
-No — tagging by itself doesn't change subscription status. Use the tag as an exclusion in your mailing queries (per "Using the tag" above). This is intentional: it gives you full control over when and how the suppression takes effect.
+No. Tagging by itself doesn't change subscription status. Use the tag as an exclusion in your mailing queries (see "Using the tag" above). This is intentional: it gives you full control over when and how the suppression takes effect.
 
 **Can I undo a sweep?**
-Yes — see the **Undoing a sweep** section above. The rollback only operates on the audit log it reads, so it can never affect anything else in your group.
+Yes. See the **Undoing a sweep** section above. The rollback only operates on the audit log it reads, so it can never affect anything else in your group.
 
 **Can I run this against multiple AN groups?**
 Yes. Two ways:
 - Run multiple times against the same fork by updating `AN_API_KEY` between runs (manual, but each run uses a different group's key)
-- Fork the repo multiple times, each with its own `AN_API_KEY` pointing at a different group (cleaner — no swapping)
+- Fork the repo multiple times, each with its own `AN_API_KEY` pointing at a different group (cleaner; no swapping)
 
 **Can I customize the tag name?**
 Yes. Set the **tag_name** input on the workflow form. Useful for orgs running multiple sweeps or who want to namespace by purpose (e.g., `auto-suppress-disposable-2026-05`).
@@ -270,13 +270,13 @@ No, you don't need to. The rebuild action would keep your fork's data files curr
 The bottleneck is AN's hard 25-per-page limit on the People collection. A 100k-person group needs ~4,000 GET requests just to scan. With the rate limit, that's roughly 20-25 minutes of scanning before any tagging happens. A million-person group could push 3-4 hours. Both should fit comfortably inside GitHub's 6h workflow ceiling, but if you're at the upper end and concerned, run with `limit` set to a fraction of your DB size first to gauge.
 
 **How does this interact with AN's hosted forms?**
-The sweep cleans up records that are already in your group, regardless of how they got there. It doesn't prevent new bad signups via AN-hosted forms — that requires the API proxy pattern (Pattern A in [action-network.md](action-network.md)).
+The sweep cleans up records that are already in your group, regardless of how they got there. It doesn't prevent new bad signups via AN-hosted forms; that requires the API proxy pattern (Pattern A in [action-network.md](action-network.md)).
 
 **How do I sync updates from upstream?**
-Your fork doesn't auto-update. To pull in changes (new sources, script improvements, etc.), use GitHub's **Sync fork** button at the top of your fork's main page, then click **Update branch** in the dropdown. It's safe — your secret is stored separately and isn't affected. You don't *need* to sync regularly; the sweep workflow uses upstream data via the **rebuild_first** step regardless of when you last synced.
+Your fork doesn't auto-update. To pull in changes (new sources, script improvements, etc.), use GitHub's **Sync fork** button at the top of your fork's main page, then click **Update branch** in the dropdown. Your secret is stored separately and isn't affected. You don't *need* to sync regularly; the sweep workflow uses upstream data via the **rebuild_first** step regardless of when you last synced.
 
 **Is there a way to test against a staging AN group before production?**
-Yes — point your fork at staging first (set `AN_API_KEY` to the staging group's key). Run **Test Action Network connection** + a `--limit 10` sweep. Once you're satisfied, update the secret to point at production and run again.
+Yes. Point your fork at staging first (set `AN_API_KEY` to the staging group's key). Run **Test Action Network connection** plus a `--limit 10` sweep. Once you're satisfied, update the secret to point at production and run again.
 
 ---
 
@@ -284,7 +284,7 @@ Yes — point your fork at staging first (set `AN_API_KEY` to the staging group'
 
 Your Action Network API key lives only inside your GitHub fork's encrypted secret store. It never leaves your fork; it isn't sent to this project's maintainers; it isn't logged in workflow output. The only system that sees it is GitHub Actions itself, which uses it to talk directly to Action Network's API.
 
-The audit log uploaded as a workflow artifact contains the email addresses and AN URLs of tagged people. Workflow artifacts are visible only to people with read access to your fork — for most forks (default settings), that's you and anyone you've explicitly added as a collaborator. If you'd like the audit log redacted before download (e.g., for compliance), open an issue.
+The audit log uploaded as a workflow artifact contains the email addresses and AN URLs of tagged people. Workflow artifacts are visible only to people with read access to your fork. For most forks (default settings), that's you and anyone you've explicitly added as a collaborator. If you'd like the audit log redacted before download (e.g., for compliance), open an issue.
 
 ---
 
@@ -312,4 +312,4 @@ python3 scripts/rollback_action_network.py --audit-log audit-an-sweep-psup_2026-
 python3 scripts/rollback_action_network.py --audit-log audit-an-sweep-psup_2026-05-10.csv --yes   # actually delete
 ```
 
-No `pip install` needed — stdlib only.
+No `pip install` needed. Stdlib only.
