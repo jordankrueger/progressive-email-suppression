@@ -1,6 +1,6 @@
 # EveryAction / NGP VAN
 
-> **No executable script — this is a manual process guide.** EveryAction and NGP VAN are paid Democratic-vendor products with no free tier or public sandbox we can test against. We're not willing to publish a script for the platform that runs national-level Democratic infrastructure without testing it end-to-end first. If your org grants a partner test instance with API access, we'd love to build one — open an issue.
+> **No executable script. This is a manual process guide.** EveryAction and NGP VAN are paid Democratic-vendor products with no free tier or public sandbox we can test against. We're not willing to publish a script for the platform that runs national-level Democratic infrastructure without testing it end-to-end first. If your org can grant a partner test instance with API access, we'd love to build one. Open an issue.
 >
 > **What this doc covers instead:** three manual paths to apply the suppression list, each suited to a different kind of org. Pick the one that matches your situation, then follow the step-by-step.
 
@@ -40,7 +40,7 @@ If your org pays for NGP VAN's premium support, this is by far the easiest path.
 
 > Hi [NGP rep's name],
 >
-> We're applying a domain-level email suppression list to our database (~66,000 disposable / typo / spam-trap domains) — both to clean up existing records and to be more careful about future imports. The list is from progressive-email-suppression on GitHub (CC0-licensed).
+> We're applying a domain-level email suppression list to our database (~66,000 disposable, typo, and spam-trap domains) to clean up existing records and to be more careful about future imports. The list is from progressive-email-suppression on GitHub (CC0-licensed).
 >
 > Can you run a one-time backend job to:
 > 1. Find any existing person record whose primary email's domain matches one of the entries in the attached CSV
@@ -94,7 +94,7 @@ POST /v4/activistCodes
 
 **Step 2: Page through People.**
 
-EA's People list endpoint paginates with `?$top=N&$skip=M` (verify on your version). The hard `$top` ceiling has historically been 200; newer versions may differ. Page size matters — bigger pages mean fewer round trips.
+EA's People list endpoint paginates with `?$top=N&$skip=M` (verify on your version). The hard `$top` ceiling has historically been 200; newer versions may differ. Page size matters: bigger pages mean fewer round trips.
 
 Pseudocode:
 
@@ -133,7 +133,7 @@ POST /v4/people/{vanId}/activistCodes
 }
 ```
 
-**Important:** EA's docs use multiple person-identifier types (`vanId`, `extendedSourceCode`, etc.). Use whatever ID you got from the People list response — most commonly `vanId`.
+**Important:** EA's docs use multiple person-identifier types (`vanId`, `extendedSourceCode`, etc.). Use whatever ID you got from the People list response, most commonly `vanId`.
 
 **Step 5: Throttle.**
 
@@ -141,16 +141,16 @@ EA does not document a public rate limit. Empirically, ~2 req/sec is safe; 5+ ma
 
 **Step 6: Audit log.**
 
-Write every change to a CSV. Minimum columns: `timestamp, vanId, email, domain, activist_code_id, status`. This is your only path to a rollback later — if you don't capture it, you have no way to find the records you tagged.
+Write every change to a CSV. Minimum columns: `timestamp, vanId, email, domain, activist_code_id, status`. This is your only path to a rollback later. If you don't capture it, you have no way to find the records you tagged.
 
 ### Sanity-check before scaling up
 
 - Run against your first 200 people only (`top=200`, no loop).
 - Verify the activist code shows up on the matched people in EA's UI.
 - Verify a non-matched person did NOT get the code applied.
-- Spot-check 10 of the matched people — do their domains look like real junk?
+- Spot-check 10 of the matched people. Do their domains look like real junk?
 
-If everything looks right, proceed to a full run. **Do not skip the sample step** — the consequences of a bad query in EA are slow to undo.
+If everything looks right, proceed to a full run. **Do not skip the sample step.** The consequences of a bad query in EA are slow to undo.
 
 ---
 
@@ -167,13 +167,13 @@ If your API access is limited (some EA tenants restrict API write permissions to
 3. **Re-import via AnyImport** with a single column added: `ApplyActivistCode = EXCLUDED_DOMAIN_SUPPRESSION_LIST`. AnyImport's "match on vanId, apply activist code" mode does not modify any other field.
 4. **Verify.** Check 10 records via the UI. Confirm the activist code is applied and nothing else changed.
 
-This path trades velocity for safety — it's slower than the API recipe but easier to QA because you can review the input CSV before re-importing.
+This path trades velocity for safety. It's slower than the API recipe but easier to QA, because you can review the input CSV before re-importing.
 
 ---
 
 ## Verifying `subscriptionStatus` enum values (if you later flip status)
 
-If your org decides to also flip subscription status on flagged records (separate from tagging), do NOT just PATCH at scale based on a value you saw in another vendor's docs. EA's `subscriptionStatus` field has historically used different enum values across API versions — examples in the wild include `"U"`, `"Unsubscribed"`, `"NotSubscribed"`. **Confirm your instance's accepted values before running at scale:**
+If your org decides to also flip subscription status on flagged records (separate from tagging), do NOT just PATCH at scale based on a value you saw in another vendor's docs. EA's `subscriptionStatus` field has historically used different enum values across API versions; examples in the wild include `"U"`, `"Unsubscribed"`, and `"NotSubscribed"`. **Confirm your instance's accepted values before running at scale:**
 
 1. Pick one test person in EA's UI. Note their current subscription status.
 2. PATCH them with the value you intend to use:
@@ -197,7 +197,7 @@ Only after this PATCH-PATCH-back round-trip succeeds should you script anything 
 If your org pays for premium support, ask:
 
 - "Can you run a one-time SQL suppression against a domain list we provide?" (Yes, in our experience.)
-- "Is there a way to create a `Do Not Email` rule at the domain level that applies to all future imports automatically?" (Usually no, but ask — features change.)
+- "Is there a way to create a `Do Not Email` rule at the domain level that applies to all future imports automatically?" (Usually no, but ask. Features change.)
 - "What's the exact enum value for `subscriptionStatus = unsubscribed` in our instance's API?" (They can answer this immediately; saves a debugging round-trip.)
 - "If we apply an activist code to ~5,000 people, will that affect any existing automations or campaign queries that filter on activist codes?" (Worth checking before triggering downstream side effects.)
 
@@ -205,11 +205,11 @@ If your org pays for premium support, ask:
 
 ## Internal forms (Online Actions / OLAs, MiniVAN)
 
-If the offending signups are coming through VAN's own hosted forms (Online Actions / OLAs, MiniVAN, etc.), pre-filtering at signup-time isn't possible — the platform creates the record before any external system sees it. Your only option is periodic cleanup (any of the three paths above).
+If the offending signups are coming through VAN's own hosted forms (Online Actions / OLAs, MiniVAN, etc.), pre-filtering at signup-time isn't possible: the platform creates the record before any external system sees it. Your only option is periodic cleanup (any of the three paths above).
 
 ---
 
-## Why we don't ship a script for this — and what would change that
+## Why we don't ship a script for this, and what would change that
 
 We want to ship one. We don't ship one yet because:
 
