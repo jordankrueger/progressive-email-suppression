@@ -1,8 +1,50 @@
 # Action Network
 
-Action Network has no native domain-level suppression feature. Subscription status is per-person only. Two patterns work:
+Action Network has no native domain-level suppression feature. Subscription status is per-person only, so applying the suppression list takes one of two patterns. Pick based on the problem you're solving.
 
-## Pattern A: API proxy at signup (recommended)
+| Problem | Pattern | What you do |
+|---|---|---|
+| **You already have a bunch of bad records in your AN database** and want to clean them up | **Pattern B** — scheduled sweep | Tag matching people; use the tag to exclude them from mailings. **Recommended.** Self-serve: see [action-network-self-serve.md](action-network-self-serve.md). |
+| **You want to prevent new bad signups going forward** | **Pattern A** — API proxy at signup | Put your own endpoint in front of your signup form; reject signups that match the list before they reach AN |
+
+Most orgs need Pattern B first (cleanup), then optionally adopt Pattern A (prevention) later. The two are independent.
+
+---
+
+## Pattern B: scheduled sweep — recommended path
+
+For people already in AN whose primary email is on the suppression list, our self-serve workflow tags them with a dated tag (`psup_YYYY-MM-DD`). The admin then uses the tag to exclude tagged people from mailings via AN's standard mailing filters.
+
+We deliberately do NOT change subscription status during the sweep. Tagging is reversible (the rollback workflow removes every tagging it applied) and keeps you in control of when and how the suppression actually affects sends. Subscription-state changes are not.
+
+**To run it:** see [action-network-self-serve.md](action-network-self-serve.md). You fork the repo, add one secret (`AN_API_KEY`), and click a button.
+
+If you'd rather run it manually:
+
+```python
+# Each match comes from paginating the People API. Use the self URL.
+person_self_url = person["_links"]["self"]["href"]
+# To tag: POST to the tag's taggings endpoint with the person's self URL
+requests.post(
+    f"https://actionnetwork.org/api/v2/tags/{tag_uuid}/taggings/",
+    headers={"OSDI-API-Token": api_key},
+    json={"_links": {"osdi:person": {"href": person_self_url}}}
+)
+```
+
+**Important constraints:**
+
+- **People collection has no server-side filtering.** No `?filter=email_domain` parameter exists. You must paginate through every person and filter client-side.
+- **Page size is hard-capped at 25.** A 100k-person AN database needs ~4,000 GET requests just to scan, ignoring the rate limit.
+- **Rate limit:** community-known as 4 req/sec. We cap our scripts at 3.5 QPS to leave headroom. AN's official docs don't document a rate limit, but exceeding ~4/sec returns 429s in practice.
+- **Tag dedup is built into the API.** POSTing a tag with an existing name returns the existing tag's resource — no "find or create" pre-check needed.
+- **Tag deletion is not allowed via API.** After rollback, the empty tag stays in your group. Hide it from the AN UI's tags list manually if it's in the way.
+
+---
+
+## Pattern A: API proxy at signup
+
+**When to use this:** you're building a new signup form, or you control your existing form's submission endpoint, and you want to filter at signup-time so bad records never enter AN in the first place.
 
 **Important AN quirks that shape the integration:**
 
@@ -25,33 +67,12 @@ Action Network has no native domain-level suppression feature. Subscription stat
 - **If** node — branch on match
 - **HTTP Request** node — on the clean branch, POST to your AN form's Person Signup Helper URL
 
-### Rate limits
+### Rate limits at signup
 
-Action Network rate-limits at **4 requests per second**. The docs recommend exponential backoff on 429 responses. A nightly sweep across tens of thousands of records will need to throttle; a live signup filter won't hit this in normal use.
+Live signup filtering won't hit AN's rate limits in normal use — you only POST when a signup passes the domain check. Backed off properly on 429s, AN's API can handle bursts during traffic spikes.
 
-## Pattern B: scheduled sweep (for existing records)
-
-For people already in AN whose email is on the suppression list, run a periodic cleanup via the People API.
-
-1. Fetch `combined.txt`
-2. Page through the People API (GET is allowed; only POST to the collection is restricted)
-3. For each person whose email domain matches, PUT their record with `email_addresses[0].status = "unsubscribed"`
-4. Optionally add a tag for tracking
-
-**Use the `self` URL from the GET response, not a URL you construct.** Every AN resource returns a `_links.self.href` that is the canonical URL for updates — follow the hypermedia rather than building `/people/{numeric_id}`. AN's internal identifiers are UUIDs surfaced in `identifiers`, and their URL structure is not guaranteed to be stable. Example:
-
-```python
-# GET a page of people, then for each match:
-self_url = person["_links"]["self"]["href"]
-requests.put(self_url, headers=..., json={
-    "email_addresses": [{"address": person_email, "status": "unsubscribed"}]
-})
-```
-
-Valid `status` values per AN's docs: `subscribed`, `unsubscribed`, `bouncing`, `previous bounce`, `spam complaint`, `previous spam complaint`. Only `subscribed` and `unsubscribed` can be set by API callers — the others are system-managed.
-
-Throttle at 3-4 requests/sec and back off on 429s.
+---
 
 ## A note on AN's hosted forms
 
-If your signup forms live on `actionnetwork.org/forms/...` (AN-hosted, not your own site), you can't pre-filter at all. AN creates the record before any external system sees it, and the webhook that notifies you fires minutes later. In that case, stick with Pattern B and run the scheduled sweep.
+If your signup forms live on `actionnetwork.org/forms/...` (AN-hosted, not your own site), Pattern A isn't possible. AN creates the record before any external system sees it, and the webhook that notifies you fires minutes later. In that case, run Pattern B periodically to clean up bad signups after the fact.

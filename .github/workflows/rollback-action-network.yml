@@ -1,0 +1,100 @@
+name: Rollback Action Network sweep
+
+# Removes every tagging that a previous "Sweep Action Network" run applied,
+# by reading the audit-log artifact uploaded by that run.
+#
+# How to use:
+#   1. Go to the Sweep Action Network run you want to undo.
+#      Copy its run ID from the URL (the number after /actions/runs/).
+#   2. Run this workflow with that ID.
+#   3. The first run is a dry-run (regardless of inputs) — it lists what
+#      would be deleted. Read the list. If it looks right, run again with
+#      `confirm` checked.
+#
+# Action Network does NOT allow deleting tag entities via API. After
+# rollback the tag will exist in your AN with zero people tagged. Hide it
+# from the AN UI's tags list manually if it's in the way.
+#
+# Required repository secret:
+#   AN_API_KEY   Your Action Network group's API key (same as for the sweep)
+
+on:
+  workflow_dispatch:
+    inputs:
+      sweep_run_id:
+        description: "Run ID of the Sweep Action Network workflow to roll back. Find it in the URL of that run (e.g. /actions/runs/12345 → 12345)."
+        type: string
+        required: true
+      confirm:
+        description: "Required to actually delete. Without this checked, the workflow runs as a dry-run preview."
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  actions: read  # needed to read the prior run's artifact
+
+jobs:
+  rollback:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify required secret is set
+        env:
+          AN_API_KEY: ${{ secrets.AN_API_KEY }}
+        run: |
+          if [ -z "$AN_API_KEY" ]; then
+            echo "::error::Missing required repository secret: AN_API_KEY"
+            exit 1
+          fi
+          echo "AN_API_KEY is present."
+
+      - name: Download audit log from sweep run ${{ inputs.sweep_run_id }}
+        uses: actions/download-artifact@v4
+        with:
+          name: audit-log
+          run-id: ${{ inputs.sweep_run_id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: ./rollback-input
+
+      - name: Locate audit log
+        id: find_log
+        run: |
+          set -euo pipefail
+          log=$(ls rollback-input/audit-an-sweep-*.csv 2>/dev/null | head -n1 || true)
+          if [ -z "$log" ]; then
+            echo "::error::No audit log CSV found in the downloaded artifact."
+            echo "Make sure the sweep_run_id points at a Sweep Action Network run that uploaded an audit log."
+            exit 1
+          fi
+          echo "Found audit log: $log"
+          echo "log_path=$log" >> "$GITHUB_OUTPUT"
+
+      - name: Run the rollback
+        env:
+          AN_API_KEY: ${{ secrets.AN_API_KEY }}
+          # Inputs and step outputs passed via env (auto-escaped), not
+          # interpolated into the shell string. Prevents command injection.
+          INPUT_CONFIRM: ${{ inputs.confirm }}
+          LOG_PATH: ${{ steps.find_log.outputs.log_path }}
+        run: |
+          set -euo pipefail
+          args=(--audit-log "$LOG_PATH")
+          if [ "$INPUT_CONFIRM" = "true" ]; then
+            args+=(--yes)
+          fi
+          python3 scripts/rollback_action_network.py "${args[@]}"
+
+      - name: Upload rollback audit log
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: rollback-audit-log
+          path: rollback-input/*.rollback.csv
+          if-no-files-found: ignore
+          retention-days: 90

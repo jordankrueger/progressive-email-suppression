@@ -1,6 +1,7 @@
 # Progressive email suppression list
 
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0%201.0-lightgrey.svg)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/jordankrueger/progressive-email-suppression)](https://github.com/jordankrueger/progressive-email-suppression/releases)
 [![Nightly rebuild](https://github.com/jordankrueger/progressive-email-suppression/actions/workflows/rebuild.yml/badge.svg)](https://github.com/jordankrueger/progressive-email-suppression/actions/workflows/rebuild.yml)
 [![Last commit](https://img.shields.io/github/last-commit/jordankrueger/progressive-email-suppression)](https://github.com/jordankrueger/progressive-email-suppression/commits/main)
 [![Domains](https://img.shields.io/badge/domains-~66k-blue)](data/combined.txt)
@@ -11,7 +12,8 @@ A regularly-updated list of email domains your org should skip when sending: dis
 
 - **The list:** [`data/combined.txt`](data/combined.txt) — ~66k domains. Always-fresh raw URL: `https://raw.githubusercontent.com/jordankrueger/progressive-email-suppression/main/data/combined.txt`
 - **ActionKit users:** [self-serve import guide](integrations/actionkit-self-serve.md) — fork, set 3 secrets, click "Run workflow." 10 minutes, no code.
-- **Other platforms:** [`integrations/`](integrations/) — Action Network, EveryAction, Listmonk, more on the way.
+- **Action Network users:** [self-serve sweep guide](integrations/action-network-self-serve.md) — same pattern. Tags matched people; you decide how to use the tag. Reversible via the rollback workflow.
+- **Other platforms:** [`integrations/`](integrations/) — EveryAction (manual process guide), Listmonk, more on the way.
 - **License:** CC0 1.0. Use it however your mission requires.
 
 ## Why this exists
@@ -55,9 +57,9 @@ https://raw.githubusercontent.com/jordankrueger/progressive-email-suppression/ma
 
 Detailed instructions for specific platforms live in [`integrations/`](integrations/):
 
-- **ActionKit** — uses native "Blackhole Domains" feature
-- **Action Network** — no native support; use an API proxy at signup or a scheduled sweep
-- **EveryAction / NGP VAN** — no native support; use an API proxy at signup or a scheduled sweep
+- **ActionKit** — native "Blackhole Domains" feature; [self-serve workflow](integrations/actionkit-self-serve.md) imports the list with one button-press
+- **Action Network** — no native support; [self-serve workflow](integrations/action-network-self-serve.md) tags matched people for use as a mailing exclusion. Optional API-proxy pattern at signup for prevention.
+- **EveryAction / NGP VAN** — [manual process guide](integrations/everyaction.md) — three paths (NGP support, custom API recipe, export-and-reimport). No automated workflow yet (no test instance to validate against).
 - **Listmonk** — API-proxy pattern at signup, or SQL cleanup
 - **Sendy, Mailchimp, Klaviyo** — coming soon
 
