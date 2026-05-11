@@ -44,6 +44,7 @@ from _an_common import (
     check_connection,
     get_credentials_and_headers,
     remove_tagging,
+    validate_workers,
 )
 
 
@@ -94,10 +95,7 @@ def main() -> int:
     if args.check:
         return check_connection()
 
-    if args.workers < 1:
-        sys.exit("ERROR: --workers must be >= 1")
-    if args.workers > MAX_WORKERS:
-        sys.exit(f"ERROR: --workers must be <= {MAX_WORKERS}")
+    validate_workers(args.workers)
 
     audit_path = Path(args.audit_log)
     rows = load_taggings_to_remove(audit_path)

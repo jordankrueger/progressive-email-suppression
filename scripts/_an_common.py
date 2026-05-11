@@ -51,6 +51,14 @@ COMBINED = REPO / "data" / "combined.txt"
 ALLOWLIST = REPO / "sources" / "allowlist.txt"
 
 
+def validate_workers(workers: int) -> None:
+    """Validate the --workers argument; sys.exit with a clear message if out of range."""
+    if workers < 1:
+        sys.exit("ERROR: --workers must be >= 1")
+    if workers > MAX_WORKERS:
+        sys.exit(f"ERROR: --workers must be <= {MAX_WORKERS} (AN's rate limit makes higher counterproductive)")
+
+
 def env_required(name: str) -> str:
     v = os.environ.get(name, "").strip()
     if not v:
