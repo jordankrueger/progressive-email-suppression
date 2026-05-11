@@ -53,6 +53,7 @@ from _an_common import (
     load_combined,
     paginate,
     tag_uuid_from,
+    validate_workers,
 )
 
 ANOMALY_THRESHOLD = 0.25  # halt if more than this fraction of fetched people match
@@ -104,7 +105,7 @@ def find_matches(headers: dict, suppression: set[str], allowlist: set[str],
 
         # Periodic progress print so admins watching the workflow log see life
         now = time.monotonic()
-        if seen % 500 == 0 or (now - last_print) >= 30:
+        if seen % PROGRESS_EVERY == 0 or (now - last_print) >= PROGRESS_INTERVAL_SECONDS:
             ratio = (len(matches) / seen) if seen else 0
             print(f"  scanned {seen:,} people, {len(matches):,} matches so far ({ratio*100:.1f}%)", flush=True)
             last_print = now
@@ -267,11 +268,7 @@ def main() -> int:
     if args.check:
         return check_connection()
 
-    if args.workers < 1:
-        sys.exit("ERROR: --workers must be >= 1")
-    if args.workers > MAX_WORKERS:
-        sys.exit(f"ERROR: --workers must be <= {MAX_WORKERS} (AN's rate limit makes higher counterproductive)")
-
+    validate_workers(args.workers)
     return run_sweep(args)
 
 
