@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-10
+# progressive-email-suppression — generated 2026-05-11
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66213 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66217 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4547,7 +4547,6 @@ agamail.com
 agapetus.info
 agar.co.pl
 agartstudio.com.pl
-agasolution.me
 agave.buzz
 agcd.com
 agdrtv.com
@@ -10943,7 +10942,6 @@ btopeworld.com
 btopnworld.com
 btpd3.anonbox.net
 btpenworld.com
-btpes.anonbox.net
 btrvo.anonbox.net
 btsblock.com
 btsese.com
@@ -11679,7 +11677,6 @@ caitlinhalderman.art
 caiwenhao.cn
 cajacket.com
 cajyre.xyz
-cakdays.com
 cake99.ml
 cakecaine.biz.id
 cakemayor.com
@@ -18648,6 +18645,9 @@ edumail.fun
 edumail.me
 edumail.store
 edumail.su
+edumaili.com
+edumaili.edu.pl
+edumaill.edu.pl
 edumomtalk.com
 edunk.com
 edupolska.edu.pl
@@ -36710,6 +36710,7 @@ maileater.com
 mailed.in
 mailed.ro
 maileder.com
+mailedu.edu.pl
 maileere.com
 maileimer.de
 mailelectronic.com
@@ -39045,6 +39046,7 @@ mmail.org
 mmail.trade
 mmail.xyz
 mmailinater.com
+mmaily.com
 mmccproductions.com
 mmcdoutpwg.pl
 mmciinc.com
@@ -62763,6 +62765,7 @@ writersefx.com
 writinghelper.top
 writingservice.cf
 written4you.info
+wriuq.anonbox.net
 wrjadeszd.pl
 wrlnewstops.space
 wroclaw-tenis-stolowy.pl
@@ -64582,6 +64585,7 @@ ydah.me
 ydeclinegv.com
 ydgeimrgd.shop
 ydhoo.com
+ydjfnea.shop
 ydlmkoutletjackets9us.com
 ydns.eu
 ydsbinai.com
