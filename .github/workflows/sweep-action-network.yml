@@ -72,8 +72,12 @@ jobs:
           echo "AN_API_KEY is present."
 
       - name: Refuse destructive runs without explicit opt-in
+        env:
+          INPUT_DRY_RUN: ${{ inputs.dry_run }}
+          INPUT_APPLY_CHANGES: ${{ inputs.apply_changes }}
         run: |
-          if [ "${{ inputs.dry_run }}" != "true" ] && [ "${{ inputs.apply_changes }}" != "true" ]; then
+          set -euo pipefail
+          if [ "$INPUT_DRY_RUN" != "true" ] && [ "$INPUT_APPLY_CHANGES" != "true" ]; then
             echo "::error::Both 'dry_run' and 'apply_changes' are unchecked. Refusing to run."
             echo "To make this a safe-by-default workflow, you must EITHER:"
             echo "  - leave dry_run checked (preview only — recommended for first runs), OR"
@@ -88,21 +92,31 @@ jobs:
       - name: Run the sweep
         env:
           AN_API_KEY: ${{ secrets.AN_API_KEY }}
+          # Inputs are passed via env (auto-escaped by GH Actions), NOT
+          # interpolated into the shell string. This prevents command
+          # injection via any user-controlled input.
+          INPUT_DRY_RUN: ${{ inputs.dry_run }}
+          INPUT_APPLY_CHANGES: ${{ inputs.apply_changes }}
+          INPUT_LIMIT: ${{ inputs.limit }}
+          INPUT_WORKERS: ${{ inputs.workers }}
+          INPUT_FORCE: ${{ inputs.force }}
+          INPUT_TAG_NAME: ${{ inputs.tag_name }}
         run: |
-          flags="--workers ${{ inputs.workers }}"
-          if [ "${{ inputs.dry_run }}" = "true" ]; then
-            flags="$flags --dry-run"
+          set -euo pipefail
+          args=(--workers "$INPUT_WORKERS")
+          if [ "$INPUT_DRY_RUN" = "true" ]; then
+            args+=(--dry-run)
           fi
-          if [ "${{ inputs.limit }}" != "0" ]; then
-            flags="$flags --limit ${{ inputs.limit }}"
+          if [ "$INPUT_LIMIT" != "0" ]; then
+            args+=(--limit "$INPUT_LIMIT")
           fi
-          if [ "${{ inputs.force }}" = "true" ]; then
-            flags="$flags --force"
+          if [ "$INPUT_FORCE" = "true" ]; then
+            args+=(--force)
           fi
-          if [ -n "${{ inputs.tag_name }}" ]; then
-            flags="$flags --tag ${{ inputs.tag_name }}"
+          if [ -n "$INPUT_TAG_NAME" ]; then
+            args+=(--tag "$INPUT_TAG_NAME")
           fi
-          python3 scripts/sweep_action_network.py $flags
+          python3 scripts/sweep_action_network.py "${args[@]}"
 
       - name: Upload audit log
         if: ${{ always() }}

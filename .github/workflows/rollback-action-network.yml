@@ -65,7 +65,8 @@ jobs:
       - name: Locate audit log
         id: find_log
         run: |
-          log=$(ls rollback-input/audit-an-sweep-*.csv 2>/dev/null | head -n1)
+          set -euo pipefail
+          log=$(ls rollback-input/audit-an-sweep-*.csv 2>/dev/null | head -n1 || true)
           if [ -z "$log" ]; then
             echo "::error::No audit log CSV found in the downloaded artifact."
             echo "Make sure the sweep_run_id points at a Sweep Action Network run that uploaded an audit log."
@@ -77,12 +78,17 @@ jobs:
       - name: Run the rollback
         env:
           AN_API_KEY: ${{ secrets.AN_API_KEY }}
+          # Inputs and step outputs passed via env (auto-escaped), not
+          # interpolated into the shell string. Prevents command injection.
+          INPUT_CONFIRM: ${{ inputs.confirm }}
+          LOG_PATH: ${{ steps.find_log.outputs.log_path }}
         run: |
-          flags="--audit-log ${{ steps.find_log.outputs.log_path }}"
-          if [ "${{ inputs.confirm }}" = "true" ]; then
-            flags="$flags --yes"
+          set -euo pipefail
+          args=(--audit-log "$LOG_PATH")
+          if [ "$INPUT_CONFIRM" = "true" ]; then
+            args+=(--yes)
           fi
-          python3 scripts/rollback_action_network.py $flags
+          python3 scripts/rollback_action_network.py "${args[@]}"
 
       - name: Upload rollback audit log
         if: ${{ always() }}

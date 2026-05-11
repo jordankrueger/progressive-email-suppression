@@ -70,12 +70,18 @@ jobs:
           AK_INSTANCE: ${{ secrets.AK_INSTANCE }}
           AK_USERNAME: ${{ secrets.AK_USERNAME }}
           AK_PASSWORD: ${{ secrets.AK_PASSWORD }}
+          # Inputs passed via env (auto-escaped by GH Actions), not
+          # interpolated into the shell string. Prevents command injection.
+          INPUT_DRY_RUN: ${{ inputs.dry_run }}
+          INPUT_LIMIT: ${{ inputs.limit }}
+          INPUT_WORKERS: ${{ inputs.workers }}
         run: |
-          flags="--workers ${{ inputs.workers }}"
-          if [ "${{ inputs.dry_run }}" = "true" ]; then
-            flags="$flags --dry-run"
+          set -euo pipefail
+          args=(--workers "$INPUT_WORKERS")
+          if [ "$INPUT_DRY_RUN" = "true" ]; then
+            args+=(--dry-run)
           fi
-          if [ "${{ inputs.limit }}" != "0" ]; then
-            flags="$flags --limit ${{ inputs.limit }}"
+          if [ "$INPUT_LIMIT" != "0" ]; then
+            args+=(--limit "$INPUT_LIMIT")
           fi
-          python3 scripts/import_to_actionkit.py $flags
+          python3 scripts/import_to_actionkit.py "${args[@]}"
