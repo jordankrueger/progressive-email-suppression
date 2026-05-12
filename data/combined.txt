@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-11
+# progressive-email-suppression — generated 2026-05-12
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66217 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66222 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -11461,7 +11461,6 @@ bywuicsfn.pl
 byz4v.anonbox.net
 byzoometri.com
 bz-mytyshi.ru
-bzajx.anonbox.net
 bzbu9u7w.xorg.pl
 bzcvc.anonbox.net
 bzfads.space
@@ -11653,6 +11652,7 @@ caddelll12819.info
 cade.org.uk
 cadillac-ats.tk
 cadinr.com
+cadok.biz.id
 cadomoingay.info
 cadoudecraciun.tk
 cadsaf.us
@@ -13425,6 +13425,7 @@ click24.site
 click2btc.com
 click2mail.net
 clickanerd.net
+clickcore99.click
 clickdeal.co
 clickernews.com
 clickmagnit.ru
@@ -24032,6 +24033,7 @@ ggrreds.com
 ggtoll.com
 ggvk.ru
 ggvk.store
+ggwpray.biz.id
 ggxhunter.com
 ggxx.com
 gh-stroy.ru
@@ -25806,7 +25808,6 @@ guvewfmn7j1dmp.tk
 guybox.info
 guysmail.com
 guystelchim.tk
-guzinduygukuka.cfd
 guzqrwroil.pl
 gvatemala-nedv.ru
 gvdk.com
@@ -30903,6 +30904,7 @@ jasmierodgers.ga
 jasminsusan.paris-gmail.top
 jasmne.com
 jasonbella.online
+jasonpost.site
 jasonvix.asia
 jatmikav.top
 jauhari.cf
@@ -32150,6 +32152,7 @@ kartvelo.me
 kartykredytowepl.info
 kartyusb.pl
 kasandraava.livefreemail.top
+kasb7.anonbox.net
 kasdewhtewhrfasaea.vv.cc
 kashi-sale.com
 kasihtahuaja.xyz
@@ -37763,6 +37766,7 @@ masaindah.online
 masashi5210.yoshito97.veinflower.xyz
 masasih.loan
 masdo88.top
+masdwi.site
 masgtd.xyz
 mashed.site
 mashkrush.info
@@ -38330,7 +38334,6 @@ memek.ml
 memem.uni.me
 mememail.com
 memequeen.club
-memhers.com
 memkottawaprofilebacks.com
 memoriesphotos.com
 memoryence.com
@@ -59250,6 +59253,7 @@ unionpkg.com
 uniqo.xyz
 uniquebedroom-au.com
 uniquebrand.pl
+uniqueproducts.site
 uniqueseo.pl
 unireaurzicenikaput.com
 uniromax.com
@@ -60721,6 +60725,7 @@ visualimpactreviews.com
 visualisme.com
 visualkonzept.de
 visualpro.online
+vitacimin.me
 vitahicks.com
 vitaldevelopmentsolutions.com
 vitalizehairgummy.com
