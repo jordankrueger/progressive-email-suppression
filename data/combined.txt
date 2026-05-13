@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-12
+# progressive-email-suppression — generated 2026-05-13
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66222 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66228 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -9975,7 +9975,6 @@ bnyhr.us
 bnyzw.info
 bnzlu.anonbox.net
 bo.com.br
-bo6yw.anonbox.net
 bo7uolokjt7fm4rq.cf
 bo7uolokjt7fm4rq.ga
 bo7uolokjt7fm4rq.gq
@@ -15214,6 +15213,7 @@ d4eclvewyzylpg7ig.gq
 d4eclvewyzylpg7ig.ml
 d4eclvewyzylpg7ig.tk
 d4networks.org
+d4ngerssquy.info
 d4wan.com
 d58pb91.com
 d5fffile.ru
@@ -21505,6 +21505,7 @@ fibered763aa.online
 fiberglassshowerunits.biz
 fiberoptics4tn.com
 fiberyarn.com
+fiberzonewest.com
 fibimail.com
 fibmail.com
 fibram.tech
@@ -25015,6 +25016,7 @@ golfonblog.com
 golfshop.live
 golfsports.info
 golidi.net
+golika.shop
 golimar.com
 goliokao.cf
 goliokao.ga
@@ -38086,6 +38088,7 @@ mcsoh.org
 mcsweeneys.com
 mctware.com
 mcvip.es
+mcvzd.anonbox.net
 mcytaooo0099-0.com
 mcyvkf6y7.pl
 md5hashing.net
@@ -38302,7 +38305,6 @@ melhor.ws
 melhoramentos.net
 melhorvisao.online
 melifestyle.ru
-melikesekin.cfd
 melindaschenk.com
 meliput.com
 melite.shop
@@ -40841,7 +40843,6 @@ napmails.online
 napoleonides.xyz
 naprawa-wroclaw.xaa.pl
 naprb.com
-napthe89.net
 naqulu.com
 narcoboy.sbs
 nares.de
@@ -44575,6 +44576,7 @@ p-gdl.ga
 p-gdl.gq
 p-gdl.ml
 p-gdl.tk
+p-kk2.icu
 p-oops.com
 p-response.com
 p-ttc.top
@@ -46406,6 +46408,7 @@ postupstand.com
 posurl.ga
 posvabotma.x24hr.com
 potarveris.xyz
+potatocompany.us
 potawaomi.org
 potencialexstore.ru
 potenss.academy
@@ -51653,6 +51656,7 @@ semusimbersama.online
 semut-kecil.com
 semutireng.com
 semutkecil.com
+senacloud.email
 senam.cz
 senang.uu.me
 senas.xyz
@@ -54548,7 +54552,6 @@ sudoworld.com
 sudoworld.net
 sudurr.mobi
 suedcore.com
-suepbergoyang.xyz
 suerig.com.br
 sueshaw.com
 suexamplesb.com
@@ -57108,6 +57111,7 @@ titaspaharpur5.ml
 titaspaharpur5.tk
 titenpa.com
 titkiprokla.tk
+titko.my.id
 title1program.com
 titmail.com
 tittbit.in
@@ -60589,6 +60593,7 @@ vippoker88.info
 vippoker88.org
 vipracing.icu
 vipraybanuk.co.uk
+vipregclone.click
 vips.pics
 vipsbet.com
 vipsmail.us
@@ -65291,6 +65296,7 @@ yzidaxqyt.pl
 yzkrachel.com
 yzm.de
 yznakandex.ru
+yzrkive.cfd
 yzvy.com
 yzx12.com
 z-7mark.ru
