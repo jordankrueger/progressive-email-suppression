@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-13
+# progressive-email-suppression — generated 2026-05-14
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66228 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66238 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -9013,6 +9013,7 @@ bf8878.com
 bfagv.anonbox.net
 bfat7fiilie.ru
 bfcie.anonbox.net
+bfgop.anonbox.net
 bfhgh.com
 bfile.site
 bfiq5.anonbox.net
@@ -19895,6 +19896,7 @@ erhoei.com
 ericjohnson.ml
 ericreyess.com
 ericsreviews.com
+erimim3ji9n349j439349340943.webredirect.org
 erine.email
 erinnfrechette.com
 eripo.net
@@ -25243,6 +25245,7 @@ goround.info
 gorskie-noclegi.pl
 gorzowiak.info
 gosarlar.com
+gosea.sbs
 gosearchcity.us
 goseep.com
 goshisolo.ru
@@ -29313,7 +29316,6 @@ ikuzus.ga
 ikuzus.gq
 ikuzus.ml
 ikuzus.tk
-ikwdf.anonbox.net
 il.co.jp.jp
 il.edu.pl
 ilamseo.com
@@ -33262,6 +33264,7 @@ ksqpmcw8ucm.ml
 ksqpmcw8ucm.tk
 ksudnngf-jh.xyz
 kt-ex.site
+kt-family.my.id
 kt-gmail.com
 ktajnnwkzhp9fh.cf
 ktajnnwkzhp9fh.ga
@@ -37773,6 +37776,7 @@ masgtd.xyz
 mashed.site
 mashkrush.info
 mashy.com
+masig.net
 masjoco.com
 mask03.ru
 mask576.gq
@@ -38568,6 +38572,7 @@ mia6ben90uriobp.ml
 mia6ben90uriobp.tk
 miadz.com
 miaferrari.com
+miajangler.biz.id
 mial.cf
 mial.com.creou.dev
 mial.tk
@@ -39452,6 +39457,7 @@ moonapps.org
 moondoo.org
 moondyal.com
 moonfee.com
+moonikent.us
 moonm.review
 moonpiemail.com
 moonran.com
@@ -41237,6 +41243,7 @@ net8mail.com
 netabo.pt
 netacbo.pt
 netaccessman.com
+netaccount.shop
 netarchive.buzz
 netcaabo.pt
 netcab.pt
@@ -55009,6 +55016,7 @@ swmail.xyz
 swmhw.com
 swooflia.cc
 sworda.com
+swq.web.id
 swq213567mm.cf
 swq213567mm.ga
 swq213567mm.gq
@@ -63344,6 +63352,7 @@ xidealx.com
 xideen.site
 xiinoo31.com
 xijjfjoo.turystyka.pl
+xikemail.com
 xilinous.xyz
 xilopro.com
 xilor.com
@@ -65222,6 +65231,7 @@ yukios.web.id
 yuliarachman.art
 yuljeondong.com
 yulk.com
+yullorw.online
 yumimi22.com
 yummyrecipeswithchicken.com
 yumne.anonbox.net
