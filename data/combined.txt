@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-15
+# progressive-email-suppression — generated 2026-05-16
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66242 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66249 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2960,6 +2960,7 @@
 7uy35p.gq
 7uy35p.ml
 7uy35p.tk
+7uz2f.anonbox.net
 7vcntir8vyufqzuqvri.cf
 7vcntir8vyufqzuqvri.ga
 7vcntir8vyufqzuqvri.gq
@@ -3960,6 +3961,7 @@ acai-berry.es
 acaihelp.com
 acampadaparis.com
 acanadianpharmacy.com
+acanok.com
 acasabianca.com
 acc1s.com
 acc1s.net
@@ -6380,6 +6382,7 @@ arcb.site
 arcedia.co.uk
 arcelormittal-construction.pl
 arcengineering.com
+archal.my.id
 archanybook.site
 archanybooks.site
 archanyfile.site
@@ -8285,7 +8288,6 @@ bbbest.com
 bbblanket.com
 bbcbbc.com
 bbcok.com
-bbcvnews.com
 bbdd.info
 bbdoifs.com
 bbdownz.com
@@ -8403,7 +8405,6 @@ bdxrc.anonbox.net
 bdxsg.anonbox.net
 bdydy.anonbox.net
 bdyn5.anonbox.net
-bdyrh.anonbox.net
 bdzu2.anonbox.net
 be-breathtaking.net
 be-mail.xyz
@@ -8537,7 +8538,6 @@ begoz.com
 behaviorsupportsolutions.com
 behax.net
 beheks.ml
-behiyesamoglu.cfd
 bei.kr
 beibiza.es
 beihoffer.com
@@ -9435,6 +9435,7 @@ bitesatlanta.com
 bitfami.com
 bitini.club
 bitlly.xyz
+bitmah.com
 bitmens.com
 bitmonkey.xyz
 bitoini.com
@@ -23844,6 +23845,7 @@ getamalia.com
 getamericanmojo.com
 getanyfiles.site
 getapet.net
+getasail.com
 getasolarpanel.co.uk
 getaviciitickets.com
 getawesomebook.site
@@ -27364,6 +27366,7 @@ homtial.com
 homtmail.com
 homtotai.com
 homuno.com
+homvela.com
 hondsemi.com
 honesthirianinda.net
 honeydresses.com
@@ -28289,6 +28292,7 @@ hubglee.com
 hubhost.store
 hubii-network.com
 hubinstant.com
+hublinestream.com
 hubmail.info
 hubopss.com
 hubpro.site
@@ -31439,6 +31443,7 @@ jojojokeked.com
 jojolouisvuittonshops.com
 joke24x.ru
 jokenaka.press
+jokerz.sbs
 jolajola422.com
 joliechic.shop
 joliejoie.com
@@ -32614,6 +32619,7 @@ kimdyn.com
 kimfetme.com
 kimgmail.com
 kimim.tk
+kimkim.store
 kimmyjayanti.art
 kimsangun.com
 kimsangung.com
@@ -41195,6 +41201,7 @@ neosstudy.work
 neotlozhniy-zaim.ru
 neotrade.ru
 neoven.us
+neovortex.tokyo
 nepal-nedv.ru
 nephisandeanpanflute.com
 nepnut.com
@@ -45899,6 +45906,7 @@ plasticwebsites.com
 plastikmed.com
 plateapanama.com
 plates4skates2.info
+platggaming.store
 platini.com
 platinum-plus.com
 platinum.blatnet.com
@@ -55928,6 +55936,7 @@ telia.vom
 telia.xom
 teliaa.com
 teliac.om
+teliedge.com
 teligmail.site
 teliia.com
 telimail.online
@@ -57821,7 +57830,6 @@ tp54lxfshhwik5xuam.tk
 tpaglucerne.dnset.com
 tpass.xyz
 tpbank.gq
-tpbay.site
 tpcu.com
 tpdjsdk.com
 tpfqxbot4qrtiv9h.cf
@@ -60485,8 +60493,6 @@ vienna.cf
 viennas-finest.com
 vienphunxamvidy.com
 vieotron.ca
-vietanhpaid.com
-vietbacsolar.com
 vietcap.sbs
 vietcode.com
 vietfashop.com
@@ -63261,6 +63267,7 @@ xdigit.top
 xdndg.anonbox.net
 xducation.us
 xdvsagsdg4we.ga
+xdwang.fun
 xe2g.com
 xeames.net
 xeana.co
