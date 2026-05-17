@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-16
+# progressive-email-suppression — generated 2026-05-17
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66249 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66251 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2419,6 +2419,7 @@
 5vlimcrvbyurmmllcw0.ml
 5vlimcrvbyurmmllcw0.tk
 5x25.com
+5xu.vn
 5y5u.com
 5yaochu.top
 5yi9xi9.mil.pl
@@ -6409,6 +6410,7 @@ archine.online
 architecture101.com
 architektwarszawaa.pl
 archivision.pl
+archma.my.id
 archnicebook.site
 archnicetext.site
 archrarefile.site
@@ -11461,7 +11463,6 @@ byz4v.anonbox.net
 byzoometri.com
 bz-mytyshi.ru
 bzbu9u7w.xorg.pl
-bzcvc.anonbox.net
 bzfads.space
 bzfr7.anonbox.net
 bzhpc.anonbox.net
@@ -15672,6 +15673,7 @@ dcsupplyinc.com
 dctm.de
 dd61234.com
 ddaengggang.com
+ddat0511.click
 ddboxdexter.com
 ddcrew.com
 dddddd.com
@@ -26425,7 +26427,6 @@ hayait.com
 hayalhost.com
 hayastana.com
 haydoo.com
-haydplamz.shop
 haylo.network
 haynes.ddns.net
 hayoo.com
@@ -30316,7 +30317,6 @@ isdik.com
 ise4mqle13.o-r.kr
 isecsystems.com
 isecv.com
-iseeyouu.site
 isellnow.com
 isemail.com
 isen.pl
@@ -44403,7 +44403,6 @@ outlookcom.com
 outlooki.com
 outlookk.com
 outlookkk.online
-outlookonr.com
 outlookpro.net
 outloolk.com
 outloomail.gdn
@@ -51506,6 +51505,7 @@ secure.lakemneadows.com
 secure.oldoutnewin.com
 secureapay.com
 securebitcoin.agency
+securebox01.click
 secured-link.net
 securedcontent.biz
 securehost.com.es
@@ -55048,6 +55048,7 @@ swudutchyy.com
 swwatch.com
 swype.dev
 sxbta.com
+sxh.kro.kr
 sxrop.com
 sxxs.site
 sxxx.ga
@@ -58741,6 +58742,7 @@ u1gdt8ixy86u.gq
 u1gdt8ixy86u.ml
 u1gdt8ixy86u.tk
 u2.net.pl
+u27sy.anonbox.net
 u2b.comx.cf
 u336.com
 u3t9cb3j9zzmfqnea.cf
