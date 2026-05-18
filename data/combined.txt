@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-17
+# progressive-email-suppression — generated 2026-05-18
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66251 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66250 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -5587,7 +5587,6 @@ amberwe.us
 ambiancewe.us
 ambitiouswe.us
 ambler.ru
-ambutaek.pro
 ambwd.com
 amc.com
 amcret.com
@@ -7360,6 +7359,7 @@ awesomespottext.site
 awesomewellbeing.com
 awewallet.com
 awez.icu
+awfucex.net
 awg5.com
 awgarstone.com
 awiki.org
@@ -8276,7 +8276,6 @@ bb1197.com
 bb2.ru
 bb28.dev
 bb2v7.anonbox.net
-bb7fk.anonbox.net
 bb99.lol
 bba24.de
 bbabyswing.com
@@ -8867,7 +8866,6 @@ bestonlineusapharmacy.ru
 bestoption25.club
 bestparadize.com
 bestphonecasesshop.com
-bestphonefarm.com
 bestpieter.com
 bestpochtampt.ga
 bestpokerlinks.net
@@ -44065,7 +44063,6 @@ orante.xyz
 orbitforce.com
 orbitjolly.com
 orbitnew.net
-orbub.one
 ordenadores.online
 order84.gmailmirror.com
 orderbagsonline.handbagsluis.net
@@ -46445,6 +46442,7 @@ power-leveling-service.com
 power.ruimz.com
 powerbike.de
 powerdast.ru
+powerdea.me
 powered.name
 powerencry.com
 powerexsys.com
@@ -61328,6 +61326,7 @@ w5gpurn002.gq
 w5gpurn002.ml
 w5gpurn002.tk
 w5uxx.anonbox.net
+w5yej.anonbox.net
 w634634.ga
 w63507.ga
 w656n4564.cf
@@ -61633,7 +61632,6 @@ wayaengopi.buzz
 ways-to-protect.com
 ways2getback.info
 ways2lays.info
-waysfails.com
 wayshop.xyz
 waytogobitch.com
 wazabi.club
@@ -63311,6 +63309,7 @@ xerontech.com
 xervmail.com
 xeti.com
 xeuja98.pl
+xevra.sbs
 xex88.com
 xezle.com
 xezo.live
