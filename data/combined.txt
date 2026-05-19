@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-18
+# progressive-email-suppression — generated 2026-05-19
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66250 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66251 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8342,7 +8342,6 @@ bbysn.anonbox.net
 bbzr4.anonbox.net
 bc3rv.anonbox.net
 bc4mails.com
-bc6mm.anonbox.net
 bc6yl.anonbox.net
 bca1fb56.servemp3.com
 bcaoo.com
@@ -16544,6 +16543,7 @@ diplo.edu.pl
 diplom-voronesh.ru
 diplomnaya-rabota.com
 dipoelast.ru
+dipzstore.net
 diqalaciga.warszawa.pl
 dir43.org
 diranybooks.site
@@ -16970,7 +16970,6 @@ dnsdeer.com
 dnsdujeskd.com
 dnses.ro
 dntsmsekjsf.com
-dntts.pics
 do.cowsnbullz.com
 do.heartmantwo.com
 do.luk2.com
@@ -18462,7 +18461,6 @@ ebop.pl
 ebqxczaxc.com
 ebradt.org
 ebrker.pl
-ebruummuhantarak.cfd
 ebs.com.ar
 ebtukukxnn.cf
 ebtukukxnn.ga
@@ -22205,6 +22203,7 @@ folk97.glasslightbulbs.com
 follegelian.site
 follis23.universallightkeys.com
 folllo.com
+followpage.shop
 fomalhaut.lavaweb.in
 fombog.com
 fomentify.com
@@ -26513,6 +26512,7 @@ hdfshsh.stream
 hdhkmbu.ga
 hdhkmbu.ml
 hdhr.com
+hdiscord.xyz
 hdkinoclubcom.ru
 hdmail.com
 hdmovie.info
@@ -26819,7 +26819,6 @@ hgrmnh.gq
 hgrmnh.ml
 hgsygsgdtre57kl.tk
 hgtabeq4i.pl
-hgtech.dev
 hgtt674s.pl
 hh7f.com
 hhcqldn00euyfpqugpn.cf
@@ -30863,7 +30862,6 @@ janganjadiabu6.tk
 janganjadiabu7.ml
 janganjadiabu8.ga
 janganjadiabu9.cf
-jango.wiki
 janiceaja.atlanta-webmail.top
 janics.com
 janismedia.tk
@@ -36572,6 +36570,7 @@ mailadda.cf
 mailadda.ga
 mailadda.gq
 mailadda.ml
+mailaddress.de
 mailadresi.tk
 mailadresim.site
 mailairport.com
@@ -36672,6 +36671,7 @@ mailcc.ml
 mailcc.tk
 mailcdn.ml
 mailch.com
+mailchannels.de
 mailchop.com
 mailcker.com
 mailclient.com
@@ -41111,6 +41111,7 @@ nds8ufik2kfxku.tk
 ndut.pro
 ndxgokuye98hh.ga
 ndxmails.com
+ndy6f.anonbox.net
 ne-neon.info
 neaeo.com
 neajazzmasters.com
@@ -41653,6 +41654,7 @@ ngg1bxl0xby16ze.ml
 ngg1bxl0xby16ze.tk
 nghacks.com
 nghienplus.io.vn
+nghienplus.store
 nginbox.tk
 nginxphp.com
 ngo1.com
@@ -43467,6 +43469,7 @@ olypmall.ru
 olyztnoblq.pl
 om.br
 omahsimbah.com
+omail.de
 omail.pro
 omailo.top
 oman.com
@@ -46425,7 +46428,6 @@ potarveris.xyz
 potatocompany.us
 potawaomi.org
 potencialexstore.ru
-potenss.academy
 potrawka.eu
 pottattemail.xyz
 poubelle-automatique.org
@@ -47963,7 +47965,6 @@ quangvps.com
 quanpzo.click
 quanthax.com
 quanticmedia.co
-quantnetwork.city
 quantobasta.ru
 quantsoftware.com
 quantumofhappiness.com
@@ -49553,7 +49554,6 @@ risingsuntouch.com
 risk.3amail.top
 riski.cf
 risma.mom
-ristoranteernesto.com
 ristorantelafattoria.info
 ristoranteparodi.com
 risu.be
@@ -50249,7 +50249,6 @@ rugbypics.club
 ruggedinbox.com
 rugman.pro
 ruhshe5uet547.tk
-ruihuat168.store
 ruinnyrurrendmail.com
 rujbreath.com
 ruk17.space
@@ -50308,7 +50307,6 @@ rustright.site
 rustroigroup.ru
 rustydoor.com
 rustyload.com
-rusyakikerem.network
 rutale.ru
 rutherfordchemicals.com
 ruthmarini.art
@@ -53361,7 +53359,6 @@ somoj.com
 somonsuka.com
 somosfarol.com.br
 somsupport.xyz
-sonaa.online
 sonaluma.com
 sondemar.com
 songgallery.info
@@ -56056,6 +56053,7 @@ tempemail.co
 tempemail.co.za
 tempemail.com
 tempemail.daniel-james.me
+tempemail.de
 tempemail.info
 tempemail.net
 tempemail.org
@@ -56084,6 +56082,7 @@ tempmail-2.net
 tempmail-3.net
 tempmail-4.net
 tempmail-5.net
+tempmail.at
 tempmail.best
 tempmail.cc
 tempmail.cn
@@ -56627,6 +56626,7 @@ themagicofmakingupreview.info
 themail.krd.ag
 themail3.net
 themailemail.com
+themailer.de
 themailmall.com
 themailpro.net
 themailredirector.info
@@ -59074,6 +59074,7 @@ ukhollisteroutlet4s.co.uk
 ukhollisteroutlet4u.co.uk
 ukhollisteroutletlondon.co.uk
 ukhost-uk.co.uk
+uki.io.vn
 ukimail.com
 ukin3.anonbox.net
 ukjton.cf
@@ -62154,6 +62155,7 @@ whiskeyiota.webmailious.top
 whiskonzin.edu
 whiskygame.com
 whisperfocus.com
+whispermail.org
 whispersum.com
 whistleapp.com
 white-legion.ru
@@ -63718,7 +63720,6 @@ xtxfdwe03zhnmrte0e.ga
 xtxfdwe03zhnmrte0e.ml
 xtxfdwe03zhnmrte0e.tk
 xtzqytswu.pl
-xuandai.pro
 xubqgqyuq98c.cf
 xubqgqyuq98c.ga
 xubqgqyuq98c.gq
