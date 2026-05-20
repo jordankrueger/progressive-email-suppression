@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-19
+# progressive-email-suppression — generated 2026-05-20
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66251 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66252 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2817,7 +2817,6 @@
 777gmail.com
 777slots-online.com
 779gmail.com
-77ahgaz.shop
 77hotmail.com
 77mail.xyz
 77q8m.com
@@ -8020,7 +8019,6 @@ baltimore2.freeddns.com
 baltimore4.ygto.com
 baltimorechildrensbusinessfair.com
 balutemp.email
-balwo.anonbox.net
 balzola.eu
 bambase.com
 bambee.tk
@@ -11487,6 +11485,7 @@ bztf1kqptryfudz.ml
 bztf1kqptryfudz.tk
 bzvql.anonbox.net
 bzwhe.anonbox.net
+bzx7c.anonbox.net
 bzymail.top
 bzzpm.anonbox.net
 c-14.cf
@@ -16174,7 +16173,6 @@ devod.site
 devof.site
 devog.site
 devoi.site
-devoidd.media
 devoj.site
 devok.site
 devom.site
@@ -21272,7 +21270,6 @@ fdn1if5e.pl
 fdownload.net
 fdsag.com
 fdsfdsf.com
-fdsgfdgfdgd.online
 fdsgsd.org
 fdsweb.com
 fdtntbwjaf.pl
@@ -28492,6 +28489,7 @@ hydroter.cf
 hydroxide-studio.com
 hyhisla.tk
 hyhsale.top
+hyhta.eu.org
 hyip.market
 hyipbook.com
 hyipiran.ir
@@ -28533,6 +28531,7 @@ hyt45763ff.tk
 hytech.asso.st
 hyteqwqs.com
 hyverecruitment.com
+hyvongtt.site
 hyvuokmhrtkucn5.cf
 hyvuokmhrtkucn5.ga
 hyvuokmhrtkucn5.gq
@@ -29149,6 +29148,7 @@ igcl5axr9t7eduxkwm.cf
 igcl5axr9t7eduxkwm.gq
 igcl5axr9t7eduxkwm.ml
 igcl5axr9t7eduxkwm.tk
+igcodemail1.com
 igcom.br
 igcwellness.us
 igdinhcao.click
@@ -29959,7 +29959,6 @@ intel.coms.hk
 intelligence.zone
 intelligentfoam.com
 intelligentp.com
-intellika.digital
 intempmail.com
 intera.pl
 interactio.ch
@@ -36189,7 +36188,6 @@ magnetl.ink
 magnoliapost.com
 magnomsolutions.com
 magpietravel.com
-magpit.com
 magspam.net
 magura.shop
 mahan95.ir
@@ -37490,6 +37488,7 @@ mamazumba.com
 mamba.ru
 mambaru.in
 mamber.net
+mameganteng.store
 mami000.com
 mami999.net
 mamin-shop.ru
@@ -40868,6 +40867,7 @@ narsan.ru
 narsub.online
 narsub.shop
 narutogamesforum.xyz
+narutouu.me
 nasamdele.ru
 nascimento.com
 nash.ml
@@ -59184,6 +59184,7 @@ umail4less.men
 umail4less.website
 umailbox.net
 umailz.com
+umairkhan.online
 uman.com
 umanit.net
 umanit.online
