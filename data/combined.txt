@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-20
+# progressive-email-suppression — generated 2026-05-21
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66252 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66246 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8028,7 +8028,6 @@ bamcs3.com
 bamibi.com
 baminsja.tk
 bamjamz.com
-bamsrad.com
 bamulatos.net
 bananacc.site
 bananacompany.us
@@ -8109,7 +8108,6 @@ baomat.ml
 baomoi.site
 baothoitrang.org
 baphled.com
-bapok.best
 bapu.gq
 bapu.ml
 bapumoj.cf
@@ -8291,6 +8289,7 @@ bbdd.info
 bbdoifs.com
 bbdownz.com
 bbe54.anonbox.net
+bbehu.anonbox.net
 bbestssafd.com
 bbetweenj.com
 bbhost.us
@@ -9444,6 +9443,7 @@ bitrixmail.xyz
 bitsslto.xyz
 bitterpanther.info
 bittiry.com
+bittnex.com
 bitwerke.com
 bitwhites.top
 bitx.nl
@@ -9957,7 +9957,6 @@ bnoko.com
 bnote.com
 bnq2k.anonbox.net
 bnrlner.shop
-bnrmn.anonbox.net
 bnsdd.anonbox.net
 bntjo.anonbox.net
 bnuis.com
@@ -10683,6 +10682,7 @@ briefkasten2go.de
 briggsmarcus.com
 brightadult.com
 brighterbroome.org
+brightpatha.biz
 brigittacynthia.art
 brilleka.ml
 brillionhistoricalsociety.com
@@ -13498,7 +13498,6 @@ clonekhoe.com
 clonemailgiare.com
 clonemailsieure.com
 clonemoi.tk
-clonenbr.site
 clonenpa.com
 clonere.net
 clonetop1.shop
@@ -15528,7 +15527,6 @@ datuxtox.host
 daughertymail.bid
 daum.com
 daun.net
-daupload.com
 davecooke.eu
 davehicksputting.com
 davenstore.com
@@ -16080,7 +16078,6 @@ dettol.ml
 dettol.tk
 deucemail.com
 deupa.anonbox.net
-deusa7.com
 deutsch-nedv.ru
 deutsch-sprachschule.de
 dev-null.cf
@@ -23422,6 +23419,7 @@ gamesonlinefree.ru
 gamesonlinez.co.uk
 gamesoonline.com
 gamesportal.me
+gamets.store
 gamevillage.org
 gamewedota.co.cc
 gamexshop.online
@@ -24590,7 +24588,6 @@ gmailasdfas.com
 gmailasdfas.net
 gmailbete.cf
 gmailbox.kr
-gmailbrt.com
 gmailc.om
 gmailco.ml
 gmailcom.com
@@ -26430,7 +26427,6 @@ haysantiago.com
 hazelhazel.com
 hazelnut4u.com
 hazelnuts4u.com
-hazhab.com
 hazmatshipping.org
 hb-3tvm.com
 hbastien.com
@@ -29789,7 +29785,6 @@ injir.top
 injuryhelpnewyork.net
 inkashop.org
 inkerbasin.com
-inkight.com
 inkiny.com
 inkomail.com
 inlandharmonychorus.org
@@ -33589,7 +33584,6 @@ la2imperial.vrozetke.com
 la2walker.ru
 la5ralo.345.pl
 laafd.com
-laala.xyz
 laaposte.net
 lab.agp.edu.pl
 labara.com
@@ -34158,7 +34152,6 @@ lerany.com
 lerbhe.com
 lerch.ovh
 lercjy.com
-lerfuwond.com
 leribigb.tk
 lernerfahrung.de
 lero3.com
@@ -35733,7 +35726,6 @@ luilkkgtq43q1a6mtl.ml
 luilkkgtq43q1a6mtl.tk
 luisgiisjsk.tk
 luispedro.xyz
-lukampocd.cfd
 lukamzcofs.cfd
 lukapzca.cfd
 lukasfloor.com.pl
@@ -41378,7 +41370,6 @@ neuf.frr
 neuf.rf
 neuff.fr
 neujahrsgruesse.info
-neuraxo.com
 neuro-safety.net
 neusp.loan
 neutralx.com
@@ -42402,6 +42393,7 @@ nowthatsjive.com
 nowtopzen.com
 nox.llc
 noyabrsk.me
+noyavip.com
 noyp.fr.nf
 noyten.info
 npaiin.com
@@ -42588,6 +42580,7 @@ nuf.fr
 nugaba.com
 nugastore.com
 nughtclab.com
+nuitx.com
 nujayar.com
 nukahome.com
 nuke.africa
@@ -42766,6 +42759,7 @@ nyc.org
 nyc2way.com
 nyccommunity.info
 nycconstructionaccidentreports.com
+nycemore.com
 nycexercise.com
 nyerem.in
 nyeschool.org
@@ -43344,6 +43338,7 @@ okcdeals.com
 okclprojects.com
 okcomputer.ru
 okconnect.tech
+okcpress.com
 okdiane35.pl
 okeoceapasajaoke.com
 oker.com
@@ -49074,7 +49069,6 @@ rekt.ml
 rekthosting.ml
 relaterial.xyz
 relathetic.parts
-relationlabs.codes
 relationship-cure.com
 relationshiphotline.com
 relationshiping.ru
@@ -50247,7 +50241,6 @@ ruffrey.com
 rugbyfixtures.com
 rugbypics.club
 ruggedinbox.com
-rugman.pro
 ruhshe5uet547.tk
 ruinnyrurrendmail.com
 rujbreath.com
@@ -52418,6 +52411,7 @@ sidement.com
 sidemirror53.com
 sidersteel.com
 sidhutravel.com
+sidlabs.site
 sidler.us
 sidmail.com
 sidwell.spicysallads.com
