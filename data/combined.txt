@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-22
+# progressive-email-suppression — generated 2026-05-23
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66251 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66252 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8105,7 +8105,6 @@ banubadaeraceva.com
 banyansprings.com
 bao160.com
 baobaosport.com
-baobaosport.xyz
 baocaothue.store
 baomat.ml
 baomoi.site
@@ -10176,6 +10175,7 @@ booka.press
 bookaholic.site
 bookb.site
 bookc.site
+bookcentral.shop
 bookd.press
 bookd.site
 bookea.site
@@ -15882,7 +15882,6 @@ deliomart.com
 deliriumshop.de
 deliverme.top
 delivery136.monster
-deliverydaily.org
 delivrmail.com
 dell-couponcodes.com
 delorex.com
@@ -17471,7 +17470,6 @@ dragonfly.4amail.top
 dragonfly.africa
 dragonhospital.net
 dragonmail.live
-dragonmint.info
 dragonmintv2hub.online
 dragons-spirit.org
 dragonsborn.com
@@ -20661,7 +20659,6 @@ fabaos.com
 fabiopisani.art
 fabioscapella.com
 fabook.com
-fabricoak.com
 fabricsukproperty.com
 fabricsvelvet.com
 fabricsxla.com
@@ -25908,6 +25905,7 @@ gyul.ru
 gz168.net
 gzb.ro
 gzc868.com
+gzeos.com
 gzesiek84bb.pl
 gzk2sjhj9.pl
 gzley.site
@@ -28379,7 +28377,6 @@ huntersfishers.ru
 huntertravels.com
 huntingmastery.com
 huntubaseuh.sbs
-huobipools.cloud
 huongdanfb.com
 huoot.com
 hup.xyz
@@ -36175,7 +36172,6 @@ magim.be
 magma.7amail.top
 magnet1.com
 magneticmessagingbobby.com
-magneticoak.com
 magnetik.com.ua
 magnetl.ink
 magnoliapost.com
@@ -37411,6 +37407,7 @@ maklaca.cfd
 maklacpolza.cfd
 makmadness.info
 makmotors.com
+makoli.store
 maks.com
 maksap.com
 makudi.com
@@ -42625,6 +42622,7 @@ nuo.kr
 nuoifb.com
 nuoivo.site
 nuox.eu.org
+nupak.us
 nuprice.co
 nuqhvb1lltlznw.cf
 nuqhvb1lltlznw.ga
@@ -46889,6 +46887,7 @@ pro100sp.ru
 pro2mail.net
 pro5g.com
 proadech.com
+proalpharoute.com
 probabilitical.xyz
 probaseballfans.net
 probbox.com
@@ -51591,6 +51590,7 @@ sejkt.com
 sekcjajudo.pl
 sekiyadohaku.xyz
 sekoeuropa.pl
+sekotong.store
 sekris.com
 seksfotki.pl
 seksiaki.pl
@@ -52823,6 +52823,7 @@ skypewebui.eu
 skyrt.de
 skysip.com
 skysmail.gdn
+skysmail.me
 skytopway.com
 skyvoid.xyz
 skyy.com
@@ -61325,6 +61326,7 @@ w5gpurn002.ga
 w5gpurn002.gq
 w5gpurn002.ml
 w5gpurn002.tk
+w5u4l.anonbox.net
 w5uxx.anonbox.net
 w5yej.anonbox.net
 w634634.ga
@@ -62834,7 +62836,6 @@ wsse.us
 wsuart.com
 wsuse.top
 wsvnsbtgq.pl
-wsy56.anonbox.net
 wsym.de
 wsypc.com
 wsyy.info
