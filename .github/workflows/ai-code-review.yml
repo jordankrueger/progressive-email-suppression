@@ -36,12 +36,12 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -309,19 +309,28 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
+    permissions:
+      contents: read
+      pull-requests: write
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
-          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          fetch-depth: 2
 
       - name: Run Claude security review
-        uses: anthropics/claude-code-action@main
+        # Dedicated security-review action: auths with a plain Anthropic API key —
+        # no GitHub App / OIDC, so no per-repo app install and no self-modifying-PR
+        # workflow-validation failure. Pinned by commit SHA (no release tags exist);
+        # NEVER use @main — an upstream @main change broke the whole fleet 2026-05-23.
+        uses: anthropics/claude-code-security-review@0c6a49f1fa56a1d472575da86a94dbc1edb78eda
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
-          direct_prompt: |
-            Review the changes in this PR for security vulnerabilities. Focus on:
-
+          claude-api-key: ${{ secrets.ANTHROPIC_API_KEY }}
+          comment-pr: true
+          custom-security-scan-instructions: |
+            Pay particular attention to:
             1. Authentication and authorization gaps (IDOR, missing auth middleware)
             2. Secrets or API keys exposed in client-accessible code
             3. Input validation gaps at system boundaries
@@ -332,8 +341,3 @@ jobs:
             8. Predictable secrets or hardcoded credentials
             9. Source maps enabled in production builds
             10. Business logic flaws (privilege escalation, payment redirect)
-
-            For each finding, indicate severity (critical/important/minor) and the specific file and line.
-            If no security issues are found, say so clearly.
-
-          timeout_minutes: 8
