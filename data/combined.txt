@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-23
+# progressive-email-suppression — generated 2026-05-24
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66252 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66253 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -7115,7 +7115,6 @@ australiasunglassesonline.net
 austria.nhadautuphuquoc.com
 austriasocial.com
 autaogloszenia.pl
-autarchy.academy
 autdent.com
 auth2fa.com
 authentic-guccipurses.com
@@ -8245,6 +8244,7 @@ bauchtanzkunst.info
 bauff.anonbox.net
 bauimail.ga
 baumhotels.de
+bauvb.anonbox.net
 bauwerke-online.com
 baver.com
 baxidy.com
@@ -10402,7 +10402,6 @@ boss.cf
 boss901.com
 bossless.net
 bossmail.de
-bossman.chat
 bossmanjack.lol
 bossmanjack.shop
 bossmanjack.store
@@ -10751,6 +10750,7 @@ browseforinfo.com
 browselounge.pl
 brqma.anonbox.net
 brrmail.gdn
+brrval.com
 brrvpuitu8hr.cf
 brrvpuitu8hr.ga
 brrvpuitu8hr.gq
@@ -11434,7 +11434,6 @@ byf3h.anonbox.net
 byfoculous.club
 byggcheapabootscouk1.com
 byj53bbd4.pl
-byjfc.anonbox.net
 byknv.anonbox.net
 bylup.com
 bymail.info
@@ -13538,6 +13537,7 @@ cloudflare.gay
 cloudfoundry.store
 cloudgen.world
 cloudhosting.info
+cloudhub365.click
 cloudido.com
 cloudkuimages.com
 cloudmail.gq
@@ -14538,7 +14538,6 @@ cpuk3zsorllc.ga
 cpuk3zsorllc.gq
 cpuk3zsorllc.ml
 cpuk3zsorllc.tk
-cqpcut.id
 cqutssntx9356oug.cf
 cqutssntx9356oug.ga
 cqutssntx9356oug.gq
@@ -33374,6 +33373,7 @@ kunio33.lady-and-lunch.xyz
 kunio39.dev256.xyz
 kunio69.yourfun.xyz
 kunio7810.takumi12.lady-and-lunch.xyz
+kunseller.top
 kuontil.buzz
 kuoogle.com
 kupakupa.waw.pl
@@ -38910,6 +38910,7 @@ mitiz.site
 mitnian.xyz
 mitobet.com
 mitrabisa.com
+mitraprem.online
 mitrasbo.com
 mitsubishi-asx.cf
 mitsubishi-asx.ga
@@ -40425,7 +40426,6 @@ mylovepale.live
 mylovepale.store
 mylovezya.my.id
 myltqa.com
-myluminair.site
 myluvever.com
 mymail-in.net
 mymail.hopto.org
@@ -41552,6 +41552,7 @@ newzgraph.net
 nexadraw.com
 nexafilm.com
 nexhibit.com
+nexio.sbs
 nexofinance.us
 nexral.com
 nexshinz.app
@@ -49501,6 +49502,7 @@ rigionse.site
 rigtmail.com
 rijschoolcosma-nijmegen.nl
 rika0525.com
+riko.my
 riku5210.akio94.downloadism.top
 rillamail.info
 rim7lth8moct0o8edoe.cf
@@ -53816,7 +53818,6 @@ spot.marksypark.com
 spot.oldoutnewin.com
 spot.poisedtoshrike.com
 spot.popautomated.com
-spotifyindo.com
 spotitidku.me
 spotlightgossip.com
 spotshops.com
@@ -58063,7 +58064,6 @@ treeheir.com
 treehouseburning.com
 treehousetherapy.com
 treeremovalmichigan.com
-tremosd.xyz
 trend-maker.ru
 trendbettor.com
 trendfinance.ru
@@ -65482,6 +65482,7 @@ zavame.com
 zavex.sbs
 zavio.com.pl
 zavio.nl
+zavmecor.site
 zavmecor.store
 zavodzet.ru
 zaxby.com
