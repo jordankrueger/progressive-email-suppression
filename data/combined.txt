@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-24
+# progressive-email-suppression — generated 2026-05-25
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66253 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66257 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8172,6 +8172,7 @@ bartoparcadecabinet.com
 baruchcc.edu
 baruu.anonbox.net
 barzan.mielno.pl
+basakerrr.digital
 basakgidapetrol.com
 base-all.ru
 base-weight.com
@@ -8996,7 +8997,6 @@ beymail.com
 beyoncenetworth.com
 beyond-web.com
 beypj.anonbox.net
-beyzanurtaslan.sbs
 bez-odsetek.pl
 bezblednik.pl
 bezill.com
@@ -9341,6 +9341,7 @@ binkmail.com
 binnary.com
 binnerbox.info
 binoculars-rating.com
+binqe.anonbox.net
 binsh.kro.kr
 binternet.com
 bio-muesli.info
@@ -9498,6 +9499,7 @@ bjork.wtf
 bjorn-frantzen.art
 bjorwi.buzz
 bjorwi.rest
+bjorwi.site
 bjorwi.store
 bjorwi.top
 bjpkj.anonbox.net
@@ -17876,6 +17878,7 @@ dutybux.info
 duxer.top
 duybuy.com
 duydeptrai.xyz
+duyquyen.site
 duzybillboard.pl
 dv2.host
 dv6w2z28obi.pl
@@ -30702,9 +30705,9 @@ j275xaw4h.pl
 j2anellschild.ga
 j3j.org
 j3nn.net
+j3r8qd.store
 j3rqt89ez.com
 j4rang0y4nk.ga
-j5abn.anonbox.net
 j5vhmmbdfl.cf
 j5vhmmbdfl.ga
 j5vhmmbdfl.gq
@@ -48554,6 +48557,7 @@ ravensuperbowlshop.com
 raveqxon.blog
 raveqxon.site
 raveqxon.space
+raveqxon.store
 raverbaby.co.uk
 ravipatel.tk
 ravnica.org
@@ -58404,7 +58408,6 @@ tumjsnceh.pl
 tumroc.net
 tunacrispy.com
 tunasbola.site
-tunayseyhan.cfd
 tuncpersonel.com
 tunestan.com
 tunezja-przewodnik.pl
@@ -63571,6 +63574,7 @@ xolymail.tk
 xomawmiux.pl
 xomqirantel.site
 xomxast.net
+xone.web.id
 xonic.net
 xonomax.com
 xooit.fr
