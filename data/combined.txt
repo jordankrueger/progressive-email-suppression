@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-25
+# progressive-email-suppression — generated 2026-05-26
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66257 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66265 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8173,6 +8173,7 @@ baruchcc.edu
 baruu.anonbox.net
 barzan.mielno.pl
 basakerrr.digital
+basakerrrrdigital.online
 basakgidapetrol.com
 base-all.ru
 base-weight.com
@@ -9498,6 +9499,7 @@ bjork.rest
 bjork.wtf
 bjorn-frantzen.art
 bjorwi.buzz
+bjorwi.cfd
 bjorwi.rest
 bjorwi.site
 bjorwi.store
@@ -10615,6 +10617,7 @@ brashbeat.online
 brasher29.spicysallads.com
 brasil-empresas.com
 brasil-nedv.ru
+brasildigitalmotors.com
 brasillimousine.com
 brasilybelleza.com
 brassband2.com
@@ -11339,7 +11342,6 @@ bv.bg
 bv3su.anonbox.net
 bvaak.anonbox.net
 bvbeh.anonbox.net
-bvbrw.anonbox.net
 bvbwi.anonbox.net
 bvdt.com
 bvhrk.com
@@ -19249,6 +19251,7 @@ emailhosts.org
 emailhot.com
 emailias.com
 emailigo.de
+emailinbo.live
 emailinbox.xyz
 emailinfive.com
 emailirani.ir
@@ -32045,7 +32048,6 @@ kalapi.org
 kalayya.com
 kalemproje.com
 kalkulator-kredytowy.com.pl
-kalmkampz.shop
 kaloolas.shop
 kalosgrafx.com
 kamagra-lovegra.com.pl
@@ -32832,6 +32834,7 @@ klzmedia.com
 km1iq.xyz
 km4fsd6.pl
 km6uj.xyz
+km7co.anonbox.net
 kmail.li
 kmail.live
 kmail.mooo.com
@@ -36664,6 +36667,7 @@ mailch.com
 mailchannels.de
 mailchop.com
 mailcker.com
+mailclick.shop
 mailclient.com
 mailclone2023.top
 mailclubs.info
@@ -39461,6 +39465,7 @@ moondoo.org
 moondyal.com
 moonfee.com
 moonikent.us
+moonikentcompany.us
 moonm.review
 moonpiemail.com
 moonran.com
@@ -45980,6 +45985,7 @@ plumbingpackages.com
 plumblandconsulting.co.uk
 plumfox.com
 plumripe.com
+plup.me
 plus-size-promdresses.com
 plusfieldzone.com
 plusfitgate.com
@@ -55522,7 +55528,6 @@ tapiitudulu.com
 tappathrun.com
 tapsitoaktl353t.ga
 taptoplab.com
-taptopsmart.com
 tar00ih60tpt2h7.cf
 tar00ih60tpt2h7.ga
 tar00ih60tpt2h7.gq
@@ -60893,6 +60898,7 @@ vn92wutocpclwugc.gq
 vn92wutocpclwugc.ml
 vn92wutocpclwugc.tk
 vncctv.org
+vncgroup.us
 vncoders.net
 vncwyesfy.pl
 vndfgtte.com
@@ -60912,6 +60918,7 @@ vocating.com
 voda-v-tule.ru
 vodafoneyusurvivalzombie.com
 vodeotron.ca
+vodich1.com
 vodka.in
 voemail.com
 vofyfuqero.pro
@@ -66170,6 +66177,7 @@ zumpul.com
 zumrotin.ml
 zumruttepe.com
 zumy.dev
+zumys.store
 zuperholo.com
 zupka.anglik.org
 zupload.xyz
