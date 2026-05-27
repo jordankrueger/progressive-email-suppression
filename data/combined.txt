@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-26
+# progressive-email-suppression — generated 2026-05-27
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66265 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66263 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -7693,7 +7693,6 @@ b3zig.anonbox.net
 b44tz.anonbox.net
 b4bhw.anonbox.net
 b4fdg.anonbox.net
-b4frx.anonbox.net
 b4hh3.anonbox.net
 b4jlg.anonbox.net
 b4l3v.anonbox.net
@@ -28205,7 +28204,6 @@ hsls5guu0cv.ga
 hsls5guu0cv.gq
 hsls5guu0cv.ml
 hsls5guu0cv.tk
-hsmultirental.com
 hsmw.net
 hsnbz.site
 hstcc.com
@@ -33934,6 +33932,7 @@ lbox.de
 lbthomu.com
 lbx0qp.pl
 lbyp7.anonbox.net
+lbz3m.anonbox.net
 lbzannualj.com
 lc3ni.anonbox.net
 lcad.com
@@ -49879,7 +49878,6 @@ rohkalby.com
 roidirt.com
 roids.top
 rojay.fr
-rojotego.site
 roketmail.com
 roketus.com
 rokko-rzeszow.com
