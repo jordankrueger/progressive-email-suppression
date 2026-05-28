@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-27
+# progressive-email-suppression — generated 2026-05-28
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66263 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66276 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2611,6 +2611,7 @@
 6a81fostts.gq
 6a81fostts.ml
 6a81fostts.tk
+6bajubaru.biz.id
 6brmwv.cf
 6brmwv.ga
 6brmwv.gq
@@ -7750,7 +7751,6 @@ b6zel.anonbox.net
 b6zui.anonbox.net
 b755t.anonbox.net
 b77zz.anonbox.net
-b7aqs.anonbox.net
 b7ba4ef3a8f6.ga
 b7fk3.anonbox.net
 b7nsd.anonbox.net
@@ -10712,6 +10712,7 @@ britishintelligence.co.uk
 britishpreschool.net
 britneybicz.pl
 britted.com
+brittneyus.biz.id
 brixmail.info
 brizzolari.com
 brksea.com
@@ -10839,6 +10840,7 @@ bsuakrqwbd.ga
 bsuakrqwbd.gq
 bsuakrqwbd.ml
 bsuakrqwbd.tk
+bsubd.anonbox.net
 bsz.us
 bt0zvsvcqqid8.cf
 bt0zvsvcqqid8.ga
@@ -11757,6 +11759,7 @@ camnangdoisong.com
 camoney.xyz
 campano.cl
 campbellap.com
+campcupt.biz.id
 campcuts.com
 camphor.cf
 camping-grill.info
@@ -11901,6 +11904,7 @@ capcutku.io
 capcutmeflo.shop
 capcutnihbos.site
 capcutpro.click
+capcutus.biz.id
 capcvt.es
 capebretonpost.com
 capgenini.com
@@ -23469,7 +23473,6 @@ gantraca.ml
 gaod.com
 gaol.com
 gaolrer.com
-gaosuamedia.com
 gapemail.ga
 gapo.vip
 gappk89.pl
@@ -25357,6 +25360,7 @@ gpssport.com
 gpstrackerandroid.com
 gpstrackingreviews.net
 gptonesollution.live
+gptpluz.shop
 gptpluz2.shop
 gptpremapp.me
 gptworkone.dev
@@ -33423,6 +33427,7 @@ kutsartor.shop
 kuucrechf.pl
 kuugyomgol.pl
 kuyags.eu.org
+kuyatoks.win
 kuyberuntung.com
 kuyzstore.com
 kv8v0bhfrepkozn4.cf
@@ -34228,6 +34233,7 @@ lew2sv9bgq4a.tk
 lewiseffectfoundation.org
 lewistweedtastic.com
 lewou.com
+lexaastore.my.id
 lexisense.com
 lexortho.com
 lexoxasnj.pl
@@ -37859,6 +37865,7 @@ matamuasu.cf
 matamuasu.ga
 matamuasu.gq
 matamuasu.ml
+mataramshop.web.id
 matchb.site
 matchingwrw.com
 matchnest.lat
@@ -38916,6 +38923,7 @@ mitiz.site
 mitnian.xyz
 mitobet.com
 mitrabisa.com
+mitraprem.com
 mitraprem.online
 mitrasbo.com
 mitsubishi-asx.cf
@@ -39177,6 +39185,7 @@ mobiletracker.com
 mobiletrashmail.com
 mobilevents.es
 mobilevpn.top
+mobilex.sbs
 mobilf.site
 mobilg.site
 mobilhondasidoarjo.com
@@ -39511,6 +39520,7 @@ morielasd.ovh
 morina.me
 mormoncoffee.com
 mornhfas.org.ua
+morocz.biz.id
 morphiusfilm.com
 morriesworld.ml
 morsin.com
@@ -42620,6 +42630,7 @@ numerobo.com
 numricable.fr
 numweb.ru
 nun.ca
+nunindin.my.id
 nunudatau.art
 nunung.cf
 nunungcantik.ga
@@ -43363,6 +43374,7 @@ okkokshop.com
 okledslights.com
 oklho.com
 oklkfu.com
+okmabuiyak.tech
 okmail.com
 okmail.p-e.kr
 okmilton.com
@@ -44925,6 +44937,7 @@ passacredicts.xyz
 passas7.com
 passava.com
 passboxer.com
+passeone.com
 passfwd.com
 passinbox.com
 passionblood.com
@@ -54445,6 +54458,7 @@ student.base101.com
 student.gold.edu.pl
 student.neonet.ac.nz
 student.onsow.k12nc.us
+student.ooguy.com
 student.semar.edu.pl
 studentdonor.org
 studentlendingworks.com
@@ -65154,7 +65168,6 @@ youwillenjoythis.com
 youwinhair.com
 youxiang.dev
 youzend.net
-yowis.xyz
 yoyo11.xyz
 yoyo69.com
 ypahoo.com
