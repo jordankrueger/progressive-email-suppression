@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-28
+# progressive-email-suppression — generated 2026-05-29
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66276 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66301 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -1215,6 +1215,7 @@
 2anom.com
 2aol.com
 2b9s.dev
+2bd.net
 2bedbluewaters.com
 2brutus.com
 2ch.coms.hk
@@ -4943,6 +4944,7 @@ aisezu.com
 aisj.com
 aisports.xyz
 aistis.xyz
+aisubpro.click
 aitecleco.com
 aituvip.com
 aiuepd.com
@@ -12656,6 +12658,7 @@ chatgptku.cloud
 chatgptku.com
 chatgptku.pro
 chatgptmail.shop
+chatgptt.biz.id
 chatgptuk.pp.ua
 chatich.com
 chatjunky.com
@@ -14875,6 +14878,7 @@ cua77-official.gq
 cua77.club
 cua77.xyz
 cuadongplaza.com
+cuahangvppn.shop
 cuaina.com
 cuan.email
 cuanbrowncs.mom
@@ -16515,6 +16519,7 @@ dinkmail.com
 dinksai.ga
 dinksai.ml
 dinkysocial.com
+dino.icu
 dinocheap.com
 dinogam.com
 dinomail.cf
@@ -16985,6 +16990,7 @@ doatre.com
 doawaa.com
 dob.jp
 dobitocudeponta.com
+dobleh.biz.id
 dobleveta.com
 doboinusunny.com
 dobrainspiracja.pl
@@ -17279,6 +17285,7 @@ dor4.ru
 dorada.ga
 doradztwo-pracy.com
 dorchesterrmx.co.uk
+doreact.com
 dorede.com
 doremifasoleando.es
 doriana424.com
@@ -25047,7 +25054,6 @@ gomcast.net
 gomei.com
 gomessage.ml
 gomez-rosado.com
-gomigoofficial.com
 gomiso.com
 gomuc.com.com
 gonaute.com
@@ -25422,6 +25428,7 @@ granuflolawsuits.info
 granuflolawyer.info
 grapevinegroup.com
 graphic14.catchydrift.com
+graphicenda.site
 graphinasdx.com
 graphtech.ru
 graphtiobull.gq
@@ -27058,6 +27065,7 @@ hitmildot.com
 hitprice.co
 hitsfit.com
 hitthatne.org.ua
+hitzcart.com
 hiusas.co.cc
 hiwave.org
 hix.kr
@@ -29084,6 +29092,7 @@ ifamail.com
 ifastmail.pl
 ifavorsprt.com
 ifchuck.com
+ifcoat.com
 ifd8tclgtg.cf
 ifd8tclgtg.ga
 ifd8tclgtg.gq
@@ -29658,6 +29667,7 @@ indirkaydol.com
 indmarsa.com
 indobet.com
 indocarib.com
+indodax.store
 indogame.site
 indoliqueur.com
 indomaed.pw
@@ -30862,6 +30872,7 @@ janganjadiabu6.tk
 janganjadiabu7.ml
 janganjadiabu8.ga
 janganjadiabu9.cf
+jangansharing.my.id
 janiceaja.atlanta-webmail.top
 janics.com
 janismedia.tk
@@ -32109,6 +32120,7 @@ kapix.org
 kappala.info
 kapptiger.com
 kapten.site
+kaptencpl.com
 kapumamatata.ml
 kara-turk.net
 kara.1amail.top
@@ -32685,6 +32697,7 @@ kipr-nedv.ru
 kir.ch.tc
 kirt.er
 kiryubox.cu.cc
+kises.biz.id
 kisiihft2hka.cf
 kisiihft2hka.ga
 kisiihft2hka.gq
@@ -33868,6 +33881,7 @@ laud.net
 laudmed.com
 laugh.favbat.com
 launchjackings.com
+launders.money
 laurelmountainmustang.com
 laurenbt.com
 laurenscoaching.com
@@ -34547,6 +34561,7 @@ linkjewellery.com
 linklist.club
 linkloginjoker123.com
 linkmail.info
+linkpc.net
 linksdown.net
 linkserver.es
 linksgold.ru
@@ -34579,6 +34594,7 @@ lions.gold
 lioplpac.com
 liopolo.com
 liopolop.com
+liopsacac.shop
 lipitorprime.com
 lipo13blogs.com
 lipoaspiratie.info
@@ -37884,6 +37900,7 @@ mathildelemahieu.pine-and-onyx.xyz
 matincipal.site
 matjoa.com
 matka.host-001.eu
+matkind.com
 matmayer.com
 matogeinou.biz
 matra.site
@@ -39878,6 +39895,7 @@ mtrucqthtco.ml
 mtrucqthtco.tk
 mtsg.me
 mtu-net.ru
+mtupu.com
 mtyju.com
 mu3dtzsmcvw.cf
 mu3dtzsmcvw.ga
@@ -41474,6 +41492,7 @@ newlove.com
 newmail.top
 newmailsc.com
 newmailss.co.cc
+newmano.store
 newmarketingcomapny.info
 newmedicforum.com
 newmesotheliomalaywers.com
@@ -42305,6 +42324,7 @@ nospammer.ovh
 nospamthanks.info
 nostockui.com
 nostrajewellery.xyz
+nosubcriber.shop
 not.cowsnbullz.com
 not.lakemneadows.com
 not.legal
@@ -44680,6 +44700,7 @@ p9fnveiol8f5r.tk
 pa913.com
 pa975.com
 pa9e.com
+paans.me
 paapitech.com
 pacbel.com
 pacbell.net.net
@@ -45077,6 +45098,7 @@ pb-shelley.gq
 pb-shelley.ml
 pb-shelley.tk
 pb5g.com
+pbhak.dev
 pbitrading.com
 pc-au.lol
 pc-service-in-heidelberg.de
@@ -48568,6 +48590,7 @@ rav-4.gq
 rav-4.ml
 rav-4.tk
 rav4.tk
+ravavo.bond
 ravensproteamsshop.com
 ravenssportshoponline.com
 ravenssuperbowlonline.com
@@ -53013,7 +53036,6 @@ smashmywii.com
 smasnug.tech
 smbookobsessions.com
 smcelder.com
-smcia.anonbox.net
 smcleaningbydesign.com
 smconstruction.com
 smcrossover.com
@@ -53777,7 +53799,6 @@ spiritwarlord.com
 spirt.com
 spkvariant.ru
 spkvaruant.ru
-splashsecurilty.com
 splendacoupons.org
 splendyrwrinkles.com
 splishsplash.ru
@@ -57598,7 +57619,6 @@ topgoogle.info
 tophandbagsbrands.info
 tophbo.com
 tophealthinsuranceproviders.com
-topigx.com
 topikt.com
 topinbox.info
 topinrock.cf
@@ -61218,6 +61238,7 @@ vutdrenaf56aq9zj68.gq
 vutdrenaf56aq9zj68.ml
 vutdrenaf56aq9zj68.tk
 vuthykh.ga
+vutrugay.org
 vuv9hhstrxnjkr.cf
 vuv9hhstrxnjkr.ga
 vuv9hhstrxnjkr.gq
@@ -61244,6 +61265,7 @@ vvng8xzmv2.ga
 vvng8xzmv2.gq
 vvng8xzmv2.ml
 vvng8xzmv2.tk
+vvtfz.anonbox.net
 vvv.7c.org
 vvvnagar.org
 vvvpondo.info
@@ -62673,6 +62695,7 @@ wordpress-speed-up-dashboard.ml
 wordpressitaly.com
 wordpressmails.com
 work-info.ru
+work.gd
 work.obask.com
 work.oldoutnewin.com
 work24h.eu
@@ -63853,6 +63876,7 @@ xxqx3802.com
 xxsx.site
 xxup.site
 xxvcongresodeasem.org
+xxvd.net
 xxvk.ru
 xxvk.store
 xxx-ios.ru
@@ -66184,6 +66208,7 @@ zulamri.com
 zuldev.live
 zuldev.tech
 zumail.net
+zumnime.me
 zumpul.com
 zumrotin.ml
 zumruttepe.com

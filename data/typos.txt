@@ -1,4 +1,4 @@
-# progressive-email-suppression — generated 2026-05-28
+# progressive-email-suppression — generated 2026-05-29
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
