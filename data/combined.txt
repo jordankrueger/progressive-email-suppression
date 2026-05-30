@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-29
+# progressive-email-suppression — generated 2026-05-30
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66301 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66304 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -1553,8 +1553,10 @@
 364.pl
 364gmail.com
 3657she.com
+365boxmail.com
 365jjs.com
 365live7m.com
+365mailvn.com
 365me.info
 3675.mooo.com
 368herry.com
@@ -8984,7 +8986,6 @@ bettilt70.com
 betto888.com
 betusbank.com
 betweentury.site
-betzenn.com
 beumont.org
 beupmore.win
 beutyfz.com
@@ -9900,7 +9901,6 @@ bmonlinebanking.com
 bmpk.org
 bmsojon4d.pl
 bmst4.anonbox.net
-bmsus.anonbox.net
 bmtx47.com
 bmuss.com
 bmvak.anonbox.net
@@ -22914,6 +22914,7 @@ fsfsdfrsrs.gq
 fsfsdfrsrs.ml
 fsfsdfrsrs.tk
 fshare.ootech.vn
+fsiot.anonbox.net
 fsist.org
 fsitip.com
 fskk.pl
@@ -23926,6 +23927,7 @@ getmailfree.cc
 getmails.eu
 getmails.pw
 getmails.tk
+getmails.top
 getmailsonline.com
 getmba.ru
 getmeed.com
@@ -25193,6 +25195,7 @@ googlmail.com
 googmail.gdn
 googol.com
 googole.com.pl
+googxs.com
 goohle.co.ua
 goolemail.com
 goolglemail.com
@@ -32125,7 +32128,6 @@ kapumamatata.ml
 kara-turk.net
 kara.1amail.top
 karamelbilisim.com
-karamumba.network
 karaokegeeks.com
 karateslawno.pl
 karatraman.ml
@@ -35772,6 +35774,7 @@ luminoxwatches.com
 luminu.com
 lump.pa
 lunarmail.info
+lunarmoon.online
 lunas.today
 lunatos.eu
 lunchdinnerrestaurantmuncieindiana.com
@@ -42205,7 +42208,6 @@ nomoremail.net
 nomorespam.kz
 nomorespamemails.com
 nomotor247.info
-nomrista.com
 nomtool.info
 nomylo.com
 nonamecyber.org
@@ -48847,6 +48849,7 @@ reciaz.com
 reciclaje.xyz
 recipeforfailure.com
 recklesstech.club
+reclameaqui.services
 recode.me
 recognised.win
 recollaitavonforlady.ru
@@ -49082,6 +49085,7 @@ regiopost.trade
 regishub.com
 registand.site
 registered.cf
+registermc.online
 regmail.kategoriblog.com
 regmailproject.info
 regpp7arln7bhpwq1.cf
@@ -62733,7 +62737,6 @@ worldnews24h.us
 worldofemail.info
 worldpetcare.cf
 worldproai.com
-worldquickai.com
 worldshealth.org
 worldsonlineradios.com
 worldspace.link

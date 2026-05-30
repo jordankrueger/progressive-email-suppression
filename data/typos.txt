@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-29
+# progressive-email-suppression — generated 2026-05-30
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 3194 domains matching typosquat patterns of major providers
+# 3196 domains matching typosquat patterns of major providers
 0-mail.com
 000email.com
 001gmail.com
@@ -372,6 +372,8 @@
 360gmail.com
 362gmail.com
 364gmail.com
+365boxmail.com
+365mailvn.com
 369gmail.com
 36gmail.com
 372gmail.com
