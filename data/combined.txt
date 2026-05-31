@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-30
+# progressive-email-suppression — generated 2026-05-31
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66304 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66305 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2021,6 +2021,7 @@
 4mwgfceokw83x1y7o.tk
 4na3.pl
 4nextmail.com
+4nly.com
 4nmv.ru
 4nyvq.anonbox.net
 4ocmmk87.pl
@@ -5207,6 +5208,7 @@ alexecristina.com
 alexida.com
 alexkyro.info
 alexpeattie.com
+alf5.com
 alfa-romeo.cf
 alfa-romeo.ga
 alfa-romeo.gq
@@ -10476,6 +10478,7 @@ boxmach.com
 boxmail.co
 boxmail.lol
 boxmail.store
+boxmail1.com
 boxmailbox.club
 boxmailers.com
 boxmailvn.com
@@ -10571,6 +10574,7 @@ brack.in
 bracyenterprises.com
 bradan.space
 bradley.1amail.top
+brafall.com
 bragv.anonbox.net
 brain-shop.online
 brainbang.com
@@ -12662,7 +12666,6 @@ chatgptt.biz.id
 chatgptuk.pp.ua
 chatich.com
 chatjunky.com
-chatkamu.com
 chatlines.club
 chatlines.wiki
 chatlivesexy.com
@@ -14948,7 +14951,6 @@ cuoly.com
 cuong.bid
 cuongaquarium.com
 cuongkigu.xyz
-cuongrmfwbnpl43.online
 cuongtaote.com
 cuongvumarketingseo.com
 cupbest.com
@@ -15564,7 +15566,6 @@ dawidex.pl
 dawin.com
 dawk.com
 dawsi.com
-daxiake.com
 daxur.mx
 daxur.pro
 daxur.xyz
@@ -21115,7 +21116,6 @@ fattahkus.app
 fatub.org
 fatunaric.cfd
 faultydeniati.net
-fauzanstore.me
 fav.org
 favochat.com
 favorbag.site
@@ -22798,7 +22798,6 @@ friendlymail.co.uk
 friendsack.com
 frintier.com
 friontier.com
-frisbook.com
 friscaa.cf
 friscaa.ga
 friscaa.gq
@@ -34010,7 +34009,6 @@ le-tim.ru
 le.monchu.fr
 lea-0-09ssiue.org
 lea-ss-ws-33.org
-leabro.com
 leacore.com
 leaddogstats.com
 leadersinevents.com
@@ -39147,6 +39145,7 @@ mnswp.website
 mntechcare.com
 mntwincitieshomeloans.com
 mnvl.com
+mnvr.site
 mnxv.com
 mnxw3.anonbox.net
 moail.ru
@@ -43244,7 +43243,6 @@ ofth3crumrhuw.ga
 ofth3crumrhuw.gq
 ofth3crumrhuw.ml
 ofth3crumrhuw.tk
-ofular.com
 ofvn.com
 og.com.br
 og2j06b2y.xorg.pl
@@ -53209,6 +53207,7 @@ snowboots4usa.com
 snowmail.xyz
 snowsweepusa.com
 snowthrowers-reviews.com
+snpmail.fun
 snpsex.ga
 snrise.ch
 snsanfcjfja.com
@@ -57047,6 +57046,7 @@ tinilalo.com
 tinimama.club
 tinimama.online
 tinimama.website
+tinkergigi.bond
 tinkeringpans.com
 tinkmail.net
 tinmail.tk
@@ -57268,7 +57268,6 @@ tlk21.com
 tlkomsa.net
 tlktalk.net
 tln.pl
-tloj2.anonbox.net
 tlpn.org
 tls.cloudns.asia
 tlsacademy.com
@@ -58344,6 +58343,7 @@ tspace.net
 tspam.de
 tspt.online
 tspzeoypw35.ml
+tsqll.anonbox.net
 tssn.com
 tst999.com
 tsukinft.club
@@ -64943,6 +64943,7 @@ ynskleboots.com
 yoahoo.com
 yobe.pl
 yodaat.com
+yodwg.sbs
 yodx.ro
 yofibeauty.com
 yogamaven.com
