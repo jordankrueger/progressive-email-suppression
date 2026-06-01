@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-05-31
+# progressive-email-suppression — generated 2026-06-01
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66305 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66311 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -28149,6 +28149,7 @@ hqjzb9shnuk3k0u48.gq
 hqjzb9shnuk3k0u48.ml
 hqjzb9shnuk3k0u48.tk
 hqnmhr.com
+hqpdf.com
 hqsecmail.com
 hqt.one
 hqv8grv8dxdkt1b.cf
@@ -40890,6 +40891,7 @@ narcoboy.sbs
 nares.de
 narjwoosyn.pl
 narrereste.ml
+narrowment.com
 narsaab.site
 narsan.ru
 narsub.online
@@ -43441,6 +43443,7 @@ old.makingdomes.com
 old.marksypark.com
 old.ploooop.com
 old.poisedtoshrike.com
+oldao.com
 oldcelebrities.net
 olden.com.pl
 oldgwt.space
@@ -50074,6 +50077,7 @@ royalvx.com
 royalweb.email
 royandk.com
 royaumedesjeux.fr
+roybl.com
 royins.com
 roys.ml
 rozaoils.site
@@ -53927,6 +53931,7 @@ sqxx.net
 sr.fr
 sr.ro.lt
 sraka.xyz
+srame.com
 srancypancy.net
 srcitation.com
 srenon.com
@@ -63244,6 +63249,7 @@ xboxformoney.com
 xboxlivegenerator.xyz
 xboxppshua.top
 xbreg.com
+xbrok.com
 xbtravel.com
 xbvrfy45g.ga
 xbz0412.uu.me
