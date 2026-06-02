@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-01
+# progressive-email-suppression — generated 2026-06-02
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66311 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66359 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -389,6 +389,7 @@
 10mail.tk
 10mail.xyz
 10mi.org
+10min.email
 10minemail.com
 10minmail.de
 10minut.com.pl
@@ -870,7 +871,6 @@
 1stbest.info
 1stcallsecurity.com
 1stdibs.icu
-1stdomainresource.com
 1stimmobilien.eu
 1stpatrol.info
 1sworld.com
@@ -891,6 +891,7 @@
 1usemail.com
 1usweb.com
 1vitsitoufficiale.com
+1vpn.net
 1vsitoit.com
 1vtvga6.orge.pl
 1webmail.gdn
@@ -1153,6 +1154,7 @@
 258gmail.com
 259gmail.com
 25gmail.com
+25kcreditveo3.io.vn
 25mails.com
 25sas.help
 25tr4.anonbox.net
@@ -2023,7 +2025,6 @@
 4nextmail.com
 4nly.com
 4nmv.ru
-4nyvq.anonbox.net
 4ocmmk87.pl
 4of671adx.pl
 4ofqb4hq.pc.pl
@@ -5940,6 +5941,7 @@ annualcred8treport.com
 annuallyix.com
 annuityassistance.com
 ano-mail.net
+anogz.com
 anom.xyz
 anomail.com
 anomail.us
@@ -8102,6 +8104,7 @@ bannedpls.online
 banner4traffic.com
 bannerstandpros.com
 banquyen.xyz
+banri.xyz
 banricc.xyz
 banten.me
 bantenvpn.live
@@ -8436,6 +8439,7 @@ beastmagic.com
 beastmail.space
 beastpanda.com
 beastrapleaks.blogspot.com
+beatbok.online
 beatelse.com
 beatoff.com
 beats-rock.com
@@ -9013,6 +9017,7 @@ bf4ff.anonbox.net
 bf8878.com
 bfagv.anonbox.net
 bfat7fiilie.ru
+bfc67.anonbox.net
 bfcie.anonbox.net
 bfgop.anonbox.net
 bfhgh.com
@@ -10838,7 +10843,7 @@ bspe5.anonbox.net
 bspin.club
 bspooky.com
 bsquochoai.ga
-bsrdf.anonbox.net
+bss3d.anonbox.net
 bst-72.com
 bst5m.anonbox.net
 bsuakrqwbd.cf
@@ -12673,6 +12678,7 @@ chatpolynesie.com
 chatwesi.com
 chatworkstation.com
 chaublog.com
+chauhuy.site
 chaukkas.com
 chaussure-air-max.com
 chaussure-air-maxs.com
@@ -13022,7 +13028,6 @@ chinaqoe.com
 chinatabletspcs.com
 chinatongyi.com
 chinatov.com
-chinauxm.com
 chinchillaspam.com
 chindyanggrina.art
 chinese-opportunity.com
@@ -15333,6 +15338,7 @@ dailyhealthclinic.com
 dailyjoa.com
 dailyladylog.com
 dailyloon.com
+dailynutria.com
 dailypowercleanse.com
 dailypublish.com
 dailyquinoa.com
@@ -15771,6 +15777,7 @@ debatetayo.com
 debb.me
 debbiecynthiadewi.art
 debbykristy.art
+debitur.cam
 deboa.tk
 debonnehumeur.com
 deborahat.web.id
@@ -15971,6 +15978,7 @@ deornaumail.com
 depadua.eu
 depaduahootspad.eu
 department.com
+depdocla.net
 depinpools.com
 deplature.site
 deposin.com
@@ -16207,6 +16215,7 @@ devw.site
 dew.com
 dew007.com
 dewacapsawins.net
+dewacid.store
 dewadewipoker.com
 dewahkb.net
 deworconssoft.xyz
@@ -22791,6 +22800,7 @@ freyaglam.shop
 frez.com
 frgviana-nedv.ru
 friarystudentmail.com
+friday12.store
 fridaymovo.com
 friedfriedfrogs.info
 frienda.site
@@ -24126,7 +24136,6 @@ giftcv.com
 gifteame.com
 giftelope.com
 gifto12.com
-giftonlinezyz.online
 gifts4homes.com
 giftsales.store
 giftscrafts2012.info
@@ -25006,6 +25015,7 @@ goldinbox.net
 goldleaftobacconist.com
 goldmail.site
 goldmansports.com
+goldpaclk.store
 goldpaws.com
 goldringsstore.net
 goldvote.org
@@ -25430,6 +25440,7 @@ granuflolawsuits.info
 granuflolawyer.info
 grapevinegroup.com
 graphic14.catchydrift.com
+graphicbulk.site
 graphicenda.site
 graphinasdx.com
 graphtech.ru
@@ -26148,6 +26159,7 @@ hakinsiyatifi.org
 halaalsearch.com
 halamanenuy.net
 hale-namiotowe.net.pl
+haleloya.site
 halidepo.com
 halil.ml
 halkasor.com
@@ -26209,6 +26221,7 @@ handrfabrics.com
 handrik.com
 handwashgel.online
 handyall.com
+hanghai232.shop
 hanging-drop-plates.com
 hangover-over.tk
 hangsuka.com
@@ -26991,6 +27004,7 @@ him.lakemneadows.com
 him.marksypark.com
 him.oldoutnewin.com
 him6.com
+himacreative.id
 himail.infos.st
 himail.monster
 himail.online
@@ -28292,6 +28306,7 @@ huachichi.info
 huairen.sbs
 huairen5.sbs
 huajiachem.cn
+huamo.lat
 huang-f.top
 huangboyu.com
 huangniu8.com
@@ -28435,6 +28450,8 @@ huutinhrestaurant.com
 huweimail.cn
 huyducfullxu.cloud
 huyf.com
+huynhlx.shop
+huytuyen.click
 huyzvip.best
 hv112.com
 hvastudiesucces.nl
@@ -28949,7 +28966,6 @@ icrr2011symp.pl
 icsfinomornasco.it
 icshu.com
 icsint.com
-icsitc.com
 icslecture.com
 icstudent.org
 ict0crp6ocptyrplcr.cf
@@ -29412,6 +29428,7 @@ images.ploooop.com
 images.poisedtoshrike.com
 imaginged.com
 imagiscape.us
+imail.edu.pl
 imail.edu.vn
 imail.seomail.eu
 imail1.net
@@ -29746,6 +29763,7 @@ information-blog.xyz
 informationispower.co.uk
 informatykbiurowy.pl
 informedexistence.com
+infos.st
 infosdating.info
 infoslot88.com
 infosnet24.info
@@ -29952,7 +29970,6 @@ insurancecaredirect.com
 insurancenew.org
 insuranceonlinequotes.info
 insurancing.ru
-insvip.site
 int.inblazingluck.com
 int.ploooop.com
 int.poisedtoshrike.com
@@ -31031,6 +31048,7 @@ jeffreypeterson.info
 jeie.igg.biz
 jeitodecriar.ga
 jejeje.com
+jejes.de
 jeld.com
 jellow.ml
 jelly-life.com
@@ -31364,6 +31382,7 @@ jnyfyxdhrx85f0rrf.ml
 jnyfyxdhrx85f0rrf.tk
 jo-mail.com
 jo.com
+jo3.org
 jo6s.com
 jo8otki4rtnaf.cf
 jo8otki4rtnaf.ga
@@ -32975,6 +32994,7 @@ kokinus.ro
 kokkiii.com
 kokocookies.com
 kokokoko.com
+kokomail.cc
 kokorot.cf
 kokorot.ga
 kokorot.gq
@@ -33882,6 +33902,7 @@ latviansmn.com
 laud.net
 laudmed.com
 laugh.favbat.com
+laulund.info
 launchjackings.com
 launders.money
 laurelmountainmustang.com
@@ -34554,7 +34575,6 @@ linkedintuts2016.pw
 linkfieldhub.com
 linkfieldrun.com
 linkfixweb.com
-linkflowrun.com
 linkhivezone.com
 linki321.pl
 linkjetdata.com
@@ -36460,6 +36480,7 @@ mail11.cf
 mail11.gq
 mail11.hensailor.hensailor.xyz
 mail11.ml
+mail11.xyz
 mail114.net
 mail123.club
 mail12h.com
@@ -36983,6 +37004,8 @@ maillasd1.trade
 maillbox.ga
 maillei.com
 maillei.net
+maillii.shop
+maillii.store
 mailline.net
 mailling.ru
 maillink.in
@@ -38556,6 +38579,7 @@ mg-rover.tk
 mg2222.com
 mgaba.com
 mgabratzboys.info
+mgbet.lat
 mgdchina.com
 mgeladze.ru
 mgleek.com
@@ -39325,6 +39349,7 @@ mogcheats.com
 mogensenonline.com
 mogotech.com
 mohcine.ml
+mohemil.com
 mohmail.com
 mohmal.club
 mohmal.com
@@ -40631,6 +40656,7 @@ mytaxes.com
 mytechhelper.info
 mytechsquare.com
 mytemails.com
+mytemp-mail.com
 mytemp.email
 mytempdomain.tk
 mytempemail.com
@@ -42735,6 +42761,7 @@ nvhrw.com
 nvision2011.co.cc
 nvmetal.pl
 nvnav.com
+nvqt304.xyz
 nvtelecom.info
 nvtmail.bid
 nvuti.studio
@@ -43126,6 +43153,7 @@ oeoqzf.pl
 oepia.com
 oepik.anonbox.net
 oeppeo.com
+oeralb.com
 oerfa.org
 oerpub.org
 oertefae.tk
@@ -43466,6 +43494,7 @@ olgt6etnrcxh3.gq
 olgt6etnrcxh3.ml
 olgt6etnrcxh3.tk
 oliespace.com
+oliespace.site
 olimp-case.ru
 olinbzt.ga
 oline.de
@@ -43552,6 +43581,7 @@ omlkr.anonbox.net
 ommail.com
 omne.com
 omnievents.org
+omnilog.space
 omnyo.com
 ompokerasia.com
 omsk-nedv.ru
@@ -44962,6 +44992,7 @@ passas7.com
 passava.com
 passboxer.com
 passeone.com
+passeone.xyz
 passfwd.com
 passinbox.com
 passionblood.com
@@ -45328,6 +45359,7 @@ pelecandesign.com
 peliscloud.com
 pelor.ga
 pelor.tk
+pelviro.sbs
 pemail.com
 pemberontakjaya88.com
 pembola.com
@@ -46507,6 +46539,7 @@ pox2.com
 poy.e-paws.net
 poy.kr
 poyrtsrxve.pl
+pozima.rest
 pozitifff.com
 pozitiv.ru
 pozta.fm
@@ -48016,6 +48049,7 @@ quantyti.com
 quarida.com
 quarl.xyz
 quatetaline.com
+qubayarin.com
 qubecorp.tk
 quebec.alpha.webmailious.top
 quebec.victor.webmailious.top
@@ -50305,6 +50339,7 @@ rumednews.site
 rumgel.com
 rumpelhumpel.com
 rumpelkammer.com
+run.place
 runalone.uni.me
 runball.us
 runballrally.us
@@ -50796,6 +50831,7 @@ salahkahaku.cf
 salahkahaku.ga
 salahkahaku.gq
 salahkahaku.ml
+salakoais.shop
 salamanderbaseball.com
 salamandraux.com
 salamfilm.xyz
@@ -52387,6 +52423,7 @@ shorterurl.biz
 shorthus.site
 shortmail.net
 shorttermloans90.co.uk
+shortweb.live
 shoshaa.in
 shotarou.com
 shotmail.ru
@@ -52654,6 +52691,7 @@ sirr.de
 sirver.ru
 sisari.ru
 sisemazamkov.com
+sisood.com
 sistewep.online
 sistm.in
 sitavu.eu
@@ -52767,6 +52805,7 @@ skinacneremedytreatmentproduct.com
 skinaestheticlinic.com
 skincareonlinereviews.net
 skincareproductoffers.com
+skingkong.com
 skinid.info
 skins.6amail.top
 skintagfix.com
@@ -53409,6 +53448,7 @@ somoj.com
 somonsuka.com
 somosfarol.com.br
 somsupport.xyz
+son2d.site
 sonaluma.com
 sondemar.com
 songgallery.info
@@ -54169,7 +54209,6 @@ staticintime.de
 statiix.com
 stationatprominence.com
 stationdance.com
-statisho.com
 stativill.site
 statloan.info
 statsbyte.com
@@ -54540,6 +54579,7 @@ stylishmichaelkorshandbags.info
 stylist-volos.ru
 styliste.pro
 suamiistribahagia.com
+suarj.com
 suavietly.com
 subaru-brz.cf
 subaru-brz.ga
@@ -54810,6 +54850,7 @@ supermailer.jp
 supermails.pl
 supermantutivie.com
 supermediamail.com
+supermmw.online
 supernews245.de
 superoxide.ml
 superpene.com
@@ -56153,6 +56194,7 @@ tempmail.plus
 tempmail.pp.ua
 tempmail.pro
 tempmail.red
+tempmail.rest
 tempmail.space
 tempmail.sytes.net
 tempmail.top
@@ -56493,7 +56535,6 @@ thangmaydaiphong.com
 thangmaygiadinh.com
 thangmayhaiduong.com
 thangmaythoitrang.vn
-thanhnhien.net
 thanksgiving.digital
 thanksme.online
 thanksme.store
@@ -57974,6 +58015,7 @@ trallal.com
 tramecpolska.com.pl
 tramynguyen.net
 tranceversal.com
+trandigabapoe.shop
 trangiabao.click
 trangmuon.com
 trango.co
@@ -58027,6 +58069,7 @@ trashemails.de
 trashimail.de
 trashinbox.com
 trashinbox.net
+trashlify.com
 trashmail.app
 trashmail.at
 trashmail.com
@@ -58586,7 +58629,6 @@ two.lakemneadows.com
 two.marksypark.com
 two.popautomated.com
 two0aks.com
-twobirds-legal.com
 twocowmail.net
 twodayyylove.club
 twodrops.org
@@ -60538,6 +60580,7 @@ vieebee.cf
 vieebee.ga
 vieebee.gq
 vieebee.tk
+viemarter.online
 viemery.com
 vienna.cf
 viennas-finest.com
@@ -63088,6 +63131,7 @@ wzxmtb3stvuavbx9hfu.gq
 wzxmtb3stvuavbx9hfu.ml
 wzxmtb3stvuavbx9hfu.tk
 x-bases.ru
+x-clone.asia
 x-fuck.info
 x-instruments.edu
 x-lab.net
@@ -63281,6 +63325,7 @@ xcekh6p.pl
 xcell.ukfreedom.com
 xcheesemail.info
 xcisade129.ru
+xclone.asia
 xcmitm3ve.pl
 xcnmarketingcompany.com
 xcode.ro
@@ -64441,6 +64486,7 @@ yahooil.com
 yahooj.com
 yahook.com
 yahoomail.fun
+yahoomail.pro
 yahoon.com
 yahoonospam.com
 yahooo.ca
@@ -64764,12 +64810,14 @@ yesgurgaon.com
 yesiyu.com
 yesnauk.com
 yesnews.info
+yesornowheel.fun
 yesterday2010.info
 yeswecanevents.info
 yeswetoys.com
 yesyes.site
 yetmail.net
 yeumark.ga
+yeummo.io.vn
 yeupmail.cf
 yevme.com
 yeweuqwtru.tk
@@ -65462,6 +65510,7 @@ zakkaas.com
 zakl.org
 zaktouni.fr
 zakzsvpgxu.pl
+zalesie.net.pl
 zalmem.com
 zalopner87.com
 zalotti.com
@@ -65692,7 +65741,6 @@ zeromail.ga
 zeronerbacomail.com
 zeronex.ml
 zeropolly.com
-zerotermux.pm
 zerotohero-1.com
 zertigo.org
 zest.me.uk
