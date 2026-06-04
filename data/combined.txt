@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-03
+# progressive-email-suppression — generated 2026-06-04
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 66538 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 66549 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -1391,6 +1391,7 @@
 2zpph1mgg70hhub.gq
 2zpph1mgg70hhub.ml
 2zpph1mgg70hhub.tk
+2zwpp.anonbox.net
 3-attorney.com
 3-debt.com
 3.batikbantul.com
@@ -2357,6 +2358,7 @@
 5minutetrip.com
 5music.info
 5music.top
+5nek.com
 5nqkxprvoctdc0.cf
 5nqkxprvoctdc0.ga
 5nqkxprvoctdc0.gq
@@ -4229,7 +4231,6 @@ adidasto.com
 adil.pl
 adilub.com
 adios.email
-adiosbaby.com
 adipex7z.com
 adiq.eu
 adisabeautysalon.com
@@ -6861,6 +6862,7 @@ asorent.com
 asors.org
 asosk.tk
 asouses.ru
+aspensif.com
 asperorotutmail.com
 aspo.pt
 asportsa.ru
@@ -9974,6 +9976,7 @@ bn5me.anonbox.net
 bnbad.anonbox.net
 bnbme.info
 bnbme.tv
+bncinema.com
 bnckms.cf
 bnckms.ga
 bnckms.gq
@@ -10744,6 +10747,7 @@ britneybicz.pl
 britted.com
 brittneyus.biz.id
 brixmail.info
+brixozu.com
 brizzolari.com
 brksea.com
 brmailing.com
@@ -11919,7 +11923,9 @@ caonima.gq
 caosusaoviet.vn
 cap-or.com
 capatal.com
+capct.id
 capcud.shop
+capcut.asia
 capcut.buzz
 capcut.digital
 capcut.my.id
@@ -14916,6 +14922,7 @@ cua77.xyz
 cuadongplaza.com
 cuahangvppn.shop
 cuaina.com
+cuaks.fun
 cuan.email
 cuanbrowncs.mom
 cuanmarket.xyz
@@ -17340,6 +17347,7 @@ dorukhansozer.cfd
 dorywalski.pl
 dosait.ru
 dosan12.com
+dosbee.com
 doscobal.com
 dosonex.com
 dostatniapraca.pl
@@ -20938,6 +20946,7 @@ famytown.site
 famytown.xyz
 fanbasesports.co
 fanbasic.org
+fanchatu.com
 fancinematoday.com
 fanclub.pm
 fancoder.xyz
@@ -21966,6 +21975,7 @@ fix-phones.ru
 fix.2amail.top
 fixkauf24.de
 fixmail.tk
+fixscal.com
 fixthiserror.com
 fixthisrecipe.com
 fixwap.com
@@ -26825,6 +26835,7 @@ hermitcraft.cf
 hero.bthow.com
 herocopters.com
 heroine-cruhser.cf
+herojp.com
 heros3.com
 herostartup.com
 heroulo.com
@@ -32226,7 +32237,6 @@ karavic.com
 karbonaielite.com
 karbonbet.com
 karcherparts.info
-kardelentahmez.cfd
 karelklosse.com
 karement.com
 karenkey.com
@@ -38660,6 +38670,7 @@ mfriends.com
 mfsa.info
 mfsa.ru
 mfunza.com
+mfxis.com
 mfyax.com
 mg-rover.cf
 mg-rover.ga
@@ -41792,6 +41803,7 @@ ng9rcmxkhbpnvn4jis.tk
 ngab.email
 ngancuk.online
 ngaydi.xyz
+ngekrit.lat
 ngelead.eu.org
 ngem.net
 ngeme.me
@@ -47161,7 +47173,6 @@ profit-pozycjonowanie.pl
 profit.idea-profit.pl
 profitcheetah.com
 profitindex.ru
-profitmate.company
 profitxtreme.com
 profonmail.com
 progem.pl
@@ -48266,7 +48277,6 @@ qverizon.net
 qvestmail.com
 qvharrisu.com
 qvmao.com
-qvozt.anonbox.net
 qvttclass.us
 qvwthrows.com
 qvy.me
@@ -49585,6 +49595,7 @@ rexburgonbravo.com
 rexburgwebsites.com
 rexhuntress.com
 rexmail.fun
+rexornge.net
 reymisterio.com
 reynox.com
 rezato.com
@@ -50270,7 +50281,6 @@ rq1h27n291puvzd.tk
 rq3i7gcp.345.pl
 rq6668f.com
 rqmail.xyz
-rqzetvmh77.online
 rqzuelby.pl
 rr-0.cu.cc
 rr-1.cu.cc
@@ -50818,6 +50828,7 @@ sabbati.it
 sabcglobal.net
 saber.9amail.top
 sabesp.com
+sabor.lat
 sabra.pl
 sabrestlouis.com
 sabrgist.com
@@ -52652,7 +52663,6 @@ sifumail.com
 sify.com
 sign-in.social
 sign-up.website
-signalance.com
 signalxp.com
 signaturefencecompany.com
 signaturehomegroup.net
@@ -64939,6 +64949,7 @@ yellnbmv766.ga
 yellnbmv766.gq
 yellnbmv766.ml
 yellnbmv766.tk
+yellofdf2.click
 yellow.flu.cc
 yellow.hotakama.tk
 yellow.igg.biz
