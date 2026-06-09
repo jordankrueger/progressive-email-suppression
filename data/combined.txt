@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-08
+# progressive-email-suppression — generated 2026-06-09
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 67577 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 67734 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -546,6 +546,7 @@
 130723.xyz
 130gmail.com
 1313gmail.com
+13282298.xyz
 1337.care
 1337.email
 1337.no
@@ -591,6 +592,9 @@
 153gmail.com
 154884.com
 154gmail.com
+15553.eu.cc
+15555.eu.cc
+15557.eu.cc
 155gmail.com
 156gmail.com
 157gmail.com
@@ -1255,7 +1259,6 @@
 2anom.com
 2aol.com
 2b9s.dev
-2bd.net
 2bedbluewaters.com
 2brutus.com
 2ch.coms.hk
@@ -3836,6 +3839,8 @@ aaronson4.my03.com
 aaronson6.authorizeddns.org
 aaronwolford.com
 aarway.com
+aasdarq.eu.cc
+aasdasd.eu.cc
 aasgashashashajh.cf
 aasgashashashajh.ga
 aasgashashashajh.gq
@@ -4354,6 +4359,7 @@ adonisgoldenratioreviews.info
 adoniswe.us
 adorable.org
 adoratus.buzz
+ados.cc.cd
 adpings.com
 adpmfxh0ta29xp8.cf
 adpmfxh0ta29xp8.ga
@@ -4830,6 +4836,7 @@ ai4trade.info
 ai6188.com
 aiafhg.com
 aiauction.xyz
+aibase.bond
 aicanada.xyz
 aicasino.xyz
 aice.it
@@ -4846,6 +4853,7 @@ aifmhymvug7n4.ga
 aifmhymvug7n4.gq
 aifmhymvug7n4.ml
 aifmhymvug7n4.tk
+aifmusic.top
 aigptplus.co
 aihtnb.com
 aihualiu.com
@@ -6807,6 +6815,7 @@ asdasdsa.com
 asdasdweqee.com
 asdawqa.com
 asdbwegweq.xyz
+asdcxijkj.eu.cc
 asddddmail.org
 asdeqwqborex.com
 asdewqrf.com
@@ -9947,6 +9956,7 @@ blog.poisedtoshrike.com
 blog.quirkymeme.com
 blog.sjinks.pro
 blog.yourelection.net
+blog3.cc.cd
 blog4us.eu
 blogav.ru
 blogdiary.info
@@ -13524,6 +13534,8 @@ cigar-auctions.com
 cigarshark.com
 cigidea.com
 cigs.com
+cihai.eu.cc
+cihaifhqo.eu.cc
 cikuh.com
 cilemail.ga
 cilian.mom
@@ -13596,6 +13608,7 @@ ciweltrust33deep.tk
 cj.mintemail.com
 cj2v45a.pl
 cjck.eu
+cjdeyuiw.eu.cc
 cjet.net
 cjj.com
 cjpeg.com
@@ -13715,6 +13728,7 @@ clean.adriaticmail.com
 clean.cowsnbullz.com
 clean.oldoutnewin.com
 clean.pro
+cleaninbox.dynv6.net
 cleaning-co.ru
 cleaningcompanybristol.com
 cleaningtalk.com
@@ -13986,6 +14000,7 @@ cncb.de
 cncsystems.de
 cnctexas.com
 cndps.com
+cnebw.eu.cc
 cneemail.com
 cnetmail.net
 cnew.ir
@@ -15619,6 +15634,7 @@ daciasandero.tk
 dacoolest.com
 dacre.us
 dad.biprep.com
+dadaolibai.eu.cc
 dadaproductions.net
 dadbgspxd.pl
 dadd.kikwet.com
@@ -15646,6 +15662,7 @@ daftarjudimixparlay.com
 dagagd.pl
 dagatour.com
 dagavip1.top
+dahewushi.eu.cc
 dahongying.net
 daibond.info
 daiettodorinku.com
@@ -15904,6 +15921,8 @@ dawk.com
 dawnwick.org
 dawsi.com
 dawsoncountygunclub.org
+dawushihe.eu.cc
+dawushihehe.eu.cc
 daxur.mx
 daxur.pro
 daxur.xyz
@@ -16608,6 +16627,7 @@ dfwlqp.com
 dfworld.net
 dfy2413negmmzg1.ml
 dfy2413negmmzg1.tk
+dfyuih.eu.cc
 dfyxmwmyda.pl
 dg8899.com
 dg9.org
@@ -16651,6 +16671,7 @@ dhbusinesstrade.info
 dhddh.com
 dhdhdyald.com
 dhead3r.info
+dheiwuy.eu.cc
 dhgbeauty.info
 dhindustry.com
 dhkf.com
@@ -16667,6 +16688,7 @@ dhmu5ae2y7d11d.gq
 dhmu5ae2y7d11d.ml
 dhmu5ae2y7d11d.tk
 dhnow.com
+dhoahn.eu.cc
 dhotmail.com
 dhruvseth.com
 dhsjyy.com
@@ -17166,6 +17188,7 @@ djrpdkjsf.com
 djsjfmdfjsf.com
 djskd.com
 djuncan-shop.online
+djwekih.eu.cc
 djwjdkdx.com
 dk3vokzvucxolit.cf
 dk3vokzvucxolit.ga
@@ -17326,6 +17349,7 @@ dnek.com
 dnestrauto.com
 dnetwork.site
 dnflanddl.com
+dnkah.eu.cc
 dnlien.com
 dnrc.com
 dns-cloud.net
@@ -17666,6 +17690,7 @@ doscobal.com
 dosonex.com
 dostatniapraca.pl
 dostupnaya-ipoteka.ru
+doszo.qzz.io
 dot-coin.com
 dot-mail.top
 dot-ml.ml
@@ -18375,6 +18400,8 @@ dy7fpcmwck.tk
 dyahoo.com
 dyceroprojects.com
 dyclsr.xyz
+dyebkj.eu.cc
+dyfgiavcrw.eu.cc
 dygovil.com
 dyi.com
 dyj.pl
@@ -20760,6 +20787,7 @@ exaggreath.site
 exahut.com
 exaltatio.com
 exaltedgames.com
+examcentral.co.uk
 examole.com
 exampe.com
 example.com
@@ -21689,6 +21717,7 @@ fdgdfgdfgf.ml
 fdger.com
 fdgfd.com
 fdgh.com
+fdhsui.eu.cc
 fdkgf.com
 fdmail.net
 fdmail.top
@@ -21896,6 +21925,7 @@ fhccc44.com
 fhdt0xbdu.xorg.pl
 fhead3r.info
 fheiesit.com
+fhoau.eu.cc
 fhollandc.com
 fhoxe.works
 fhpfhp.fr.nf
@@ -21904,6 +21934,8 @@ fhsd-gd.top
 fhsn.com
 fhsysa.com
 fhvxkg2t.xyz
+fhwui.eu.cc
+fhwyuoia.eu.cc
 fi-pdl.cf
 fi-pdl.ga
 fi-pdl.gq
@@ -23035,6 +23067,7 @@ freeet.de
 freefattymovies.com
 freeforall.site
 freegetvpn.com
+freegrok.cc.cd
 freehealthadvising.info
 freehosting.men
 freehosting2010.com
@@ -23642,6 +23675,7 @@ fxxf.beer
 fxzig.com
 fyahoo.com
 fycloud.online
+fyeiwh.eu.cc
 fyh.in
 fyii.de
 fyij.com
@@ -24303,6 +24337,7 @@ get365.pw
 get365.tk
 get42.info
 getahairstyle.com
+getai-hub.com
 getairmail.cf
 getairmail.com
 getairmail.ga
@@ -25841,6 +25876,105 @@ gpsmobilephonetracking.info
 gpssport.com
 gpstrackerandroid.com
 gpstrackingreviews.net
+gpt-mail-free-1200.dynv6.net
+gpt-mail-free-140.dynv6.net
+gpt-mail-free-1427.dynv6.net
+gpt-mail-free-1550.dynv6.net
+gpt-mail-free-161.dynv6.net
+gpt-mail-free-1694.dynv6.net
+gpt-mail-free-1721.dynv6.net
+gpt-mail-free-1980.dynv6.net
+gpt-mail-free-1998.dynv6.net
+gpt-mail-free-2019.dynv6.net
+gpt-mail-free-2049.dynv6.net
+gpt-mail-free-2109.dynv6.net
+gpt-mail-free-2141.dynv6.net
+gpt-mail-free-2307.dynv6.net
+gpt-mail-free-2310.dynv6.net
+gpt-mail-free-2375.dynv6.net
+gpt-mail-free-248.dynv6.net
+gpt-mail-free-2491.dynv6.net
+gpt-mail-free-3.dynv6.net
+gpt-mail-free-3074.dynv6.net
+gpt-mail-free-3093.dynv6.net
+gpt-mail-free-3127.dynv6.net
+gpt-mail-free-3291.dynv6.net
+gpt-mail-free-3330.dynv6.net
+gpt-mail-free-3348.dynv6.net
+gpt-mail-free-3476.dynv6.net
+gpt-mail-free-3527.dynv6.net
+gpt-mail-free-366.dynv6.net
+gpt-mail-free-3792.dynv6.net
+gpt-mail-free-3927.dynv6.net
+gpt-mail-free-4111.dynv6.net
+gpt-mail-free-4547.dynv6.net
+gpt-mail-free-4771.dynv6.net
+gpt-mail-free-4775.dynv6.net
+gpt-mail-free-4788.dynv6.net
+gpt-mail-free-4821.dynv6.net
+gpt-mail-free-4900.dynv6.net
+gpt-mail-free-5018.dynv6.net
+gpt-mail-free-5182.dynv6.net
+gpt-mail-free-5211.dynv6.net
+gpt-mail-free-5226.dynv6.net
+gpt-mail-free-5241.dynv6.net
+gpt-mail-free-5261.dynv6.net
+gpt-mail-free-5386.dynv6.net
+gpt-mail-free-5406.dynv6.net
+gpt-mail-free-551.dynv6.net
+gpt-mail-free-5539.dynv6.net
+gpt-mail-free-561.dynv6.net
+gpt-mail-free-574.dynv6.net
+gpt-mail-free-5902.dynv6.net
+gpt-mail-free-6067.dynv6.net
+gpt-mail-free-610.dynv6.net
+gpt-mail-free-6221.dynv6.net
+gpt-mail-free-6289.dynv6.net
+gpt-mail-free-6320.dynv6.net
+gpt-mail-free-6342.dynv6.net
+gpt-mail-free-6397.dynv6.net
+gpt-mail-free-6419.dynv6.net
+gpt-mail-free-6603.dynv6.net
+gpt-mail-free-6664.dynv6.net
+gpt-mail-free-6779.dynv6.net
+gpt-mail-free-6812.dynv6.net
+gpt-mail-free-6925.dynv6.net
+gpt-mail-free-6962.dynv6.net
+gpt-mail-free-7208.dynv6.net
+gpt-mail-free-7298.dynv6.net
+gpt-mail-free-7493.dynv6.net
+gpt-mail-free-7548.dynv6.net
+gpt-mail-free-7572.dynv6.net
+gpt-mail-free-7582.dynv6.net
+gpt-mail-free-7689.dynv6.net
+gpt-mail-free-7939.dynv6.net
+gpt-mail-free-8015.dynv6.net
+gpt-mail-free-8049.dynv6.net
+gpt-mail-free-8591.dynv6.net
+gpt-mail-free-86.dynv6.net
+gpt-mail-free-861.dynv6.net
+gpt-mail-free-8611.dynv6.net
+gpt-mail-free-8671.dynv6.net
+gpt-mail-free-8773.dynv6.net
+gpt-mail-free-8786.dynv6.net
+gpt-mail-free-8791.dynv6.net
+gpt-mail-free-882.dynv6.net
+gpt-mail-free-8886.dynv6.net
+gpt-mail-free-8933.dynv6.net
+gpt-mail-free-8944.dynv6.net
+gpt-mail-free-902.dynv6.net
+gpt-mail-free-9243.dynv6.net
+gpt-mail-free-9307.dynv6.net
+gpt-mail-free-9446.dynv6.net
+gpt-mail-free-9502.dynv6.net
+gpt-mail-free-9515.dynv6.net
+gpt-mail-free-9584.dynv6.net
+gpt-mail-free-9609.dynv6.net
+gpt-mail-free-9620.dynv6.net
+gpt-mail-free-9695.dynv6.net
+gpt-mail-free-9825.dynv6.net
+gpt-mail-free-9935.dynv6.net
+gpt-mail.myftp.org
 gptmail.cc.cd
 gptmail.us.ci
 gptmail.webredirect.org
@@ -25869,6 +26003,7 @@ gr5kfhihqa3y.ga
 gr5kfhihqa3y.gq
 gr5kfhihqa3y.ml
 gr5kfhihqa3y.tk
+grabafilafoundation.org
 grabdealstoday.info
 grabill.org
 grabitfast.co
@@ -30815,6 +30950,7 @@ irdneh.ga
 irdneh.gq
 irdneh.ml
 irdneh.tk
+irealiy.cyou
 iredirect.info
 iremail.com
 iremel.cf
@@ -31945,7 +32081,6 @@ jnyfyxdhrx85f0rrf.ml
 jnyfyxdhrx85f0rrf.tk
 jo-mail.com
 jo.com
-jo3.org
 jo6s.com
 jo8otki4rtnaf.cf
 jo8otki4rtnaf.ga
@@ -35196,7 +35331,6 @@ linkjewellery.com
 linklist.club
 linkloginjoker123.com
 linkmail.info
-linkpc.net
 linksdown.net
 linkserver.es
 linksgold.ru
@@ -35622,6 +35756,7 @@ livn.de
 livzadsz.com
 lixianlinzhang.cn
 lixo.loxot.eu
+liyao.edu.kg
 liybt.live
 lizardrich.com
 lizery.com
@@ -35908,6 +36043,7 @@ lokaperuss.com
 lokata-w-banku.com.pl
 lokatowekorzysci.eu
 lokd.com
+lokenathassociation.co.uk
 lokerpati.site
 lokerupdate.me
 lokesh-gamer.ml
@@ -38783,6 +38919,7 @@ mcdrives.com
 mcelderry.eu
 mcelderryrodiquez.eu
 mcenany.freshbreadcrumbs.com
+mchasd.eu.cc
 mchdp.com
 mchsi.com.com
 mchyde.com
@@ -38815,6 +38952,7 @@ mcytaooo0099-0.com
 mcyvkf6y7.pl
 md5hashing.net
 md7eh7bao.pl
+mdahld.eu.cc
 mdba.com
 mddatabank.com
 mddwgs.mil.pl
@@ -38985,6 +39123,7 @@ megatraherhd.ru
 megavigor.info
 megogonett.ru
 megoqo.ru
+mehda.eu.cc
 mehditech.info
 mehr-bitcoin.de
 mehrpoy.ir
@@ -39019,6 +39158,7 @@ meken.ru
 mekerlcs.cfd
 mekhmon.com
 mekikcek.network
+mekqh.eu.cc
 meksika-nedv.ru
 mekuron.com
 melapatas.space
@@ -41933,6 +42073,7 @@ ncstorms.com
 nctime.com
 nctm.de
 nctuiem.xyz
+ndade.eu.cc
 ndaraiangop2wae.buzz
 ndbt.click
 nddgxslntg3ogv.cf
@@ -42477,6 +42618,7 @@ nfast.net
 nfeconsulta.net
 nfhtbcwuc.pl
 nfirmemail.com
+nfkah.eu.cc
 nfl.name
 nfl49erssuperbowlshop.com
 nflbettings.info
@@ -44854,6 +44996,7 @@ oppamail.com
 oppax.com
 oppein.pl
 oppobitty-myphen375.com
+opportunity-africa.com
 oppositivity.xyz
 oproom.com
 opsmkyfoa.pl
@@ -51272,7 +51415,6 @@ rumednews.site
 rumgel.com
 rumpelhumpel.com
 rumpelkammer.com
-run.place
 runalone.uni.me
 runball.us
 runballrally.us
@@ -51867,6 +52009,7 @@ samauil.com
 sambalenak.com
 samblad.ga
 samblad.ml
+samblogs.nett.to
 samblogs.zone.id
 sambuzh.com
 samcloudq.com
@@ -52414,6 +52557,7 @@ sdg4643ty34.ga
 sdgewrt43terdsgt.ga
 sdgsdfgsfgsdg.pl
 sdgsdg.com
+sdhaiok.eu.cc
 sdirfemail.com
 sdiussc.com
 sdj.fr.nf
@@ -54212,6 +54356,7 @@ snehadas.rocks
 snehadas.site
 snehadas.tech
 snellingpersonnel.com
+sneydgreen-communityhall.co.uk
 snipe-mail.bid
 snipemail4u.bid
 snipemail4u.men
@@ -55140,6 +55285,7 @@ stanleykitchens-zp.in
 stannhighschooledu.ml
 stanovanjskeprevare.com
 stansmail.com
+star-fish.org.uk
 star.emailies.com
 star.marksypark.com
 star.ploooop.com
@@ -56932,6 +57078,7 @@ tehdini.cf
 tehdini.ga
 tehdini.gq
 tehdini.ml
+tehillahpraise.uk
 tehoopcut.info
 tehs8ce9f9ibpskvg.cf
 tehs8ce9f9ibpskvg.ga
@@ -61513,6 +61660,7 @@ vfarmemailmkp.click
 vfastmails.com
 vfazou.xyz
 vfdd.com
+vfdhks.eu.cc
 vfemail.net
 vfh.luk2.com
 vfienvtua2dlahfi7.cf
@@ -62020,6 +62168,7 @@ vkdmtzzgsxa.pl
 vkfu.ru
 vkfu.store
 vkilotakte.ru
+vkjashdf.eu.cc
 vkokfb.ru
 vkontakteemail.co.cc
 vkoxtakte.ru
@@ -62097,6 +62246,7 @@ vncoders.net
 vncwyesfy.pl
 vndfgtte.com
 vnedu.me
+vnfjsh.eu.cc
 vnhojkhdkla.info
 vnkadsgame.com
 vnmon.com
@@ -63882,7 +64032,6 @@ wordpress-speed-up-dashboard.ml
 wordpressitaly.com
 wordpressmails.com
 work-info.ru
-work.gd
 work.obask.com
 work.oldoutnewin.com
 work24h.eu
@@ -64487,6 +64636,7 @@ xcoxc.com
 xcpy.com
 xcqvxcas.com
 xcremail.com
+xcsllajs.eu.cc
 xctrade.info
 xcufrmogj.pl
 xcure.xyz
@@ -64514,6 +64664,7 @@ xdavpzaizawbqnivzs0.gq
 xdavpzaizawbqnivzs0.ml
 xdavpzaizawbqnivzs0.tk
 xdderetronline.xyz
+xdfrms.fun
 xdigit.top
 xdndg.anonbox.net
 xdnss.cc
@@ -64614,6 +64765,7 @@ xhyemail.com
 xhygii.buzz
 xhypm.com
 xi2.cc
+xiajspof.eu.cc
 xiangshan.eu.cc
 xiaoche.ggff.net
 xiaohuangyu.ccwu.cc
@@ -64885,6 +65037,7 @@ xpsatnzenyljpozi.gq
 xpsatnzenyljpozi.ml
 xpsatnzenyljpozi.tk
 xpywg888.com
+xqqgegsd.eu.cc
 xr.ftpserver.biz
 xr158a.com
 xr160.com
@@ -64936,6 +65089,7 @@ xsil43fw5fgzito.ga
 xsil43fw5fgzito.gq
 xsil43fw5fgzito.ml
 xsil43fw5fgzito.tk
+xsioap.eu.cc
 xsmega.com
 xsmega645.com
 xstyled.net
@@ -66006,6 +66160,7 @@ yeyenlidya.art
 yf877.com
 yfahoo.com
 yfdaqxglnz.pl
+yfhsdb.eu.cc
 yfpoloralphlaurenpascher.com
 yfqkryxpygz.pl
 ygfwhcpaqf.pl
@@ -66484,6 +66639,7 @@ ysahoo.com
 ysbcglobal.net
 ysc.co.in
 ysfuddr.top
+ysgdjd.fun
 yshdnhh.click
 yslighting.com
 yslonsale.com
@@ -67009,6 +67165,7 @@ zhewei88.com
 zhidkiy-gazon.ru
 zhiezmotion.me
 zhiezpremium.store
+zhizhiwei.fun
 zhongchengtz.com
 zhongsongtaitu.com
 zhongy.in
