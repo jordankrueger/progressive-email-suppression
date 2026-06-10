@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-09
+# progressive-email-suppression — generated 2026-06-10
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 3203 domains matching typosquat patterns of major providers
+# 3205 domains matching typosquat patterns of major providers
 0-mail.com
 000email.com
 001gmail.com
@@ -1962,6 +1962,7 @@ mail.yahoo.com
 mail10m.com
 mail12h.com
 mail15.com
+mail1mail.com
 mail22.com
 mail2bin.com
 mail2paste.com
@@ -2013,6 +2014,7 @@ mailcok.com
 mailconn.com
 mailcuk.com
 mailcupp.com
+maildaft.com
 maildeluxehost.com
 maildfga.com
 maildgsp.com
