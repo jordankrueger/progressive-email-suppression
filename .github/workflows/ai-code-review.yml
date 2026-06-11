@@ -119,6 +119,19 @@ jobs:
               with urllib.request.urlopen(req) as resp:
                   return json.loads(resp.read())
 
+          # Files whose FULL content must never be embedded — only their diff is sent.
+          # Prevents secrets/credentials living in UNCHANGED regions of a modified file
+          # from being forwarded to the external LLM (the diff already leaks changed lines).
+          SENSITIVE_FULLFILE_PATTERNS = [
+              ".env", ".pem", ".key", ".p12", ".pfx", ".jks", ".keystore",
+              "id_rsa", "id_ed25519", "id_dsa", "id_ecdsa",
+              "secrets", "credentials", ".tfvars", ".pgpass", ".htpasswd", ".netrc",
+          ]
+
+          def is_sensitive(filename):
+              low = filename.lower()
+              return any(p in low for p in SENSITIVE_FULLFILE_PATTERNS)
+
           def gh_file_content(path, ref):
               """Fetch full file content at a given ref. Returns str or None on any failure."""
               try:
@@ -175,7 +188,7 @@ jobs:
               # existing declarations that live outside the changed hunks (the diff
               # alone caused false "X is not imported" findings). Skip for deletions.
               full_block = ""
-              if status != "removed":
+              if status != "removed" and not is_sensitive(filename):
                   content = gh_file_content(filename, head_sha)
                   if content is not None:
                       if len(content) <= MAX_FILE_CHARS:
