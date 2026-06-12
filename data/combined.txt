@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-11
+# progressive-email-suppression — generated 2026-06-12
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 67764 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 67773 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -13896,6 +13896,7 @@ cloudstreaming.info
 cloudsyou.com
 cloudt12server01.com
 cloudwhitespace.cc.cd
+cloudwhitezone.cc.cd
 clout.wiki
 cloutlet-vips.com
 clovergy.co
@@ -24120,6 +24121,7 @@ geail.com
 geal.com
 geamil.com
 gear.bthow.com
+gear3.pro
 geararticles.com
 geardos.net
 geargum.com
@@ -25939,6 +25941,7 @@ gpt-mail-free-6397.dynv6.net
 gpt-mail-free-6419.dynv6.net
 gpt-mail-free-6603.dynv6.net
 gpt-mail-free-6664.dynv6.net
+gpt-mail-free-6691.dynv6.net
 gpt-mail-free-6779.dynv6.net
 gpt-mail-free-6812.dynv6.net
 gpt-mail-free-6925.dynv6.net
@@ -34024,6 +34027,7 @@ ksiowlc.com
 ksis.com
 ksiskdiwey.cf
 ksjewelryboutique.com
+kskblzdjdwkzkbl.top
 ksksk.com
 ksmtrck.cf
 ksmtrck.ga
@@ -40235,6 +40239,7 @@ momobet-8.com
 momoi.uk
 momomacknang.com
 momonono.info
+momopifa.cc.cd
 momos12.com
 momswithfm.com
 mon-entrepreneur.com
@@ -55751,6 +55756,7 @@ stylishdesignerhandbags.info
 stylishmichaelkorshandbags.info
 stylist-volos.ru
 styliste.pro
+su.cloudns.biz
 suamiistribahagia.com
 suarj.com
 suavietly.com
@@ -57342,6 +57348,7 @@ tempcloud.info
 tempdukviet.click
 tempdukviet.site
 tempe-mail.com
+tempebossok.my.id
 tempekmuta.cf
 tempekmuta.ga
 tempekmuta.gq
@@ -64556,6 +64563,7 @@ x8vplxtmrbegkoyms.ga
 x8vplxtmrbegkoyms.gq
 x8vplxtmrbegkoyms.ml
 x8vplxtmrbegkoyms.tk
+x9ad1.my
 x9dofwvspm9ll.cf
 x9dofwvspm9ll.ga
 x9dofwvspm9ll.gq
@@ -67188,6 +67196,7 @@ zhcne.com
 zhehot.com
 zhendeaiai.top
 zhengjiatpou34.info
+zhengwz.dpdns.org
 zhenniubia.top
 zherben.com
 zhess.xyz
