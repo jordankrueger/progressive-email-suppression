@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-14
+# progressive-email-suppression — generated 2026-06-15
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 67773 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 67782 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3384,6 +3384,7 @@
 90gmail.com
 91000.com
 911gmail.com
+912684.abrdns.com
 913gmail.com
 914258.ga
 916gmail.com
@@ -4680,6 +4681,7 @@ agent.oldoutnewin.com
 agent.ploooop.com
 agent.poisedtoshrike.com
 agent.warboardplace.com
+agentloop.sbs
 agentogelasia.com
 agentshipping.com
 agentsosmed.com
@@ -15323,6 +15325,7 @@ curso.tech
 cursoconsertodecelular.top
 cursodemicropigmentacao.us
 cursodeoratoriasp.com
+cursor13402.xyz
 cursospara.net
 curtinicheme-sc.com
 curtund.com
@@ -20847,6 +20850,7 @@ existrons.site
 exitbit.com
 exitstageleft.net
 exju.com
+exkucn.ccwu.cc
 exmab.com
 exmail.com
 exmoordistillery.com
@@ -24206,6 +24210,7 @@ gemuk.buzz
 gen.uu.gl
 gen16.me
 genbyou.ml
+gendeng.indevs.in
 genderfuck.net
 genderuzsk.com
 genebag.com
@@ -24740,6 +24745,7 @@ gispgeph6qefd.tk
 gitarrenschule24.de
 gitcoding.me
 githabs.com
+github-com-disposable-email-domains.loseyourip.com
 gitpost.icu
 gitumau.ga
 gitumau.ml
@@ -38618,6 +38624,9 @@ mars.martinandgang.com
 marsalriera.com
 marstur.com
 marsuniversity.com
+martenson-mail.mywire.org
+martenson-mail.ooguy.com
+martenson-mail.theworkpc.com
 marthaloans.co.uk
 martin.securehost.com.es
 martinatesela.art
