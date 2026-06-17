@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-16
+# progressive-email-suppression — generated 2026-06-17
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68048 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68073 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8633,6 +8633,7 @@ bbpsc.anonbox.net
 bbq59.xyz
 bbqlight.com
 bbreghodogx83cuh.ml
+bbroot.com
 bbrsr.anonbox.net
 bbs.edu
 bbsaili.com
@@ -10735,6 +10736,7 @@ bossmanjack.store
 bossmanjack.xyz
 bostonhydraulic.com
 bostonplanet.com
+bot.cd
 bot.nu
 bot3n.anonbox.net
 botasky.eu.cc
@@ -12251,6 +12253,7 @@ capcutku.io
 capcutmeflo.shop
 capcutnihbos.site
 capcutpro.click
+capcutpro.dev
 capcutus.biz.id
 capcvt.es
 capebretonpost.com
@@ -12587,6 +12590,8 @@ cc-s3x.gq
 cc-s3x.ml
 cc-s3x.tk
 cc.mailboxxx.net
+cc17.name.ng
+cc18.name.ng
 cc2ilplyg77e.cf
 cc2ilplyg77e.ga
 cc2ilplyg77e.gq
@@ -13953,6 +13958,7 @@ cloudsyou.com
 cloudt12server01.com
 cloudwhitespace.cc.cd
 cloudwhitezone.cc.cd
+clousy.site
 clout.wiki
 cloutlet-vips.com
 clovergy.co
@@ -17433,6 +17439,8 @@ dnlien.com
 dnrc.com
 dns-cloud.net
 dns-privacy.com
+dns.army
+dns.navy
 dns123.org
 dnsabr.com
 dnsclick.com
@@ -21744,6 +21752,7 @@ fbhotro.com
 fbi.coms.hk
 fbi.one
 fbiagent.cyou
+fbins001mail.com
 fbins607.com
 fbkjlnry.top
 fbkubro2024.cloud
@@ -22562,6 +22571,7 @@ flester.igg.biz
 fletesya.com
 fleuristeshwmckenna.com
 flevelsg.com
+flews.app
 flexbeltcoupon.net
 flexreicnam.tk
 flexrosboti.xyz
@@ -22826,6 +22836,7 @@ for.ploooop.com
 for1mail.tk
 for4.com
 for4mail.com
+for4u.net
 foragentsonky.com
 forapps.shop
 forcelons.xyz
@@ -24409,6 +24420,7 @@ geronra.com
 gerovarnlo.com
 gers-phyto.com
 gerties.com.au
+gerv.app
 ges-online.ru
 geschent.biz
 get-bitcoins.club
@@ -25096,6 +25108,8 @@ gmail-b.lol
 gmail-box.com
 gmail-c.cc
 gmail-fiji.gq
+gmail-xsniper.com
+gmail-xsniper.site
 gmail.ax
 gmail.bangjo.eu.org
 gmail.bsos4.fh.ht2.cruxsite.com
@@ -39280,6 +39294,7 @@ meetmeatthebar.com
 meetnova.my.id
 meetoricture.site
 meetwave.lat
+meevpo.id
 meevpo.site
 meflous.shop
 mefp.xyz
@@ -49021,6 +49036,7 @@ qcgmtzhzh.top
 qcmail.qc.to
 qcomcast.net
 qcvsziiymzp.edu.pl
+qd.je
 qd28max.eu.cc
 qdrwriterx.com
 qe41hqboe4qixqlfe.gq
@@ -50278,6 +50294,7 @@ reediffmail.com
 reeducaremagrece.com
 reemail.hu
 reenet.de
+reestore.site
 ref-fuel.com
 refaa.site
 refab.site
@@ -52374,6 +52391,7 @@ sanvetetre.com
 sao.pt
 saoluudulieu.beauty
 saoulere.ml
+saovangtiles.site
 sap.pt
 sapbox.bid
 sapcom.org
@@ -61499,6 +61517,9 @@ v58tk1r6kp2ft01.ga
 v58tk1r6kp2ft01.gq
 v58tk1r6kp2ft01.ml
 v58tk1r6kp2ft01.tk
+v6.army
+v6.navy
+v6.rocks
 v6iexwlhb6n2hf.ga
 v6iexwlhb6n2hf.gq
 v6iexwlhb6n2hf.ml
@@ -61945,6 +61966,7 @@ vewku.com
 vewrizon.net
 vex4.top
 vexalor.cfd
+vexaluno.xyz
 vexi.my
 vextora.click
 veyera.tk
@@ -62848,6 +62870,7 @@ vulcan-platinum24.com
 vulcanpioneerjers.org
 vulkan333.com
 vumurt.org
+vupn.me
 vusd.net
 vusra.com
 vutdrenaf56aq9zj68.cf
@@ -63746,6 +63769,7 @@ wewantmorenow.com
 wewintheylose.com
 wewtmail.com
 weyuoi.com
+weyword.cfd
 wezuwio.com
 wfacommunity.com
 wfes.site
@@ -65401,6 +65425,7 @@ xsil43fw5fgzito.tk
 xsioap.eu.cc
 xsmega.com
 xsmega645.com
+xsnipersquad.com
 xstyled.net
 xsychelped.com
 xt-size.info

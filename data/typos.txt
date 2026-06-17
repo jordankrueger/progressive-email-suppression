@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-16
+# progressive-email-suppression — generated 2026-06-17
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 3206 domains matching typosquat patterns of major providers
+# 3207 domains matching typosquat patterns of major providers
 0-mail.com
 000email.com
 001gmail.com
@@ -1369,6 +1369,7 @@ fastgotomail.com
 fastmailnode.com
 fastmailnow.com
 fastmailplus.com
+fbins001mail.com
 fbviamail.com
 fdaswmail.com
 feamail.com
