@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-17
+# progressive-email-suppression — generated 2026-06-18
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68073 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68158 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -13,12 +13,20 @@
 00.0.gmail.com.gmail.8.3.gmail.35.cad.creou.dev
 00.msk.ru
 00.pe
+000-webmail.myhome-server.de
 000.net
 000000000000000.theworkpc.com
 000000000000000000.dynv6.net
 000777.info
 000email.com
 000webmail.ddnss.de
+000webmail.ddnss.org
+000webmail.dyn-ip24.de
+000webmail.dyn.ddnss.de
+000webmail.dyn.home-webserver.de
+000webmail.dyndns.ddnss.de
+000webmail.dyndns1.de
+000webmail.home-webserver.de
 001.com
 001.igg.biz
 001gmail.com
@@ -4199,6 +4207,7 @@ acqm38bmz5atkh3.ga
 acqm38bmz5atkh3.gq
 acqm38bmz5atkh3.ml
 acqm38bmz5atkh3.tk
+acqq.dev
 acreadingroom.co.uk
 acres.asia
 acribush.site
@@ -8878,6 +8887,7 @@ belence.ml
 belence.tk
 belgia-nedv.ru
 belgianairways.com
+belicapcut.app
 belicloud.net
 beliefnet.com
 belieti.com
@@ -8998,6 +9008,7 @@ berirabotay.ru
 beritaproperti.com
 berjalansasuiquasd.codes
 berkahfb.com
+berkahjayashope.com
 berkatrb.com
 berlineats.com
 berlusconi.cf
@@ -11645,6 +11656,7 @@ buyreliablezithromaxonline.com
 buyrenovaonlinemeds.com
 buyreplicastore.com
 buyresourcelink.info
+buyreview.us
 buyrocaltrol.name
 buyrx-pill.info
 buyrxclomid.com
@@ -12495,6 +12507,7 @@ catchmeifyoucan.xyz
 catchonline.ooo
 catdogmail.live
 catering.com
+catfie.app
 catfishsupplyco.com
 catfreebooks.site
 catfreefiles.site
@@ -14672,6 +14685,7 @@ contactbox.work
 contacterpro.com
 contactmanagersuccess.com
 contactout1000.ga
+contactpage.online
 containergroup.com.au
 contbay.com
 contenand.xyz
@@ -15273,6 +15287,7 @@ cts-lk-i.ml
 cts-lk-i.tk
 ctshp.org
 cttake1fiilie.ru
+cttnoot.us
 ctxh.site
 ctycter.com
 ctyctr.com
@@ -18491,6 +18506,7 @@ dyahoo.com
 dyceroprojects.com
 dyclsr.xyz
 dyebkj.eu.cc
+dyera.studio
 dyfgiavcrw.eu.cc
 dygovil.com
 dyi.com
@@ -19937,6 +19953,7 @@ embarqumail.com
 embarwmail.com
 embassybase.com
 embatqmail.com
+embege.xyz
 embekhoe.com
 embergone.cf
 embergone.ga
@@ -20537,6 +20554,7 @@ eset.t28.net
 esgame.pl
 esgebe.email
 esgeneri.com
+eshimod.com
 eshta.com
 eshtanet.com
 eshtapay.com
@@ -21040,6 +21058,7 @@ extremcase.com
 extreme-trax.com
 extremebacklinks.info
 extremegrowing.com
+extrset.com
 exuge.com
 exuom.com
 exweme.com
@@ -21932,6 +21951,7 @@ ferastya.ga
 ferastya.gq
 ferastya.ml
 ferastya.tk
+ferd.live
 ferdomnermail.com
 ferencikks.org
 fergetic.com
@@ -22509,6 +22529,7 @@ fkljhnlksdjf.ga
 fkljhnlksdjf.ml
 fkljhnlksdjf.tk
 fknblqfoet475.cf
+fknm8.mobi
 fkoljpuwhwm97.cf
 fkoljpuwhwm97.ga
 fkoljpuwhwm97.gq
@@ -25110,6 +25131,7 @@ gmail-c.cc
 gmail-fiji.gq
 gmail-xsniper.com
 gmail-xsniper.site
+gmail-xsniper.space
 gmail.ax
 gmail.bangjo.eu.org
 gmail.bsos4.fh.ht2.cruxsite.com
@@ -25260,6 +25282,7 @@ gmailines.site
 gmailiz.com
 gmailjj.com
 gmailk.com
+gmaill.click
 gmaill.cm
 gmaill.com
 gmailldfdefk.com
@@ -25311,6 +25334,9 @@ gmailvn.xyz
 gmailwe.com
 gmailweerr.com
 gmailweerr.net
+gmailxsn.com
+gmailxsn.site
+gmailxsn.space
 gmaily.tk
 gmailya.com
 gmailzdfsdfds.com
@@ -25363,6 +25389,7 @@ gmeil.me
 gmel.my.id
 gmeli.com
 gmelk.com
+gmells.com
 gmfil.com
 gmgail.com
 gmgmail.com
@@ -26479,6 +26506,7 @@ guccishoessale.com
 guccitripwell.com
 gudanglowongan.com
 gudodaj-sie.pl
+gudri.com
 guehomo.top
 guemail.com
 guerillamail.biz
@@ -27216,6 +27244,7 @@ hayoo.com
 hayriafaturrahman.art
 hays.ml
 haysantiago.com
+hayys.app
 hazelhazel.com
 hazelnut4u.com
 hazelnuts4u.com
@@ -27768,6 +27797,7 @@ hilarylondon.com
 hildredcomputers.com
 hiliteplastics.com
 hillary-email.com
+hillaxiant.xyz
 hillmail.men
 hilltoptreefarms.com
 hilmipremindo.com
@@ -29244,6 +29274,7 @@ hustq7tbd6v2xov.ga
 hustq7tbd6v2xov.gq
 hustq7tbd6v2xov.ml
 hustq7tbd6v2xov.tk
+hutathuww.org
 hutchankhonghcm.com
 hutmail.com
 hutmails.com
@@ -29685,6 +29716,7 @@ icgs.de
 ich-essen-fleisch.bio
 ichatz.ga
 ichbinvollcool.de
+ichecker.tech
 ichecksdqd.com
 ichehol.ru
 ichichich.faith
@@ -30205,6 +30237,7 @@ ilove.com
 ilovecorgistoo.com
 iloveearthtunes.com
 iloveiandex.ru
+iloveion.com
 ilovemail.fr
 ilovemyniggers.club
 ilovespam.com
@@ -33142,6 +33175,7 @@ kaye.ooo
 kayfilms.top
 kaygroup.top
 kayilo.com
+kaynlab.com
 kaysartycles.com
 kayserilimusti.network
 kazan-nedv.ru
@@ -33484,6 +33518,7 @@ kidohalgeyo.com
 kidsenabled.org
 kidspocketmoney.org
 kidworksacademy.com
+kiecchn.com
 kieea.com
 kiejls.com
 kielon.pl
@@ -38001,6 +38036,7 @@ maillinked.com
 maillist.in
 mailllc.download
 mailllc.top
+mailllshop.website
 mailloading.com
 maillog.uk
 maillogin.site
@@ -38441,6 +38477,7 @@ makente.com
 makentehosting.com
 makepleasure.club
 makerains.tk
+makertrial.com
 makeshopping.pp.ua
 makesnte.com
 makethebadmanstop.com
@@ -38543,6 +38580,7 @@ manac.site
 manad.site
 manae.site
 manage-11.com
+managedisabled.online
 managelaw.ru
 managgg12.com
 manam.ru
@@ -38822,6 +38860,7 @@ masafigroupbd.com
 masaindah.online
 masashi5210.yoshito97.veinflower.xyz
 masasih.loan
+masbahlil.xyz
 masdo88.top
 masdwi.site
 masgtd.xyz
@@ -41084,6 +41123,7 @@ muamuawrtcxv7.ga
 muamuawrtcxv7.gq
 muamuawrtcxv7.ml
 muamuawrtcxv7.tk
+muareview.com
 muataikhoan.info
 muathegame.com
 muaviagiare.com
@@ -45994,6 +46034,7 @@ paddockpools.net
 padili.com
 padlet-alternate.link
 padlettings.com
+padue.app
 padyou.com
 pafasdigital.com
 paffoca.shop
@@ -46154,6 +46195,7 @@ paranaguia.com
 parashospital.com
 paraska.host
 parasluhov.ru
+paratrabajar.xyz
 parcel4.net
 parcival-store.net
 pardisyadak.com
@@ -46296,6 +46338,7 @@ paulzbj.ml
 pavilionx2.com
 pawfullyfit.com
 pawgpt.nl
+pawobby.cfd
 pawssentials.com
 pawtopup.com
 paxlys.com
@@ -46914,6 +46957,7 @@ phukiend2p.store
 phukk.anonbox.net
 phuongblue1507.xyz
 phuongfb.com
+phuongnhicare.com
 phuongphamfb.site
 phuongpt9.tk
 phuongsimonlazy.ga
@@ -47087,6 +47131,7 @@ pipi.net
 pipinbos.host
 pipiska6879.ml
 pipiska6879.tk
+pipmmotube.store
 pippoc.com
 pippop.cf
 pippopmig33.cf
@@ -48434,6 +48479,7 @@ protonza.com
 protrendcolorshop.com
 prout.be
 provamail.com
+proveity.com
 provident-pl.info
 providentwniosek.info
 providentwnioski.pl
@@ -49060,6 +49106,7 @@ qeotxmwotu.tk
 qepn5bbl5.pl
 qeps.de
 qeqrtc.ovh
+qeurtor.com
 qewaz21.eu
 qewzaqw.com
 qf1tqu1x124p4tlxkq.cf
@@ -50763,6 +50810,7 @@ rexhuntress.com
 rexmail.fun
 rexmoo.ccwu.cc
 rexornge.net
+rexornge.site
 reymisterio.com
 reynox.com
 rezato.com
@@ -51652,6 +51700,7 @@ ruinique.tech
 ruinnyrurrendmail.com
 rujbreath.com
 ruk17.space
+rukiaops.me
 rulersonline.com
 rumbu.com
 rumednews.site
@@ -53825,6 +53874,7 @@ shrtner.com
 shshsh.com
 shtime2.com
 shubowtv.com
+shuelder.com
 shuffle.email
 shufuni.cn
 shuoshuotao.com
@@ -55554,6 +55604,7 @@ star.ploooop.com
 star.poisedtoshrike.com
 starbalance.site
 starbichone.com
+starcheck.in
 starcira.com
 stardiesel.biz
 stardiesel.info
@@ -56019,6 +56070,7 @@ subcaro.com
 sublingualvitamins.info
 submic.com
 submissive.com
+submitreports.com
 submoti.tk
 subparal.ml
 subpastore.co
@@ -56420,6 +56472,7 @@ surveyrnonkey.net
 survivalgears.net
 survivan.com
 suryaelectricals.com
+suryain.app
 suryapasti.com
 suscm.co.uk
 sushiojibarcelona.com
@@ -56501,6 +56554,7 @@ sweepstakesforme.com
 sweet-space.ru
 sweetagsfer.gq
 sweetannies.com
+sweetberry.online
 sweetheartdress.net
 sweetmessage.ga
 sweetnessrice.com
@@ -58011,6 +58065,7 @@ thanksme.xyz
 thanksnospam.info
 thankyou2010.com
 thankyou2014.com
+thaotri.com
 that.lakemneadows.com
 that.marksypark.com
 thatbloggergirl.com
@@ -58496,6 +58551,7 @@ tideloans.com
 tidewick.org
 tidissajiiu.com
 tienao.org
+tiendadezapasok.com
 tienthanhevent.vn
 tierde.com
 tieungoc.life
@@ -59555,6 +59611,7 @@ trash-mail.gq
 trash-mail.ml
 trash-mail.net
 trash-mail.tk
+trash-mail.webredirect.org
 trash-me.com
 trash.vikt0ry.com
 trash2009.com
@@ -59815,6 +59872,7 @@ trungtamtoeic.com
 trungthu.ga
 trushsymptomstreatment.com
 trustablehosts.com
+trustcheck.cc
 trustcloud.engineer
 trustdong.com
 trusted-canadian-online-pharmacy.com
@@ -60025,6 +60083,7 @@ tunnelerph.com
 tunnell.org
 tunningmail.gdn
 tunrahn.com
+tunthuta.com
 tuofs.com
 tuongtactot.tk
 tuongxanh.net
@@ -60935,6 +60994,7 @@ unjouruncercueil.com
 unjunkmail.com
 unkn0wn.ws
 unknmail.com
+unlikeyth.com
 unlimit.email
 unlimitedfullmoviedownload.tk
 unlimitedreviews.com
@@ -62199,6 +62259,7 @@ villagepxt.com
 villapuncak.org
 villarrealmail.men
 villastream.xyz
+villaxoa.site
 vilnapresa.com
 vilocom.vn
 vimail24.com
@@ -62574,6 +62635,7 @@ vnmon.com
 vnrrdjhl.shop
 vnshare.info
 vnsl.com
+vntechhub.online
 vnvmail.com
 voaina.com
 voanioo.com
@@ -64135,6 +64197,7 @@ winterafootwearonline.info
 wintersarea.xyz
 wintersbootsonline.info
 wintersgf.store
+wintersmail.site
 wintersupplement.com
 winterx.site
 wintoptea.tk
@@ -65426,6 +65489,8 @@ xsioap.eu.cc
 xsmega.com
 xsmega645.com
 xsnipersquad.com
+xsnipersquad.site
+xsnipersquad.space
 xstyled.net
 xsychelped.com
 xt-size.info
@@ -67180,6 +67245,7 @@ zagrajse.pl
 zagvxqywjw.pl
 zahav.net
 zahuy.site
+zai.asia
 zaim-fart.ru
 zaim-online-na-kartu.su
 zaimi-na-karty.ru
@@ -68077,3 +68143,22 @@ zzv2bfja5.pl
 zzz.com
 zzzmail.pl
 zzzzzzzzzzzzz.com
+zzzzzzzzzzzzzz-1090.dynv6.net
+zzzzzzzzzzzzzz-2092.dynv6.net
+zzzzzzzzzzzzzz-277.dynv6.net
+zzzzzzzzzzzzzz-3294.dynv6.net
+zzzzzzzzzzzzzz-3535.dynv6.net
+zzzzzzzzzzzzzz-3928.dynv6.net
+zzzzzzzzzzzzzz-3940.dynv6.net
+zzzzzzzzzzzzzz-4283.dynv6.net
+zzzzzzzzzzzzzz-5055.dynv6.net
+zzzzzzzzzzzzzz-5246.dynv6.net
+zzzzzzzzzzzzzz-546.dynv6.net
+zzzzzzzzzzzzzz-7619.dynv6.net
+zzzzzzzzzzzzzz-7911.dynv6.net
+zzzzzzzzzzzzzz-8050.dynv6.net
+zzzzzzzzzzzzzz-8079.dynv6.net
+zzzzzzzzzzzzzz-8874.dynv6.net
+zzzzzzzzzzzzzz-969.dynv6.net
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.loseyourip.com
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.ooguy.com
