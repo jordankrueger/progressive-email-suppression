@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-18
+# progressive-email-suppression — generated 2026-06-19
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68158 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68171 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2258,6 +2258,7 @@
 5202011.com
 5202012.com
 520gmail.com
+521883.xyz
 521gmail.com
 5225b4d0pi3627q9.privatewhois.net
 522gmail.com
@@ -2550,6 +2551,7 @@
 625gmail.com
 626gmail.com
 627gmail.com
+628868.xyz
 628gmail.com
 62gmail.com
 62it.ru
@@ -45619,6 +45621,8 @@ oup3kcpiyuhjbxn.ga
 oup3kcpiyuhjbxn.gq
 oup3kcpiyuhjbxn.ml
 oup3kcpiyuhjbxn.tk
+oupul8b1k.bond
+oupul8b1k.cyou
 our.cowsnbullz.com
 our.oldoutnewin.com
 ourawesome.life
@@ -45841,6 +45845,8 @@ ownerbanking.org
 ownersimho.info
 ownsyou.de
 ownyourapps.com
+owo-mailteam.bond
+owo-mailteam.cyou
 owoso.com
 owrdonjk6quftraqj.cf
 owrdonjk6quftraqj.ga
@@ -52520,6 +52526,7 @@ saudiwifi.com
 sauhasc.com
 saukute.me
 saungadaid.biz.id
+saungadaid.pro
 sausen.com
 sauto.me
 savageattitude.com
@@ -53887,6 +53894,7 @@ shutenk-shop.com
 shvedian-nedv.ru
 shw.ca
 shwg.de
+shxwonew.xyz
 shyhzsc.com
 shzsedu.com
 siai.com
@@ -66802,14 +66810,18 @@ yopmail.fr.nf
 yopmail.gq
 yopmail.info
 yopmail.kro.kr
+yopmail.loseyourip.com
 yopmail.ml
 yopmail.net
 yopmail.ocm
 yopmail.om
+yopmail.ooguy.com
 yopmail.org
 yopmail.pp.ua
+yopmail.theworkpc.com
 yopmail.usa.cc
 yopmail.vom
+yopmail.webredirect.org
 yopmail.xom
 yopmail.xxi2.com
 yopmail2.tk
@@ -68147,6 +68159,7 @@ zzzzzzzzzzzzzz-1090.dynv6.net
 zzzzzzzzzzzzzz-2092.dynv6.net
 zzzzzzzzzzzzzz-277.dynv6.net
 zzzzzzzzzzzzzz-3294.dynv6.net
+zzzzzzzzzzzzzz-3330.dynv6.net
 zzzzzzzzzzzzzz-3535.dynv6.net
 zzzzzzzzzzzzzz-3928.dynv6.net
 zzzzzzzzzzzzzz-3940.dynv6.net
