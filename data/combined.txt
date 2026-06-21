@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-20
+# progressive-email-suppression — generated 2026-06-21
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68171 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68200 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3186,6 +3186,7 @@
 859gmail.com
 85gmail.com
 860gmail.com
+862808.xyz
 866303.com
 868757.com
 86cnb.space
@@ -8273,6 +8274,8 @@ bahiscasinoparayatirma.xyz
 bahlill.cfd
 bahv5.anonbox.net
 bai47.com
+baicai1145.online
+baicai1145.shop
 baicmotormyanmar.com
 baidoxe.com
 baidubaidu123123.info
@@ -11471,6 +11474,8 @@ burjnet.ru
 burlingtontelecom.net.net
 burnacidgerd.com
 burner-email.com
+burnermail.bond
+burnermail.cyou
 burnermail.io
 burniawa.pl
 burnmail.ca
@@ -16706,6 +16711,7 @@ dfgfg.com
 dfgggg.org
 dfgh.net
 dfghj.ml
+dfghjertyh.dynv6.net
 dfgtbolotropo.com
 dfhgh.com
 dfigeea.com
@@ -24675,6 +24681,7 @@ ggooglecn.com
 ggrainn.com
 ggrreds.com
 ggtoll.com
+ggvendas.store
 ggvk.ru
 ggvk.store
 ggwpray.biz.id
@@ -29134,6 +29141,7 @@ huairen5.sbs
 huajiachem.cn
 huamo.lat
 huang-f.top
+huangao.xyz
 huangboyu.com
 huangniu8.com
 huany.net
@@ -37833,6 +37841,7 @@ mailfen.com
 mailfer.com
 mailfile.net
 mailfile.org
+mailfirefly.com
 mailfirst.icu
 mailfish.de
 mailfix.xyz
@@ -39470,6 +39479,7 @@ menece.com
 menene.com
 mengarden.com
 mengma.eu.cc
+mengundang.live
 menherbalenhancement.com
 menidsx.com
 menkououtlet-france.com
@@ -43644,6 +43654,7 @@ novaemail.com
 novagun.com
 novaix.vn
 novaopcj.icu
+novaprime.vip
 novartismails.com
 novasub.click
 novelbowl.xyz
@@ -44034,6 +44045,7 @@ nx-mail.com
 nx1.de
 nx1.us
 nxbrasil.net
+nxdbxd.top
 nxdgrll3wtohaxqncsm.cf
 nxdgrll3wtohaxqncsm.gq
 nxdgrll3wtohaxqncsm.ml
@@ -49332,6 +49344,7 @@ qsdqsdqd.com
 qsdt.com
 qsl.ro
 qsmail.cc.cd
+qsuo.uno
 qt1.ddns.net
 qtc.org
 qtfxtbxudvfvx04.cf
@@ -51815,6 +51828,7 @@ rxdtlfzrlbrle.ga
 rxdtlfzrlbrle.gq
 rxdtlfzrlbrle.ml
 rxhealth.com
+rxinai.com
 rxit.com
 rxking.me
 rxlur.net
@@ -63910,6 +63924,7 @@ whentake.org.ua
 wherecanibuythe.biz
 wherenever.tk
 wheretoget-backlinks.com
+whf222.top
 whgdfkdfkdx.com
 whhsbdp.com
 which-code.com
@@ -65364,6 +65379,7 @@ xn--yahoo-2ka8vh3303e.com
 xn--yahoo-oia65aha98m.com
 xn--yhoo-0na.com
 xn--z8hxwp135i.ws
+xn-xp8h.bond
 xne2jaw.pl
 xnefa7dpydciob6wu9.cf
 xnefa7dpydciob6wu9.ga
@@ -66993,6 +67009,17 @@ youspam.com
 youtext.online
 youthexchange.club
 youtjube.waw.pl
+youtube-com-watch-jtpdc8khnpi.accesscam.org
+youtube-com-watch-jtpdc8khnpi.bond
+youtube-com-watch-jtpdc8khnpi.cyou
+youtube-com-watch-jtpdc8khnpi.dedyn.io
+youtube-com-watch-jtpdc8khnpi.freeddns.org
+youtube-com-watch-jtpdc8khnpi.gleeze.com
+youtube-com-watch-jtpdc8khnpi.loseyourip.com
+youtube-com-watch-jtpdc8khnpi.mywire.org
+youtube-com-watch-jtpdc8khnpi.ooguy.com
+youtube-com-watch-jtpdc8khnpi.theworkpc.com
+youtube-com-watch-jtpdc8khnpi.webredirect.org
 youtube.comx.cf
 youtube2vimeo.info
 youveo.ch
@@ -67582,6 +67609,7 @@ zhidkiy-gazon.ru
 zhiezmotion.me
 zhiezpremium.store
 zhizhiwei.fun
+zhjjq.tech
 zhongchengtz.com
 zhongsongtaitu.com
 zhongy.in
@@ -68164,6 +68192,7 @@ zzzzzzzzzzzzzz-3535.dynv6.net
 zzzzzzzzzzzzzz-3928.dynv6.net
 zzzzzzzzzzzzzz-3940.dynv6.net
 zzzzzzzzzzzzzz-4283.dynv6.net
+zzzzzzzzzzzzzz-4904.dynv6.net
 zzzzzzzzzzzzzz-5055.dynv6.net
 zzzzzzzzzzzzzz-5246.dynv6.net
 zzzzzzzzzzzzzz-546.dynv6.net
