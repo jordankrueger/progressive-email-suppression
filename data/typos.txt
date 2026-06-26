@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-25
+# progressive-email-suppression — generated 2026-06-26
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 3210 domains matching typosquat patterns of major providers
+# 3213 domains matching typosquat patterns of major providers
 0-mail.com
 000email.com
 001gmail.com
@@ -2225,6 +2225,7 @@ mailswim.com
 mailtal.com
 mailtanpakaudisini.com
 mailtechx.com
+mailtecom.com
 mailtemporaire.com
 mailtic.com
 mailtmk.com
@@ -2760,6 +2761,7 @@ tempemailgen.com
 tempemaill.com
 tempmail101.com
 tempmail2.com
+tempmail5.com
 tempmailapp.com
 tempmailco.com
 tempmaildemo.com
@@ -2978,6 +2980,7 @@ webbamail.com
 webemailtop.com
 webmails24.com
 webmailshark.com
+webmailus.com
 webpromailbox.com
 wecemail.com
 weekendemail.com
