@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-28
+# progressive-email-suppression — generated 2026-06-29
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68374 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68381 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2120,6 +2120,7 @@
 4pkr15vtrpwha.gq
 4pkr15vtrpwha.ml
 4pkr15vtrpwha.tk
+4play.lat
 4prkrmmail.net
 4pu.com
 4qmail.com
@@ -8315,7 +8316,6 @@ bakecakecake.com
 bakerhughs.com
 bakertaylor.com
 bakkenoil.org
-bakolfb.live
 bakulanaws.com
 bakulcod.club
 bakultelo.com
@@ -9694,7 +9694,6 @@ bingotonight.co.uk
 bingzone.net
 binhduong.bar
 binhtichap.com.vn
-binhvt.com
 binich.com
 binka.me
 binkmail.com
@@ -10313,7 +10312,6 @@ bmwgroup.gq
 bmwgroup.ml
 bmwinformation.com
 bmwmail.pw
-bmx7z.anonbox.net
 bn254.anonbox.net
 bn3mo.anonbox.net
 bnbad.anonbox.net
@@ -10772,6 +10770,7 @@ bos-ger-nedv.ru
 bos21.club
 bosahek.com
 bosakun.com
+boscharena.dev
 bosdal.com
 bosinaa.com
 bosjin.com
@@ -12292,6 +12291,7 @@ capcut.buzz
 capcut.digital
 capcut.my.id
 capcut.sbs
+capcut.space
 capcut.team
 capcut02.shop
 capcuter.com
@@ -13941,7 +13941,6 @@ clone21.io.vn
 clone79.com
 cloneads.top
 clonechatluong.net
-clonechoitut.vip
 cloneemail.com
 clonefb247-net.ga
 clonefb247-net.tk
@@ -16157,6 +16156,7 @@ dbot2zaggruz.ru
 dbprinting.com
 dbrflk.com
 dbunker.com
+dbwj6.anonbox.net
 dbz.com
 dbz5mchild.com
 dc-business.com
@@ -18196,6 +18196,7 @@ dropmail.me
 dropmail.ml
 dropmail.tk
 dropmeon.com
+dropoffs.org
 dropons.com
 dropshippingrich.com
 dropsin.net
@@ -18358,7 +18359,6 @@ dubilowski.com
 dubokutv.com
 dubstepthis.com
 ducclone.com
-duccong.pro
 duck.9amail.top
 duck.com
 duck2.club
@@ -22934,6 +22934,7 @@ for4mail.com
 for4u.net
 foragentsonky.com
 forapps.shop
+forapps.space
 forcelons.xyz
 ford-edge.club
 ford-flex.club
@@ -24622,6 +24623,7 @@ getliststuff.site
 getlisttexts.site
 getmail.fun
 getmail.lt
+getmail.my.id
 getmail1.com
 getmailfree.cc
 getmails.eu
@@ -40137,6 +40139,7 @@ mitico.org
 mitiz.site
 mitnian.xyz
 mitobet.com
+miton.lat
 mitrabisa.com
 mitraprem.com
 mitraprem.online
@@ -50965,6 +50968,7 @@ rfc822.org
 rfcdrive.com
 rffff.net
 rfirewallj.com
+rfods.tech
 rfreedomj.com
 rftt.de
 rfzaym.ru
@@ -54352,6 +54356,7 @@ skakuntv.com
 skalive.com
 skateboardingcourses.com
 skateru.com
+skatingion.com
 skdjfmail.com
 skdl.de
 skedware.com
@@ -58716,6 +58721,7 @@ tidaksuka.cfd
 tideloans.com
 tidewick.org
 tidissajiiu.com
+tidylifehub.com
 tienao.org
 tiendadezapasok.com
 tienthanhevent.vn
@@ -61314,6 +61320,7 @@ uptin.net
 uptodate.tech
 uptours.ir
 uptownrp.id
+uptra.lat
 uptuber.info
 upumail.com
 upurfiles.com
@@ -66031,7 +66038,6 @@ yafrem3456ails.com
 yagatekimi.com
 yagg.com
 yaghoo.com
-yagmursarkasla.sbs
 yagoo.co.uk
 yah.com
 yah0o.com
@@ -66510,6 +66516,7 @@ yang-ds.top
 yang-gtens.pro
 yang-j.top
 yangdaye-ds.cc
+yangzhai.xyz
 yangzhong-sfd.cc
 yangzhong-sfd.shop
 yanhoo.com
