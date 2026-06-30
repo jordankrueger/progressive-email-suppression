@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-29
+# progressive-email-suppression — generated 2026-06-30
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68381 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68379 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -11234,6 +11234,7 @@ bt0zvsvcqqid8.gq
 bt0zvsvcqqid8.ml
 bt0zvsvcqqid8.tk
 bt3019k.com
+bt446.anonbox.net
 btarikarlinda.art
 btb-notes.com
 btc-mail.net
@@ -18782,7 +18783,6 @@ e5r6ynr5.ml
 e5r6ynr5.tk
 e5v7tp.pl
 e6hq33h9o.pl
-e77s6.anonbox.net
 e7n06wz.com
 e84ywua9hxr5q.cf
 e84ywua9hxr5q.ga
@@ -22492,6 +22492,7 @@ firststopmusic.com
 firsttimes.in
 firsttradelimited.info
 firt.site
+firwurd.com
 fisanick88.universallightkeys.com
 fischkun.de
 fisdom.vip
@@ -31927,6 +31928,7 @@ javindra.cfd
 javmail.tech
 javmaniac.co
 jawatengah.net
+jawatimur.net
 jawtec.com
 jaxprop.com
 jaxwin.ga
@@ -33376,7 +33378,6 @@ kemampuan.me
 kemanngon.online
 kembangpasir.website
 kembung.com
-kemelmaka.cfd
 kemfra.com
 kemonkoreeitaholoto.tk
 kempstoncharities.band
@@ -36904,7 +36905,6 @@ luo.today
 luongbinhduong.ml
 luonglanhlung.com
 lupabapak.org
-lurekmopa.cfd
 luscar.com
 lusernews.com
 lushily.top
@@ -53920,7 +53920,6 @@ shop.lalaboutique.com
 shop.winestains.org
 shop4mail.net
 shopaccmmo.com
-shopaccvip.pro
 shopbaby.me
 shopbagsjp.org
 shopbantkclone.com
@@ -57094,7 +57093,6 @@ tailfinsports.com
 tailoredhemp.com
 taimb.com
 taimurfun.fun
-tainguyenfbchat.com
 taitz.gq
 taiwan.com
 taiwanball.ml
