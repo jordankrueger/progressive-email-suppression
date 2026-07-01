@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-06-30
+# progressive-email-suppression — generated 2026-07-01
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 3212 domains matching typosquat patterns of major providers
+# 3219 domains matching typosquat patterns of major providers
 0-mail.com
 000email.com
 001gmail.com
@@ -939,6 +939,7 @@ aramail.com
 armail.com
 arormail.com
 arowmail.com
+artdigimail.com
 arumail.com
 aruqmail.com
 arzmail.com
@@ -1147,6 +1148,7 @@ dicyemail.com
 digital-email.com
 dililimail.com
 dinkmail.com
+direct-gmail.com
 discardmail.com
 discordmail.com
 dispoemail.com
@@ -1813,6 +1815,7 @@ incognitomail.com
 incorporatedmail.com
 incrediemail.com
 index-mail.com
+indogmail.com
 infilddrilemail.com
 inkomail.com
 inmail.com
@@ -2069,7 +2072,6 @@ mailgia.com
 mailgoogle.com
 mailgutter.com
 mailhair.com
-mailhaven.com
 mailhazard.com
 mailherber.com
 mailhex.com
@@ -2306,6 +2308,7 @@ my6mail.com
 myahoo.com
 mybeligummail.com
 mybestmailbox.com
+mycloud-gmail.com
 mycrazyemail.com
 myemailboxmail.com
 myemailboxy.com
@@ -2557,6 +2560,7 @@ pubmail886.com
 pumail.com
 punkmail.com
 pusmail.com
+pxdmail.com
 qaol.com
 qefmail.com
 qmail.com
@@ -2588,6 +2592,7 @@ rdiffmail.com
 reallymymail.com
 realquickemail.com
 rebekamail.com
+reboardmail.com
 reconmail.com
 redffmail.com
 rediffmaill.com
@@ -2939,9 +2944,11 @@ uyemail.com
 uymail.com
 uzmail.com
 vanmail.com
+vargosmail.com
 vaymail.com
 vedmail.com
 vercmail.com
+verifygmail.com
 verihotmail.ga
 verizonmail.com
 veruvercomail.com
