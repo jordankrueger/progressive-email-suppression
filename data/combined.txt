@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-02
+# progressive-email-suppression — generated 2026-07-03
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68649 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68652 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -5952,7 +5952,6 @@ and.ploooop.com
 and.poisedtoshrike.com
 andalanglobal.app
 ander.us
-anderbeck.se
 andetne.win
 andex.ru
 andhani.ml
@@ -11055,6 +11054,7 @@ bregerter.org
 breitbandanbindung.de
 breitlingsale.org
 breka.orge.pl
+brelixomorvexan.website
 brendonweston.info
 brenlova.com
 brennendesreich.de
@@ -17691,6 +17691,7 @@ dodgitti.com
 dodnitues.gr
 dodode.com
 dodsi.com
+doefy.com
 doemx.com
 doerma.com
 doesnment.com
@@ -23912,6 +23913,7 @@ fwxzvubxmo.pl
 fx-banking.com
 fx-brokers.review
 fx8333.com
+fxau5.anonbox.net
 fxavaj.com
 fxch.com
 fxcoral.biz
@@ -32792,6 +32794,7 @@ jualakunfb.co
 jualcloud.net
 jualfb.co
 jualherbal.top
+jualsosmed.com
 juarabola.org
 juarezlaw.net
 jucky.net
@@ -36839,7 +36842,6 @@ loyalnfljerseys.com
 loyalwiranti.biz
 loyalworld.com
 lpaoaoao80101919.ibaloch.com
-lpd6j.anonbox.net
 lpdf.site
 lpfmgmtltd.com
 lpi1iyi7m3zfb0i.cf
@@ -37451,6 +37453,7 @@ magnet1.com
 magneticmessagingbobby.com
 magnetik.com.ua
 magnetl.ink
+magno.lat
 magnoliapost.com
 magnomsolutions.com
 magpietravel.com
@@ -53234,7 +53237,6 @@ seaku.dev
 seakuu.dev
 seal-concepts.com
 seallyfool.site
-seangroup.org
 seaoning.click
 seaponsension.xyz
 search-usa.ws
@@ -64446,6 +64448,7 @@ wiemei.com
 wierie.tk
 wiestel.online
 wifi-map.net
+wifian.space
 wificon.eu
 wifimaple.com
 wifioak.com
