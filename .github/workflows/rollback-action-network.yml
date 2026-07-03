@@ -38,9 +38,9 @@ jobs:
   rollback:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -55,7 +55,7 @@ jobs:
           echo "AN_API_KEY is present."
 
       - name: Download audit log from sweep run ${{ inputs.sweep_run_id }}
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v7
         with:
           name: audit-log
           run-id: ${{ inputs.sweep_run_id }}
@@ -92,7 +92,7 @@ jobs:
 
       - name: Upload rollback audit log
         if: ${{ always() }}
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: rollback-audit-log
           path: rollback-input/*.rollback.csv
