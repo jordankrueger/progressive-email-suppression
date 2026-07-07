@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-06
+# progressive-email-suppression — generated 2026-07-07
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68675 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68678 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2416,6 +2416,7 @@
 5hfmczghlkmuiduha8t.gq
 5hfmczghlkmuiduha8t.ml
 5hfmczghlkmuiduha8t.tk
+5ixmonth.xyz
 5iznnnr6sabq0b6.cf
 5iznnnr6sabq0b6.ga
 5iznnnr6sabq0b6.gq
@@ -9444,6 +9445,7 @@ bhaappy1loadzzz.ru
 bhadoomail.com
 bhag.us
 bhaktiswaroopam.com
+bhana.xyz
 bhap.me
 bhappy0sagruz.ru
 bhappy1fajli.ru
@@ -39823,6 +39825,7 @@ meta68.xyz
 metaboliccookingpdf.com
 metadownload.org
 metaintern.net
+metajaya.biz.id
 metajeans.com
 metalike.pro
 metalrika.club
