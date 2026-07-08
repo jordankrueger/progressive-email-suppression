@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-07
+# progressive-email-suppression — generated 2026-07-08
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 3222 domains matching typosquat patterns of major providers
+# 3224 domains matching typosquat patterns of major providers
 0-mail.com
 000email.com
 001gmail.com
@@ -3036,6 +3036,7 @@ xervmail.com
 xftmail.com
 xgmail.com
 xgmailoo.com
+xhotmail.cyou
 xhyemail.com
 xikemail.com
 xitimail.com
@@ -3170,6 +3171,7 @@ yahoor.com
 yahoospam.com
 yahoow.com
 yahooweb.co
+yahoox.cyou
 yahooy.com
 yahooz.com
 yahoyahoo.com
