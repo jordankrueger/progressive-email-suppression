@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-09
+# progressive-email-suppression — generated 2026-07-10
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68707 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68716 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4833,6 +4833,7 @@ ahketevfn4zx4zwka.ga
 ahketevfn4zx4zwka.gq
 ahketevfn4zx4zwka.ml
 ahketevfn4zx4zwka.tk
+ahmadfamily.net
 ahmadidik.cf
 ahmadidik.ga
 ahmadidik.gq
@@ -4883,6 +4884,7 @@ ai.aax.cloudns.asia
 ai.com
 ai.hsfz.info
 ai.vcss.eu.org
+ai100999.com
 ai4trade.info
 ai6188.com
 aiaccount.click
@@ -8775,7 +8777,6 @@ bdvsthpev.pl
 bdvy.com
 bdxrc.anonbox.net
 bdxsg.anonbox.net
-bdydy.anonbox.net
 bdyn5.anonbox.net
 bdzu2.anonbox.net
 be-breathtaking.net
@@ -11833,6 +11834,7 @@ bxm2bg2zgtvw5e2eztl.ga
 bxm2bg2zgtvw5e2eztl.gq
 bxm2bg2zgtvw5e2eztl.ml
 bxm2bg2zgtvw5e2eztl.tk
+bxp63.anonbox.net
 bxpid.anonbox.net
 bxs1yqk9tggwokzfd.cf
 bxs1yqk9tggwokzfd.ga
@@ -18604,7 +18606,6 @@ dx.ez.lv
 dx.sly.io
 dxdblog.com
 dxecig.com
-dxirl.com
 dxlenterprises.net
 dxmk148pvn.cf
 dxmk148pvn.ga
@@ -21926,7 +21927,6 @@ fbq4diavo0xs.tk
 fbs-investing.com
 fbshirt.com
 fbstigmes.gr
-fbtiktok.store
 fbtop1.com
 fbviamail.com
 fc.opheliia.com
@@ -42718,6 +42718,7 @@ neibu306.com
 neibu963.com
 neic.com
 nejamaiscesser.com
+nekaj.lat
 neko2.net
 nekochan.fr
 nekomi.net
@@ -43768,6 +43769,7 @@ nonameex.com
 nonapkr.com
 nonchalantresmita.biz
 nondon.site
+nondon.store
 none.cyou
 noneso.site
 nonetary.xyz
@@ -44957,6 +44959,7 @@ okclprojects.com
 okcomputer.ru
 okconnect.tech
 okcpress.com
+okcx.edu.rs
 okcxhssgk.top
 okdiane35.pl
 okeoceapasajaoke.com
@@ -48568,6 +48571,7 @@ privatemusicteacher.com
 privatesent.tk
 privmag.com
 privmail.edu.pl
+privo.edu.pl
 privy-mail.com
 privy-mail.de
 privyinternet.com
@@ -48647,6 +48651,7 @@ productdealsonline.info
 productemails.info
 producti-online-pro.com
 production4you.ru
+productmm.shop
 productpacking.com
 produgy.net
 produktu.ru
@@ -54706,6 +54711,7 @@ skyfieldhub.com
 skyforte25k.io.vn
 skygazer42.cn
 skygazerhub.com
+skyhope666.icu
 skyjetnet.com
 skylarchic.shop
 skylinescity.com
@@ -56026,6 +56032,7 @@ starherz.ru
 starikmail.in
 starkrecords.com
 starlight-breaker.net
+starlight.store
 starlit-seas.net
 starmail.net
 starmaker.email
@@ -57373,7 +57380,6 @@ takmemberi.gq
 tako.skin
 taktalk.net
 takuino.app
-takumipay.xyz
 tal21.com
 talahicc.com
 talawanda.com
@@ -58540,6 +58546,7 @@ thebigbang.tk
 theblackduck.com
 theblogster.pw
 thebluffersguidetoit.com
+theboys.cyou
 thebrand.pro
 thebudhound.com
 thebusinessdevelopers.com
@@ -60661,6 +60668,7 @@ twosouls.lat
 twoweirdtricks.com
 twsexy66.info
 twsh.us
+twskyhope.top
 twzhhq.com
 twzhhq.online
 tx4000.com
@@ -68142,6 +68150,7 @@ zik.dj
 zik2zik.com
 zikozikoqq.shop
 zikzak.gq
+zikzak.site
 zil4czsdz3mvauc2.cf
 zil4czsdz3mvauc2.ga
 zil4czsdz3mvauc2.gq
