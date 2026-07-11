@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-10
+# progressive-email-suppression — generated 2026-07-11
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68716 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68723 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8900,6 +8900,7 @@ beeviee1.gq
 beeviee1.ml
 beeviee1.tk
 beezom.buzz
+befdd.anonbox.net
 befotey.com
 begance.xyz
 beganment.com
@@ -9914,7 +9915,6 @@ bk.ru.ru
 bk.ruu
 bk.ur
 bk3un.anonbox.net
-bk4cl.anonbox.net
 bk5er.anonbox.net
 bk73d.anonbox.net
 bk7vw.anonbox.net
@@ -11482,7 +11482,6 @@ bullet1960.info
 bullosafe.com
 bullshitemail.com
 bullstore.net
-bulmp3.com
 buloan.com
 buloo.com
 bulrushpress.com
@@ -16061,7 +16060,6 @@ datingpix.info
 datingplaces.ru
 datingreal.info
 datingshare.info
-datingso.com
 datingstores.info
 datingsun.info
 datingtruck.info
@@ -18521,6 +18519,7 @@ dv6w2z28obi.pl
 dv7.com
 dv8student.com
 dvakansiisochi20139.cx.cc
+dvaren.online
 dvcc.com
 dvcu.com
 dvd.dns-cloud.net
@@ -22064,7 +22063,6 @@ femmestyle.name
 femmestyle.or.at
 fencesrus.com
 fenceve.com
-fenexy.com
 fengnu.com
 fengting01.mygbiz.com
 fengyun.net
@@ -24545,6 +24543,7 @@ genpc.com
 genrephotos.ru
 genteymac.net
 gentle.7amail.top
+gentleinfopath.com
 gentlemancasino.com
 gentrychevrolet.com
 genturi.it
@@ -27013,6 +27012,7 @@ haben-wir.com
 habenwir.com
 haberci.com
 habibulfauzan.my.id
+habitnestguide.com
 habitue.net
 habrew.de
 hacccc.com
@@ -28380,6 +28380,7 @@ homestartbromley.org.uk
 hometheate.com
 homethus.com
 hometrendsdecor.xyz
+homewiseleaf.com
 homewoodareachamber.com
 homewrt.xx.kg
 homil.com
@@ -36519,6 +36520,7 @@ lohinja.com
 lohpcn.com
 loil.site
 loin.in
+lojas.lat
 lokaperuss.com
 lokata-w-banku.com.pl
 lokatowekorzysci.eu
@@ -43116,6 +43118,7 @@ newzbling.com
 newzeroemail.com
 newzgraph.net
 nexafilm.com
+nexarsh.store
 nexarshop.store
 nexentia.cfd
 nexhibit.com
@@ -51355,7 +51358,6 @@ risanmedia.id
 risantekno.com
 risaumami.art
 rise.de
-riseist.com
 risel.site
 risencraft.ru
 risingbengal.com
@@ -51742,6 +51744,7 @@ ronalerenovateur.com
 rondecuir.us
 ronete.com
 ronger.cfd
+ronghsng.buzz
 roni.rojermail.ml
 ronipidp.gq
 ronnierage.net
@@ -59331,6 +59334,8 @@ tmail.edu.rs
 tmail.gg
 tmail.io
 tmail.link
+tmail.lt
+tmail.mx
 tmail.org
 tmail.run
 tmail.ws
@@ -60152,6 +60157,7 @@ treehouseburning.com
 treehousetherapy.com
 treeremovalmichigan.com
 treesforderby.org
+tremo.lat
 trend-maker.ru
 trendbettor.com
 trendfinance.ru
@@ -65743,6 +65749,7 @@ xkxkud.com
 xl.cx
 xlby.com
 xlchapi.com
+xlcsh.icu
 xlef.com
 xlekskpwcvl.pl
 xlgaokao.com
