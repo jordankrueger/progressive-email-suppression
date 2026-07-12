@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-11
+# progressive-email-suppression — generated 2026-07-12
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68723 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68719 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3554,7 +3554,6 @@
 9kfifc2x.pl
 9klsh2kz9.pl
 9mail.cf
-9mail.shop
 9mail9.cf
 9maja.pl
 9me.com
@@ -7719,7 +7718,6 @@ ax05.cn
 ax80mail.com
 axax.asia
 axcess.com
-axcradio.com
 axemail.com
 axeprim.eu
 axerflow.com
@@ -10261,6 +10259,7 @@ blueyounder.co.uk
 bluffersguidetoit.com
 blulapka.pl
 blumenkranz78.glasslightbulbs.com
+bluna.lat
 bluni.anonbox.net
 blurbulletbody.website
 blurmail.net
@@ -11777,7 +11776,6 @@ bvngf.com
 bvoxsleeps.com
 bvqjwzeugmk.pl
 bvrs5.anonbox.net
-bvstj.anonbox.net
 bvwtu.anonbox.net
 bvx3l.anonbox.net
 bvxay.anonbox.net
@@ -23708,7 +23706,6 @@ fu6znogwntq.gq
 fu6znogwntq.ml
 fu6znogwntq.tk
 fuadd.me
-fuasha.com
 fubkdjkyv.pl
 fubsale.top
 fubuki.shp7.cn
@@ -34192,7 +34189,6 @@ kolyasski.com
 komalik.club
 koman.team
 kombatcopper.com
-komberluxury.xyz
 kombiservisler.com
 kommunity.biz
 kommv.cc.be
@@ -35325,7 +35321,6 @@ legibbean.site
 legitimateonline.info
 legitstore.xyz
 legkospet.ru
-legrdil.com
 lehman.cf
 lehman.ga
 lehman.gq
@@ -41390,6 +41385,7 @@ mtgmogwysw.pl
 mtjoy.org
 mtlcz.com
 mtmdev.com
+mtnewtoy.us
 mtpower.com
 mtrucqthtco.cf
 mtrucqthtco.ga
@@ -43506,6 +43502,7 @@ niskopodwozia.pl
 nissa.com.mx
 nissan370zparts.com
 nissanleaf.club
+nisuz.anonbox.net
 nitricoxidesupplementshq.com
 nitricpowerreview.org
 nitroshine.xyz
@@ -55677,6 +55674,7 @@ spidez.sbs
 spidite.com
 spiedemtion.store
 spierdalaj.xyz
+spike.lat
 spikebase.com
 spikemargin.com
 spikeworth.com
@@ -59612,7 +59610,6 @@ top.pushpophop.com
 top100mail.com
 top101.de
 top10bookmaker.com
-top10k.com
 top10movies.info
 top1mail.ru
 top1post.ru
@@ -68376,7 +68373,6 @@ zmail.cam
 zmail.info.tm
 zmailonline.info
 zmat.xyz
-zmedia.cloud
 zmho.com
 zmiev.ru
 zmilkofthecow.info
