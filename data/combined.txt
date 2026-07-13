@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-12
+# progressive-email-suppression — generated 2026-07-13
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68719 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68723 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8014,6 +8014,7 @@ b2ieu.anonbox.net
 b2npv.anonbox.net
 b2ntj.anonbox.net
 b2vja.anonbox.net
+b34aa.anonbox.net
 b34fdweffir.net
 b3apn.anonbox.net
 b3cev.anonbox.net
@@ -10934,7 +10935,6 @@ bpornd.com
 bpotogo.com
 bpqagency.xyz
 bpr4g.anonbox.net
-bprfu.anonbox.net
 bpsv.com
 bptfp.com
 bptfp.net
@@ -19247,6 +19247,7 @@ edouardloubet.art
 edovqsnb.pl
 edpillsrx.us
 edrishn.xyz
+edshol.net
 edsindia.com
 edsr.com
 edu-it.site
@@ -29487,6 +29488,7 @@ huynhtran.io.vn
 huytuyen.click
 huytuyen.online
 huytuyen.site
+huyvillafb.online
 huyzvip.best
 hv112.com
 hvastudiesucces.nl
@@ -33066,6 +33068,7 @@ jziad5qrcege9.ga
 jziad5qrcege9.gq
 jziad5qrcege9.ml
 jziad5qrcege9.tk
+jzlvoei.cn
 jzzm.top
 jzzxbcidt.pl
 k-10.com
@@ -46509,6 +46512,7 @@ papillomadelete.info
 paplease.com
 papolog.com
 papua-nedv.ru
+papuabarat.net
 papuabaratdaya.net
 papuaselatan.net
 papubar.pl
@@ -50053,7 +50057,6 @@ rabuberkah.cf
 racaho.com
 racarie.com
 race-karts.com
-racfq.com
 rachelleighny.com
 rachelmaryam.art
 rachelsreelreviews.com
@@ -52788,7 +52791,6 @@ sanfranflowersinhair.com
 sangamcentre.org.uk
 sangaritink09gkgk.tk
 sangqiao.net
-sangvt.com
 sanibact-errecom.com
 sanibelwaterfrontproperty.com
 saniki.pl
@@ -60206,6 +60208,7 @@ triclops.3amail.top
 tricoulesmecher.com
 tridalinbox.info
 triedbook.xyz
+trieuhao.site
 trillianpro.com
 trimar.pl
 trimaxglobal.co.uk
@@ -67887,6 +67890,7 @@ zasod.com
 zasve.info
 zatopplomi.xyz
 zauberfeile.com
+zauxpbp.cn
 zavame.com
 zavex.sbs
 zavio.com.pl
