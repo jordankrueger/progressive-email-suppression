@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-15
+# progressive-email-suppression — generated 2026-07-16
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68735 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68744 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8062,6 +8062,7 @@ b5y54.anonbox.net
 b5yvo.anonbox.net
 b5zuw.anonbox.net
 b602mq.pl
+b66dg.anonbox.net
 b66x4.anonbox.net
 b67ht.anonbox.net
 b6bpj.anonbox.net
@@ -9165,6 +9166,7 @@ bestemail24.info
 bestenuhren.com
 bestescort4u.com
 bestexerciseequipmentguide.com
+besteya.com
 bestfakenews.xyz
 bestfinancecenter.org
 bestfreeliveporn.com
@@ -11431,7 +11433,6 @@ bueyonder.co.uk
 buffalo-poland.pl
 buffalocolor.com
 buffemail.com
-buffmxh.net
 buffysmut.com
 buford.us.to
 bug.cl
@@ -16930,6 +16931,7 @@ diapaulpainting.com
 diaperbagbackpacks.info
 diariodigital.info
 diarioretail.com
+diarshop.com
 diaryofsthewholesales.info
 diascan24.de
 dibbler1.pl
@@ -17092,6 +17094,7 @@ dilusol.cf
 dim-coin.com
 dimalk.com
 dimana.live
+dimar.lat
 dimaskwk.tech
 dimensi.me
 dimimail.ga
@@ -23156,7 +23159,6 @@ fpol.com
 fpt-student-support.store
 fpxnet.com
 fq1my2c.com
-fq65d.anonbox.net
 fq8sfvpt0spc3kghlb.cf
 fq8sfvpt0spc3kghlb.ga
 fq8sfvpt0spc3kghlb.gq
@@ -24916,6 +24918,7 @@ gibit.us
 giblpyqhb.pl
 gibme.com
 gibsonmail.men
+gicont.com
 gicua.com
 gidok.info
 gids.site
@@ -34934,6 +34937,7 @@ lalayun.cyou
 lalulahoot.me
 lalune.ga
 lam0k.com
+lamar.lat
 lamasticots.com
 lambadarew90bb.gq
 lambda.uniform.thefreemail.top
@@ -35081,6 +35085,7 @@ lastminute.dev
 lastmx.com
 lastrwasy.co.cc
 laststand.xyz
+lasttea.com
 laszki.info
 laszlomail.com
 lat-nedv.ru
@@ -37001,6 +37006,7 @@ lucigenic.com
 luck-win.com
 luckboy.pw
 luckence.com
+luckfeed.com
 luckindustry.ru
 luckjob.pw
 luckmail.us
@@ -39548,7 +39554,6 @@ med-tovary.com
 med.gd
 medan4d.online
 medan4d.top
-medanmacao.site
 medapharma.us
 meddepot.com
 medevsa.com
@@ -42794,6 +42799,7 @@ nestle-usa.ga
 nestle-usa.gq
 nestle-usa.ml
 nestle-usa.tk
+nestlynotes.com
 nestor99.co.uk
 nestspace.co
 nestvia.com
@@ -50273,6 +50279,7 @@ rapidefr.fr.nf
 rapidmail.com
 rapik.online
 raposoyasociados.com
+rapplo.com
 rapt.be
 rapzip.com
 raqid.com
@@ -56473,6 +56480,7 @@ stylishmichaelkorshandbags.info
 stylist-volos.ru
 styliste.pro
 su.cloudns.biz
+suahi.com
 suamiistribahagia.com
 suarj.com
 suavietly.com
@@ -59597,6 +59605,7 @@ tool-9-you.com
 tool.pp.ua
 toolbox.ovh
 toolnator.plus
+toolourles.tech
 tools-capcut.com
 toolsfly.com
 toolsig.team
