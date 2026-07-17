@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-16
+# progressive-email-suppression — generated 2026-07-17
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68744 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68765 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3262,6 +3262,7 @@
 89gmail.com
 89yliughdo89tly.com
 8chan.co
+8d7kh.com
 8e6d9wk7a19vedntm35.cf
 8e6d9wk7a19vedntm35.ga
 8e6d9wk7a19vedntm35.gq
@@ -3798,6 +3799,7 @@ aaaaaaaaaaaaa.com
 aaaaaaaaaaaaaa.com
 aaaaaaaaaaaaaaaa.com
 aaaf.ru
+aaago.cyou
 aaamail.online
 aaanime.net
 aaaol.com
@@ -7421,6 +7423,7 @@ autoxugiare.com
 autoxugiare.net
 autozestanow.pl
 autre.fr.nf
+autu11n.lol
 auw88.com
 auweek.net
 auxifyboosting.ga
@@ -11131,6 +11134,7 @@ britishpreschool.net
 britneybicz.pl
 britted.com
 brittneyus.biz.id
+brivian.link
 brixmail.info
 brixozu.com
 brizzolari.com
@@ -11471,6 +11475,7 @@ bukwos7fp2glo4i30.tk
 bulahxnix.pl
 bulantoto.com
 bulantoto.net
+bulapolo.site
 bulemasukkarung.bar
 bulkbacklinks.in
 bulkbye.com
@@ -11905,6 +11910,7 @@ bzmt6ujofxe3.ga
 bzmt6ujofxe3.gq
 bzmt6ujofxe3.ml
 bzmt6ujofxe3.tk
+bzncc.anonbox.net
 bzocey.xyz
 bzq6n.anonbox.net
 bzr.com
@@ -13358,6 +13364,7 @@ cheattuts.com
 chechnya.conf.work
 checkback.vn
 checkbesthosting.com
+checkedity.com
 checkemail.biz
 checkmatemail.info
 checknew.pw
@@ -17579,6 +17586,7 @@ dnsclick.com
 dnsdeer.com
 dnsdujeskd.com
 dnses.ro
+dnslog.tech
 dntsmsekjsf.com
 do.cowsnbullz.com
 do.heartmantwo.com
@@ -18562,6 +18570,7 @@ dwango.ga
 dwango.gq
 dwango.ml
 dwango.tk
+dwarfmining.com
 dwdpoisk.info
 dweezlemail.crabdance.com
 dweezlemail.ufodns.com
@@ -20246,6 +20255,7 @@ endingimpunity.com
 endob.com
 endosferes.ru
 endrix.org
+endtest-mail.io
 eneko-atxa.art
 enercranyr.eu
 energen.live
@@ -33465,6 +33475,7 @@ kdrplast.com
 kds55.anonbox.net
 kdublinstj.com
 kdxcvft.xyz
+ke1le.cyou
 keagenan.com
 keaih.com
 kebandara.com
@@ -33498,6 +33509,7 @@ keipino.de
 keirron31.are.nom.co
 keis.com
 kejenx.com
+kejinxi.xyz
 kekecog.com
 keked.com
 kekita.com
@@ -37055,6 +37067,7 @@ lum25kcredit.io.vn
 lumeika.com
 lumg.uk
 luminexis.cfd
+luminix1.shop
 luminoustravel.com
 luminoxwatches.com
 luminu.com
@@ -38997,6 +39010,7 @@ maolonator.com
 maomaaigang.ml
 maomaaigang.tk
 maomaocheng.com
+maomi.biz
 mapa-polskii.pl
 mapet.pl
 mapfnetpa.tk
@@ -39516,7 +39530,6 @@ me.ploooop.com
 me.vom
 me.xom
 me2.cuteboyo.com
-me2sx.anonbox.net
 meachlekorskicks.com
 meadowmaegan.london-mail.top
 meadowutilities.com
@@ -39656,6 +39669,7 @@ meidecn.com
 meidir.com
 meihuajun76.com
 meihukeji.com
+meikeya.com
 meil4me.pl
 meiler.co.pl
 meimanbet.com
@@ -39669,6 +39683,7 @@ meintick.com
 meisteralltrades.com
 meitu.lat
 meituxiezhen.xyz
+meituy.com
 mejjang.xyz
 mejlnastopro.pl
 mejlowy1.pl
@@ -42677,6 +42692,7 @@ neaeo.com
 neajazzmasters.com
 nealheardtrainers.com
 nearify.com
+neatdaynote.com
 nebbo.online
 nebltiten0p.cf
 nebltiten0p.gq
@@ -43129,6 +43145,7 @@ newzbling.com
 newzeroemail.com
 newzgraph.net
 nexafilm.com
+nexarisystems.online
 nexarsh.store
 nexarshop.store
 nexentia.cfd
@@ -49081,6 +49098,7 @@ pueblowireless.com
 puegauj.pl
 puerto-nedv.ru
 puffbarvapestore.com
+puffiqo.store
 puglieisi.com
 puh4iigs4w.cf
 puh4iigs4w.ga
@@ -49738,6 +49756,7 @@ quanpzo.click
 quanthax.com
 quanticmedia.co
 quantobasta.ru
+quantorynexus.space
 quantsoftware.com
 quantumofhappiness.com
 quantyti.com
@@ -50599,6 +50618,7 @@ reciclaje.xyz
 recipeforfailure.com
 recklesstech.club
 reclameaqui.services
+recoa.biz
 recode.me
 recognised.win
 recollaitavonforlady.ru
@@ -51457,6 +51477,7 @@ rlooa.com
 rlr.pl
 rlrcm.com
 rls-log.net
+rlusd.fun
 rlva.com
 rm2rf.com
 rm88.edu.bz
@@ -54072,6 +54093,7 @@ shiftmail.com
 shiita12.com
 shikimori.xyz
 shine.favbat.com
+shine.lat
 shine49mediahouse.com
 shinecoffee.com
 shingingbow.com
@@ -61612,7 +61634,6 @@ upsnab.net
 upstate.dev
 upsusa.com
 uptimebee.com
-uptimesystem.io
 uptin.net
 uptodate.tech
 uptours.ir
@@ -62309,6 +62330,7 @@ veldahouse.co
 veldmail.ga
 veletis.bond
 velmoor.org
+velocitronix.online
 velocity-digital.com
 velourareview.net
 velourclothes.com
@@ -67842,7 +67864,6 @@ zalmem.com
 zalopner87.com
 zalotti.com
 zalvisual.us
-zamana.com
 zambia-nedv.ru
 zamburu.com
 zamena-stekla.ru
