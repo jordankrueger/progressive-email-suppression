@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-21
+# progressive-email-suppression — generated 2026-07-22
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68794 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68807 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2401,6 +2401,7 @@
 5ej7f.anonbox.net
 5el5nhjf.pl
 5esnu.anonbox.net
+5fcie.anonbox.net
 5fhu5.anonbox.net
 5fingershoesoutlet.com
 5gags.com
@@ -4643,7 +4644,6 @@ afisha.biz.ua
 afishaonline.info
 aflam06.com
 aflamyclub.com
-afluidbear.cc
 afmail.com
 afmail.xyz
 afopmail.com
@@ -6791,6 +6791,7 @@ artisanbooth.com
 artistsignal.com
 artiviodesign.com
 artix.ga
+artleoncommunications.com
 artlover.shop
 artmail.icu
 artman-conception.com
@@ -12349,6 +12350,7 @@ capcutku.cc
 capcutku.com
 capcutku.io
 capcutmeflo.shop
+capcutmm.shop
 capcutnihbos.site
 capcutpro.click
 capcutpro.dev
@@ -12744,6 +12746,7 @@ cctoolz.com
 cctruyen.com
 cctyoo.com
 ccvisal.xyz
+ccxiao.cn
 ccxpnthu2.pw
 cd.mintemail.com
 cd.usto.in
@@ -14436,6 +14439,7 @@ coin-link.com
 coin-mail.com
 coin-one.com
 coin.wf
+coina.biz
 coinalgotrader.com
 coinbroker.club
 coincal.org
@@ -20683,6 +20687,7 @@ escanor99.com
 escapehatchapp.com
 escapeion.com
 escb.com
+escely.com
 escholcreations.com
 escholgroup.com.au
 escocompany.com
@@ -21846,7 +21851,6 @@ faxapdf.com
 faxico.com
 faxjet.com
 faxzu.com
-faybe.anonbox.net
 faybetsy.com
 fayrozaa.shop
 faze.biz
@@ -24381,6 +24385,7 @@ gbcmail.win
 gberos-makos.com
 gbf48123.com
 gbfashions.com
+gblw.site
 gbmail.top
 gbmb.com
 gbmods.net
@@ -24564,7 +24569,6 @@ geneseeit.com
 genesis-digital.net
 genf20plus.com
 genf20review1.com
-genjosam.com
 genk5mail2.ga
 genkibit.com
 gennaromatarese.ml
@@ -25925,6 +25929,7 @@ gomomy.sbs
 gomuc.com.com
 gonaute.com
 goncangan.com
+gonde.lat
 gondskumis69.me
 gonduras-nedv.ru
 gonetor.com
@@ -31413,6 +31418,7 @@ irolpccc.com
 irolpo.com
 iron1.xyz
 ironarmail.com
+ironbrookco.com
 ironhulk.com
 ironiebehindert.de
 ironmantriathlons.net
@@ -35687,6 +35693,7 @@ lifetalkrc.com
 lifetimefriends.info
 lifetotech.com
 lifetreechurch.co.uk
+lifewiseleaf.com
 lifewithouttanlines.com
 liffoberi.com
 liftandglow.net
@@ -44124,6 +44131,7 @@ nsserver.org
 nst-customer.com
 nsvpn.com
 nswgovernment.ga
+nsyncxy.com
 ntalecom.net
 ntb9oco3otj3lzskfbm.cf
 ntb9oco3otj3lzskfbm.ga
@@ -53316,6 +53324,7 @@ sdkajsn.best
 sdkfkrorkg.com
 sdnr.it
 sds-a-gff.xyz
+sds-awe.top
 sdsas.xyz
 sdsd88.cc
 sdsda.com
@@ -54149,6 +54158,7 @@ shiqiyx.vip
 shirleyanggraini.art
 shirleybowman.com
 shirleylogan.com
+shiro-alice.live
 shiroinime.ga
 shironime.ga
 shironime.ml
@@ -54348,6 +54358,7 @@ shwg.de
 shxwonew.xyz
 shyhzsc.com
 shzsedu.com
+si1ver.xyz
 siai.com
 siap-sepuh.com
 siapabucol.com
@@ -59578,6 +59589,7 @@ tokatta.org
 tokeishops.jp
 tokem.co
 token.ro
+token0v0.com
 tokenguy.com
 tokenmail.de
 tokeracademy.com
@@ -68465,6 +68477,7 @@ zmylf33tompym.ga
 zmylf33tompym.gq
 zmylf33tompym.ml
 zmylf33tompym.tk
+zmypxprb.sbs
 zmywarkilodz.pl
 zn4chyguz9rz2gvjcq.cf
 zn4chyguz9rz2gvjcq.ga
