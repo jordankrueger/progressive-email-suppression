@@ -5,7 +5,7 @@
 # GITHUB_TOKEN is provided automatically.
 #
 # Two parallel reviews run on every PR to main:
-#   1. OpenAI gpt-5.6-terra — logic bugs, error handling, edge cases, data integrity
+#   1. OpenAI gpt-5.3-codex — logic bugs, error handling, edge cases, data integrity
 #   2. Anthropic claude-code-security-review — security-specific checks
 #
 # Both must pass for the PR to merge (enforce via branch protection).
@@ -76,10 +76,12 @@ jobs:
           # and broke this check fleet-wide. If a model starts 404ing, check for a newer
           # generation before assuming a config bug — this family has now gone twice.
           #
-          # gpt-5.6-terra is from the GPT-5.6 family (sol / terra / luna, released
-          # 2026-07-09) and was verified live against this workflow's exact call shape on
-          # 2026-07-26. Re-verify with `GET /v1/models` before changing it.
-          DEFAULT_MODEL = "gpt-5.6-terra"
+          # Newest Codex-family model. Code-specialised, and unlike the GPT-5.6 models it
+          # does NOT dispute its own model id when reviewing a diff that sets this line —
+          # gpt-5.6-terra reports "gpt-5.6-terra is not an available model" and blocks the
+          # PR, which hard-fails any repo where this check is required. Verify a
+          # replacement against `GET /v1/models` AND on a diff that edits this line.
+          DEFAULT_MODEL = "gpt-5.3-codex"
           MAX_DIFF_CHARS = 350_000  # total budget (full files + diffs) — ~90K tokens, well inside the model's context
           MAX_FILE_CHARS = 40_000   # per-file cap on full-content context; larger files fall back to a header excerpt
 
