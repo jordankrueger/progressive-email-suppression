@@ -5,7 +5,7 @@
 # GITHUB_TOKEN is provided automatically.
 #
 # Two parallel reviews run on every PR to main:
-#   1. OpenAI gpt-5.1-codex-mini — logic bugs, error handling, edge cases, data integrity
+#   1. OpenAI gpt-5.6-terra — logic bugs, error handling, edge cases, data integrity
 #   2. Anthropic claude-code-security-review — security-specific checks
 #
 # Both must pass for the PR to merge (enforce via branch protection).
@@ -72,8 +72,15 @@ jobs:
           REPO = os.environ["REPO"]
           PR_NUMBER = os.environ["PR_NUMBER"]
           # Default model — override per-repo via .github/ai-review-config.yml
-          DEFAULT_MODEL = "gpt-5.1-codex-mini"
-          MAX_DIFF_CHARS = 350_000  # total budget (full files + diffs); gpt-5-codex-mini has 400K context
+          # gpt-5.1-codex-mini was deprecated (404 model_not_found on the Responses API)
+          # and broke this check fleet-wide. If a model starts 404ing, check for a newer
+          # generation before assuming a config bug — this family has now gone twice.
+          #
+          # gpt-5.6-terra is from the GPT-5.6 family (sol / terra / luna, released
+          # 2026-07-09) and was verified live against this workflow's exact call shape on
+          # 2026-07-26. Re-verify with `GET /v1/models` before changing it.
+          DEFAULT_MODEL = "gpt-5.6-terra"
+          MAX_DIFF_CHARS = 350_000  # total budget (full files + diffs) — ~90K tokens, well inside the model's context
           MAX_FILE_CHARS = 40_000   # per-file cap on full-content context; larger files fall back to a header excerpt
 
           # Files to skip (lockfiles, build artifacts, images, etc.)
