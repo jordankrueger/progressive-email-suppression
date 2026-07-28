@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-27
+# progressive-email-suppression — generated 2026-07-28
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68881 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68886 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -5202,7 +5202,6 @@ akfoin.us.ci
 akgaf.orge.pl
 akgaming.com
 akgq701.com
-akhirluvia.biz
 akhmadi.cf
 akhost.trade
 akhpremium.site
@@ -8878,6 +8877,7 @@ bebasmovie.com
 bebekpenyet.buzz
 bebemeuescumpfoc.com
 beben.xyz
+bebir.anonbox.net
 becamanus.site
 because.cowsnbullz.com
 because.lakemneadows.com
@@ -9936,7 +9936,6 @@ bjtbv.anonbox.net
 bjuyg.anonbox.net
 bjvbw.anonbox.net
 bjvya.anonbox.net
-bjxej.anonbox.net
 bjxr4.anonbox.net
 bk.rru
 bk.ru.ru
@@ -16989,7 +16988,6 @@ dibtec.store
 dicerollplease.com
 diceservices.com
 dichalorli.xyz
-dichvudaorut247.com
 dichvuseothue.com
 dichvuxe24h.com
 dick.com
@@ -30781,6 +30779,7 @@ incoware.com
 incq.com
 increase5f.com
 increasefollower.com
+increasu.com
 increater.ru
 incredibility.info
 incrediemail.com
@@ -39776,6 +39775,7 @@ meksika-nedv.ru
 mekuron.com
 melapatas.space
 melatoninsideeffects.org
+melbourne.edu.pl
 melbox.store
 melcow.com
 meldedigital.com
@@ -41302,7 +41302,6 @@ msgsafe.ninja
 msgwire.com
 msil.ru
 msiofke.com
-msitip.com
 msiwkzihkqifdsp3mzz.cf
 msiwkzihkqifdsp3mzz.ga
 msiwkzihkqifdsp3mzz.gq
@@ -56906,6 +56905,7 @@ superserver.site
 supersolarpanelsuk.co.uk
 superstachel.de
 superth.in
+superti4r.dev
 supertopup.my.id
 supervk.net
 superxmr.org
@@ -57209,6 +57209,7 @@ syadouchebag.com
 syahmiqjoss.host
 syamstore.biz.id
 syd.com
+sydney.edu.pl
 syerqrx14.pl
 syfilis.ru
 syinxun.com
@@ -59675,6 +59676,7 @@ tokopremium.co
 tokot.ru
 tokuriders.club
 tokyo-mail1.top
+tokyo.edu.pl
 tokyo112.top
 tokyoflarex.tokyo
 tokyoto.site
@@ -60631,6 +60633,7 @@ tube-over-hd.ru
 tube-rita.ru
 tubeadulte.biz
 tubebob.ru
+tubebox.us
 tubeemail.com
 tubeftw.com
 tubegain.com
@@ -60699,6 +60702,7 @@ turboparts.info
 turbospinz.co
 turechartt.com
 turf.exchange
+turis.lat
 turist-tur.ru
 turkey-nedv.ru
 turkeyth.com
@@ -62823,6 +62827,7 @@ vidred.gq
 vidsourse.com
 vidssa.com
 vidwobox.com
+vidxlr.me
 vieebee.cf
 vieebee.ga
 vieebee.gq
