@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-28
+# progressive-email-suppression — generated 2026-07-29
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68886 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68890 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -10327,6 +10327,7 @@ bmo55.anonbox.net
 bmoar.com
 bmonlinebanking.com
 bmpk.org
+bmrs7.anonbox.net
 bmsojon4d.pl
 bmst4.anonbox.net
 bmtx47.com
@@ -11224,7 +11225,6 @@ bruson.ru
 brutaldate.com
 brutuscontingencia.site
 bruzdownice-v.pl
-brxkf.anonbox.net
 bryanlgx.com
 bryq.site
 brzgn.anonbox.net
@@ -16407,7 +16407,6 @@ decoymail.mx
 decoymail.net
 dedatre.com
 dede.infos.st
-dedesignessentials.com
 dedi.blatnet.com
 dedi.cowsnbullz.com
 dedi.ploooop.com
@@ -21732,6 +21731,7 @@ fashionwallets2012.info
 fashionwatches2012.info
 fashionwomenaccessories.com
 fashionzone69.com
+fashond.com
 fasigula.name
 fask2.anonbox.net
 fasl4kas3.site
@@ -48966,6 +48966,7 @@ proxyduy.site
 proxymail.eu
 proxyparking.com
 prozdeal.com
+prp-ppdt.app
 prplunder.com
 prs7.xyz
 prsnly.com
@@ -54186,6 +54187,7 @@ shhongshuhan.com
 shhuut.org
 shicoast.com
 shid.de
+shide.lat
 shieldedmail.com
 shieldemail.com
 shievent.site
@@ -54498,7 +54500,6 @@ sikumedical.com
 sikux.com
 silaaccounting.com
 silacon.com
-silangmata.com
 silbarts.com
 silda8vv1p6qem.cf
 silda8vv1p6qem.ga
@@ -54855,6 +54856,7 @@ skyforte25k.io.vn
 skygazer42.cn
 skygazerhub.com
 skyhope666.icu
+skyhopenb.shop
 skyjetnet.com
 skylarchic.shop
 skylinescity.com
@@ -61924,6 +61926,7 @@ usedcarsinpl.eu
 usedcarsjacksonms.xyz
 usedhospitalbeds.com
 usedus.me
+uselessje.dev
 uselesswebsites.net
 usemail.xyz
 usenergypro.com
@@ -63862,6 +63865,7 @@ wanadooo.fr
 wanadoux.fr
 wanai.biz.id
 wanamore.com
+wanan.lat
 wanaofamouscar.com
 wanaoo.es
 wanaoo.fr
