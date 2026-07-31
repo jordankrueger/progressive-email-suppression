@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-07-30
+# progressive-email-suppression — generated 2026-07-31
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68900 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68911 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2216,6 +2216,7 @@
 4zm1fjk8hpn.gq
 4zm1fjk8hpn.ml
 4zm1fjk8hpn.tk
+4zw5l.anonbox.net
 5-attorney.com
 5-mail.info
 5.emailfake.ml
@@ -4928,6 +4929,7 @@ aifmusic.top
 aigptplus.co
 aihtnb.com
 aihualiu.com
+aihubtools.space
 aiim.com
 aiiots.net
 aijuice.net
@@ -7056,7 +7058,6 @@ asl13.gq
 asl13.ml
 asl13.tk
 asleepity.com
-asli.cloud
 aslibayar.com
 asls.ml
 asm.snapwet.com
@@ -10846,7 +10847,6 @@ bossless.net
 bossmail.de
 bossmanjack.lol
 bossmanjack.shop
-bossmanjack.store
 bossmanjack.xyz
 bostonhydraulic.com
 bostonplanet.com
@@ -11847,7 +11847,6 @@ bx6r9q41bciv.ga
 bx6r9q41bciv.gq
 bx6r9q41bciv.ml
 bx6r9q41bciv.tk
-bx7rr.anonbox.net
 bx8.pl
 bx9puvmxfp5vdjzmk.cf
 bx9puvmxfp5vdjzmk.ga
@@ -15108,6 +15107,7 @@ cqutssntx9356oug.ga
 cqutssntx9356oug.gq
 cqutssntx9356oug.ml
 cqutssntx9356oug.tk
+cqwbn.com
 cr.cloudns.asia
 cr219.com
 cr3wmail.sytes.net
@@ -21887,6 +21887,7 @@ fazendabrasil1.com
 fazer-site.net
 fazka.ovh
 fazmail.net
+fazty.biz
 fb.opheliia.com
 fb2a.site
 fb2aa.site
@@ -23616,6 +23617,7 @@ friscaa.ml
 friscaa.tk
 friteuseelectrique.net
 fritolay.net
+frive.site
 frizbi.fr
 frizzart.ru
 frm.ovh
@@ -24977,7 +24979,6 @@ giaotiep.xyz
 giaovienvn.gq
 giaovienvn.tk
 giare.fun
-giayhieucu.com
 gibit.us
 giblpyqhb.pl
 gibme.com
@@ -29630,6 +29631,7 @@ hydro.3amail.top
 hydrogenrichwaterstick.org
 hydroter.cf
 hydroxide-studio.com
+hygle.net
 hyhisla.tk
 hyhotmail.ccwu.cc
 hyhsale.top
@@ -33478,6 +33480,7 @@ kavbc6fzisxzh.gq
 kavbc6fzisxzh.ml
 kavbc6fzisxzh.tk
 kavio.my.id
+kavio.org
 kavxx.xyz
 kawaii.vet
 kawaiishojo.com
@@ -37302,6 +37305,7 @@ lxupukiw4dr277kay.gq
 lxupukiw4dr277kay.ml
 lxupukiw4dr277kay.tk
 lxydawang.top
+lyabobpr.com
 lycis.com
 lycoprevent.online
 lycos.comx.cf
@@ -42809,6 +42813,7 @@ needaprint.co.uk
 needidoo.org.ua
 needle.9amail.top
 needlegqu.com
+needshopp.net
 neeman-medical.com
 neenahdqgrillchill.com
 neetcabo.pt
@@ -49252,7 +49257,6 @@ punyabcl.com
 puouadtq.pl
 puppetmail.de
 purcell.email
-purearenas.com
 purecollagenreviews.net
 puregreencleaning.com.au
 puregreencoffeefacts.com
@@ -52646,6 +52650,7 @@ sadaas.com
 sadas.com
 sadbor.club
 sadd.us
+saddope.lol
 sadfg.indevs.in
 sadfsdf.com
 sadim.site
@@ -61980,6 +61985,7 @@ usnewsnow.online
 usodellavoce.net
 uspeakw.com
 uspmail.com
+usps8.com
 ussje.com
 ussv.club
 ustorp.com
@@ -63147,6 +63153,7 @@ viventel.com
 viversemdrama.com
 vivianhouse.co
 vividbase.xyz
+vividtipzone.com
 vivie.club
 vivista.co.uk
 vivopoker.pro
@@ -63479,6 +63486,7 @@ vrgwkwab2kj5.ml
 vrgwkwab2kj5.tk
 vrify.org
 vrizon.net
+vrjxk.com
 vrloco.com
 vrmtr.com
 vrou.cf
@@ -64315,6 +64323,7 @@ weedseedsforsale.com
 weekendemail.com
 weekfly.com
 weekzs.icu
+weeline.fun
 weepm.com
 weer.de
 wef.gr
@@ -65223,6 +65232,7 @@ wr9v6at7.com
 wralawfirm.com
 wrangler-sale.com
 wrayauto.com
+wrgee.com
 wri.xyz
 wrinklecareproduct.com
 writability.net
@@ -66180,6 +66190,7 @@ xsnipersquad.com
 xsnipersquad.site
 xsnipersquad.space
 xstyled.net
+xswl.xyz
 xsychelped.com
 xt-size.info
 xt.net.pl
