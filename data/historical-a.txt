@@ -1,4 +1,4 @@
-# progressive-email-suppression — generated 2026-08-01
+# progressive-email-suppression — generated 2026-08-02
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: CC0 1.0 (public domain)
 # Historical internal exclude list from a progressive advocacy org, circa 2019 (1253 domains)
