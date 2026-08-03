@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-08-02
+# progressive-email-suppression — generated 2026-08-03
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68911 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68910 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -1980,6 +1980,7 @@
 47gmail.com
 47hotmail.com
 47t.de
+47v2r.anonbox.net
 47yahoo.com
 47zen.pl
 481gmail.com
@@ -10846,7 +10847,6 @@ boss901.com
 bossless.net
 bossmail.de
 bossmanjack.lol
-bossmanjack.shop
 bossmanjack.xyz
 bostonhydraulic.com
 bostonplanet.com
@@ -10991,7 +10991,6 @@ bqcascxc.com
 bqd6u.anonbox.net
 bqe.pl
 bqhost.top
-bqkqt.anonbox.net
 bqm2dyl.com
 bqmjotloa.pl
 bqsaptri.ovh
@@ -16244,6 +16243,7 @@ dbook.pl
 dboso.com
 dboss3r.info
 dbot2zaggruz.ru
+dboxmail.com
 dbprinting.com
 dbrflk.com
 dbunker.com
@@ -36559,7 +36559,6 @@ loghning469.cf
 loghusnah2.cf
 logicampus.live
 logicfieldzen.com
-logichexbox.com
 logiclaser.com
 logicpathbid.com
 logicstreak.com
@@ -42512,7 +42511,6 @@ napalm51.usa.cc
 nape.net
 napj.com
 naplesmedspa.com
-napmails.com
 napoleonides.xyz
 naprawa-wroclaw.xaa.pl
 naprb.com
@@ -68326,6 +68324,7 @@ zib.com
 zibiz.me
 zibox.info
 zidu.pw
+ziellpremium.store
 zielonadioda.com
 zielonyjeczmiennaodchudzanie.xyz
 zigblog.net

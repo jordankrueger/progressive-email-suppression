@@ -1,4 +1,4 @@
-# progressive-email-suppression — generated 2026-08-02
+# progressive-email-suppression — generated 2026-08-03
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
@@ -1119,6 +1119,7 @@ daotaolamseo.com
 daymailonline.com
 dbmaill.com
 dbmaol.com
+dboxmail.com
 dcemail.com
 dealgongmail.com
 debruler.dynamailbox.com
@@ -2343,7 +2344,6 @@ mytrumail.com
 nabomail.com
 naboomail.com
 namail.com
-napmails.com
 naver-mail.com
 nazzmail.com
 nbseomail.com
