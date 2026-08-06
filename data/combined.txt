@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-08-05
+# progressive-email-suppression — generated 2026-08-06
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68907 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68902 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4601,7 +4601,6 @@ af2przusu74mjzlkzuk.ga
 af2przusu74mjzlkzuk.gq
 af2przusu74mjzlkzuk.ml
 af2przusu74mjzlkzuk.tk
-afandi.baby
 afandi.digital
 afaracuspurcatiidintara.com
 afarek.com
@@ -8117,6 +8116,7 @@ b6zel.anonbox.net
 b6zui.anonbox.net
 b755t.anonbox.net
 b7ba4ef3a8f6.ga
+b7bpa.anonbox.net
 b7fk3.anonbox.net
 b7nsd.anonbox.net
 b7nse.anonbox.net
@@ -8126,7 +8126,6 @@ b7sn3xrm.my.id
 b7t98zhdrtsckm.ga
 b7t98zhdrtsckm.ml
 b7t98zhdrtsckm.tk
-b7tpg.anonbox.net
 b7wlp.anonbox.net
 b7yug.anonbox.net
 b83gritty1eoavex.cf
@@ -9868,7 +9867,6 @@ bitrix-market.ru
 bitrixmail.xyz
 bitsslto.xyz
 bitterpanther.info
-bittiry.com
 bittnex.com
 bitwerke.com
 bitwhites.top
@@ -13001,7 +12999,6 @@ cfainstitute.com
 cfat9fajli.ru
 cfat9loadzzz.ru
 cfatt6loadzzz.ru
-cfazal.cfd
 cfcae.org
 cfcjy.com
 cfe21.com
@@ -20640,6 +20637,7 @@ ermail.tk
 ermailo.com
 ermeson.tk
 ermtia.com
+ernestturcotte.us
 ero-host.ru
 ero-tube.org
 erodate.com
@@ -22132,7 +22130,6 @@ fenkpeln.club
 fenkpeln.online
 fenkpeln.site
 fenkpeln.xyz
-fennel.team
 fentaoba.com
 fenty-puma.us
 fenzhuai.top
@@ -25332,6 +25329,7 @@ gma7l.com
 gma8il.com
 gma8l.com
 gmaail.com
+gmaail.icu
 gmaail.net
 gmabrands.com
 gmaeil.com
@@ -34919,6 +34917,7 @@ labfortyone.tk
 lablasting.com
 labo.ch
 laboratortehnicadentara.ro
+laborderie.com
 laborderie.ovh
 laboriously.com
 laborstart.org
@@ -38851,7 +38850,6 @@ makeupneversleeps.com
 makies.web.id
 makinadigital.com
 makingfreebasecocaine.in
-maklacpolza.cfd
 makmadness.info
 makmotors.com
 makoli.sbs
@@ -38938,7 +38936,6 @@ mamkinarbuzer.tk
 mamkinrazboinik.gq
 mamonsuka.com
 mamulenok.ru
-mamulhata.network
 man-or-machine.com
 manab.site
 manabisagan.com
@@ -39158,7 +39155,6 @@ mark-sanchez2011.info
 mark234.info
 markableytrust.org.uk
 markandvirginiarometty.org
-markanpla.cfd
 markapia.com
 markaspoker88.com
 market-re.quest
@@ -41559,7 +41555,6 @@ mugstock.com
 muhabbetkusufiyatlari.com
 muhamadnurdin.us
 muhammadafandi.com
-muhammedzeyto.cfd
 muhaos.com
 muhbuh.com
 muhdioso8abts2yy.cf
@@ -43285,6 +43280,7 @@ nfaca.org
 nfamilii2011.co.cc
 nfast.net
 nfeconsulta.net
+nfengwu.bond
 nfhtbcwuc.pl
 nfirmemail.com
 nfkah.eu.cc
@@ -46624,7 +46620,6 @@ paperfu.com
 paperlesspractice.com
 papermakers.ml
 paperpapyrus.com
-paperyuyu.xyz
 papierkorb.me
 papillomadelete.info
 paplease.com
@@ -52203,6 +52198,7 @@ rucls.com
 rudelyawakenme.com
 ruderclub-mitte.de
 ruditnugnab.xyz
+rudox.org
 rudymail.ml
 ruedeschaus.com
 ruffrey.com
@@ -57687,7 +57683,6 @@ tapecopy.net
 tapetoland.pl
 tapety-download.pl
 taphear.com
-taphoaclone.net
 tapi.re
 tapiitudulu.com
 tappathrun.com
@@ -58621,7 +58616,6 @@ thailand-mega.com
 thailandresort.asia
 thailandstayeasy.com
 thailongstayjapanese.com
-thaiphone.online
 thaithai3.com
 thaitudang.xyz
 thaivisa.cc
@@ -60658,6 +60652,7 @@ tucineestiba.com
 tuckschool.com
 tucumcaritonite.com
 tudena.pro
+tuethong.shop
 tufiqon.tech
 tug.minecraftrabbithole.com
 tugo.ga
