@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-08-08
+# progressive-email-suppression — generated 2026-08-09
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68904 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68903 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4055,7 +4055,6 @@ abstruses.com
 abstruses.net
 abt90bet.net
 abtw.de
-abunasser.site
 abundantwe.us
 abunprodvors.xyz
 abuseipdb.ru
@@ -9066,6 +9065,7 @@ bentsgolf.com
 benwola.pl
 beo.kr
 beooo.anonbox.net
+beously.com
 bepdientugiare.net
 bephoa.com
 bepureme.com
@@ -11822,6 +11822,7 @@ bwmail.us
 bwmyga.com
 bwn6x.anonbox.net
 bwndl.anonbox.net
+bwpo6.anonbox.net
 bwrqi.anonbox.net
 bwsf2.anonbox.net
 bwtdmail.com
@@ -17615,6 +17616,7 @@ dnsclick.com
 dnsdeer.com
 dnsdujeskd.com
 dnses.ro
+dnsink.com
 dnslog.tech
 dntsmsekjsf.com
 do.cowsnbullz.com
@@ -33216,7 +33218,6 @@ k9wc559.pl
 ka1ovm.com
 kaaaxcreators.tk
 kaaner.com
-kaansimavcan.cfd
 kaaw39hiawtiv1.ga
 kaaw39hiawtiv1.gq
 kaaw39hiawtiv1.ml
@@ -40116,7 +40117,6 @@ midcoastcustoms.net
 midcoastmowerandsaw.com
 midcoastsolutions.com
 midcoastsolutions.net
-middleence.com
 middletoncheneyuc.uk
 midedf.net
 mideuda.com
@@ -41626,6 +41626,7 @@ muralin-aja.com
 muratec.eu.org
 muratreis.icu
 murattomruk.com
+murkstar.com
 murticans.com
 mus-max.info
 mus.email
@@ -46026,7 +46027,6 @@ otonmail.ga
 otozuz.com
 otp247.me
 otpku.com
-otpmail.top
 otrabajo.com
 ottappmail.com
 ottawaprofilebacks.com
@@ -46525,6 +46525,7 @@ palaciosvinodefinca.com
 palaena.xyz
 palau-nedv.ru
 palaze.cc
+paldonanamansilolo.online
 paleomail.com
 paleorecipebookreviews.org
 palermo-pizza.ru
@@ -53677,7 +53678,6 @@ semutkecil.com
 senacloud.email
 senam.cz
 senang.uu.me
-senas.xyz
 send-email.org
 send22u.info
 send4.uk
@@ -57419,7 +57419,6 @@ t8kco4lsmbeeb.gq
 t8kco4lsmbeeb.ml
 t8kco4lsmbeeb.tk
 ta-6.com
-ta-sg.top
 ta29.app
 ta88.app
 taa1.com
@@ -64423,6 +64422,7 @@ wer34276869j.ga
 wer34276869j.gq
 wer34276869j.ml
 wer34276869j.tk
+were-w.top
 wereviewbiz.com
 werj.in
 werparacinasx.com
@@ -66468,7 +66468,6 @@ y3dvb0bw947k.gq
 y3dvb0bw947k.ml
 y3dvb0bw947k.tk
 y3elp.com
-y4vpy.anonbox.net
 y59.jp
 y5artmb3.pl
 y6ahoo.com
