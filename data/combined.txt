@@ -1,4 +1,4 @@
-# progressive-email-suppression — generated 2026-08-09
+# progressive-email-suppression — generated 2026-08-10
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
@@ -9465,6 +9465,7 @@ bgoht.anonbox.net
 bgoy24.pl
 bgpond.com
 bgpond.net.au
+bgrks.anonbox.net
 bgsaddrmwn.me
 bgtedbcd.com
 bgtmail.com
@@ -9944,7 +9945,6 @@ bk3un.anonbox.net
 bk5er.anonbox.net
 bk73d.anonbox.net
 bk7vw.anonbox.net
-bka7z.anonbox.net
 bkbgzsrxt.pl
 bkbxr.anonbox.net
 bkbyj.anonbox.net
@@ -13617,7 +13617,6 @@ chothuevinhomesquan9.com
 chovy12.com
 chowet.site
 chratechbeest.club
-chrfeeul.com
 chris.burgercentral.us
 chrisanhill.com
 chrisgomabouna.eu
@@ -14025,7 +14024,6 @@ clonefb247-net.tk
 clonefbtmc1.club
 clonehotmail.click
 cloneig.shop
-cloneigngon.click
 cloneiostrau.org
 clonekhoe.com
 clonemailgiare.com
@@ -16267,6 +16265,7 @@ dcndiox5sxtegbevz.ml
 dcndiox5sxtegbevz.tk
 dcom.space
 dcpa.net
+dcs21sd.com
 dcsupplyinc.com
 dctm.de
 dd.gamess.bot.cd
@@ -35763,7 +35762,6 @@ lightv.online
 ligirls.ru
 ligit.shop
 ligobet56.com
-ligolfcourse.online
 ligsb.com
 lihe555.com
 lihuafeng.com
@@ -46031,6 +46029,7 @@ otrabajo.com
 ottappmail.com
 ottawaprofilebacks.com
 ottertrack.com.com
+ottsathi.store
 otu1txngoitczl7fo.cf
 otu1txngoitczl7fo.ga
 otu1txngoitczl7fo.gq
@@ -54511,6 +54510,7 @@ silda8vv1p6qem.gq
 silda8vv1p6qem.ml
 silda8vv1p6qem.tk
 silencei.org.ua
+silenceion.com
 silenceofthespam.com
 silentmail.ccwu.cc
 silico.llc
@@ -62416,7 +62416,6 @@ veb65.com
 vectorbrasil.app
 vedastyle.shop
 vedats.com
-vedettevn.com
 vedid.com
 vedioo.com
 vedmail.com
@@ -68593,6 +68592,7 @@ zncqtumbkq.ml
 zncqtumbkq.tk
 zndsmail.com
 zneep.com
+znext.bond
 zni1d2bs6fx4lp.cf
 zni1d2bs6fx4lp.ga
 zni1d2bs6fx4lp.gq
