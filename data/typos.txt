@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-08-10
+# progressive-email-suppression — generated 2026-08-11
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 3225 domains matching typosquat patterns of major providers
+# 3226 domains matching typosquat patterns of major providers
 0-mail.com
 000email.com
 001gmail.com
@@ -2705,6 +2705,7 @@ slonmail.com
 sltmail.com
 slushmail.com
 smailpro.com
+smailwork.com
 smashmail.com
 smlmail.com
 snakemail.com

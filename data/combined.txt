@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-08-10
+# progressive-email-suppression — generated 2026-08-11
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68903 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68906 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -1163,6 +1163,7 @@
 246hltwog9utrzsfmj.gq
 246hltwog9utrzsfmj.ml
 246hltwog9utrzsfmj.tk
+247chats.com
 247demo.online
 247gmail.com
 247jockey.com
@@ -8125,6 +8126,7 @@ b7sn3xrm.my.id
 b7t98zhdrtsckm.ga
 b7t98zhdrtsckm.ml
 b7t98zhdrtsckm.tk
+b7td7.anonbox.net
 b7wlp.anonbox.net
 b7yug.anonbox.net
 b83gritty1eoavex.cf
@@ -20739,7 +20741,6 @@ eshtanet.com
 eshtapay.com
 esiix.com
 esik.com
-esimpleai.com
 esjweb.com
 eskile.com
 eskisehirdizayn.com
@@ -23023,7 +23024,6 @@ food-facts.ru
 food4kid.ru
 foodbooto.com
 foodieinfluence.online
-foodieinfluence.pro
 foodkachi.com
 foodpre.sbs
 foodrestores.com
@@ -33641,6 +33641,7 @@ keobzmvii.pl
 keort.in
 kepeznakliyat.com
 kepkat.com
+kepkat.site
 kepler.uni.me
 kepo.ml
 kepqs.ovh
@@ -37527,6 +37528,7 @@ made.boutique
 made7.ru
 madebyfrances.com
 madejstudio.com
+madeksa.online
 madelhocin.xyz
 madhorse.us
 madiba-shirt.com
@@ -50095,7 +50097,6 @@ r4gmw5fk5udod2q.gq
 r4gmw5fk5udod2q.ml
 r4gmw5fk5udod2q.tk
 r4ifr.com
-r4iii.anonbox.net
 r4nd0m.de
 r4ntwsd0fe58xtdp.cf
 r4ntwsd0fe58xtdp.ga
@@ -55001,6 +55002,7 @@ smack.email
 smailpost.info
 smailpostin.net
 smailpro.com
+smailwork.com
 smajok.ru
 smakit.vn
 small.blatnet.com
@@ -55477,6 +55479,7 @@ sonseals.com
 sonshi.cf
 sonshi.pl
 sontol.pw
+sontunca.com
 sonu.com
 sonyedu.com
 sonymails.gdn
@@ -55953,7 +55956,6 @@ spuramexico2012.info
 spuramexico2012.net
 spuramexico2012.org
 spwebsite.com
-spwmrk.xyz
 spybox.de
 spycellphonesoftware.info
 spyderskiwearjp.com
@@ -67833,6 +67835,7 @@ yuoia.com
 yups.xyz
 yurakim.cfd
 yurevia.cfd
+yuricdos.tech
 yurikeprastika.art
 yuslamail.com
 yusmpgroup.ru
