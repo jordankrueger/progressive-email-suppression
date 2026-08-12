@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-08-11
+# progressive-email-suppression — generated 2026-08-12
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68906 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68905 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8488,6 +8488,7 @@ baobaosport.com
 baocaothue.store
 baomat.ml
 baomoi.site
+baonam.space
 baothoitrang.org
 baphled.com
 bapu.gq
@@ -8798,6 +8799,7 @@ bdmuzic.pw
 bdnets.com
 bdoindia.co.in
 bdpmedia.com
+bdr3w.anonbox.net
 bdredemptionservices.com
 bdrfoe.store
 bdshar.com
@@ -10975,7 +10977,6 @@ bpvi.gq
 bpvi.ml
 bpvi.tk
 bq45o.anonbox.net
-bq7nr.anonbox.net
 bqaxcaxzc.com
 bqaz.xyz
 bqb76.anonbox.net
@@ -27314,7 +27315,6 @@ haom7.com
 haomail.com
 haomei456.com
 haoniubia.cc
-haoren.lol
 haosuhong.com
 haotmail.com
 haotuwu.com
@@ -29414,7 +29414,6 @@ huaweisdk.com
 hubglee.com
 hubhost.store
 hubii-network.com
-hubinstant.com
 hublinestream.com
 hubmail.info
 hubopss.com
@@ -61710,7 +61709,6 @@ upayawalmaina.biz
 upc.infos.st
 upcmaill.com
 update1c.ru
-updatehyper.com
 updates9z.com
 updatesafe.com
 upelmail.com
@@ -65750,6 +65748,7 @@ xe2g.com
 xeames.net
 xeana.co
 xeb9xwp7.tk
+xebeccmail.online
 xedmi.com
 xeg.spymail.one
 xehop.org
