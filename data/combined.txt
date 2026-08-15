@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-08-14
+# progressive-email-suppression — generated 2026-08-15
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 68909 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 68910 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -9900,7 +9900,6 @@ bizimalem-support.de
 bizisstance.com
 bizmastery.com
 bizml.ru
-bizmud.com
 bizplace.info
 bizsa.anonbox.net
 bizsearch.info
@@ -9937,6 +9936,7 @@ bjs-team.com
 bjstore.foo
 bjt35.anonbox.net
 bjtbv.anonbox.net
+bju6c.anonbox.net
 bjuyg.anonbox.net
 bjvbw.anonbox.net
 bjvya.anonbox.net
@@ -10038,7 +10038,6 @@ blastxlreview.com
 blatablished.xyz
 blatopgunfox.com
 blavixm.ie
-blaxion.com
 blazeent.com
 blazeli.com
 blbecek.ml
@@ -10581,7 +10580,6 @@ bondlayer.org
 bondmail.men
 bondrewd.cf
 bondsphere.lat
-bone7.anonbox.net
 bones.7amail.top
 bongo.gq
 bongobank.net
@@ -15245,7 +15243,6 @@ crobinkson.hu
 crocoyes.fun
 crogra.org
 cron1s.vn
-cronack.com
 cronicasdepicnic.com
 cronostv.site
 cronot.my.id
@@ -19412,6 +19409,7 @@ efasttrackwatches.com
 efatt2fiilie.ru
 efdsdsdw.cloud-ip.cc
 efepala.kazimierz-dolny.pl
+efepe.lat
 efetusomgx.pl
 effect-help.ru
 effective-pheromones.info
@@ -24296,6 +24294,7 @@ gamuci.com
 gamutimaging.com
 gamzwe.com
 gan.lubin.pl
+gandobaba.bond
 gang-waw.xyz
 gangazimyluv.com
 gangu.cf
@@ -31686,6 +31685,7 @@ itspid.com
 itsrecess.com
 itsuki1710.naoki15.flixbus.site
 itsuki86.bishop-knot.xyz
+ittiv.com
 itue33ubht.ga
 itue33ubht.gq
 itue33ubht.tk
@@ -40122,6 +40122,7 @@ midcoastmowerandsaw.com
 midcoastsolutions.com
 midcoastsolutions.net
 middletoncheneyuc.uk
+mideastview.com
 midedf.net
 mideuda.com
 midfloridaa.com
@@ -40476,7 +40477,6 @@ mj.spymail.one
 mjans.com
 mjemail.cf
 mjfitness.com
-mjg24.com
 mji.ro
 mjj.edu.ge
 mjjqgbfgzqup.info
@@ -43625,7 +43625,6 @@ nitroshine.xyz
 nity.com
 nitynote.com
 nitza.ga
-niubiba.lol
 nivy.com
 niwalireview.net
 niwave.shop
@@ -44065,6 +44064,7 @@ novaprime.vip
 novartismails.com
 novasub.click
 novelbowl.xyz
+novelv.com
 novemberdelta.myverizonmail.top
 novembervictor.webmailious.top
 novencolor.otsoft.pl
@@ -49287,6 +49287,7 @@ purplemail.gq
 purplemail.ml
 purplemail.tk
 purplepromo.com
+purposeer.com
 purselongchamp.net
 purseorganizer.me
 pursesoutletsale.com
@@ -55021,7 +55022,6 @@ smallker.tk
 smalltown.website
 sman14kabtangerang.site
 sman1penukal.my.id
-smanik2.xyz
 smanual.shop
 smap.4nmv.ru
 smap4.me
@@ -62792,7 +62792,6 @@ video.ddnsking.com
 video.lakemneadows.com
 video.oldoutnewin.com
 video35.com
-videodailytung1.xyz
 videodig.tk
 videofilling.ru
 videoforge.my.id
@@ -67152,6 +67151,7 @@ yd3jj.anonbox.net
 ydah.me
 ydeclinegv.com
 ydgeimrgd.shop
+ydhfks.shop
 ydhoo.com
 ydjfnea.shop
 ydlmkoutletjackets9us.com
@@ -68041,6 +68041,7 @@ zapbox.fr
 zapchasti-orig.ru
 zapchati-a.ru
 zapilou.net
+zaply.lat
 zapmail.one
 zapstibliri.xyz
 zapviral.com
