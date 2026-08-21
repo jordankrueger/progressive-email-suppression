@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-08-20
+# progressive-email-suppression — generated 2026-08-21
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69044 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69057 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -6657,6 +6657,7 @@ archfreshlibrary.site
 archfreshtext.site
 archgoodlib.site
 archgoodtext.site
+archifun.com
 archildrens.com
 archine.online
 architecture101.com
@@ -10488,6 +10489,7 @@ boborobocobo.com
 bobq.com
 bobs.ca
 bobs.dyndns.org
+bocably.com
 bocaneyobalac.com
 bocas.tech
 bocav.com
@@ -10886,7 +10888,6 @@ boss.cf
 boss901.com
 bossless.net
 bossmail.de
-bossmanjack.lol
 bossmanjack.xyz
 bostonhydraulic.com
 bostonplanet.com
@@ -11846,6 +11847,7 @@ bvlma.anonbox.net
 bvmjj.anonbox.net
 bvmvbmg.co
 bvngf.com
+bvoqi.anonbox.net
 bvoxsleeps.com
 bvqjwzeugmk.pl
 bvrs5.anonbox.net
@@ -19543,6 +19545,7 @@ ehvgfwayspsfwukntpi.ga
 ehvgfwayspsfwukntpi.gq
 ehvgfwayspsfwukntpi.ml
 ehvgfwayspsfwukntpi.tk
+ehwit.com
 ei.cim.net
 ei.co.net
 ei.col.net
@@ -24312,6 +24315,7 @@ gamepec.com
 gamepi.ru
 gameqo.com
 gamerai.shop
+gamerai.space
 gamercosplay.pl
 gamerentalreview.co.uk
 gamersdady.com
@@ -33935,6 +33939,7 @@ kierko.com
 kigwa.com
 kiham.club
 kihc.com
+kikaga.com
 kiki287666.xyz
 kikie.club
 kikihu.com
@@ -34293,6 +34298,7 @@ koalaswap.com
 kobace.com
 kobessa.com
 kobietaidom.pl
+koboywin.com
 kobrandly.com
 koch.ml
 kocheme.com
@@ -34360,6 +34366,7 @@ koloekmail.com
 koloekmail.net
 kolonyajel.com
 kolovers.com
+kolsea.com
 kolumb-nedv.ru
 kolvok2.xyz
 kolyasski.com
@@ -37944,6 +37951,8 @@ mail123.cloud
 mail123.club
 mail123.com.br
 mail123.fr
+mail123.pro
+mail123.site
 mail123box.tech
 mail12h.com
 mail14.pl
@@ -38298,6 +38307,7 @@ mailforgo.site
 mailformail.com
 mailforspam.com
 mailforthemeak.info
+mailfortiktok.us
 mailfranco.com
 mailfree.ga
 mailfree.gq
@@ -40641,6 +40651,7 @@ mlq6wylqe3.tk
 mlsix.ovh
 mlsix.xyz
 mlsmodels.com
+mlumzmh.cn
 mlusae.xyz
 mlvp.com
 mlx.ooo
@@ -48849,6 +48860,7 @@ procarautogroup.com
 procowork.com
 procrackers.com
 prodaza-avto.kiev.ua
+prodbits.com
 prodence.com
 prodgy.net
 prodgy.net.mx
@@ -50615,7 +50627,6 @@ rbs1.xyz
 rbscoutts.com
 rbteratuk.co.uk
 rc6bcdak6.pl
-rca7f.anonbox.net
 rcasd.com
 rcbdeposits.com
 rccgmanifestinghisglory.co.uk
@@ -59573,6 +59584,7 @@ tlia.com
 tlk21.com
 tlkomsa.net
 tlktalk.net
+tlktok.us
 tln.pl
 tlpn.org
 tls.cloudns.asia
@@ -60516,7 +60528,6 @@ tritunggalmail.com
 trivialnewyork.com
 trixtrux1.ru
 trizz.pro
-trizz.xyz
 trmc.net
 trobertqs.com
 trochoi.asia
@@ -62104,6 +62115,7 @@ usodellavoce.net
 uspeakw.com
 uspmail.com
 usps8.com
+uspsp.top
 ussje.com
 ussv.club
 ustorp.com
@@ -63215,6 +63227,7 @@ visionexpressed.com
 visionwithoutglassesscam.org
 visit-macedonia.eu
 visitany.com
+visitedity.com
 visithotel.ir
 visitinbox.com
 visitingcyprus.com
