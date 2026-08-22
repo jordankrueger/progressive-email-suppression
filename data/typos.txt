@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-08-21
+# progressive-email-suppression — generated 2026-08-22
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 3228 domains matching typosquat patterns of major providers
+# 3227 domains matching typosquat patterns of major providers
 0-mail.com
 000email.com
 001gmail.com
@@ -2382,7 +2382,6 @@ ninja-mail.com
 nmailv.com
 nobugmail.com
 noclickemail.com
-nofxmail.com
 noisemails.com
 nokiamail.com
 nomail2me.com
