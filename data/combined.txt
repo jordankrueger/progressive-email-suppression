@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-08-23
+# progressive-email-suppression — generated 2026-08-24
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69067 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69087 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -1052,6 +1052,7 @@
 20253025.xyz
 20260501.ccwu.cc
 20260503.ccwu.cc
+202608221.xyz
 202qs.com
 2048unblocked.com
 204gmail.com
@@ -3469,6 +3470,7 @@
 950gmail.com
 951gmail.com
 957gmail.com
+957jp.cc
 958gmail.com
 959gmail.com
 95gmail.com
@@ -8051,6 +8053,7 @@ b1p5xtrngklaukff.cf
 b1p5xtrngklaukff.ga
 b1p5xtrngklaukff.gq
 b1p5xtrngklaukff.tk
+b20nn6.cn
 b247m.anonbox.net
 b24u2.anonbox.net
 b26im.anonbox.net
@@ -8615,6 +8618,7 @@ baserelief.ru
 basgoo.com
 bashmak.info
 bashnya.info
+bashyrcn.yachts
 basic-colo.com
 basic.cowsnbullz.com
 basic.droidpic.com
@@ -8822,7 +8826,6 @@ bd.dns-cloud.net
 bd.if.ua
 bd.nestla.com
 bd6rt.anonbox.net
-bd7u7.anonbox.net
 bdaov.anonbox.net
 bdas.com
 bdc76.anonbox.net
@@ -14116,6 +14119,7 @@ cloudemail.xyz
 cloudflare.gay
 cloudfoundry.store
 cloudgen.world
+cloudgue.site
 cloudhosting.info
 cloudhub365.click
 cloudido.com
@@ -16760,6 +16764,7 @@ dev.ploooop.com
 dev.poisedtoshrike.com
 dev.qwertylock.com
 dev.semar.edu.pl
+dev17.tech
 devax.pl
 devb.site
 devbike.com
@@ -18784,6 +18789,7 @@ dzinoy58w12.gq
 dzinoy58w12.ml
 dzinoy58w12.tk
 dznf.net
+dzntn.io.vn
 dzsyr.com
 dztyhd.cn
 dzw.fr
@@ -27108,6 +27114,7 @@ h5dslznisdric3dle0.gq
 h5dslznisdric3dle0.ml
 h5dslznisdric3dle0.tk
 h5jiin8z.pl
+h5lpf.anonbox.net
 h5srocpjtrfovj.cf
 h5srocpjtrfovj.ga
 h5srocpjtrfovj.gq
@@ -31355,6 +31362,7 @@ iolkjk.ml
 iolokdi.ga
 iolokdi.ml
 ioloud.com
+iolq.top
 iomail.com
 ion.5amail.top
 ionazara.co.cc
@@ -32163,6 +32171,7 @@ japabounter.site
 japan-monclerdown.com
 japan-next.online
 japanawesome.com
+japanesegirls.cc
 japanesenewshome.com
 japanesesexvideos.xyz
 japanesetoryburch.com
@@ -35735,6 +35744,7 @@ lh451.gq
 lh451.ml
 lh451.tk
 lhadk11.pro
+lhba5510.com
 lheb.com
 lhkjfg45bnvg.gq
 lhpa.com
@@ -43737,6 +43747,7 @@ nitroshine.xyz
 nity.com
 nitynote.com
 nitza.ga
+niulaibulai.me
 nivy.com
 niwalireview.net
 niwave.shop
@@ -46522,6 +46533,7 @@ p1nhompdgwn.ga
 p1nhompdgwn.gq
 p1nhompdgwn.ml
 p1nhompdgwn.tk
+p2bvz.cyou
 p2chb.anonbox.net
 p2marketing.co.uk
 p2zyvhmrf3eyfparxgt.cf
@@ -49699,6 +49711,7 @@ qeqrtc.ovh
 qeurtor.com
 qewaz21.eu
 qewzaqw.com
+qexvhz.com
 qf1tqu1x124p4tlxkq.cf
 qf1tqu1x124p4tlxkq.ga
 qf1tqu1x124p4tlxkq.gq
@@ -54494,6 +54507,7 @@ shopussy.com
 shopvia2fa.net
 shopvipduzk666.shop
 shopvipduzk6868.shop
+shopvpn.uk
 shopxda.com
 shopy.club
 short-haircuts.co
@@ -54598,6 +54612,7 @@ siempre.gratis
 sienna12bourne.ga
 siennamail.com
 sieprovev.gq
+siessed.com
 sieuthiclone.com
 sifan077.cc.cd
 siftportal.ru
@@ -54911,7 +54926,6 @@ skipadoo.org
 skipopiasc.info
 skipspot.eu
 skishop24.de
-skizohosting.xyz
 skkk.edu.my
 sklad.progonrumarket.ru
 skladchina.pro
@@ -54990,8 +55004,12 @@ skygazer42.cn
 skygazerhub.com
 skyhope666.icu
 skyhope666.shop
+skyhope666.xyz
 skyhopenb.shop
+skyhopenb.xyz
 skyhopenba.shop
+skyhopetw.xyz
+skyhopewd.xyz
 skyjetnet.com
 skylarchic.shop
 skylinescity.com
@@ -60982,6 +61000,7 @@ twoweirdtricks.com
 twsexy66.info
 twsh.us
 twskyhope.top
+twskyhope.xyz
 twskyhopenb.shop
 twzhhq.com
 twzhhq.online
@@ -65935,6 +65954,7 @@ xeosa9gvyb5fv.gq
 xeosa9gvyb5fv.ml
 xeosa9gvyb5fv.tk
 xeoty.com
+xeovo.ru
 xepa.ru
 xerizon.net
 xermo.info
