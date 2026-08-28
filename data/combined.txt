@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-08-27
+# progressive-email-suppression — generated 2026-08-28
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69108 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69111 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -7120,6 +7120,7 @@ ass.pp.ua
 assa.pl
 assecurity.com
 assetscoin.com
+asso.st
 assomail.com
 assospirlanta.shop
 asspoo.com
@@ -8973,6 +8974,7 @@ beeviee1.gq
 beeviee1.ml
 beeviee1.tk
 beezom.buzz
+bef5n.anonbox.net
 befdd.anonbox.net
 befotey.com
 begance.xyz
@@ -10438,7 +10440,6 @@ bnlym.anonbox.net
 bnm612.com
 bnoko.com
 bnote.com
-bnq2k.anonbox.net
 bnrlner.shop
 bnsdd.anonbox.net
 bnsla.anonbox.net
@@ -14804,7 +14805,6 @@ condating.info
 condecco.com
 condorviajes.com
 condovallarta.info
-conduongmua.site
 conf.work
 conferencecallfree.net
 conferencelife.site
@@ -17982,6 +17982,7 @@ doorandwindowrepairs.com
 doorsteploansfast24h7.co.uk
 dopestkicks.ru
 dopic.xyz
+dopiset.com
 dopisivanje.in.rs
 doquier.tk
 dor4.ru
@@ -27566,7 +27567,6 @@ hayait.com
 hayalhost.com
 hayastana.com
 haydoo.com
-haylo.network
 haynes.ddns.net
 hayoo.com
 hayriafaturrahman.art
@@ -29015,6 +29015,7 @@ hotmails.eu
 hotmailse.com
 hotmailspot.co.cc
 hotmailt.com
+hotmailtrusted.com
 hotmailvip.tokyo
 hotmaim.co.uk
 hotmaio.co.uk
@@ -48769,6 +48770,7 @@ primeblog.us
 primecialisonline.com
 primejetnet.com
 primelocationlets.co.uk
+primered.shop
 primerisegrid.com
 primerka.co.cc
 primetor.com
@@ -50520,6 +50522,7 @@ rankingweightgaintablets.info
 rankmagix.net
 ranky.com
 ranmoi.net
+ranro.lat
 rao-network.com
 rao.kr
 raodrunner.com
@@ -59039,6 +59042,7 @@ thenoftime.org.ua
 thenorth-face-shop.com
 thenorthfaceoutletb.com
 thenorthfaceoutletk.com
+thenovagroup.site
 thenumberonemattress.com
 thenutritionatrix.com
 theodore1818.site
@@ -62600,7 +62604,6 @@ veb34.com
 veb37.com
 veb65.com
 vectorbrasil.app
-vedastyle.shop
 vedats.com
 vedid.com
 vedioo.com
