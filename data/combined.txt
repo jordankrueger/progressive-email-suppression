@@ -1,4 +1,4 @@
-# progressive-email-suppression — generated 2026-09-03
+# progressive-email-suppression — generated 2026-09-04
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
@@ -3065,7 +3065,6 @@
 7rx24.com
 7seatercarsz.com
 7startruckdrivingschool.com
-7t6bp.anonbox.net
 7tags.com
 7texd.anonbox.net
 7thpeggroup.com
@@ -32358,7 +32357,6 @@ jared.1amail.top
 jarilusua.com
 jaringan.design
 jarlo-london.com
-jarringsafri.biz
 jarsdigital.sbs
 jarswa.com
 jarszone.com
@@ -41621,6 +41619,7 @@ msb.minsmail.com
 mscbestforever.com
 mscdex.com.au.pn
 msdc.co
+msdkc.anonbox.net
 msdla.com
 msendback.com
 mseo.ehost.pl
@@ -60752,6 +60751,7 @@ travelblogplace.com
 travelday.ru
 traveldesk.com
 travelers.co
+travelfriend.online
 travelingcome.com
 travelistaworld.com
 travelkot.ru
