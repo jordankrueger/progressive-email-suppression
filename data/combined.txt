@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-04
+# progressive-email-suppression — generated 2026-09-05
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69469 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69471 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -1408,7 +1408,6 @@
 2sea.org
 2sea.xyz
 2sharp.com
-2sisf.anonbox.net
 2skjqy.pl
 2tl2qamiivskdcz.cf
 2tl2qamiivskdcz.ga
@@ -3473,6 +3472,7 @@
 944gmail.com
 94587293.xyz
 945gmail.com
+94an.com
 94b5.ga
 94gmail.com
 94hotmail.com
@@ -5047,6 +5047,7 @@ airfiltersmax.us
 airforceonebuy.net
 airforceonesbuy.com
 airg.app
+airhemp.com
 airhue.com
 airideas.us
 airj0ranpascher.com
@@ -8130,6 +8131,7 @@ b4sf2.anonbox.net
 b4uc7.anonbox.net
 b4urd.anonbox.net
 b4vv7.anonbox.net
+b4vvn.anonbox.net
 b4ygw.anonbox.net
 b534b.anonbox.net
 b55b56.cf
@@ -10957,6 +10959,7 @@ bovinaisd.net
 bovu7.anonbox.net
 bowamaranth.website
 bowba.me
+bowlfuel.com
 bowlinglawn.com
 bowtrolcolontreatment.com
 box-email.ru
@@ -10991,7 +10994,6 @@ boxmail1.com
 boxmailbox.club
 boxmailers.com
 boxmailvn.com
-boxmailvn.space
 boxnavi.com
 boxnexa.com
 boxofficevideo.com
@@ -11669,6 +11671,7 @@ bus9alizaxuzupeq3rs.tk
 busantei.com
 buscarlibros.info
 buscarltd.com
+busd-mmjd3.wiki
 bushdown.com
 businclude.site
 businesideas.ru
@@ -15400,6 +15403,7 @@ crushes.com
 crusthost.com
 crutenssi20125.co.tv
 cruxmail.info
+crybio.com
 crydeck.com
 cryingcon.com
 crymail2.com
@@ -16224,6 +16228,7 @@ datrr.gq
 datum2.com
 datuxtox.host
 daughertymail.bid
+daugr.com
 daum.com
 daun.net
 dautubds.io.vn
@@ -22168,7 +22173,6 @@ fchbe3477323723423.epizy.com
 fchief3r.info
 fcit.de
 fckgoogle.pl
-fclone.net
 fcmi.com
 fcml.mx
 fcrpg.org
@@ -27883,6 +27887,7 @@ heavenprem4.my.id
 heavenprem8.my.id
 heavty.com
 heavycloth.com
+hebase.com
 hebgsw.com
 hebohdomino88.com
 hebohpkv88.net
@@ -29270,7 +29275,6 @@ hotrnail.com
 hotroactive.tk
 hotrodsbydean.com
 hotrokh.com
-hotromail.shop
 hotrometa.com
 hotsale.com
 hotsalesbracelets.info
@@ -33554,7 +33558,6 @@ kaj3goluy2q.tk
 kajaib.social
 kajaib.studio
 kajakaib.me
-kaka.lol
 kaka0.kr
 kakadua.net
 kakao-mail.com
@@ -36236,6 +36239,7 @@ lioasdero.tk
 liocbrco.com
 liofilizat.pl
 liokfu32wq.com
+liondapt.com
 lions.gold
 lioplpac.com
 liopolo.com
@@ -40086,7 +40090,6 @@ mejlowy6.pl
 mejlowy7.pl
 mejlowy8.pl
 meken.ru
-mekerlcs.cfd
 mekhmon.com
 mekikcek.network
 mekimex.com
@@ -47774,7 +47777,6 @@ phtunneler.com
 phtunneler.ml
 phtunnelerr.com
 phubt.com
-phucdpi3112.com
 phucmmo.com
 phugruphy.com
 phuked.net
@@ -52804,6 +52806,7 @@ ryteto.me
 ryumail.net
 ryumail.ooo
 ryuu.codes
+ryuucn.com
 ryuzak.site
 ryyr.ru
 ryyr.store
@@ -64706,7 +64709,6 @@ webemail.me
 webemailtop.com
 webet24.live
 webetcoins.com
-webfreeai.com
 webfu.nl
 webgamesclub.com
 webgarden.at
