@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-08
+# progressive-email-suppression — generated 2026-09-09
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69473 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69465 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8624,7 +8624,6 @@ bartolemo.space
 bartoparcadecabinet.com
 baruchcc.edu
 barumart.com
-baruu.anonbox.net
 barzan.mielno.pl
 basakerrr.digital
 basakerrrrdigital.online
@@ -10995,7 +10994,6 @@ boxmail.lol
 boxmail1.com
 boxmailbox.club
 boxmailers.com
-boxmailvn.com
 boxnavi.com
 boxnexa.com
 boxofficevideo.com
@@ -12022,6 +12020,7 @@ bzmt6ujofxe3.tk
 bzncc.anonbox.net
 bznrehk.giize.com
 bzocey.xyz
+bzpxr.anonbox.net
 bzq6n.anonbox.net
 bzr.com
 bzrff.anonbox.net
@@ -29664,7 +29663,6 @@ hukmdy92apdht2f.ml
 hukmdy92apdht2f.tk
 hula3s.com
 hulapla.de
-hulaspalmcourt.com
 hulisang.edu.kg
 hulksales.com
 hulkteam.cyou
@@ -31198,7 +31196,6 @@ inibuatsgb.ga
 inibuatsgb.gq
 inibuatsgb.ml
 inibuatsgb.tk
-inijamet.fun
 inikehere.com
 inikita.online
 inilas.com
@@ -31861,6 +31858,7 @@ it-service-sinsheim.de
 it-simple.net
 it-smart.org
 it-vopros.ru
+it.com
 it.cowsnbullz.com
 it.marksypark.com
 it.ploooop.com
@@ -31921,7 +31919,6 @@ itoh.de
 itoneco.com
 itos.cloudns.org
 itoup.com
-itovn.net
 itoxwehnbpwgr.cf
 itoxwehnbpwgr.ga
 itoxwehnbpwgr.gq
@@ -40845,7 +40842,6 @@ mkredyt24.pl
 mkseiuuda.top
 mkshake.tk
 mktmail.xyz
-mkualpmzac.cfd
 mkvesta.io.vn
 mkxhq.anonbox.net
 mkzaso.com
@@ -43875,7 +43871,6 @@ nijakvpsx.com
 nijmail.com
 nik.edu.pl
 nikart.pl
-nikata.fun
 nike-air-rift-shoes.com
 nike-airmax-chaussures.com
 nike-airmaxformen.com
@@ -51107,7 +51102,6 @@ rebhornyocool.com
 reboardmail.com
 recargaaextintores.com
 recdubmmp.org.ua
-receiptical.xyz
 receita-iof.org
 receiveee.chickenkiller.com
 receiveee.com
@@ -63497,7 +63491,6 @@ vir.waw.pl
 viral-science.fun
 viralchoose.com
 viralhits.org
-viralmedianew.me
 viralplays.com
 viralvideosf.com
 virarproperty.co.in
@@ -68386,7 +68379,6 @@ yunpanke.com
 yunsseop.com
 yuoia.com
 yups.xyz
-yurakim.cfd
 yurevia.cfd
 yuricdos.tech
 yurikeprastika.art
