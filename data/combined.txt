@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-09
+# progressive-email-suppression — generated 2026-09-10
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69465 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69483 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -7244,6 +7244,7 @@ athodyd.com
 athohn.site
 athomewealth.net
 athoo.com
+atica.edus.edu.pl
 atinjo.com
 atinto.co
 atinvestment.pl
@@ -9171,6 +9172,7 @@ berjalansasuiquasd.codes
 berkahfb.com
 berkahjayashope.com
 berkatrb.com
+berlin.edus.edu.pl
 berlineats.com
 berlusconi.cf
 berlusconi.ga
@@ -10049,6 +10051,7 @@ bl.com.br
 bl.ctu.edu.gr
 bl.opheliia.com
 bl36v.anonbox.net
+bl3zj.anonbox.net
 bl5ic2ywfn7bo.cf
 bl5ic2ywfn7bo.ga
 bl5ic2ywfn7bo.gq
@@ -14904,6 +14907,7 @@ contabilidadebrasil.org
 contabilitate.ws
 contaco.org
 contact.academic.edu.rs
+contact.edus.edu.pl
 contact.fifieldconsulting.com
 contact.infos.st
 contactbox.work
@@ -15016,7 +15020,6 @@ coralhost.my
 coraljoylondon.com
 coramaster.com
 coranorth.com
-corantct.com
 corbyrise.com
 cordialco.com
 cordlessduoclean.com
@@ -15677,6 +15680,7 @@ cutie.com
 cutout.club
 cutradition.com
 cutsup.com
+cutuvye.org
 cuvox.de
 cuvrs.info
 cuwanin.xyz
@@ -18566,6 +18570,7 @@ dualscreenplayer.com
 duam.net
 duanehar.pw
 dubilowski.com
+dublin.edus.edu.pl
 dubokutv.com
 dubstepthis.com
 ducclone.com
@@ -19463,10 +19468,10 @@ edunk.com
 edupolska.edu.pl
 edupost.pl
 edurealistic.ru
+edus.edu.pl
 edus.works
 edusamail.net
 edusath.com
-edusch.id
 edusch.site
 edv.to
 edwardnmkpro.design
@@ -25334,7 +25339,6 @@ gjgjg.pw
 gjkk.de
 gjlslubg.biz.id
 gjozie.xyz
-gjvek.anonbox.net
 gk-konsult.ru
 gkail.com
 gkd2323c.in
@@ -27943,6 +27947,7 @@ hellomail.fun
 hellomailo.net
 hellomotos.tk
 helloricky.com
+hellosravan.in
 hellow-man.pw
 hellowman.pw
 hellowperson.pw
@@ -30343,6 +30348,7 @@ icx.in
 icx.ro
 icznn.com
 id-ins.com
+id.edus.edu.pl
 id.pl
 id.semar.edu.pl
 id10tproof.com
@@ -33596,7 +33602,6 @@ kamagradct.com
 kamagraonlinesure.com
 kamagrasklep.com.pl
 kamax57564.co.tv
-kamazc.cfd
 kamen-market.ru
 kamenrider.ru
 kamete.org
@@ -33918,6 +33923,7 @@ kennie.club
 kennie.com
 kenshin2810.masashi26.lady-and-lunch.xyz
 kenshin67.bitgalleries.site
+kent.edus.edu.pl
 kent1.rebatesrule.net
 kent2.ns02.info
 kent4.ftp1.biz
@@ -36876,6 +36882,8 @@ login-email.ga
 login-email.ml
 login-email.tk
 login-to.online
+login.edus.edu.pl
+login.securamail.org
 loginadulttoys.com
 logincbet.asia
 logingar.cf
@@ -37173,7 +37181,6 @@ louisvuittonworldtour.com
 louisvunttonworldtour.com
 louivuittoutletuksalehandbags.co.uk
 loux5.universallightkeys.com
-louxor.shop
 lova.cam
 lovadio.com
 love-brand.ru
@@ -40113,6 +40120,7 @@ mellymoo.com
 melodysouvenir.com
 meloman.in
 melonic.store
+melorvian.com
 melowsa.com
 melroseparkapartments.com
 meltedbrownies.com
@@ -43605,6 +43613,7 @@ nextsuns.com
 nexttonorm.com
 nexttrend.site
 nexus-streams.online
+nexushost.site
 nexverseal.shop
 nezdiro.org
 nezid.com
@@ -49012,6 +49021,7 @@ primered.shop
 primerisegrid.com
 primerka.co.cc
 primetor.com
+primevista.it.com
 primonet.pl
 primotor.com
 primtech.cn
@@ -49604,6 +49614,7 @@ pulpmail.us
 pulsatiletinnitus.com
 pulse25k.io.vn
 pulsedlife.com
+pulsix.pw
 pulwarm.net
 pumail.com
 pumamaning.cf
@@ -51643,7 +51654,6 @@ retractablebannerstands.interstatecontracting.net
 retractablebannerstands.us
 retragmail.com
 retrmailse.com
-retroflavor.info
 retrogamezone.com
 retroholics.es
 retrojordansforsale.xyz
@@ -52277,6 +52287,7 @@ romanstatues.net
 romantyczka.pl
 romatso.com
 rombomail.com
+rome.edus.edu.pl
 romebook.com
 romehousing.com
 romog.com
@@ -57002,6 +57013,7 @@ stubbornakdani.io
 stuckhere.ml
 stuckmail.com
 student.base101.com
+student.edus.edu.pl
 student.gold.edu.pl
 student.neonet.ac.nz
 student.nyc.mn
@@ -58317,6 +58329,7 @@ te2jrvxlmn8wetfs.ml
 te2jrvxlmn8wetfs.tk
 te5s5t56ts.ga
 tea-tins.com
+teacher.edus.edu.pl
 teacher.semar.edu.pl
 teachersblueprint.com
 teaching.kategoriblog.com
@@ -61600,6 +61613,7 @@ ubdeexu2ozqnoykoqn8.ml
 ubdeexu2ozqnoykoqn8.tk
 uber-mail.com
 uberdriver-taxi.ru
+uberip.com
 ubermail.info
 ubermail39.info
 ubermember.com
@@ -62958,6 +62972,7 @@ velloxist.site
 velmoor.org
 velocitronix.online
 velocity-digital.com
+velonarix.com
 velourareview.net
 velourclothes.com
 velourclothes.net
@@ -63027,6 +63042,7 @@ veriaon.net
 veriazon.net
 vericon.net
 verificationsinc.com
+verify.securamail.org
 verifycenter.net
 verifygmail.com
 verifymail.cf
@@ -64660,6 +64676,7 @@ web.de.de
 web.dee
 web.discard-email.cf
 web.ed
+web.securamail.org
 web20.club
 web20r.com
 web2mailco.com
@@ -69437,6 +69454,7 @@ zz.tinyhost.dns.army
 zz75.net
 zz77.com
 zzag.com
+zzaidah.cloud
 zzcash.ml
 zzeu.us
 zzi.us
