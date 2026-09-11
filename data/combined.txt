@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-10
+# progressive-email-suppression — generated 2026-09-11
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69483 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69492 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3913,6 +3913,7 @@ aasgashashashajh.ga
 aasgashashashajh.gq
 aashapuraenterprise.com
 aaskin.fr
+aaspeptide.com
 aasso.com
 aateam.pl
 aatgmail.com
@@ -4740,6 +4741,7 @@ afyonbilgisayar.xyz
 ag.us.to
 ag02dnk.slask.pl
 ag163.top
+ag5r.store
 ag77brc.ddnsfree.com
 ag95.cf
 ag95.ga
@@ -5263,6 +5265,7 @@ akiowrertutrrewa.co.tv
 akira65.dev256.xyz
 akirapowered.com
 akixpres.com
+akjaey.space
 akjewelery-kr.info
 akk.ro
 akkecuwa.ga
@@ -6065,7 +6068,6 @@ andyyxc45.biz
 aneaproducciones.com
 aneka-resep.art
 anemiom.kobierzyce.pl
-anemon11.shop
 anes.ll47.net
 anesorensen.me
 aneuch.info
@@ -7269,6 +7271,8 @@ atm-mi.tk
 atmemail.top
 atmodule.com
 atmospheremaxhomes.us
+atnet.top
+atnetcloud.space
 atnextmail.com
 atolyezen.com
 atombomb.online
@@ -11052,6 +11056,7 @@ bpvi.gq
 bpvi.ml
 bpvi.tk
 bq45o.anonbox.net
+bq6t2.anonbox.net
 bqaxcaxzc.com
 bqaz.xyz
 bqb76.anonbox.net
@@ -16351,6 +16356,7 @@ dbmaol.com
 dbmil.com
 dbo.kr
 dbook.pl
+dboost.fun
 dboso.com
 dboss3r.info
 dbot2zaggruz.ru
@@ -20084,6 +20090,7 @@ emailgo.de
 emailgo.tk
 emailgot.com
 emailgratis.info
+emailgratisan.fun
 emailgsio.us
 emailhearing.com
 emailhook.site
@@ -23342,7 +23349,6 @@ forumbens.store
 forumbens.website
 forumbens.xyz
 forumfreeai.com
-forummaxai.com
 forumoxy.com
 forward.cat
 forwardemail.net
@@ -25746,7 +25752,6 @@ gmailnator.com
 gmailner.com
 gmailnew.com
 gmailni.com
-gmailo.net
 gmailold.com
 gmailom.co
 gmailot.com
@@ -34948,7 +34953,6 @@ kujztpbtb.pl
 kukold.ru.com
 kukowski.eu
 kukowskikukowski.eu
-kuku.lol
 kuku.lu
 kukuite.ch
 kukuka.org
@@ -38832,6 +38836,7 @@ mailpay.co.uk
 mailphar.com
 mailphu.com
 mailpick.biz
+mailpingback.com
 mailpkc.com
 mailplus.pl
 mailpluss.com
@@ -46033,6 +46038,7 @@ opennetgame.org
 openskiesgroup.com
 openskj.com
 opensourceed.app
+openstudy.edu.pl
 opentrash.com
 openwebmail.contractors
 openwrt.qzz.io
@@ -52817,6 +52823,7 @@ ryumail.ooo
 ryuu.codes
 ryuucn.com
 ryuzak.site
+ryvelide.com
 ryyr.ru
 ryyr.store
 ryzdgwkhkmsdikmkc.cf
@@ -54268,6 +54275,7 @@ sequitur.com.com
 serarf.site
 serbaada.me
 serbaprem.store
+serbaserbisoftware.site
 serbian-nedv.ru
 serenalaila.com
 serendora.net
@@ -61196,7 +61204,6 @@ tunrahn.com
 tunthuta.com
 tuofs.com
 tuongtactot.tk
-tuongxanh.net
 tuphmail.com
 tupmail.com
 tuposti.net
@@ -62222,7 +62229,6 @@ upc.infos.st
 upcmaill.com
 update1c.ru
 updates9z.com
-updatesafe.com
 upelmail.com
 uperig.com.br
 upf7qtcvyeev.cf
@@ -65813,6 +65819,8 @@ wsse.us
 wsuart.com
 wsuse.top
 wsvnsbtgq.pl
+wsvpsft.xyz
+wsxnxce.online
 wsym.de
 wsypc.com
 wsyy.info
@@ -66690,7 +66698,6 @@ xrho.com
 xrilop.com
 xrmail.xyz
 xrmailbox.net
-xrnyr.anonbox.net
 xronmyer.info
 xrpmail.com
 xrum.xyz
@@ -68399,6 +68406,7 @@ yups.xyz
 yurevia.cfd
 yuricdos.tech
 yurikeprastika.art
+yurovovault.shop
 yuslamail.com
 yusmpgroup.ru
 yusolar.com
@@ -69414,6 +69422,7 @@ zxonkcw91bjdojkn.ml
 zxonkcw91bjdojkn.tk
 zxpasystems.com
 zxqzin.cn
+zxrey.club
 zxusnkn0ahscvuk0v.cf
 zxusnkn0ahscvuk0v.ga
 zxusnkn0ahscvuk0v.gq
