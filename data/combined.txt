@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-11
+# progressive-email-suppression — generated 2026-09-12
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69492 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69484 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8642,7 +8642,6 @@ baseballboycott.com
 basebuykey.com
 basefixzone.com
 baseflowpro.com
-basegenai.com
 baselogicroute.com
 basemindway.com
 baseny-mat.com.pl
@@ -11031,7 +11030,6 @@ bp560.com
 bpda.de
 bpda1.com
 bpdf.site
-bpdfw.anonbox.net
 bped6.anonbox.net
 bper.cf
 bper.ga
@@ -11129,7 +11127,6 @@ brank.io
 brankasmu.com
 branorus.ru
 bras-bramy.pl
-braseniors.com
 brashbeat.online
 brasher29.spicysallads.com
 brasil-empresas.com
@@ -19401,7 +19398,6 @@ edimail.com
 edinarfinancial.com
 edinburgh-airporthotels.com
 edirasa.com
-edirectai.com
 edit-2ch.biz
 editariation.xyz
 editicon.info
@@ -28334,7 +28330,6 @@ hishyau.cf
 hishyau.ga
 hishyau.gq
 hishyau.ml
-hisrher.com
 hissfuse.com
 histartool.com
 histhisc.shop
@@ -30559,7 +30554,6 @@ igcom.br
 igcwellness.us
 igdinhcao.click
 igdinhcao.com
-igdinhcao.shop
 igdinhcao.site
 ige.es
 igelonline.de
@@ -41176,6 +41170,7 @@ mojodefender.com
 mojok34.xyz
 mojorage.life
 mojzur.com
+mokondoo.cyou
 mokook.com
 molabo.bond
 molda.com
@@ -45655,7 +45650,6 @@ on.com
 on.cowsnbullz.com
 on.marksypark.com
 onasabiz.com
-onaxgames.com
 onbap.com
 onbf.org
 onbox.lv
@@ -57890,6 +57884,7 @@ t7qriqe0vjfmqb.ga
 t7qriqe0vjfmqb.ml
 t7qriqe0vjfmqb.tk
 t7sqtao.giize.com
+t7xhy.anonbox.net
 t8kco4lsmbeeb.cf
 t8kco4lsmbeeb.ga
 t8kco4lsmbeeb.gq
@@ -57928,7 +57923,6 @@ tac0hlfp0pqqawn.ga
 tac0hlfp0pqqawn.ml
 tac0hlfp0pqqawn.tk
 tachnuqia.com
-tacocasa.net
 tacomacardiology.com
 tacomail.de
 tacq.com
@@ -58392,7 +58386,6 @@ techfevo.info
 techgroup.me
 techgroup.top
 techholic.in
-techhubup.com
 techie.com
 techiewall.com
 techindo.web.id
@@ -59761,7 +59754,6 @@ tipsb.com
 tipsonhowtogetridofacne.com
 tipsshortsleeve.com
 tipsygirlnyc.com
-tipuni.com
 tirasya.pro
 tiredecalz.com
 tirexos.me
