@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-13
+# progressive-email-suppression — generated 2026-09-14
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69486 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69489 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2270,6 +2270,7 @@
 51baidu.tech
 51icq.com
 51jiaju.net
+51mail.shop
 51ttkx.com
 51vic.com
 51www.us
@@ -8192,7 +8193,6 @@ b7ba4ef3a8f6.ga
 b7bpa.anonbox.net
 b7fk3.anonbox.net
 b7nsd.anonbox.net
-b7nse.anonbox.net
 b7s.ru
 b7s42.anonbox.net
 b7sn3xrm.my.id
@@ -8746,7 +8746,6 @@ bb.zero34.qd.je
 bb1197.com
 bb2.ru
 bb28.dev
-bb99.lol
 bba24.de
 bbabyswing.com
 bbacademy.es
@@ -13247,6 +13246,7 @@ charter.bet
 chasefreedomactivate.com
 chat080.net
 chatbelgique.com
+chatclaude.top
 chatdays.com
 chatech.site
 chatfap.info
@@ -19580,7 +19580,6 @@ eggrockmodular.com
 eggso.click
 eggsuwz.ooguy.com
 eggur.com
-eggviews.xyz
 egipet-nedv.ru
 egirl.help
 eglft.in
@@ -28081,6 +28080,7 @@ heyjuegos.com
 heyowaf.my.id
 heytt.anonbox.net
 heyveg.com
+heyzalo.vn
 heyzane.wtf
 hezarpay.com
 hezemail.ga
@@ -29445,6 +29445,7 @@ howv.site
 howw.site
 howx.site
 howz.site
+hoyq7.anonbox.net
 hoytmail.com
 hp.laohost.net
 hpari.com
@@ -30799,6 +30800,7 @@ image24.de
 imageartz.com
 imageevolutions.com
 imagehostfile.eu
+imagenbox.xyz
 images.makingdomes.com
 images.novodigs.com
 images.ploooop.com
@@ -58382,6 +58384,7 @@ techbird.fun
 techblast.ch
 techbook.com
 techcenter.biz
+techcyber.shop
 techdf.com
 techdudes.com
 techemail.com
