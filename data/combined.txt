@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-15
+# progressive-email-suppression — generated 2026-09-16
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69497 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69496 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8150,7 +8150,6 @@ b55b56.tk
 b5c53.anonbox.net
 b5eb6.anonbox.net
 b5eyv.anonbox.net
-b5kir.anonbox.net
 b5msd.anonbox.net
 b5nr6.anonbox.net
 b5r5wsdr6.pl
@@ -11943,6 +11942,7 @@ bxfmtktkpxfkobzssqw.gq
 bxfmtktkpxfkobzssqw.ml
 bxfmtktkpxfkobzssqw.tk
 bxhil.anonbox.net
+bxiql.anonbox.net
 bxm2bg2zgtvw5e2eztl.cf
 bxm2bg2zgtvw5e2eztl.ga
 bxm2bg2zgtvw5e2eztl.gq
@@ -13527,6 +13527,7 @@ chello.ta
 chelloo.at
 chellup.info
 chelo.at
+chelo.lat
 chelsea.com.pl
 chelseaartsgroup.com
 chelton.dynamailbox.com
@@ -15671,7 +15672,6 @@ customsnapbackcap.com
 customss.com
 custonish.xyz
 cutbebytsabina.art
-cutcap.me
 cuteblanketdolls.com
 cuteboyo.com
 cutedoll.shop
@@ -18577,7 +18577,6 @@ dubilowski.com
 dublin.edus.edu.pl
 dubokutv.com
 dubstepthis.com
-ducclone.com
 duck.9amail.top
 duck.com
 duck2.club
@@ -23212,7 +23211,6 @@ food-facts.ru
 food4kid.ru
 foodbooto.com
 foodieinfluence.online
-foodkachi.com
 foodpre.sbs
 foodrestores.com
 foodslosebellyfat.com
@@ -36229,7 +36227,6 @@ linodg.com
 linop.online
 linshiyou.com
 linshiyouxiang.net
-linshiyouxiang.xyz
 linshuhang.com
 linux-do.me
 linux.7m.ro
@@ -39295,6 +39292,7 @@ manf.site
 manghinsu.com
 mangovision.com
 mangtinnhanh.com
+manhmmonew.online
 manhwamomo.com
 manifestgenerator.com
 manifietso.org
@@ -41176,6 +41174,7 @@ mojodefender.com
 mojok34.xyz
 mojorage.life
 mojzur.com
+mokondo.today
 mokondoo.cyou
 mokook.com
 molabo.bond
@@ -49616,7 +49615,6 @@ pulating.site
 pulaubali.net
 pullcombine.com
 pullmail.info
-pullnks.com
 pulpa.pl
 pulpmail.us
 pulsatiletinnitus.com
@@ -54103,6 +54101,7 @@ semarhouse.tk
 semei6.fun
 semenaxreviews.net
 semestatogel.com
+semester.bond
 semi-mile.com
 semidesigns.com
 semihbulgur.com
