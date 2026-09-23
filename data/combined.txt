@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-22
+# progressive-email-suppression — generated 2026-09-23
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69526 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69509 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -5769,7 +5769,6 @@ alufelgenprs.de
 aluimport.com
 aluminum-rails.com
 alumix.cf
-alumni.com
 alumnimp3.xyz
 alumnioffer.com
 alunord.com
@@ -6320,6 +6319,7 @@ anuong24h.info
 anuong360.com
 anuonghanoi.net
 anut7gcs.atm.pl
+anuva.lat
 anver.com
 anversa.com.co
 anvjobvnu.top
@@ -6828,6 +6828,7 @@ arstudioart.com
 art-en-ligne.pro
 art-spire.com
 art2427.com
+art2mart.com
 artaho.net
 artamebel.ru
 artan.fr
@@ -8137,7 +8138,6 @@ b3zig.anonbox.net
 b44tz.anonbox.net
 b45y3.anonbox.net
 b4bhw.anonbox.net
-b4hh3.anonbox.net
 b4jlg.anonbox.net
 b4l3v.anonbox.net
 b4piu.anonbox.net
@@ -8174,6 +8174,7 @@ b67ht.anonbox.net
 b6bpj.anonbox.net
 b6c4g.anonbox.net
 b6faz.anonbox.net
+b6fs2.anonbox.net
 b6kgo.anonbox.net
 b6mtg.anonbox.net
 b6o7vt32yz.cf
@@ -9890,7 +9891,6 @@ bird-gifts.net
 bird.favbat.com
 birdbabo.com
 birdion.com
-birdlover.com
 birdsfly.press
 birecruit.com
 birkinbags.info
@@ -11599,6 +11599,7 @@ bulkcleancheap.com
 bulkemailregistry.com
 bulkers.com
 bulksmsad.net
+bullbaby.com
 bullbeer.net
 bullbeer.org
 bullet1960.info
@@ -14625,7 +14626,6 @@ colinzaug.net
 colivingbansko.com
 collapse3b.com
 collectionmvp.com
-collector.org
 collectors.global
 collectors.international
 collectors.solutions
@@ -14916,7 +14916,6 @@ constantinsbakery.com
 constellational.com
 constineed.site
 constright.ru
-consultant.com
 consultingcorp.org
 consumerriot.com
 contabilidadebrasil.org
@@ -14939,7 +14938,6 @@ contextconversation.com
 contmy.info
 contopo.com
 contracommunications.com
-contractor.net
 contractorsupport.org
 contrasto.cu.cc
 controlinbox.com
@@ -15690,7 +15688,6 @@ cutefrogs.xyz
 cutekinks.com
 cutemailbox.com
 cutevi.us
-cutey.com
 cutie.com
 cutout.club
 cutradition.com
@@ -16204,6 +16201,7 @@ datawurld.com
 datazo.ca
 datchka.ru
 datchuban.top
+datdonshopee.site
 dategalaxy.lat
 dateharbor.lat
 datehype.com
@@ -17182,7 +17180,6 @@ digibeast.store
 digibeat.pl
 digicures.com
 digier365.pl
-digiglobalai.com
 digihairstyles.com
 digimaster.bond
 digimaster.eu.cc
@@ -17407,7 +17404,6 @@ discardmail.de
 discardmail.live
 discardmail.ninja
 discdots.com
-discofan.com
 discolive.online
 discolive.site
 discolive.store
@@ -18252,7 +18248,6 @@ dqpw7gdmaux1u4t.ml
 dqpw7gdmaux1u4t.tk
 dqsoft.com
 dr-mail.net
-dr.com
 dr0m.ru
 dr0pb0x.ga
 dr69.site
@@ -18686,7 +18681,6 @@ dustinry.com
 dustysyawalina.biz
 dutchconnie.com
 dutchfemales.info
-dutchmail.com
 dutiesu0.com
 dutybux.info
 duvips.com
@@ -22011,7 +22005,6 @@ fastricket.site
 fastsearcher.com
 fastsent.gq
 fastseoaudit.com
-fastservice.com
 fastshipcialis.com
 fastslimming.info
 fastsubaru.com
@@ -25740,6 +25733,7 @@ gmailhre.com
 gmailhre.net
 gmailines.online
 gmailines.site
+gmailinsta.com
 gmailiz.com
 gmailjj.com
 gmailk.com
@@ -27369,6 +27363,7 @@ haida-edu.cn
 haifashaikh.com
 haihan.vn
 haihantnc.xyz
+haijl.lat
 hailu.publicvm.com
 haininhbc.tokyo
 haininhthi.tokyo
@@ -28327,6 +28322,7 @@ hiphopmoviez.com
 hippobox.info
 hiraku20.investmentweb.xyz
 hire-odoo-developer.com
+hiredify.com
 hirekuq.tk
 hiremystyle.com
 hirenet.net
@@ -29559,6 +29555,7 @@ hshke.anonbox.net
 hshvmail.eu.org
 hsjhjsjhbags.com
 hsjsj.com
+hsjyang4ss.shop
 hsls5guu0cv.cf
 hsls5guu0cv.ga
 hsls5guu0cv.gq
@@ -32419,7 +32416,6 @@ javadoq.com
 javaemail.com
 javaka.live
 javamail.org
-javamusic.id
 javhold.com
 javierllaca.com
 javindra.cfd
@@ -34221,7 +34217,6 @@ kinderbook-inc.com
 kinderworkshops.de
 kindleebs.xyz
 kindnodenet.com
-kindtoc.com
 kindtoto12.com
 kindvideo.ru
 king-yaseen.cf
@@ -34229,6 +34224,7 @@ king.buzz
 king2003.ml
 kingbet99.com
 kingcq.com
+kingdais.com
 kingdomhearts.cf
 kingice-store.com
 kinglyruhyat.io
@@ -35415,7 +35411,6 @@ lantofe.ga
 lanuiopl.bond
 lanvos.com
 laocaishen.cc
-laoctarine.store
 laoeq.com
 laoho.com
 laoia.com
@@ -39743,6 +39738,7 @@ maxrollspins.co
 maxseeding.com
 maxseeding.vn
 maxsize.online
+maxtanie.com
 maxturns.com
 maxutz.dynamailbox.com
 maxxdrv.ru
@@ -40269,6 +40265,7 @@ meruado.uk
 merumart.com
 mervo.site
 merxo.me
+mesaj.lat
 mesemails.fr.nf
 meser.cc
 mesotheliomasrates.ml
@@ -40340,7 +40337,6 @@ mexcool.com
 mexicanonlinepharmacyhq.com
 mexicobookclub.com
 mexicolindo.com.mx
-mexicomail.com
 mexicons.com
 mexicotulum.com
 meximail.pl
@@ -41681,7 +41677,6 @@ mskey.co
 mskey.net
 mskhousehunters.com
 mskin.top
-mskintw.top
 msm.com
 msmail.bid
 msmail.cf
@@ -42565,7 +42560,6 @@ mysansan.me
 mysawit.web.id
 mysecretnsa.net
 mysecurebox.online
-myself.com
 myself.fr.nf
 mysend-mailer.ru
 myseneca.ga
@@ -43090,6 +43084,7 @@ nciblogs.com
 ncien.com
 ncinema3d.ru
 nclean.us
+ncleap.com
 ncnmedia.net
 nconrivnirn.site
 ncov.office.gy
@@ -45614,6 +45609,7 @@ omail.de
 omail.pro
 omailo.top
 oman.com
+omanarts.com
 omarnasrrr.com
 omca.info
 omcast.net
@@ -46109,7 +46105,6 @@ opten.email
 opthix.io
 opthix.me
 opticdesk.xyz
-optician.com
 optidesk.xyz
 optikavid.ru
 optimalstackreview.net
@@ -46261,7 +46256,6 @@ organiccoffeeplace.com
 organicfarming101.com
 organicgreencoffeereview.com
 organicmedinc.com
-organisasipoetra.io
 orgcity.info
 orgiiusisk.gr
 orgiosdos.gr
@@ -46868,7 +46862,6 @@ pacdoitreiunu.com
 paceforwarders.com
 paceincorp.com
 pachilly.com
-pacific-ocean.com
 pacificraft.com
 pacificwestrealty.net
 pack.oldoutnewin.com
@@ -47794,7 +47787,6 @@ photoaim.com
 photobrex.com
 photocircuits.com
 photoconception.com
-photographer.net
 photoimaginganddesign.com
 photomark.net
 photonmail.com
@@ -48980,7 +48972,6 @@ prescription-swimming-goggles.info
 prescriptionbyphone.com
 presences.me
 preseven.com
-presidency.com
 presidentoto.com
 preskot.info
 prespa.mochkamieniarz.pl
@@ -49031,7 +49022,6 @@ pricraball.tk
 pride-worldwi.de
 pride.nafko.cf
 pridemail.co
-priest.com
 priligyonlineatonce.com
 priligyonlinesure.com
 priligyprime.com
@@ -49348,7 +49338,6 @@ protectthechildsman.com
 protectyourhealthandwealth.com
 protein-krasnodar.ru
 protempmail.com
-protestant.com
 protestly.com
 protestore.co
 protestosteronereviews.com
@@ -49654,6 +49643,7 @@ pumapumayes.ml
 pumasale-uk.com
 pumashopkutujp.com
 pump-ltd.ru
+pumpoly.com
 pumps-fashion.com
 pumpwearil.com
 puncakyuk.com
@@ -50272,7 +50262,6 @@ quadrafit.com
 quaestore.co
 qualifyamerica.com
 qualityimpres.com
-qualityservice.com
 qualtric.com
 quanaothethao.com
 quandahui.com
@@ -53234,7 +53223,6 @@ salesfashionnecklaces.info
 salesfotce.com
 saleshtcphoness.info
 saleskf.com
-salesperson.net
 salesscushion.info
 salessmenbelt.info
 salessuccessconsulting.com
@@ -58422,7 +58410,6 @@ techfevo.info
 techgroup.me
 techgroup.top
 techholic.in
-techie.com
 techiewall.com
 techindo.web.id
 techix.tech
@@ -59096,7 +59083,6 @@ tfzav6iptxcbqviv.ml
 tfzav6iptxcbqviv.tk
 tg6hv.anonbox.net
 tg7.net
-tgbkun.site
 tgduck.com
 tgfb.cc
 tggmalls.com
@@ -62393,7 +62379,6 @@ urules.ru
 urururur.tempfree.v6.rocks
 urx7.com
 urxv.com
-us-dc.lol
 us-p2.top
 us-pay.icu
 us-pt.top
@@ -62673,7 +62658,6 @@ uydagdmzsc.ml
 uydagdmzsc.tk
 uyemail.com
 uyhip.com
-uymail.com
 uyp5qbqidg.cf
 uyp5qbqidg.ga
 uyp5qbqidg.gq
@@ -65799,7 +65783,6 @@ wrinklecareproduct.com
 writability.net
 writefornet.com
 writeme-lifestyle.com
-writeme.com
 writeme.us
 writeme.xyz
 writers.com

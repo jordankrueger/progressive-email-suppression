@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-22
+# progressive-email-suppression — generated 2026-09-23
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 3230 domains matching typosquat patterns of major providers
+# 3228 domains matching typosquat patterns of major providers
 0-mail.com
 000email.com
 001gmail.com
@@ -1184,7 +1184,6 @@ dumail.com
 dumpyemail.com
 dupontmails.com
 duskmail.com
-dutchmail.com
 dyahoo.com
 dynamitemail.com
 e-mail.com
@@ -1507,6 +1506,7 @@ gmailfe.com
 gmailgmail.com
 gmailh.com
 gmailhre.com
+gmailinsta.com
 gmailiz.com
 gmailjj.com
 gmailk.com
@@ -2269,7 +2269,6 @@ mememail.com
 memusa.dynamailbox.com
 merlemckinnellmail.com
 methodismail.com
-mexicomail.com
 mgmail.com
 mi-mails.com
 midascmail.com
@@ -2950,7 +2949,6 @@ uwmail.com
 uwomail.com
 uyahoo.com
 uyemail.com
-uymail.com
 uzmail.com
 vanmail.com
 vargosmail.com
