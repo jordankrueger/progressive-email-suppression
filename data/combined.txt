@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-23
+# progressive-email-suppression — generated 2026-09-24
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69509 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69528 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3886,6 +3886,7 @@ aaphace6.ml
 aaphace7.ga
 aaphace8.cf
 aaphace9.ml
+aappr.lat
 aaquib.cf
 aaqwe.ru
 aaqwe.store
@@ -10332,6 +10333,7 @@ blueewin.ch
 blueeyondeer.co.uk
 bluefishpond.com
 bluefriday.top
+bluegrassluck.com
 bluein.ch
 bluejansportbackpacks.com
 bluejaysjerseysmart.com
@@ -12320,6 +12322,7 @@ camjoint.com
 cammk.com
 camnangdoisong.com
 camoney.xyz
+camp.unibiz.edu.pl
 campano.cl
 campbellap.com
 campcupt.biz.id
@@ -18577,6 +18580,7 @@ dtv42wlb76cgz.gq
 dtv42wlb76cgz.ml
 dtv42wlb76cgz.tk
 dtvpn.dpdns.org
+dua.unibiz.edu.pl
 duacgel.info
 dualscreenplayer.com
 duam.net
@@ -19745,6 +19749,7 @@ ekkoboss.com.ua
 ekmail.com
 ekmektarifi.com
 eko-europa.com
+eko.unibiz.edu.pl
 ekonu.com
 ekor.info
 ekot.xyz
@@ -19985,6 +19990,7 @@ email.org
 email.pozycjonowanie8.pl
 email.ti
 email.ucms.edu.pk
+email.unibiz.edu.pl
 email.wassusf.online
 email.zyz5.com
 email0.cf
@@ -21085,6 +21091,7 @@ europearly.site
 europesmail.gdn
 euroweb.email
 eurox.eu
+eurped.com
 euucn.com
 euwbvkhuqwdrcp8m.cf
 euwbvkhuqwdrcp8m.ml
@@ -21914,7 +21921,6 @@ fashionwomenaccessories.com
 fashionzone69.com
 fashond.com
 fasigula.name
-fask2.anonbox.net
 fasl4kas3.site
 fassagforpresident.ga
 fasssd.ru
@@ -25215,6 +25221,7 @@ giftspec.com
 giftwatches.info
 giftyello.ga
 gigabitstreaming.com
+gigabyte.unibiz.edu.pl
 gigantix.co.uk
 gigapesen.ru
 gigatribe.com
@@ -29311,6 +29318,7 @@ hotspotmails.com
 hotspots300.info
 hotstyleus.com
 hottchurch.org.uk
+hottmat.com
 hottrend.site
 hottyfling.com
 hotwwgrcil.com
@@ -35357,7 +35365,6 @@ lambdasu.com
 lambsauce.de
 lamdep.net
 lamdx.com
-lamepajri.co
 lamgme.xyz
 lami4you.info
 lamiproi.com
@@ -45527,6 +45534,7 @@ ol.com.com
 ol.telz.in
 olafmail.com
 olafood.com
+olahdi.cloud
 olahoo.com
 olaytacx.top
 olc.one
@@ -45946,6 +45954,7 @@ onvii.com
 onwardmail.com
 onwmail.com
 onwond.it
+onx2p.anonbox.net
 onymi.com
 onzmail.com
 oo-mail.net
@@ -48211,6 +48220,7 @@ plumfox.com
 plumripe.com
 plup.me
 plus-size-promdresses.com
+plus.unibiz.edu.pl
 plusfitpoint.com
 plusgmail.ru
 plusiptv.xyz
@@ -53261,6 +53271,7 @@ salvador-nedv.ru
 salvatore1818.site
 salventrex.com
 salvo84.freshbreadcrumbs.com
+salz.unibiz.edu.pl
 sam-dizainer.ru
 sam1.eu.org
 samaki.com
@@ -53953,6 +53964,7 @@ secure-mail.ml
 secure.cowsnbullz.com
 secure.lakemneadows.com
 secure.oldoutnewin.com
+secure.unibiz.edu.pl
 secureapay.com
 securebitcoin.agency
 securebox01.click
@@ -55008,7 +55020,6 @@ simdpi.com
 simemia.co
 similarians.xyz
 simillegious.site
-siminfoscent.cfd
 simmanllc.com
 simoaudio.live
 simoka.sbs
@@ -57043,6 +57054,7 @@ student.nyc.mn
 student.onsow.k12nc.us
 student.ooguy.com
 student.semar.edu.pl
+student.unibiz.edu.pl
 studentdonor.org
 studentlendingworks.com
 studentlettingspoint.com
@@ -58356,6 +58368,7 @@ te5s5t56ts.ga
 tea-tins.com
 teacher.edus.edu.pl
 teacher.semar.edu.pl
+teacher.unibiz.edu.pl
 teachersblueprint.com
 teaching.kategoriblog.com
 teachingjobshelp.com
@@ -62049,6 +62062,7 @@ umumwqrb9.pl
 umutyapi.com
 umy.kr
 un-uomo.site
+un.unibiz.edu.pl
 unambiguous.net
 unarmedover.ml
 unaux.com
@@ -62137,6 +62151,7 @@ universalprojects.ml
 universaltextures.com
 universitas.codes
 universiteomarbongo.ga
+university.unibiz.edu.pl
 universityecotesbenin.com
 universityincanada.info
 universityla.edu
@@ -63623,6 +63638,7 @@ visaua.ru
 visavisit.ir
 visieonl.com
 visignal.com
+visionary-executive-search.com
 visionarysylvia.biz
 visionaut.com
 visionbig.com
@@ -64771,6 +64787,7 @@ webmail.bcm.edu.pl
 webmail.flu.cc
 webmail.igg.biz
 webmail.kolmpuu.net
+webmail.unibiz.edu.pl
 webmail123.hensailor.hensailor.xyz
 webmail2.site
 webmail24.to
@@ -65646,6 +65663,7 @@ wordpressmails.com
 work-info.ru
 work.obask.com
 work.oldoutnewin.com
+work.unibiz.edu.pl
 work24h.eu
 work4uber.us
 work66.ru
@@ -68345,6 +68363,7 @@ ysgdjd.fun
 yshdnhh.click
 yslighting.com
 yslonsale.com
+ysngdtw55n.top
 ysnhd-latt.sbs
 yspend.com
 ysuhd.art
