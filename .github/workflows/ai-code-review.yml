@@ -400,6 +400,16 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha || github.sha }}
           fetch-depth: 2
 
+      - name: Patch retired Haiku 3.5 model in security-review action
+        # Upstream hardcodes claude-3-5-haiku-20241022 (retired 2026-02-19) in
+        # validate_api_access(); the 404 silently turns off the false-positive
+        # filter. Harmless no-op once upstream fixes it
+        # (anthropics/claude-code-security-review#139).
+        run: |
+          f=$(find "$RUNNER_WORKSPACE/../_actions/anthropics/claude-code-security-review" -path '*/claudecode/claude_api_client.py')
+          sed -i 's/claude-3-5-haiku-20241022/claude-haiku-4-5-20251001/g' $f
+          grep -Hn 'model="claude' $f
+
       - name: Run Claude security review
         # Dedicated security-review action: auths with a plain Anthropic API key —
         # no GitHub App / OIDC, so no per-repo app install and no self-modifying-PR
