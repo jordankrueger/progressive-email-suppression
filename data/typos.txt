@@ -1,4 +1,4 @@
-# progressive-email-suppression — generated 2026-09-24
+# progressive-email-suppression — generated 2026-09-25
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
@@ -1197,7 +1197,6 @@ ebaymail.com
 ebmail.com
 ebocmail.com
 ecimail.com
-ecmail.com
 ecomail.com
 ediffmail.com
 edikmail.com
@@ -1915,6 +1914,7 @@ khabmails.com
 khotmail.com
 killgmail.com
 killmail.com
+kimgmail.com
 kindamail.com
 kingofmails.com
 kingyslmail.com
