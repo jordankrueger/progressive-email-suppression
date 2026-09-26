@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-25
+# progressive-email-suppression — generated 2026-09-26
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69538 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69536 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -6887,7 +6887,6 @@ artsdigi.store
 artsdigital.store
 arttica.com
 arturremonty.pl
-artvara.com
 artwitra.pl
 artworkltk.com
 artykuly-na-temat.pl
@@ -9910,7 +9909,6 @@ birthwar.site
 birtmail.com
 biruni.cc.marun.edu.tr
 biruni.cc.mdfrun.edu.tr
-biscuitvn15.xyz
 biscutt.us
 biser.woa.org.ua
 bisevents.com
@@ -13077,7 +13075,6 @@ ceremonyparty.com
 ceresko.com
 cergon.com
 ceria.cloud
-cerisun.com
 cerkwa.net
 cerry643.eu.org
 certansia.net
@@ -14330,7 +14327,6 @@ cneemail.com
 cnetmail.net
 cnew.ir
 cnewsgroup.com
-cnguopin.com
 cnh.industrial.ga
 cnh.industrial.gq
 cnhindustrial.cf
@@ -16274,7 +16270,6 @@ davisbuilders.net
 davopa.com
 davuboutique.site
 dawetgress72njx.cf
-dawhe.com
 dawidex.pl
 dawin.com
 dawk.com
@@ -18108,7 +18103,6 @@ dotslashrage.com
 dotspe.info
 dottyproducts.com
 dotvu.net
-dotxan.com
 dotzi.net
 doublebellybuster.com
 doublemail.com
@@ -20712,6 +20706,7 @@ eqbo62qzu2r8i0vl.gq
 eqbo62qzu2r8i0vl.ml
 eqbo62qzu2r8i0vl.tk
 eqeqeqeqe.tk
+eqfrntue.com
 eqibodyworks.com
 eqiluxspam.ga
 eqimail.com
@@ -22304,6 +22299,7 @@ fellow-me.pw
 fellowme.pw
 fellowtravelers.com
 felphi.com
+felwu.anonbox.net
 femail.com
 femailtor.com
 femainton.site
@@ -29319,6 +29315,8 @@ hotspots300.info
 hotstyleus.com
 hottchurch.org.uk
 hottmat.com
+hottmat.info
+hottmat.online
 hottrend.site
 hottyfling.com
 hotwwgrcil.com
@@ -32234,6 +32232,7 @@ jacksonhole.house
 jacksonsshop.com
 jackymail.top
 jacob-jan-boerma.art
+jacob.lat
 jacobjanboerma.art
 jacoblangvad.com
 jacquelx.com
@@ -48624,7 +48623,6 @@ portu-nedv.ru
 posatlanta.net
 posdz.com
 posicionamientowebmadrid.com.es
-posiedon.site
 positivevoiceteesvalley.co.uk
 posmotretonline.ru
 possystemsguide.com
@@ -66327,7 +66325,6 @@ xdavpzaizawbqnivzs0.tk
 xdderetronline.xyz
 xdfrms.fun
 xdigit.top
-xdndg.anonbox.net
 xdnss.cc
 xdpxdp.online
 xducation.us
@@ -68763,6 +68760,7 @@ zeah.de
 zealouste.com
 zealouste.net
 zeas.com
+zebec.lat
 zebins.com
 zebins.eu
 zebra.email
