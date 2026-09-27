@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-26
+# progressive-email-suppression — generated 2026-09-27
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 3228 domains matching typosquat patterns of major providers
+# 3226 domains matching typosquat patterns of major providers
 0-mail.com
 000email.com
 001gmail.com
@@ -865,7 +865,6 @@ agemail.com
 agmail.com
 aguamail.com
 ahakista.emailind.com
-ahihimail.com
 ahopmail.com
 ahotmail.com
 airmailhub.com
@@ -3228,7 +3227,6 @@ zetmail.com
 zfymail.com
 zimail.com
 zjexmail.com
-zndsmail.com
 zoemail.com
 zoutlook.com
 zynga-email.com
