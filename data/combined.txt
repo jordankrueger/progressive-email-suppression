@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-27
+# progressive-email-suppression — generated 2026-09-28
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69743 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69745 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -1205,6 +1205,7 @@
 24sm.tech
 24vlk.xyz
 24volcano.net
+25012026.page
 250hz.com
 252gmail.com
 253gmail.com
@@ -6235,6 +6236,7 @@ anotherblast2013.com
 anotherdomaincyka.tk
 anpolitics.ru
 anquandx.com
+anruty.me
 ansaldo.cf
 ansaldo.ga
 ansaldo.gq
@@ -6944,6 +6946,7 @@ asapcctv.com
 asaption.com
 asaroad.com
 asas1.co.tv
+asav.site
 asb-mail.info
 asbakpinuh.club
 asbcglobal.net
@@ -10581,6 +10584,7 @@ bodyplanes.com
 bodyscrubrecipes.com
 bodystyle24.de
 bodysuple.top
+boe2z.anonbox.net
 boemen.com
 boerakemail.com
 boerneisd.com
@@ -20812,7 +20816,6 @@ erk7oorgaxejvu.ga
 erk7oorgaxejvu.gq
 erk7oorgaxejvu.ml
 erk7oorgaxejvu.tk
-erkjhgbtert.online
 erlsitn.com
 ermael.com
 ermail.cf
@@ -31893,7 +31896,6 @@ islamm.cf
 islamm.gq
 islandi-nedv.ru
 islelakecharles.com
-islj6.anonbox.net
 isluntvia.com
 ismailgul.net
 ismartsense.online
@@ -35346,6 +35348,7 @@ labforge.freeddns.org
 labfortyone.tk
 lablasting.com
 labo.ch
+labobike.com
 laboratortehnicadentara.ro
 laborderie.com
 laborderie.ovh
@@ -39914,6 +39917,7 @@ mbmz31.pro
 mboled.ml
 mbox.0x01.tk
 mbox.re
+mbsc.tech
 mbsho.com
 mbsl.com
 mbt-shoeshq.com
@@ -40533,7 +40537,6 @@ mial.cf
 mial.com.creou.dev
 mial.tk
 mialbox.info
-miamidoc.pl
 miamimetro.com
 miamovies.com
 miamovies.net
@@ -46770,7 +46773,6 @@ overkill6.pl
 overmetre.com
 overtechs.com
 overwatch.party
-overwhelminghafizhul.io
 overwholesale.com
 ovh9mgj0uif.xorg.pl
 ovi.usa.cc
@@ -55648,6 +55650,7 @@ small.makingdomes.com
 small.ploooop.com
 small.poisedtoshrike.com
 smallanawanginbeach.com
+smallbizalley.com
 smallbusinesshowto.com
 smallfrank.com
 smallker.tk
@@ -57474,7 +57477,6 @@ suntroncorp.com
 suntuy.com
 sunyds.com
 sunyggless.com
-sunzmail.online
 suoox.com
 supappl.me
 supascan.com
@@ -62112,7 +62114,6 @@ ukr.nnet
 ukr.nt
 ukr.nte
 ukrainaharnagay.shn-host.ru
-ukraynaliopal.network
 ukrn.et
 ukrr.net
 ukrtovar.ru
@@ -63691,6 +63692,7 @@ vipepe.com
 vipfon.ru
 vipg.com
 vipgod.ru
+viphihi123.tokyo
 viphomeljjljk658.info
 viphone.eu.org
 vipitv.com
