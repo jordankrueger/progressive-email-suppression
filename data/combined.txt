@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-29
+# progressive-email-suppression — generated 2026-09-30
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69765 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69777 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -1149,6 +1149,7 @@
 237bets.com
 238gmail.com
 239gmail.com
+23ao7.anonbox.net
 23fanofknives.com
 23hotmail.com
 23sfeqazx.com
@@ -4059,6 +4060,7 @@ aboutfitness.net
 aboutgta.x10.mx
 above-rh.com
 abovewe.us
+abowned.com
 abqenvironmentalstory.org
 abqkravku4x36unnhgu9.co.cc
 abrauto.com
@@ -8823,7 +8825,6 @@ bbrsr.anonbox.net
 bbs.edu
 bbsaili.com
 bbsmoodle.com
-bbsqk.anonbox.net
 bbswordiwc.com
 bbtop.com
 bbtspage.com
@@ -9963,6 +9964,7 @@ bitmonkey.xyz
 bitoini.com
 bitonc.com
 bitpost.site
+bitproy.com
 bitrealm.in
 bitrf.anonbox.net
 bitrix-market.ru
@@ -12517,6 +12519,7 @@ cappadociadaytours.com
 cappriccio.ru
 caprasolver.xyz
 capricornh.my.id
+caps7.com
 capsawinspkr.com
 captainamericagifts.com
 captainmaid.top
@@ -15778,6 +15781,7 @@ cwkdx3gi90zut3vkxg5.tk
 cwmco.com
 cwqksnx.com
 cwroutinesp.com
+cwsgear.com
 cx.de-a.org
 cx.net
 cx4div2.pl
@@ -16594,6 +16598,7 @@ deepstore.online
 deepyinc.com
 deerecord.org.ua
 deermokosmetyki-a.pl
+deertees.com
 deevara.nl
 defandit.com
 defaultdomain.ml
@@ -19212,6 +19217,7 @@ easyonlinecollege.com
 easyonlinemail.net
 easypaperplanes.com
 easypeasychinese.com
+easyplainlife.com
 easyreadnow.com
 easyrecipetoday.com
 easysetting.org
@@ -23000,6 +23006,7 @@ fl.tempfree.v6.rocks
 flageob.info
 flagyl-buy.com
 flaimenet.ir
+flakeian.com
 flameoflovedegree.com
 flamingbargains.com
 flammablekarindra.io
@@ -29744,6 +29751,7 @@ hudsonhouseantiques.com
 hudsonriverseo.com
 hudsonunitedbank.com
 hudspethinn.com
+hudzer.com
 huecar.com
 huekie.com
 huekieu.com
@@ -34334,7 +34342,6 @@ kingcq.com
 kingdais.com
 kingdomhearts.cf
 kingice-store.com
-kinglyruhyat.io
 kingmenshealth.com
 kingofmails.com
 kingpol.eu
@@ -39316,6 +39323,7 @@ makmadness.info
 makmotors.com
 makmursrondol.store
 makoli.sbs
+makoli.site
 makoli.space
 makoli.store
 maks.com
@@ -39859,6 +39867,7 @@ maxseeding.vn
 maxsize.online
 maxtanie.com
 maxturns.com
+maxup.lat
 maxutz.dynamailbox.com
 maxxdrv.ru
 mayaaaa.cf
@@ -46421,7 +46430,6 @@ orinmail.com
 oriogiosi.gr
 orion.tr
 oriondertest.it
-orionpetshop.shop
 orionwebs.net
 oriwijn.com
 orkaled.es
@@ -47806,6 +47814,7 @@ pestabet.com
 pet-care.com
 pete.0amail.top
 petebrigham.net
+peterceocto.us
 peterdethier.com
 petergunter.com
 peterhe-ai.bond
@@ -51250,6 +51259,7 @@ real2realmiami.info
 realacnetreatments.com
 realantispam.com
 realchristine.com
+reald.lat
 realedoewblog.com
 realedoewcenter.com
 realedoewnow.com
@@ -52699,6 +52709,7 @@ rsnfoopuc0fs.gq
 rsnfoopuc0fs.ml
 rsnfoopuc0fs.tk
 rsps.site
+rspue.com
 rsqqz6xrl.pl
 rssblog.pl
 rssfwu9zteqfpwrodq.ga
@@ -69150,6 +69161,7 @@ zhewei88.com
 zhidkiy-gazon.ru
 zhiezmotion.me
 zhiezpremium.store
+zhinex.online
 zhizhiwei.fun
 zhjjq.tech
 zhongchengtz.com
