@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-09-30
+# progressive-email-suppression — generated 2026-10-01
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69777 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69791 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4341,6 +4341,7 @@ adallasnews.com
 adalowongan.com
 adamance.7amail.top
 adamastore.co
+adamrisni.site
 adamsarchitects.com
 adamtraffic.com
 adann.xyz
@@ -5898,6 +5899,7 @@ amimail.com
 amimu.com
 amin.co.pl
 aminating.com
+aminavin.com
 aminois.ga
 aminoprimereview.info
 aminudin.me
@@ -7908,6 +7910,7 @@ ayizkufailhjr.tk
 aymail.xyz
 aympatico.ca
 ayndex.ru
+ayndmo.com
 ayohave.fun
 ayomail.com
 ayonge.tech
@@ -12774,6 +12777,7 @@ catnicetext.site
 catnipcat.net
 catrarebooks.site
 catreena.ga
+catshop.world
 catson.us
 catsredeem.com
 catterickgarrisonfootballcentre.uk
@@ -22841,6 +22845,7 @@ firmaogrodniczanestor.pl
 firmfinancecompany.org
 firmjam.com
 fironia.com
+firpurwa.me
 first-email.net
 first-mail.info
 first-state.net
@@ -22922,6 +22927,7 @@ fitzgeraldforjudge.com
 fitzinn.com
 fiuedu.com
 fiuwhfi212.com
+fivanstore.shop
 five-club.com
 five-plus.net
 five.emailfake.ml
@@ -25158,6 +25164,7 @@ ggail.com
 ggbags.info
 ggbh.com
 ggck.com
+ggcvc.lat
 ggezme.shop
 ggfd.de
 ggfm.com
@@ -36813,6 +36820,7 @@ lkoqmcvtjbq.ml
 lkoqmcvtjbq.tk
 lkscedrowice.pl
 lkxloans.com
+lkxu3.anonbox.net
 ll.gamess.bot.cd
 ll.tempfree.v6.rocks
 ll.throw-away.dns.navy
@@ -37635,6 +37643,7 @@ luutrudulieu.net
 luutrudulieu.online
 luv2.us
 luvara.de
+luvaramail.nl
 luvfun.site
 luvju.anonbox.net
 luxax.com
@@ -45470,6 +45479,7 @@ offtherecordmail.com
 ofiac.com
 oficinasjorgevelasquez.com
 ofirit.com
+ofisa.lat
 ofisher.net
 ofmail.com
 ofmailer.net
@@ -48386,6 +48396,7 @@ plussparknet.com
 plussparkzen.com
 plutocow.com
 plutofox.com
+pluzauo.shop
 plw.me
 plxa.com
 plymouthrotarynh.org
@@ -58074,7 +58085,6 @@ t3mtxgg11nt.ml
 t3mtxgg11nt.tk
 t3rbo.com
 t3t97d1d.com
-t4a6t.anonbox.net
 t4tmb2ph6.pl
 t4zpap5.xorg.pl
 t5h65t54etttr.cf
@@ -60898,6 +60908,7 @@ trangmuon.com
 trango.co
 trangzim.uk
 tranhtai.com
+tranhunggg.tokyo
 tranlamanh.ml
 transaksikita.tech
 transcience.org
@@ -61359,6 +61370,7 @@ tu6oiu4mbcj.tk
 tualias.com
 tuamaeaquelaursa.com
 tuana.vip
+tuandinhh.tokyo
 tuanhungdev.xyz
 tubanmentol.ml
 tube-dns.ru
@@ -67013,6 +67025,7 @@ xtc94az.pl
 xtdl.com
 xtds.net
 xteammail.com
+xtemp.lat
 xterps.com
 xtmail.win
 xtnr2cd464ivdj6exro.cf
@@ -68976,6 +68989,7 @@ zczr2ad2.com
 zd6k3a5h65.ml
 zdanisphotography.com
 zdbgjajg.shop
+zdebu.lat
 zdecadesgl.com
 zdenka.net
 zdesyaigri.ru
