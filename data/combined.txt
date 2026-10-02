@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-01
+# progressive-email-suppression — generated 2026-10-02
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69791 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69796 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -7432,6 +7432,7 @@ auraqq.com
 aureliajobs.com
 aureliandata.space
 aurelstyle.ru
+auria.lat
 auris.lat
 auroracontrol.com
 aurresources.com
@@ -11389,7 +11390,6 @@ bsne.website
 bsnea.shop
 bsnow.net
 bspamfree.org
-bspe5.anonbox.net
 bspin.club
 bspooky.com
 bsquochoai.ga
@@ -12563,6 +12563,7 @@ cardiomegalies.com
 cardjester.store
 cardkurd.com
 cardsexpert.ru
+cardy.lat
 care-breath.com
 care4palestine.web.id
 careandvital.com
@@ -13693,6 +13694,7 @@ chipmunkbox.com
 chiragra.pl
 chirio.co
 chironglobaltechnologies.com
+chirugrow.online
 chise.com
 chisers.xyz
 chithi.xyz
@@ -16427,6 +16429,7 @@ dcndiox5sxtegbevz.gq
 dcndiox5sxtegbevz.ml
 dcndiox5sxtegbevz.tk
 dcom.space
+dcomp.lat
 dcpa.net
 dcs21sd.com
 dcs21sd.online
@@ -18081,7 +18084,6 @@ doobb.com
 dooboop.com
 doodooexpress.com
 doodooli.xyz
-doodrops.org
 doods7.com
 dooglecn.com
 doojazz.com
@@ -20479,6 +20481,7 @@ eneko-atxa.art
 enercranyr.eu
 energen.live
 energetus.pl
+energisurya.cfd
 energon-co.ru
 energy69.com
 energymail.co.cc
@@ -28671,7 +28674,6 @@ holidayloans.us
 holidaytravelresort.com
 holined.site
 holio.day
-holisticfeed.site
 holl.ga
 holland-nedv.ru
 hollandmail.men
@@ -31591,6 +31593,7 @@ intopwa.com
 intopwa.net
 intopwa.org
 intothenight1243.com
+intrancu.com
 intrarmour.com
 intrees.org
 intrested12.uk
@@ -32295,11 +32298,13 @@ j275xaw4h.pl
 j2anellschild.ga
 j3j.org
 j3nn.net
+j3r8qd.site
 j3r8qd.space
 j3r8qd.store
 j3rqt89ez.com
 j4rang0y4nk.ga
 j5bie4.tech
+j5e3v.anonbox.net
 j5vhmmbdfl.cf
 j5vhmmbdfl.ga
 j5vhmmbdfl.gq
@@ -32345,6 +32350,7 @@ jad32.cf
 jad32.ga
 jad32.gq
 jadecouture.shop
+jadenursery.top
 jadeschoice.com
 jadopado.com
 jadotech.com
@@ -33073,6 +33079,7 @@ johnsonmotors.com
 johnswanson.com
 johonkemana.com
 johonmasalalu.com
+johorulcloud.space
 joi.com
 joihonm.shop
 joiket.space
@@ -35624,7 +35631,6 @@ laszki.info
 laszlomail.com
 lat-nedv.ru
 latamdate.review
-latamgateway.io
 latemail.tech
 latesmail.com
 latestgadgets.com
@@ -38844,6 +38850,7 @@ mailkita.cf
 mailkon.com
 mailkor.xyz
 mailkp.info
+mailkryza.online
 mailksders.com
 mailku.co
 mailku.live
@@ -39380,7 +39387,6 @@ malinator.com
 malioter.pro
 maliyetineambalaj.xyz
 mall.tko.co.kr
-malldrops.com
 mallinator.com
 mallinco.com
 malomies.com
@@ -40241,6 +40247,7 @@ meingan.com
 meinspamschutz.de
 meintick.com
 meisteralltrades.com
+meitu.io.vn
 meitu.lat
 meituxiezhen.xyz
 meituy.com
@@ -45397,7 +45404,6 @@ oferta.pl
 oferty-domiporta.pl
 oferty-kredytowe.com.pl
 oferty-warszawa.pl
-offensivealiwardhana.net
 offerall.biz
 offersale.info
 offertapremium.com
@@ -52054,7 +52060,6 @@ ridgecrestretirement.com
 ridingonthemoon.info
 riedc.com
 rifasuog.tech
-riff-store.com
 riffcat.eu
 riffproductions.co.uk
 rifkian.cf
@@ -58357,6 +58362,7 @@ tanlanav.com
 tanning-bed-bulbs.com
 tanningcoupon.com
 tanningprice.com
+tanpony.com
 tansmail.ga
 tantacomm.com
 tanteculikakuya.com
@@ -65438,6 +65444,7 @@ whopy.com
 whorci.site
 whose-is-this-phone-number.com
 whowlft.com
+whskrspc.shop
 whstores.com
 whtjddn.33mail.com
 whwow.com
@@ -69174,7 +69181,6 @@ zhess.xyz
 zhewei88.com
 zhidkiy-gazon.ru
 zhiezmotion.me
-zhiezpremium.store
 zhinex.online
 zhizhiwei.fun
 zhjjq.tech
@@ -69609,7 +69615,6 @@ zrufe.com
 zsazsautari.art
 zscapcut.my.id
 zsccyccxea.pl
-zsdigital.tech
 zsero.com
 zslsz.com
 zsmj.cc.cd
