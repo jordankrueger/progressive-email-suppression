@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-02
+# progressive-email-suppression — generated 2026-10-03
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69796 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69801 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -10673,6 +10673,7 @@ boliviya-nedv.ru
 boll.com.br
 bollouisvuittont.info
 bolomycarsiscute.com
+bolsa.lat
 bolsosalpormayor.com
 bolt.2amail.top
 bombamail.icu
@@ -11923,7 +11924,6 @@ bvhrk.com
 bvhrs.com
 bvigo.com
 bvio5.anonbox.net
-bvlma.anonbox.net
 bvmjj.anonbox.net
 bvmvbmg.co
 bvngf.com
@@ -11936,6 +11936,7 @@ bvx3l.anonbox.net
 bvxay.anonbox.net
 bvz4p.anonbox.net
 bvzoonm.com
+bw6hf.anonbox.net
 bwa33.net
 bweqvxc.com
 bweud.anonbox.net
@@ -12956,6 +12957,7 @@ cebong.tk
 cebook.como
 cebturylink.net
 cech-liptov.eu
+cecizie.web.id
 ceco3kvloj5s3.cf
 ceco3kvloj5s3.ga
 ceco3kvloj5s3.gq
@@ -17584,7 +17586,6 @@ diyongjin.net
 dizaer.ru
 dizainburo.ru
 dizigg.com
-diztan.cfd
 djan.de
 djcrazya.com
 djdaj.cloud
@@ -24154,7 +24155,6 @@ funxmail.ga
 funxxxx.xyz
 fuqus.com
 furaz.com
-furkanozturk.cfd
 furnitt.com
 furnitureinfoguide.com
 furnitureliquidationconsultants.com
@@ -24717,6 +24717,7 @@ gcmail.top
 gcordobaguerrero.com
 gcpainters.com
 gcpfas.shop
+gcphanter.skin
 gcpmakerds.cyou
 gcpowner.online
 gcpripon.space
@@ -27163,6 +27164,7 @@ guysmail.com
 guystelchim.tk
 guzqrwroil.pl
 guzukll.camdvr.org
+gv3la.lat
 gvatemala-nedv.ru
 gvdk.com
 gviagrasales.com
@@ -27550,6 +27552,7 @@ handbagsstoreslove.com
 handbagstips2012.info
 handbagwee.com
 handbega.xyz
+handcart.online
 handcrafted.market
 handcrafters.shop
 handelo.com.pl
@@ -28583,7 +28586,6 @@ ho2.com
 ho3twwn.com
 ho5mail.com
 ho9tmail.com
-hoadataithe.site
 hoail.co.uk
 hoamail.com
 hoamzzy.com
@@ -37141,6 +37143,7 @@ londonescortsbabes.co
 londonlocalbiz.com
 londonwinexperience.com
 londonyouthsailing.org
+lonegarden.top
 lonelybra.ml
 lonestarmedical.com
 long-eveningdresses.com
@@ -39885,6 +39888,7 @@ maxturns.com
 maxup.lat
 maxutz.dynamailbox.com
 maxxdrv.ru
+maxxspace.com
 mayaaaa.cf
 mayaaaa.ga
 mayaaaa.gq
@@ -43626,6 +43630,7 @@ newcanada-goose-outlet.com
 newchristianlouboutinoutletfr.com
 newchristianlouboutinshoesusa.us
 newconnect.uk
+newcs.lat
 newdailys.com
 newdawnnm.xyz
 newdaykg.tk
@@ -44339,6 +44344,7 @@ nodem.app
 nodemon.peacled.xyz
 nodeoppmatte.com
 nodepositecasinous.com
+nodes.lat
 nodesauce.com
 nodezine.com
 nodie.cc
@@ -47386,7 +47392,6 @@ pay-pals.ml
 pay-pals54647.cf
 pay-pals5467.ml
 pay-pp.top
-pay-us.lol
 pay.rentals
 pay2pay.com
 pay4d.space
@@ -48128,6 +48133,7 @@ pinchevisauno.cf
 pincoffee.com
 pinehill-seattle.org
 pinemaile.com
+pinevalleyspeed.com
 pingbloggereidan.com
 pingddns.net
 pingextreme.com
@@ -50475,7 +50481,6 @@ quantyti.com
 quarida.com
 quarl.xyz
 quarvex.cfd
-quatetaline.com
 quaxy.lat
 qubayarin.com
 qubecorp.tk
@@ -57337,7 +57342,6 @@ submitreports.com
 submoti.tk
 subparal.ml
 subpastore.co
-subrevn.net
 subsequestriver.xyz
 substanceabusetreatmentrehab.site
 substate.info
@@ -67404,6 +67408,7 @@ yahboo.com
 yahboo.de
 yahcoo.com
 yahell.com
+yahesazo.me
 yahgo.com
 yahho.co.uk
 yahho.gr
