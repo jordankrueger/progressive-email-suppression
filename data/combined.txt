@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-03
+# progressive-email-suppression — generated 2026-10-04
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69801 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69798 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4170,6 +4170,7 @@ accesslivingllc.net
 accessmedia.it
 accessori.ru
 accessoriesjewelry.co.cc
+accface.net
 acciobit.net
 accionambiente.org
 accis.net
@@ -6118,7 +6119,6 @@ anh123.ga
 anhalim.me
 anhaysuka.com
 anheakao.xyz
-anhhungrom47.xyz
 anhiqojkaq1.abrdns.com
 anhmaybietchoi.com
 anhthu.org
@@ -7439,7 +7439,6 @@ aurresources.com
 aus.schwarzmail.ga
 ausclan.com
 ausgefallen.info
-auslank.com
 aussiegroups.com
 austimail.com
 austinpainassociates.com
@@ -10662,7 +10661,6 @@ bola389.top
 bolalogam.com
 bolamas88.online
 bolas.lat
-bolaymay.top
 bolcom.br
 bold.ovh
 boldhut.com
@@ -11930,7 +11928,6 @@ bvngf.com
 bvoqi.anonbox.net
 bvoxsleeps.com
 bvqjwzeugmk.pl
-bvrs5.anonbox.net
 bvwtu.anonbox.net
 bvx3l.anonbox.net
 bvxay.anonbox.net
@@ -18084,7 +18081,6 @@ donymails.com
 doobb.com
 dooboop.com
 doodooexpress.com
-doodooli.xyz
 doods7.com
 dooglecn.com
 doojazz.com
@@ -21829,6 +21825,7 @@ falconsproteamsshop.com
 falconssportshoponline.com
 falixiao.com
 falkyz.com
+falleweng.com
 fallin1.ddns.me.uk
 fallin2.dyndns.pro
 fallinhay.com
@@ -23277,6 +23274,7 @@ fondato.com
 fondgoroddetstva.ru
 fonmail.com.br
 fontainbleau.com
+fonte.lat
 fontfee.com
 fontier.com
 fontier.net
@@ -24736,7 +24734,6 @@ gdcac.com
 gdcmedia.info
 gdcrm.store
 gddao.com
-gddcorp.com
 gddp2018.edu.vn
 gdemoy.site
 gdfgergrer.online
@@ -28307,7 +28304,6 @@ hidjuhxanx9ga6afdia.tk
 hidmail.org
 hidzz.com
 hiemail.net
-hiepth.com
 hieu.in
 hieu0971927498.com
 hieuclone.com
@@ -38737,6 +38733,7 @@ mailhex.com
 mailhieu.store
 mailhieu1.store
 mailhieu2.store
+mailhihyhba.asia
 mailhole.de
 mailhon.com
 mailhorders.com
@@ -40504,6 +40501,7 @@ mfil4v88vc1e.ga
 mfil4v88vc1e.gq
 mfil4v88vc1e.ml
 mfil4v88vc1e.tk
+mfixa.lat
 mflix.lat
 mfriends.com
 mfsa.info
@@ -41203,7 +41201,6 @@ mobilespring.com
 mobilespyphone.info
 mobiletracker.com
 mobiletrashmail.com
-mobilevents.es
 mobilevpn.top
 mobilex.sbs
 mobilf.site
@@ -42224,7 +42221,6 @@ mv1951.ga
 mv1951.gq
 mv1951.ml
 mv1951.tk
-mv6a.com
 mvat.de
 mvgn5.anonbox.net
 mvlnjnh.pl
@@ -52458,7 +52454,6 @@ roges.com
 roghv.anonbox.net
 rogjf.com
 rogowiec.com.pl
-rograc.com
 rogres.com
 rogrs.com
 rogtat.com
@@ -53363,6 +53358,7 @@ sagametour.com
 sagd33.co.uk
 sage.speedfocus.biz
 sagebrushtech.com
+sageoutfitters.top
 saglikisitme.com
 saglobe.com
 sagmail.ru
@@ -54055,6 +54051,7 @@ sdj.fr.nf
 sdkajsn.best
 sdkfkrorkg.com
 sdnr.it
+sdryg.anonbox.net
 sds-a-gff.xyz
 sds-awe.top
 sdsas.xyz
@@ -58354,7 +58351,6 @@ tang-zxc.xyz
 tangarinefun.com
 tangeriin.com
 tanglewoodstudios.com
-tanglike94.win
 tango-card.com
 tangocharlie.101livemail.top
 tangomining.com
@@ -60624,6 +60620,7 @@ topstorewearing.com
 toptalentsearchexperts.xyz
 toptantelefonaksesuar.com
 toptextloans.co.uk
+topto.lat
 toptowners.club
 toptowners.online
 toptowners.site
