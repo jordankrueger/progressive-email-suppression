@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-06
+# progressive-email-suppression — generated 2026-10-07
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69923 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69935 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3986,6 +3986,7 @@ abdcart.shop
 abdiell.xyz
 abdulah.xyz
 abdullah.ch
+abdullahoffice.site
 abegegr0hl.cf
 abegegr0hl.ga
 abegegr0hl.gq
@@ -4986,6 +4987,7 @@ aifreeuk.com
 aifreeuk.info
 aifreeuk.net
 aifreeuk.store
+aigcdog.com
 aigptplus.co
 aihtnb.com
 aihualiu.com
@@ -5308,7 +5310,6 @@ aksearches.com
 aksesorisa.com
 aksipalestina.biz.id
 aktiefmail.nl
-aktifanadhevi.biz
 aktifbil.com
 aktifplastik.com
 akuadalah.dev
@@ -9956,7 +9957,6 @@ biskvitus.ru
 bissabiss.com
 bistonplin.com
 bisuteriazaiwill.com
-bisxk.anonbox.net
 bit-degree.com
 bit-ion.net
 bit-tehnika.in.ua
@@ -10030,6 +10030,7 @@ bizzinfos.info
 bizzz.pl
 bj41.help
 bj4oq.anonbox.net
+bj7kx.anonbox.net
 bj7z7.anonbox.net
 bjbekhmej.pl
 bjcxw.anonbox.net
@@ -14404,6 +14405,7 @@ cnshosti.in
 cntrum.cz
 cnxcoin.com
 cnxingye.com
+co-uk.lat
 co.cc
 co.mailboxxx.net
 co.net
@@ -27013,6 +27015,7 @@ gsrv.co.uk
 gssetdh.com
 gssindia.com
 gstore96.ru
+gsttony.shop
 gsvdwet673246176272317121821.ezyro.com
 gsxstring.ga
 gt446443ads.cf
@@ -27823,6 +27826,7 @@ havelock6.pl
 haventop.tk
 havertz.tk
 havery.com
+haveship.com
 haveys.com
 havilahdefilippis.com
 havre.com
@@ -33791,6 +33795,7 @@ kalkulator-kredytowy.com.pl
 kaloolas.shop
 kalosgrafx.com
 kalquoris.cfd
+kalwa.fun
 kam4.ono.biz.id
 kamagra-lovegra.com.pl
 kamagra.com
@@ -35003,6 +35008,7 @@ kristy-rows.com
 krnf.de
 krns.com
 krnuqysd.pl
+kro.kr
 krodnd2a.pl
 krofism.com
 krogerco.com
@@ -36352,6 +36358,7 @@ limamail.ml
 limaquebec.webmailious.top
 limax.lat
 limbostudios.com
+limcil.cyou
 limcorp.net
 limedesign.net
 limeline.in
@@ -37458,6 +37465,7 @@ lovemeleaveme.com
 lovemue.com
 lovepet.vip
 lovepulse.lat
+lover.lat
 lovertboy.online
 loves.dicksinhisan.us
 loves.dicksinmyan.us
@@ -38104,6 +38112,7 @@ magetrust.com
 maggie.makenzie.chicagoimap.top
 maggot.3amail.top
 maggotymeat.ga
+maggy.lat
 magia-malarska.pl
 magiamgia.site
 magicbeep.com
@@ -39508,7 +39517,6 @@ manatialagua.com.mx
 manatialxm.com.mx
 manau.site
 manaw.site
-mancelipo.com
 manderich.com
 mandraghen.cf
 mandynmore.com
@@ -60993,6 +61001,7 @@ tradex.gb
 tradiated.com
 trading-courses.org
 tradingview.my.id
+tradr.space
 trafat.xyz
 traffic-ilya.gq
 traffic-inc.biz
@@ -63941,6 +63950,7 @@ viroleni.cu.cc
 virtize.com
 virtual-email.com
 virtual-generations.com
+virtual-hipster.com
 virtual-mail.net
 virtual-trader.com
 virtualalt.net
@@ -65754,6 +65764,7 @@ winemaven.info
 winevacuumpump.info
 winfire.com
 winfreegifts.xyz
+wingsai.online
 wingslacrosse.com
 winie.club
 wink-versicherung.de
@@ -69625,6 +69636,7 @@ zoeyexporting.com
 zoeyy.com
 zoftware.software
 zoggo.nl
+zohobillings.com
 zoianp.com
 zojb.com
 zojr.com
