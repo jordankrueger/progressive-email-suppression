@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-07
+# progressive-email-suppression — generated 2026-10-08
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69935 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69945 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -694,6 +694,7 @@
 18dewa.live
 18gmail.com
 18ladies.com
+18lover.com
 18t5b.shop
 1909.com
 190gmail.com
@@ -7437,7 +7438,6 @@ auol.com
 auolethtgsra.uni.cc
 auon.org
 aupvs.com
-auraence.com
 auraity.com
 auralfix.com
 auralith.cfd
@@ -8192,7 +8192,6 @@ b5aeh.anonbox.net
 b5c53.anonbox.net
 b5eb6.anonbox.net
 b5eyv.anonbox.net
-b5msd.anonbox.net
 b5nr6.anonbox.net
 b5r5wsdr6.pl
 b5safaria.com
@@ -9473,6 +9472,7 @@ betanywhere.com
 betaprice.co
 betatensor.com
 betbing.com
+betcdn.org
 betcooks.com
 beteajah.ga
 beteajah.gq
@@ -9547,6 +9547,7 @@ bfgop.anonbox.net
 bfhgh.com
 bfile.site
 bfitcpupt.pl
+bfj7q.anonbox.net
 bflcafe.com
 bfmwp.anonbox.net
 bfnkv.anonbox.net
@@ -10845,7 +10846,6 @@ bookuf.site
 bookug.site
 bookv.site
 bookworm.2amail.top
-bookwormsboutiques.com
 bookx.site
 bookyah.com
 bookz.site
@@ -12316,6 +12316,7 @@ caligulux.co
 calima.asso.st
 calintec.com
 caliperinc.com
+calirona.com
 caliskanofis.store
 call.favbat.com
 callberry.com
@@ -14913,6 +14914,7 @@ comuserve.com
 comvcast.net
 comwest.de
 comyze.org
+comzx.com
 con.com
 con.net
 conadep.cd
@@ -15084,6 +15086,7 @@ copycashvalve.com
 copyhome.win
 copymanprintshop.com
 copyright-gratuit.net
+copytosh.com
 coqh.com
 coqmail.com
 cora.marketdoors.info
@@ -28162,6 +28165,7 @@ herbalanda.com
 herbalsumbersehat.com
 herbert1818.site
 herbertgrnemeyer.in
+herclan.com
 herdtrak.com
 heresh.info
 herestoreonsale.org
@@ -35855,6 +35859,7 @@ leadlovers.site
 leadssimple.com
 leadwins.com
 leadwizzer.com
+leafflip.com
 leafzie.com
 leaguedump.com
 leagueofdefenders.gq
@@ -41034,6 +41039,7 @@ miur.ga
 miur.gq
 miur.ml
 miur.tk
+mivex.sbs
 miwacle.com
 mix-good.com
 mix-mail.online
@@ -43971,6 +43977,7 @@ ngtierlkexzmibhv.ml
 ngtierlkexzmibhv.tk
 ngtix.com
 nguhoc.xyz
+ngunik.shop
 nguyendanhkietisocial.com
 nguyenduyphong.tk
 nguyenlieu24h.com
@@ -44686,6 +44693,7 @@ novaix.vn
 novaopcj.icu
 novaprime.vip
 novartismails.com
+novaspherelabs.store
 novasub.click
 novatiz.com
 novelbowl.xyz
@@ -50023,7 +50031,6 @@ puzzlepro.es
 pv3xur29.xzzy.info
 pv447.anonbox.net
 pvcb.lol
-pvcc.lol
 pvcstreifen-vorhang.de
 pvdprohunter.info
 pver.com
@@ -56553,6 +56560,7 @@ speak2all.com
 speakaesy.net
 speakeast.net
 speakeay.net
+speakerion.com
 speakfreely.email
 speakfreely.legal
 speaknow.org.uk
@@ -59996,7 +60004,6 @@ tiffanyelite.com
 tiffanypower.com
 tiffincrane.com
 tigasu.com
-tignovate.com
 tigo.tk
 tigoco.tk
 tigpe.com
@@ -61014,6 +61021,7 @@ trafika.ir
 tragaver.ga
 trail.bthow.com
 trailervin.com
+train.lat
 trainingcamera.com
 trainingpedia.online
 trainthem2fish.co.uk
@@ -61300,6 +61308,7 @@ truebonding.lat
 trueedhardy.com
 truefile.org
 truelove.lat
+truenexusnet.com
 truereligionbrandmart.com
 truereligionjeansdublin.eu
 truevibe.lat
@@ -69332,6 +69341,7 @@ zib.com
 zibiz.me
 zibox.info
 zidu.pw
+ziell.my.id
 ziellpremium.store
 zielonadioda.com
 zielonyjeczmiennaodchudzanie.xyz
