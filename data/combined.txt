@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-08
+# progressive-email-suppression — generated 2026-10-09
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69945 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69955 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3858,6 +3858,7 @@ aaewr.com
 aafddz.ltd
 aagmail.com
 aahs.co.pl
+aahzz.com
 aaim.com
 aakingcompany.shop
 aakk.de
@@ -7312,6 +7313,7 @@ atnet.top
 atnetcloud.space
 atnextmail.com
 atolyezen.com
+atomauto.vn
 atombomb.online
 atoyot.cf
 atoyot.ga
@@ -17973,7 +17975,6 @@ dogiloveniggababydoll.com
 dogking.dpdns.org
 dogmrp.com
 dogn.com
-dogonoithatlienha.com
 dogsandpuppies.info
 dogsportshop.de
 dogstarclothing.com
@@ -20936,6 +20937,7 @@ esc.la
 escanor99.com
 escapehatchapp.com
 escapeion.com
+escar.lat
 escb.com
 escely.com
 escholcreations.com
@@ -21297,6 +21299,7 @@ evvgo.com
 evxmail.net
 evyush.com
 ew-purse.com
+ew46v.anonbox.net
 ewa.kr
 ewarjkit.in
 ewatchesnow.com
@@ -36345,6 +36348,7 @@ likewayn.space
 likewayn.store
 likewayn.xyz
 lilbahlil.me
+lilia.lat
 lilin.pl
 lilittka.tk
 lillemap.net
@@ -37312,6 +37316,7 @@ louboutinshoessalejp.com
 louboutinshoesstoresjp.com
 louboutinshoesus.com
 louder1.bid
+loudment.com
 loudmouthmag.com
 loudoungcc.store
 loufad.com
@@ -38409,8 +38414,11 @@ mail123.cloud
 mail123.club
 mail123.com.br
 mail123.fr
+mail123.online
 mail123.pro
 mail123.site
+mail123.tech
+mail123.website
 mail123box.tech
 mail12h.com
 mail14.pl
@@ -40328,6 +40336,7 @@ meineinkaufsladen.de
 meingan.com
 meinspamschutz.de
 meintick.com
+meinvr.com
 meisteralltrades.com
 meitu.io.vn
 meitu.lat
@@ -46325,6 +46334,7 @@ openskj.com
 opensourceed.app
 openstudy.edu.pl
 opentrash.com
+openwaveo.online
 openwebmail.contractors
 openwrt.qzz.io
 operabrow.com
@@ -58570,6 +58580,7 @@ tastypizza.com
 tatadidi.com
 tatalbet.com
 tatapeta.pl
+tatatutu.site
 tatbuffremfastgo.com
 tatebayashi-zeirishi.biz
 tatefarm.com
@@ -61061,7 +61072,6 @@ transmissioncleaner.com
 transmute.us
 transportationfreightbroker.com
 transporteszuniga.cl
-trantienclone.fun
 trantienclone.top
 tranvietmail.click
 traodoinick.com
@@ -61354,6 +61364,7 @@ trusted.wine
 trustedadmin2.shop
 trustedadmindns.site
 trustedcvvshop.ru
+trusteddns.online
 trustedproducts.info
 trustfarma.online
 trustguru.vip
@@ -68116,7 +68127,6 @@ yb78oim.ml
 yb78oim.tk
 yb9ye8c.kozow.com
 ybananaulx.com
-ybcfo.anonbox.net
 ybidbccmv.top
 ybpxbqt.pl
 ybtsb.ml
