@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-09
+# progressive-email-suppression — generated 2026-10-10
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69955 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69957 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -6356,6 +6356,7 @@ any-gsm-network.top
 any.pink
 any.ploooop.com
 anyalias.com
+anyance.com
 anyett.com
 anyopoly.com
 anypen.accountant
@@ -8137,6 +8138,7 @@ b20nn6.cn
 b247m.anonbox.net
 b24u2.anonbox.net
 b26im.anonbox.net
+b27yd.anonbox.net
 b2avg.anonbox.net
 b2b4business.com
 b2bmail.bid
@@ -12235,7 +12237,6 @@ caainpt.com
 cab22.com
 cabaininin.io
 cabal72750.co.pl
-cabangnursalina.net
 cabekeriting99.com
 cabezonoro.cl
 cabinets-chicago.com
@@ -18961,6 +18962,7 @@ e-mail365.eu
 e-mailbox.comx.cf
 e-mailbox.ga
 e-mails.site
+e-mailsdock.online
 e-marketstore.ru
 e-mbtshoes.com
 e-moje-inwestycje.pl
@@ -20422,7 +20424,6 @@ emmailoon.com
 emmajulissa.kyoto-webmail.top
 emmasart.com
 emmasmale.com
-emmastyle.shop
 emmys.life
 emocan.name.tr
 emohawk.xyz
@@ -31819,6 +31820,7 @@ ipiranga.dynu.com
 ipiurl.net
 ipizza24.ru
 ipjckpsv.pl
+iplay.lat
 iplayer.com
 iplusplusmail.com
 ipochta.gq
@@ -35946,7 +35948,6 @@ lege4h.com
 legendaryseller.com
 legibbean.site
 legitimateonline.info
-legitstore.xyz
 legkospet.ru
 lehman.cf
 lehman.ga
@@ -37266,7 +37267,6 @@ lordfortescue.news
 lordfortescue.org.uk
 lordmobilehackonline.eu
 lordofmysteries.org
-lordpopi.com
 lordsofts.com
 lordvold.cf
 lordvold.ga
@@ -39043,6 +39043,7 @@ mailnet.top
 mailnetter.co.uk
 mailngon.top
 mailniu.com
+mailnode360.click
 mailnoop.store
 mailnow2.com
 mailnowapp.com
@@ -48066,7 +48067,6 @@ phonestlebuka.com
 phongchongvirus.com
 phonghoithao.net
 phongpon.click
-phopocy.com
 phosk.site
 photo-impact.eu
 photoaim.com
@@ -56253,6 +56253,9 @@ somsupport.xyz
 son2d.site
 sonaluma.com
 sondemar.com
+song18.cam
+song18.vip
+song88.xyz
 songgallery.info
 songhana.shop
 songlists.info
@@ -57150,6 +57153,7 @@ stl-serbs.org
 stlfasola.com
 stloasia.com
 stmmedia.com
+stmng.lat
 stmpatico.ca
 stockmount.info
 stockpair.com
@@ -63890,7 +63894,6 @@ viphone.eu.org
 vipitv.com
 vipivip.vip
 viplvoutlet.com
-vipmail.id
 vipmail.in
 vipmail.name
 vipmail.net
@@ -66537,7 +66540,6 @@ x3gsbkpu7wnqg.ga
 x3gsbkpu7wnqg.gq
 x3gsbkpu7wnqg.ml
 x3mailer.com
-x3plk.anonbox.net
 x3puf.anonbox.net
 x3sbp.anonbox.net
 x4all.nl
