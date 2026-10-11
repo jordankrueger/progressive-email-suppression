@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-10
+# progressive-email-suppression — generated 2026-10-11
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 69957 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 69952 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -5202,7 +5202,6 @@ aivtxkvmzl29cm4gr.ga
 aivtxkvmzl29cm4gr.gq
 aivtxkvmzl29cm4gr.ml
 aivtxkvmzl29cm4gr.tk
-aiwanlab.com
 aiworldx.com
 aiwozhongguo.office.gy
 aixind.com
@@ -5939,7 +5938,6 @@ amovies.in
 amoxicillincaamoxil.com
 amoxilonlineatonce.com
 amozix.com
-ampdial.com
 amphist.com
 amphynode.com
 ampicillinpills.net
@@ -7440,7 +7438,6 @@ auoie.com
 auol.com
 auolethtgsra.uni.cc
 auon.org
-aupvs.com
 auraity.com
 auralfix.com
 auralith.cfd
@@ -7623,6 +7620,7 @@ avioaero.gq
 avioaero.ml
 avioaero.tk
 avipred.app
+avisa.lat
 avkdubai.com
 avlnch.store
 avls.pt
@@ -10209,7 +10207,6 @@ blitzprogripthatshizz.com
 bljekdzhekkazino.org
 blkzi.anonbox.net
 bll.net
-bllibl.com
 bllsouth.net
 blm7.net
 blm9.net
@@ -19382,6 +19379,7 @@ ecanc.com
 eccfilms.com
 eccgulf.net
 ecea.de
+ecenomecs.com
 echeaplawnmowers.com
 echt-mail.de
 echtzeit.website
@@ -20921,7 +20919,6 @@ eruj33y5g1a8isg95.tk
 erun.2nightgz.com
 erw.com
 erx.mobi
-erynka.com
 eryoritwd1.cf
 eryoritwd1.ga
 eryoritwd1.gq
@@ -22842,7 +22839,6 @@ finpar.ru
 finsmine.info
 finspirations.com
 fintechistanbul.net
-fintehs.com
 fintnesscent.com
 finxmail.com
 finxmail.net
@@ -27802,7 +27798,6 @@ hassmiry.online
 hastynurintan.io
 hat-geld.de
 hat-muzika.ru
-hatanet.network
 hatberkshire.com
 hate.cf
 hatespam.org
@@ -31391,7 +31386,6 @@ inibuatsgb.ml
 inibuatsgb.tk
 inikehere.com
 inikita.online
-inilas.com
 inilogic.com
 inind.it
 iniprm.com
@@ -33714,6 +33708,7 @@ k9ifse3ueyx5zcvmqmw.ga
 k9ifse3ueyx5zcvmqmw.ml
 k9ifse3ueyx5zcvmqmw.tk
 k9wc559.pl
+ka1o1.lat
 ka1ovm.com
 kaaaxcreators.tk
 kaaner.com
@@ -36936,6 +36931,7 @@ llzali3sdj6.tk
 lm0k.com
 lm1.de
 lm360.us
+lmail.lat
 lmav59c1.xyz
 lmav5ba4.xyz
 lmav7758.xyz
@@ -39993,7 +39989,6 @@ maymetalfest.info
 maymovo.com
 mayogold.com
 mayonaka.cloud
-mayonesarnis.biz
 mayorpoker.net
 mayre.shop
 mayschemical.com
@@ -44458,7 +44453,6 @@ nofty.com
 nogmailspam.info
 nogueira2016.com
 noicd.com
-noidos.com
 noifeelings.com
 noihse.com
 noinfo.info
@@ -52954,7 +52948,6 @@ ruafdulw9otmsknf.ga
 ruafdulw9otmsknf.ml
 ruafdulw9otmsknf.tk
 ruangbonus.com
-ruangkita.online
 ruangsmk.info
 ruasspornisn4.uni.cc
 ruay899.com
@@ -57573,6 +57566,7 @@ sulawesibarat.net
 sulawesiselatan.net
 sulawesitengah.net
 sulawesitenggara.net
+sulip.site
 sull.ga
 sullivanins.com
 sullivanscafe.com
@@ -61012,6 +61006,7 @@ trackworld.xyz
 trad.com
 tradaswacbo.eu
 trade-finance-broker.org
+tradebloomrun.com
 tradefinanceagent.org
 tradefinancebroker.org
 tradefinancedealer.org
@@ -68328,7 +68323,6 @@ yhoo.in
 yhoo.it
 yhoo.se
 yhooo.com
-yhrqf.anonbox.net
 yiahoo.com
 yidongo.xyz
 yieldinstitute.org
@@ -68912,6 +68906,7 @@ yyahoo.co.uk
 yyahoo.es
 yydsplus.top
 yyhmail.com
+yyhyt.anonbox.net
 yyj295r31.com
 yykzv53.theworkpc.com
 yymail.com
