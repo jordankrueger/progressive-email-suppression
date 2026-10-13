@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-12
+# progressive-email-suppression — generated 2026-10-13
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 70609 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 70606 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3089,6 +3089,7 @@
 7u7rdldlbvcnklclnpx.gq
 7u7rdldlbvcnklclnpx.ml
 7u7rdldlbvcnklclnpx.tk
+7u7sl.anonbox.net
 7uy35p.cf
 7uy35p.ga
 7uy35p.gq
@@ -10777,6 +10778,7 @@ bojogalax.ga
 bokgumail.kr
 bokikstore.com
 bokilaspolit.tk
+bokkor1.cyou
 bokllhbehgw9.cf
 bokllhbehgw9.ga
 bokllhbehgw9.gq
@@ -12174,6 +12176,7 @@ bycdy.anonbox.net
 byconf.com
 bycy.xyz
 byd686.com
+bydey.lat
 byebyemail.com
 byespm.com
 byf3h.anonbox.net
@@ -12441,6 +12444,7 @@ cakeonline.ru
 cakesrecipesbook.com
 cakk.us
 cakottery.com
+cakybo.com
 calabreseassociates.com
 calav.site
 calcm8m9b.pl
@@ -15310,7 +15314,6 @@ cordialco.com
 cordlessduoclean.com
 cordtokens.com
 core-rehab.org
-corebitrun.com
 coreclip.com
 corecross.com
 corefitrun.com
@@ -16054,6 +16057,7 @@ cxvixs.com
 cxvxcv8098dv90si.ru
 cxvxecobi.pl
 cxwet.com
+cy2077delta.com
 cyadp.com
 cyahoo.com
 cyanlv.com
@@ -16324,7 +16328,6 @@ daintly.com
 dairyfarm-residences-sg.com
 daisapodatafrate.com
 daisuke8310.atsushi78.dev256.xyz
-daisycouture.shop
 daisyura.tk
 dait.cf
 dait.ga
@@ -18210,7 +18213,6 @@ dointo.com
 doitall.tk
 doix.com
 doj.one
-dokankoi.site
 dokhanan.com
 dokifriends.info
 dokin.store
@@ -18569,6 +18571,7 @@ draughtier.com
 draviero.info
 draviero.pw
 dravizor.ru
+dravox.lat
 drawfixer.com
 drawing-new.ru
 drawinginfo.ru
@@ -19841,7 +19844,6 @@ edumaill.edu.pl
 edumomtalk.com
 edunk.com
 edupolska.edu.pl
-edupost.pl
 edurealistic.ru
 edus.edu.pl
 edus.works
@@ -23670,7 +23672,6 @@ food-discovery.net
 food-facts.ru
 food4kid.ru
 foodbooto.com
-foodieinfluence.online
 foodpre.sbs
 foodrestores.com
 foodslosebellyfat.com
@@ -32262,7 +32263,6 @@ ipusku.com
 ipvideo63.ru
 ipxwan.com
 ipyzqshop.com
-iq2fm.anonbox.net
 iq2kq5bfdw2a6.cf
 iq2kq5bfdw2a6.ga
 iq2kq5bfdw2a6.gq
@@ -33445,6 +33445,7 @@ jm407.ml
 jm407.tk
 jmail.com
 jmail.fr.nf
+jmail.lat
 jmail.ovh
 jmail.ro
 jmail7.com
@@ -34816,7 +34817,6 @@ kimachina.com
 kimagure.ccwu.cc
 kimagure1.cc.cd
 kimberly.dania.chicagoimap.top
-kimberlyindustry.shop
 kimberlymed.com
 kimbral.umiesc.pl
 kimbu.net
@@ -41339,6 +41339,7 @@ minhazfb.cf
 minhazfb.ga
 minhazfb.ml
 minhazfb.tk
+minhminclone.click
 minhquang2000.com
 mini-mail.net
 mini.pixymix.com
@@ -44622,6 +44623,7 @@ nigge.rs
 niggetemail.tk
 nightfood.studio
 nightfunmore.online.ctu.edu.gr
+nightgirls.site
 nightmedia.cf
 nightorb.com
 nihennaisi188.cc
@@ -49552,7 +49554,6 @@ ppabldwzsrdfr.ga
 ppabldwzsrdfr.gq
 ppabldwzsrdfr.ml
 ppabldwzsrdfr.tk
-ppat.lol
 ppbanr.com
 ppbk.ru
 ppbomail.com
@@ -56945,7 +56946,6 @@ spacefast.site
 spacehotline.com
 spaceinvadas.com
 spacemail.info
-spacemail.xyz
 spaceonyx.ru
 spacepush.org
 spacewalker.cf
@@ -61906,7 +61906,6 @@ trollproject.com
 trommlergroup.com
 trommleronline.com
 trommlershop.com
-trompetarisca.co
 tron.pl
 tronghao.site
 tronplatform.org
@@ -66073,7 +66072,6 @@ wesyuliyansih469.tk
 weszwestyningrum767.cf
 wet-fish.com
 wet-lip.com
-wetheot.com
 wetrainbayarea.com
 wetrainbayarea.org
 wetters.ml
@@ -70365,7 +70363,6 @@ zoomintens.com
 zoominternet.net.net
 zoomisme.io
 zoomku.pro
-zoomm.site
 zooms.pro
 zoonnet.nl
 zoonti.pl
