@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-13
+# progressive-email-suppression — generated 2026-10-14
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 70606 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 70613 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -9659,7 +9659,6 @@ beymail.com
 beyoncenetworth.com
 beyond-web.com
 beyondreasonabledoubt.co.uk
-beypj.anonbox.net
 bez-odsetek.pl
 bezblednik.pl
 bezill.com
@@ -13278,7 +13277,6 @@ ceremonydresses.net
 ceremonyparty.com
 ceresko.com
 cergon.com
-ceria.cloud
 cerkwa.net
 cerry643.eu.org
 certansia.net
@@ -32357,6 +32355,7 @@ is-zero.info
 is.af
 is35.com
 isa.net
+isaacapcut.sbs
 isabelmarant-sneaker.us
 isabelmarants-neakers.us
 isabelmarantshoes.us
@@ -35137,6 +35136,7 @@ knowledgemd.com
 knowyourfaqs.com
 knoxy.net
 knptest.com
+knssk.anonbox.net
 kntl.me
 knw4maauci3njqa.cf
 knw4maauci3njqa.gq
@@ -38834,6 +38834,7 @@ mail10.ga
 mail10.gq
 mail10.ml
 mail101.xyz
+mail1012.shop
 mail10m.com
 mail11.cf
 mail11.gq
@@ -39719,6 +39720,7 @@ mailtest.ccwu.cc
 mailthink.net
 mailthunder.ml
 mailtic.com
+mailtiktoknew.us
 mailtimail.co.tv
 mailtion.xyz
 mailtmk.com
@@ -45865,6 +45867,7 @@ ocisd.com
 ocketmail.com
 oclouud.com
 ocmail.com
+oconf.lat
 ocotbukanmain.club
 ocourts.org
 ocsonline.com
@@ -50941,6 +50944,7 @@ qmailtgs.com
 qmailv.com
 qmi25.anonbox.net
 qmoil.com
+qmoveq.lat
 qmperehpsthiu9j91c.ga
 qmperehpsthiu9j91c.ml
 qmperehpsthiu9j91c.tk
@@ -52512,6 +52516,7 @@ ret35363ddfk.gq
 ret35363ddfk.ml
 ret35363ddfk.tk
 retailtopmail.cz.cc
+reteme.online
 rethmail.ga
 reticaller.xyz
 retinaonlinesure.com
@@ -59137,6 +59142,7 @@ tarcuttgige.eu
 taresz.ga
 targetcom.com
 targetdb.com
+targo.lat
 tariffenet.it
 tariqa-burhaniya.com
 tarkashastra.com
@@ -69890,6 +69896,7 @@ zenze.cf
 zep-hyr.com
 zepexo.com
 zephrmail.info
+zephyr.lat
 zephyracpro.xyz
 zephyrairconpro.xyz
 zephyramcpro.xyz
