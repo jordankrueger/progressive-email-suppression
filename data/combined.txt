@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-14
+# progressive-email-suppression — generated 2026-10-15
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 70613 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 70627 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4043,6 +4043,9 @@ abingtongroup.com
 abista.space
 ablacja-nie-zawsze.info
 ablacja-nie-zawsze.info.pl
+ablenow.click
+ablenow.shop
+ableway.shop
 ably.co.pl
 abmoney.xyz
 abmr.waw.pl
@@ -4683,7 +4686,6 @@ af2przusu74mjzlkzuk.gq
 af2przusu74mjzlkzuk.ml
 af2przusu74mjzlkzuk.tk
 afalf.bond
-afandi.digital
 afaracuspurcatiidintara.com
 afarek.com
 afarf.bond
@@ -8404,7 +8406,6 @@ babau.nut.cc
 babau.usa.cc
 babayigithukuk.xyz
 babbien.com
-babblehorde.site
 babe-idol.com
 babe-store.com
 babehealth.ru
@@ -8502,6 +8503,7 @@ backwis.com
 backyardduty.com
 backyardfood.com
 backyardgardenblog.com
+backyr.com
 bacninhmail.us
 baconporker.com
 baconsoi.tk
@@ -9631,6 +9633,7 @@ betr.co
 betration.site
 bets-spor.com
 bets-ten.com
+betshubs.com
 better-place.pl
 bettereyesight.store
 betterlink.info
@@ -10184,7 +10187,6 @@ bjpkj.anonbox.net
 bjr3i.anonbox.net
 bjs-team.com
 bjstore.foo
-bjt35.anonbox.net
 bjtbv.anonbox.net
 bju6c.anonbox.net
 bjuyg.anonbox.net
@@ -11135,6 +11137,7 @@ botz.online
 bougenville.ga
 boukshilf.com
 bouldercycles.com
+boulkfout.lol
 boun.cr
 bouncr.com
 bountifulgrace.org
@@ -11689,6 +11692,7 @@ btz3kqeo4bfpqrt.ml
 btz3kqeo4bfpqrt.tk
 bu.mintemail.com
 bu2qebik.xorg.pl
+buaed.anonbox.net
 buatwini.tk
 buayapoker.online
 buayapoker.xyz
@@ -13454,6 +13458,7 @@ charltons.biz
 charm-sexylingerie.com
 charminggirl.net
 charmlessons.com
+charmnow.guru
 charmrealestate.com
 chartef.net
 charter.bet
@@ -14395,7 +14400,6 @@ clonetrust.com
 cloneviptmc1.club
 clonevnmail.com
 clonvn2.com
-closedbyme.com
 closente.com
 closetguys.com
 closeticv.space
@@ -16429,6 +16433,7 @@ daritute.site
 dark-tempmail.zapto.org
 dark.lc
 darkabyss.studio
+darkemail.school
 darkestday.tk
 darkharvestfilms.com
 darknode.org
@@ -20891,6 +20896,7 @@ enroncorp.tk
 enroskadma.com
 ensis.site
 enspinner.com
+ensproxy.com
 ensudgesef.com
 enteremail.us
 enterprise-secure-registration.com
@@ -24243,7 +24249,6 @@ fretice.com
 freunde.ru
 freundin.ru
 frexmail.co.cc
-freyaglam.shop
 frez.com
 frgviana-nedv.ru
 friarystudentmail.com
@@ -26612,6 +26617,7 @@ goldhitbtcpoolhub.cloud
 goldinbox.net
 goldivis.work.gd
 goldleaftobacconist.com
+goldlicai.com
 goldmail.site
 goldmansports.com
 goldpaclk.store
@@ -30898,6 +30904,7 @@ icodimension.com
 icomcast.net
 icon.foundation
 icon256.info
+iconcubic.com
 iconedit.info
 iconfile.info
 iconmal.com
@@ -31642,6 +31649,7 @@ incrediemail.com
 inctart.com
 incubic.pro
 ind.st
+indas.lat
 indeedlebeans.com
 indeedtime.us
 indefathe.xyz
@@ -33844,6 +33852,7 @@ jugglepile.com
 jugqsguozevoiuhzvgdd.com
 jugramh.com
 juhxs.com
+juicehour.com
 juicermachinesreview.com
 juicervital.com
 juicerx.co
@@ -34308,7 +34317,6 @@ karenmillenoutletea.co.uk
 karenmillenoutleter.co.uk
 karenmillenuk4s.co.uk
 karenmillenuker.co.uk
-karenvest.com
 kargoibel.store
 karibbalakata.ml
 karimwave.shop
@@ -42081,6 +42089,7 @@ mora45ktil.io.vn
 morad.cc
 morahdsl.cf
 moralitas.tech
+moravita.com
 morawski.instambox.com
 moreablle.com
 moreawesomethanyou.com
@@ -45008,6 +45017,7 @@ nongzaa.gq
 nongzaa.ml
 nongzaa.tk
 nonicamy.com
+noninoi.us
 nonise.com
 nonohairremovalonline.com
 nonspam.eu
@@ -46098,6 +46108,7 @@ ogrencikredisi.org
 ogrodzenia.pl
 ogu188.com
 ogu7777.net
+ogzmail.com
 ohaaa.de
 ohaauthority.org
 ohamail.com
@@ -47264,6 +47275,7 @@ out.ook.com
 outbacksteakhousecouponshub.com
 outcom.com
 outdaremusicdevon.org
+outdoorgrowhut.com
 outdoorproductsupplies.com
 outdoorslifestyle.com
 outernet.nu
@@ -50051,6 +50063,7 @@ programpit2013rok.pl
 programtv.edu.pl
 progrespolska.net
 progressi8ve.com
+proguidex.com
 prohade.com
 prohisi.store
 proigy.net
@@ -65630,6 +65643,7 @@ way.blatnet.com
 way.bthow.com
 way.oldoutnewin.com
 way.poisedtoshrike.com
+wayable.shop
 wayaengopi.buzz
 ways-to-protect.com
 ways2getback.info
