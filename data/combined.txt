@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-16
+# progressive-email-suppression — generated 2026-10-17
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 70623 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 70618 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -5607,6 +5607,7 @@ alightmotion.icu
 alightmotion.id
 alightmotion.top
 alightmotion.website
+aligolav.shop
 aligreen.top
 aligroup.uk
 alihkan.com
@@ -6951,7 +6952,6 @@ arormail.com
 arowmail.com
 arpahosting.com
 arpizol.com
-arqsis.com
 arrabyte.com
 arrance.freshbreadcrumbs.com
 arrangeditems.website
@@ -8298,7 +8298,6 @@ b3nxdx6dhq.ml
 b3zig.anonbox.net
 b44tz.anonbox.net
 b45y3.anonbox.net
-b4bhw.anonbox.net
 b4jlg.anonbox.net
 b4l3v.anonbox.net
 b4piu.anonbox.net
@@ -9034,7 +9033,6 @@ bdgdn.anonbox.net
 bdgstr.com
 bdm.ovh
 bdmuzic.pw
-bdnets.com
 bdo.io.vn
 bdoindia.co.in
 bdpmedia.com
@@ -12681,7 +12679,6 @@ capcutus.biz.id
 capcvt.es
 capebretonpost.com
 capgenini.com
-capiena.com
 capisci.org
 capital.tk
 capitalistdilemma.com
@@ -13070,7 +13067,6 @@ ccmail.men
 ccmail.uk
 ccn35.com
 ccomast.net
-ccpt.lol
 ccqu.top
 ccre1.club
 ccren9.club
@@ -17854,7 +17850,6 @@ djejgrpdkjsf.com
 djemail.net
 djerseys.com
 djiv.xyz
-djkux.com
 djmftaggb.pl
 djmiamisteve.com
 djmoon.ga
@@ -22245,7 +22240,6 @@ fangxiaobai.us.ci
 fangxiaobai1.us.ci
 fangzi.cf
 fanicle.com
-fanlvr.com
 fannny.cf
 fannny.ga
 fannny.gq
@@ -25620,6 +25614,7 @@ gh2xuwenobsz.tk
 ghamil.com
 ghan.com
 ghanalandbank.com
+ghania.site
 ghastlynursyahid.biz
 ghcptmvqa.pl
 ghcrublowjob20127.com
@@ -26517,6 +26512,7 @@ goc0knoi.tk
 gocampready.com
 gocardless.dev
 gocasin.com
+gochat.lat
 gochicagoroofing.com
 gocyb.org
 god-from-the-machine.com
@@ -27402,7 +27398,6 @@ gt4px.anonbox.net
 gt7.pl
 gta.com
 gta4etw4twtan53.gq
-gta5hx.com
 gtbanger.com
 gtcmnt.pl
 gterebaled.com
@@ -30212,6 +30207,7 @@ huge.ruimz.com
 hugesale.in
 hugofairbanks.com
 hugohost.pl
+huhu8686.us
 huiledargane.com
 huizk.com
 huj.pl
@@ -37734,6 +37730,7 @@ lostpositive.xyz
 lotmail.net
 lotteryfordream.com
 lotto-wizard.net
+lotto.lat
 lottoresults.ph
 lottoryshow.com
 lottosend.ro
@@ -38077,7 +38074,6 @@ lucifergmail.tk
 lucigenic.com
 luck-win.com
 luckboy.pw
-luckence.com
 luckfeed.com
 luckindustry.ru
 luckjob.pw
@@ -41160,6 +41156,7 @@ mickey-discount.info
 mickeyandjohnny.com
 mickeymart.com
 micksbignightout.info
+micro.lat
 microcenter.io
 microcreditoabruzzo.it
 microfibers.info
@@ -43613,7 +43610,6 @@ nash.ml
 nashapoultryshop.com
 nashvilledaybook.com
 nashvillestreettacos.com
-nasibasi.online
 nasinyang.cf
 nasinyang.ga
 nasinyang.gq
@@ -44014,6 +44010,7 @@ netacbo.pt
 netaccessman.com
 netaccount.shop
 netarchive.buzz
+netaxistech.com
 netcaabo.pt
 netcab.pt
 netcabo.ppt
@@ -45246,6 +45243,7 @@ npajjgsp.pl
 npas.de
 npfd.de
 npfd.gq
+npfz6.anonbox.net
 nphcsfz.pl
 npoexp.us
 npofgo90ro.com
@@ -47836,7 +47834,6 @@ paraska.host
 parasluhov.ru
 paratrabajar.xyz
 parcel4.net
-parcival-store.net
 parclan.com
 pardisyadak.com
 parelay.org
@@ -49572,7 +49569,6 @@ ppbanr.com
 ppbk.ru
 ppbomail.com
 ppc-e.com
-ppcc.lol
 ppcmedia.co
 ppdf.cc
 ppedu.pp.ua
@@ -49597,7 +49593,6 @@ ppri.com
 ppshua.icu
 ppst4.com
 pptrvv.com
-pptv.lol
 ppx219.com
 ppx225.com
 ppymail.win
