@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-17
+# progressive-email-suppression — generated 2026-10-18
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 70618 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 70614 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4524,6 +4524,7 @@ adsd.org
 adsensekorea.com
 adsgiare.vn
 adshine.click
+adsjii.xyz
 adspecials.us
 adsprite.com
 adstellara.com
@@ -6239,7 +6240,6 @@ anheakao.xyz
 anhiqojkaq1.abrdns.com
 anhmaybietchoi.com
 anhthu.org
-anhudsb.com
 anhvip9999.com
 anhxyz.ml
 ani24.de
@@ -9966,6 +9966,7 @@ bildirio.com
 biletsavia.ru
 bilgisevenler.com
 biliberdovich.ru
+bilingva-ca.info
 bilingva-ca.store
 bill-consolidation.info
 bill.pikapiq.com
@@ -14998,6 +14999,7 @@ comespiareuncellulare.info
 comespiareuncellularedalpc.info
 cometclear.com
 comethi.xyz
+cometlumen.com
 cometoclmall.com
 comexa.uk
 comfast.net
@@ -16234,6 +16236,7 @@ da-da-da.ga
 da-da-da.gq
 da-da-da.ml
 da-da-da.tk
+da74y.anonbox.net
 daabox.com
 daaiyurongfu.com
 daawah.info
@@ -19032,6 +19035,7 @@ dusnedesigns.ml
 dusrui.com
 dust.marksypark.com
 dustinry.com
+dustmail.net
 dustysyawalina.biz
 dutchconnie.com
 dutchfemales.info
@@ -21369,7 +21373,6 @@ etherealplunderer.com
 ethereum1.top
 ethersports.org
 ethersportz.info
-ethicaldhinda.biz
 ethicalencounters.org.uk
 ethiccouch.xyz
 ethicy.com
@@ -24320,7 +24323,6 @@ frostaircon.xyz
 frostamcdubai.xyz
 frostfixit.xyz
 frostmail.fr.nf
-frostmail.site
 frostsplit.xyz
 frostycoolservice.xyz
 frostyfixit.xyz
@@ -27652,7 +27654,6 @@ gyigfoisnp560.ml
 gyikgmm.pl
 gykf.hair
 gyknife.com
-gym1.online
 gymlesstrainingsystem.com
 gyn5.com
 gynn.org
@@ -36853,7 +36854,6 @@ linkdominobet.me
 linked-in.ir
 linkedindiscount.com
 linkedintuts2016.pw
-linkfieldhub.com
 linkfieldrun.com
 linkfixweb.com
 linkhivezone.com
@@ -38618,6 +38618,7 @@ mail-apps.com
 mail-apps.net
 mail-box.ml
 mail-boxes.ru
+mail-burn.com
 mail-c.cf
 mail-c.ga
 mail-c.gq
@@ -40179,7 +40180,6 @@ markableytrust.org.uk
 markandvirginiarometty.org
 markapia.com
 markaspoker88.com
-market-re.quest
 market177.ru
 marketal.com
 marketconow.com
@@ -41204,7 +41204,6 @@ migro.co.uk
 migserver2.gq
 migserver2.ml
 miguecunet.xyz
-miguel2k.online
 migumail.com
 mih-team.com
 mihanmail.ir
@@ -42009,6 +42008,7 @@ monopici.ml
 monopolitics.xyz
 monopolyempiretreasurehunt.com
 monorailnigeria.com
+monotensor.com
 monotv.store
 monporn.net
 monsaustraliaa.com
@@ -42156,6 +42156,7 @@ moto4you.pl
 motorcitymaintenance.com
 motorcycleserivce.info
 motorisation.ga
+mototoke.click
 mottel.fr
 mottenarten.ga
 mouadim.tk
@@ -43943,6 +43944,7 @@ neoeon.com
 neoghost.com
 neomailbox.com
 neon.waw.pl
+neonorbitx.com
 neopetcheats.org
 neosaumal.com
 neosilico.com
@@ -43951,6 +43953,7 @@ neotlozhniy-zaim.ru
 neotrade.ru
 neoven.us
 neovortex.tokyo
+neowavehub.com
 neowd.com
 nepal-nedv.ru
 nephisandeanpanflute.com
@@ -46283,7 +46286,6 @@ olahdi.cloud
 olahoo.com
 olaytacx.top
 olc.one
-olcasevdan.cfd
 old-recipes.com
 old.blatnet.com
 old.cowsnbullz.com
@@ -47980,6 +47982,7 @@ pawgpt.nl
 pawobby.cfd
 pawssentials.com
 pawtopup.com
+paxeluni.com
 paxlys.com
 paxnw.com
 paxven.com
@@ -49019,7 +49022,6 @@ plussizecorsets4sale.com
 plussized.xyz
 plussmail.com
 plussparknet.com
-plussparkzen.com
 plutocow.com
 plutofox.com
 pluzauo.shop
@@ -49385,7 +49387,6 @@ pornoseti.com
 pornosexe.biz
 pornosiske.com
 porororebus.top
-porry.store
 porsh.net
 porsilapongo.cl
 port-to-port.com
@@ -51434,7 +51435,6 @@ raanank.com
 raaninio.ml
 rabaz.org
 rabbit10.tk
-rabdevis.online
 rabidsammich.com
 rabihtech.xyz
 rabin.ca
@@ -53515,7 +53515,6 @@ rubble.3amail.top
 rubeg.com
 rubiro.ru
 rubygon.com
-rubytk39hd.shop
 rucls.com
 rudelyawakenme.com
 ruderclub-mitte.de
@@ -55472,7 +55471,6 @@ shannonyaindgkil.com
 shantiom.gq
 shaonianpaideqihuanpiaoliu.com
 shapoo.ch
-shapps.online
 shapsugskaya.ru
 shareacarol.com
 sharebot.net
@@ -56169,7 +56167,6 @@ sksdkwlrgoeksf.com
 sksfullskin.ga
 sksjs.com
 sksks.com
-skssh.anonbox.net
 sktzmobile.com
 skue.com
 skuno.click
@@ -59123,7 +59120,6 @@ taol.com
 taomail.web.id
 taosbet.com
 taosjw.com
-tapbuybox.com
 tapchicuoihoi.com
 tape.favbat.com
 tapecompany.com
