@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-18
+# progressive-email-suppression — generated 2026-10-19
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 70614 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 70624 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3478,6 +3478,7 @@
 93k0ldakr6uzqe.tk
 93re.com
 940qs.com
+9411ehcsztin.mw
 942gmail.com
 943gmail.com
 944gmail.com
@@ -8304,7 +8305,6 @@ b4piu.anonbox.net
 b4pp7.anonbox.net
 b4sf2.anonbox.net
 b4uc7.anonbox.net
-b4urd.anonbox.net
 b4vv7.anonbox.net
 b4vvn.anonbox.net
 b4ygw.anonbox.net
@@ -9004,6 +9004,8 @@ bchatz.ga
 bcle.de
 bcm.edu.pl
 bcmail.pro
+bcnet.store
+bcnetlite.xyz
 bcompiled3.com
 bcooq.com
 bcp33.anonbox.net
@@ -10346,6 +10348,7 @@ bloc.quebec
 block-this-for-gambling.cloud-ip.cc
 block.bdea.cc
 block521.com
+blockare.site
 blockbusterhits.info
 blockdigichain.com
 blocked-drains-bushey.co.uk
@@ -14295,6 +14298,7 @@ clearcoolhvactech.xyz
 clearcutcreative.com
 clearhabitpath.com
 clearmail.online
+clearpathblog.com
 clearstackr.site
 clearwaterarizona.com
 clearwatercpa.com
@@ -14396,7 +14400,6 @@ clonetrust.com
 clonevip.click
 cloneviptmc1.club
 clonevnmail.com
-clonvn2.com
 closente.com
 closetguys.com
 closeticv.space
@@ -16372,6 +16375,7 @@ damnthespam.com
 damon.1amail.top
 damonmorey.com
 damowang.eu.cc
+damphen.org
 damptus.co.pl
 dams.pl
 damvl.site
@@ -26469,6 +26473,7 @@ gnsk6gdzatu8cu8hmvu.gq
 gnsk6gdzatu8cu8hmvu.ml
 gnsk6gdzatu8cu8hmvu.tk
 gnumail.com
+gnwm3.anonbox.net
 gnwpwkha.pl
 gnwzqaz.shop
 go-blogger.ru
@@ -34342,6 +34347,7 @@ kasandraava.livefreemail.top
 kasb7.anonbox.net
 kasdewhtewhrfasaea.vv.cc
 kashi-sale.com
+kashre.com
 kasihtahuaja.xyz
 kasik1250.shop
 kasmabirader.com
@@ -36081,6 +36087,7 @@ lapste.net
 laptopbeddesk.net
 laptopcooler.me
 laptoplonghai.com
+laptopnamdinh.com
 laptoptechie.com
 laputs.co.pl
 laraes.pl
@@ -38078,6 +38085,7 @@ luckfeed.com
 luckindustry.ru
 luckjob.pw
 luckmail.us
+lucktaro.com
 lucktoc.com
 lucky.bthow.com
 lucky.wiki
@@ -39265,6 +39273,7 @@ mailhost.bid
 mailhost.com
 mailhost.top
 mailhost.win
+mailhotvippro.com
 mailhound.com
 mailhub.online
 mailhub.pro
@@ -41342,6 +41351,7 @@ minhazfb.cf
 minhazfb.ga
 minhazfb.ml
 minhazfb.tk
+minhmin.click
 minhminclone.click
 minhminpro.click
 minhquang2000.com
@@ -43078,6 +43088,7 @@ mygmail.com
 mygoldenmail.co
 mygoldenmail.com
 mygoldenmail.online
+mygoo.vip
 mygourmetcoffee.net
 mygrammarly.co
 mygreatarticles.info
@@ -44107,6 +44118,7 @@ netris.net
 netscapezs.com
 netscspe.net
 netsolutions.top
+netsurferzone.com
 nettmail.com
 netu.site
 netuygun.online
@@ -46750,6 +46762,7 @@ oohotmail.online
 oohsecrets.com
 ooi.com.br
 ooikfjeojg.com
+ooioo.tech
 ookfmail.com
 ookkkuw.jungleheart.com
 oolk.com
@@ -52413,7 +52426,6 @@ renydox.com
 reollink.com
 reorganize953mr.online
 reovipvpn.top
-rep.biz.id
 repaemail.bz.cm
 repairannual365.xyz
 repairgarhoud.xyz
@@ -53831,7 +53843,6 @@ s48aaxtoa3afw5edw0.ml
 s48aaxtoa3afw5edw0.tk
 s4all.nl
 s4cbj.anonbox.net
-s4ngnm.xyz
 s4qpc.anonbox.net
 s4sfoundation.org.uk
 s51zdw001.com
@@ -54878,7 +54889,6 @@ securityfirstbook.com
 securox.com
 sedapetnya.guru
 sedasagreen01try.tk
-sedateviana.io
 sedekah-mudah.com
 sedexo.com
 sedric.ru
@@ -65616,7 +65626,6 @@ watsawang.com
 wattpad.pl
 wavecable.com.com
 waventra.cfd
-wavewon.com
 wavleg.com
 waw.indevs.in
 wawa990.pl
@@ -68053,6 +68062,7 @@ xz8syw3ymc.tk
 xzavier1121.club
 xzcameras.com
 xzcn.me
+xzcoot.com
 xzcsrv70.life
 xzdhmail.tk
 xzephzdt.shop
