@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-19
+# progressive-email-suppression — generated 2026-10-20
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 70624 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 70620 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4426,7 +4426,6 @@ adek.orge.pl
 adel.asia
 adelaide.bike
 adelaideoutsideblinds.com.au
-adelechic.shop
 adelinabubulina.com
 adelpia.net
 adengo.ru
@@ -7410,6 +7409,7 @@ athohn.site
 athomewealth.net
 athoo.com
 atica.edus.edu.pl
+atiko.lat
 atinjo.com
 atinto.co
 atinvestment.pl
@@ -7564,7 +7564,6 @@ auoie.com
 auol.com
 auolethtgsra.uni.cc
 auon.org
-auraity.com
 auralfix.com
 auralith.cfd
 auraness.com
@@ -11255,7 +11254,6 @@ bqm2dyl.com
 bqmjotloa.pl
 bqsaptri.ovh
 bqv36.anonbox.net
-bqxy4.anonbox.net
 br.mintemail.com
 br5l6.anonbox.net
 br6qtmllquoxwa.cf
@@ -12385,7 +12383,6 @@ ca.verisign.ga
 ca.verisign.gq
 caainpt.com
 cab22.com
-cabaininin.io
 cabal72750.co.pl
 cabekeriting99.com
 cabezonoro.cl
@@ -16213,6 +16210,7 @@ d7bpgql2irobgx.ga
 d7bpgql2irobgx.gq
 d7bpgql2irobgx.ml
 d7lw7.anonbox.net
+d7zz5.anonbox.net
 d8tiya6.camdvr.org
 d8u.us
 d8wjpw3kd.pl
@@ -31673,7 +31671,6 @@ indianecommerce.com
 indianview.com
 indidn.xyz
 indieclad.com
-indieglam.shop
 indiego.pw
 indigobook.com
 indigomail.info
@@ -51214,7 +51211,6 @@ quizitaly.com
 quizr.org
 qukv.skin
 quml.skin
-quockhanh8686.top
 quodro.com
 quorixia.cfd
 quossum.com
@@ -57854,7 +57850,6 @@ storrent.net
 story.favbat.com
 storybuddies.online
 storyburn.com
-storyhive-company.online
 storypo.com
 stovepartes1.com
 stpaulsgrammaralumniusa.org
@@ -63261,6 +63256,7 @@ upatient.com
 upc.infos.st
 upcmaill.com
 update1c.ru
+updatehyper.com
 updates9z.com
 upelmail.com
 uperig.com.br
