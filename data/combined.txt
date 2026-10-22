@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-21
+# progressive-email-suppression — generated 2026-10-22
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71725 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71726 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2341,7 +2341,6 @@
 551gmail.com
 553gmail.com
 5555gmail.com
-555888.icu
 555gmail.com
 555ur.com
 5566178.com
@@ -7046,7 +7045,6 @@ arthiq.life
 arthiq.world
 arthlink.net
 arthritisxpert.com
-arthurgerex.network
 articlearistrocat.info
 articlebase.net
 articlebigshot.info
@@ -7173,6 +7171,7 @@ asdasd.co
 asdasd.nl
 asdasd.ru
 asdasd1231.info
+asdasdasd.cfd
 asdasdasd.com
 asdasdd.com
 asdasdfds.com
@@ -9013,6 +9012,7 @@ bbdoifs.com
 bbdownz.com
 bbe54.anonbox.net
 bbehu.anonbox.net
+bbem3.anonbox.net
 bbestssafd.com
 bbetweenj.com
 bbfz.makeup
@@ -16579,7 +16579,6 @@ dangerousmailer.com
 dangersdesmartphone.site
 dangkibum.xyz
 dangkydinhdanh.online
-danhchinh.link
 danhpro.top
 danica1121.club
 danielmunoz.es
@@ -28181,6 +28180,7 @@ h9otmail.com
 h9tmail.com
 ha.luk2.com
 ha92.store
+haadishah.co.uk
 haagsekillerclan.tk
 haanhwedding.com
 haanmaail.net
@@ -30876,6 +30876,7 @@ hypori.us
 hypotan.site
 hypotekyonline.cz
 hyprhost.com
+hyproxy.lol
 hypteo.com
 hysaryop8.pl
 hysilens.store
@@ -45432,6 +45433,7 @@ nm123.com
 nm5905.com
 nm7.cc
 nmail.cf
+nmail.lat
 nmail.nett
 nmailtop.ga
 nmailv.com
@@ -46478,7 +46480,6 @@ obo.kr
 obobbo.com
 oborudovanieizturcii.ru
 oboymail.ga
-observantmarcelina.net
 obserwatorbankowy.pl
 obtechglobal.com
 obtqadqunonkk1kgh.cf
@@ -56530,6 +56531,7 @@ shotshe.com
 shoturl.top
 shoulderlengthhairstyles.biz
 shouldpjr.com
+shouong.com
 showartcenter.com
 showbaz.com
 showboxmovies.site
@@ -59962,7 +59964,6 @@ taphear.com
 tapi.re
 tapiitudulu.com
 tapsitoaktl353t.ga
-taptoplab.com
 tar00ih60tpt2h7.cf
 tar00ih60tpt2h7.ga
 tar00ih60tpt2h7.gq
@@ -62912,6 +62913,7 @@ trydeal.com
 tryeverydrop.com
 tryhiveclick.com
 tryhivekey.com
+tryjetrun.com
 trymail.tk
 tryninja.io
 trynta.com
@@ -65214,7 +65216,6 @@ vhntp15yadrtz0.tk
 vhobbi.ru
 vhoff.com
 vhouse.site
-vhzvo.anonbox.net
 vi1ilpa.mywire.org
 via-paypal.com
 via.foo.ng
