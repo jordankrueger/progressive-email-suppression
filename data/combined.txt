@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-22
+# progressive-email-suppression — generated 2026-10-23
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71726 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71731 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -1665,6 +1665,7 @@
 377gmail.com
 3782wqk.targi.pl
 37gmail.com
+37xiao.com
 380gmail.com
 381gmail.com
 383gmail.com
@@ -4824,6 +4825,7 @@ ag95.gq
 ag95.ml
 ag95.tk
 agabg.bond
+agaexpress.com
 agagmail.com
 agallagher.id
 agamail.com
@@ -6680,7 +6682,6 @@ apixy.sbs
 apklitestore.com
 apkmd.com
 apkshake.com
-apleo.com
 aplikacje.com
 aplo.me
 apluson.xyz
@@ -8894,7 +8895,6 @@ baseflowpro.com
 baselogicroute.com
 basemindway.com
 baseny-mat.com.pl
-baseon.click
 basepathgrid.com
 baserda.net
 baserelief.ru
@@ -12280,6 +12280,7 @@ bxs1yqk9tggwokzfd.ga
 bxs1yqk9tggwokzfd.ml
 bxs1yqk9tggwokzfd.tk
 bxsvc.anonbox.net
+bxz7e.anonbox.net
 by-simply7.tk
 by.cowsnbullz.com
 by.heartmantwo.com
@@ -22702,7 +22703,6 @@ fastmailnode.com
 fastmailnow.com
 fastmailplus.com
 fastmails.club
-fastmails.info
 fastmailservice.info
 fastmailtoyougo.site
 fastmazda.com
@@ -26991,6 +26991,7 @@ goldmansports.com
 goldpaclk.store
 goldpaws.com
 goldringsstore.net
+goldvester.com
 goldvote.org
 goldwarez.org
 golead.pro
@@ -29240,6 +29241,7 @@ hirekuq.tk
 hiremystyle.com
 hirenet.net
 hirikajagani.com
+hiringview.com
 hiroyuki2210.sho28.kiesag.xyz
 hiroyuki2910.akio64.yourfun.xyz
 hiroyuki710.haru19.toptorrents.top
@@ -29682,6 +29684,7 @@ hootspaddepadua.eu
 hooverexpress.net
 hop2.xyz
 hopeence.com
+hopefunder.com
 hopemail.biz
 hopesx.com
 hopoverview.com
@@ -33942,7 +33945,6 @@ jnthn39vr4zlohuac.gq
 jnthn39vr4zlohuac.ml
 jnthn39vr4zlohuac.tk
 jnwexkd.giize.com
-jnww3.anonbox.net
 jnxjn.com
 jnyfyxdhrx85f0rrf.cf
 jnyfyxdhrx85f0rrf.ga
@@ -38055,7 +38057,6 @@ loghning469.cf
 loghusnah2.cf
 logicfieldzen.com
 logiclaser.com
-logicpathbid.com
 logicstreak.com
 logifixcalifornia.store
 logike708.cf
@@ -42409,6 +42410,7 @@ mobiw.site
 mobiwireless.com
 mobiy.site
 mobk.site
+moblha.com
 moblibrary.com
 mobm.site
 mobo.press
@@ -46631,6 +46633,7 @@ of.blatnet.com
 of.cowsnbullz.com
 of.marksypark.com
 ofacchecking.com
+ofags.com
 ofanda.com
 ofaw.com
 ofdow.com
@@ -49638,6 +49641,7 @@ playcell.fun
 player-midi.info
 players501.info
 playersmails.com
+playfine.com
 playforfun.ru
 playforpc.icu
 playfortunaonline.ru
@@ -56408,6 +56412,7 @@ shitmail.ml
 shitmail.org
 shitmail.tk
 shitposting.agency
+shitty.email
 shittymail.cf
 shittymail.ga
 shittymail.gq
@@ -61547,7 +61552,6 @@ timewillshow.com
 timgiarevn.com
 timgmail.com
 timkassouf.com
-timkiems.com
 timothyjsilverman.com
 timspeak.ru
 tin.iit
@@ -61901,6 +61905,7 @@ tmpemails.com
 tmpeml.com
 tmpeml.info
 tmpjr.me
+tmpkit.com
 tmpmail.net
 tmpmail.org
 tmpmailtor.com
