@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-23
+# progressive-email-suppression — generated 2026-10-24
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71731 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71735 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4492,7 +4492,6 @@ adlinks.org
 admail.com
 admin-ru.ru
 admin4cloud.net
-administraplus.delivery
 administrativo.world
 admiralwe.us
 admiraq.site
@@ -7630,7 +7629,6 @@ auolethtgsra.uni.cc
 auon.org
 auralfix.com
 auralith.cfd
-auraness.com
 auraqq.com
 aureliajobs.com
 aureliandata.space
@@ -9784,6 +9782,7 @@ bg4llrhznrom.ga
 bg4llrhznrom.gq
 bg4llrhznrom.ml
 bg4llrhznrom.tk
+bg5ld.anonbox.net
 bg6i6.anonbox.net
 bgbed.anonbox.net
 bgboad.ga
@@ -11234,6 +11233,7 @@ botmetro.com
 botnet.my.id
 botox-central.com
 bots.com
+bottele.app
 bottesuggds.com
 bottomav.com
 botz.online
@@ -13468,6 +13468,7 @@ cfskrxfnsuqck.gq
 cfskrxfnsuqck.ml
 cfskrxfnsuqck.tk
 cftcmaf.com
+cftest.lat
 cfvgftv.in
 cfyawstoqo.pl
 cg.luk2.com
@@ -15535,6 +15536,7 @@ cotocheetothecat12.com
 cottage-delight.com
 cottagefarmsoap.com
 cottagein.ru
+cotton.lat
 cottonandallen.com
 cottononloverz.com
 cottonsleepingbags.com
@@ -31061,6 +31063,7 @@ i8tvebwrpgz.ga
 i8tvebwrpgz.gq
 i8tvebwrpgz.ml
 i8tvebwrpgz.tk
+ia-bot.lat
 ia4stypglismiks.cf
 ia4stypglismiks.ga
 ia4stypglismiks.gq
@@ -34940,7 +34943,6 @@ kcmh5.anonbox.net
 kcoporation.com
 kcql.hair
 kcrw.de
-kcum7.anonbox.net
 kcya.skin
 kd2.org
 kdesignstudio.com
@@ -36829,6 +36831,7 @@ leasswsiue.org
 leatherjackets99.com
 leatherprojectx.com
 leave-notes.com
+leaveness.com
 leaver.ru
 lebab.nl
 lebadge.com
@@ -38129,6 +38132,7 @@ loketa.com
 lokin.tech
 lokka.net
 lokmynghf.com
+lokoiat.top
 lokote.com
 lokum.nu
 lol.it
@@ -47661,7 +47665,6 @@ oravantis.cfd
 oravell.cfd
 orbit25k.io.vn
 orbitforce.com
-orbitjolly.com
 orbitnew.net
 orbitxhive.com
 orbixacoa.com
@@ -48623,7 +48626,6 @@ pastryofistanbul.com
 pastycarse.pl
 pasukanganas.tk
 patacore.com
-patance.com
 patandlornaontwitter.com
 patch.6amail.top
 patchde.icu
@@ -49171,6 +49173,7 @@ pezda.com
 pezhub.org
 pezmail.biz
 pfgvreg.com
+pfinbox.com
 pflege-schoene-haut.de
 pfmretire.com
 pfui.ru
@@ -57424,7 +57427,6 @@ snpsex.ga
 snrise.ch
 snsanfcjfja.com
 snugmail.net
-snvpro.online
 snx7rm3ba.web.id
 so-com.tk
 so-net.cf
@@ -60586,6 +60588,7 @@ tempmail-3.net
 tempmail-4.net
 tempmail-5.net
 tempmail.at
+tempmail.au
 tempmail.bearzi.it
 tempmail.best
 tempmail.cc
@@ -60637,6 +60640,7 @@ tempmailid.com
 tempmailid.net
 tempmailid.org
 tempmailin.com
+tempmailnow.io
 tempmailo.com
 tempmailr.com
 tempmails.cf
@@ -65979,6 +65983,7 @@ vps911.net
 vpsadminn.com
 vpsbots.com
 vpscloudvntoday.com
+vpsdeo.app
 vpsfox.com
 vpsjqgkkn.pl
 vpslists.com
@@ -68241,7 +68246,6 @@ xamog.com
 xandermemo.info
 xandoria.cfd
 xanno.sld.tw
-xanva.site
 xapimail.top
 xaralabs.com
 xartis89.co.uk
