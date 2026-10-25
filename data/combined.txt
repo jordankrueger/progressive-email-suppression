@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-24
+# progressive-email-suppression — generated 2026-10-25
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71735 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71730 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8675,6 +8675,7 @@ bakar.bid
 bakecakecake.com
 bakerhughs.com
 bakertaylor.com
+bakhr.anonbox.net
 bakkenoil.org
 bakulanaws.com
 bakulcod.club
@@ -11512,6 +11513,7 @@ brigittacynthia.art
 brilleka.ml
 brillionhistoricalsociety.com
 brillob.com
+brindesmarcelodoism.shop
 bring-luck.pw
 bringluck.pw
 bringmea.org.ua
@@ -16392,7 +16394,6 @@ d7bpgql2irobgx.cf
 d7bpgql2irobgx.ga
 d7bpgql2irobgx.gq
 d7bpgql2irobgx.ml
-d7lw7.anonbox.net
 d7zz5.anonbox.net
 d8tiya6.camdvr.org
 d8u.us
@@ -16709,7 +16710,6 @@ datingwebs.info
 datingworld.com
 datingx.co
 dationish.site
-datoinf.com
 datokyo.com
 datosat.com
 datphuyen.net
@@ -23591,6 +23591,7 @@ fishmail.mineweb.in
 fishnone.com
 fishpomd.com
 fishtropic.com
+fishx.sbs
 fishyes.info
 fissi.theworkpc.com
 fistikci.com
@@ -23606,7 +23607,6 @@ fitfopsaleonline.com
 fitheads.com
 fitmapgate.com
 fitmapsmart.com
-fitmindgate.com
 fitnesrezink.ru
 fitness-exercise-machine.com
 fitness-weight-loss.net
@@ -23660,7 +23660,6 @@ fixscal.com
 fixtech24x7.xyz
 fixthiserror.com
 fixthisrecipe.com
-fixwap.com
 fixwindowserror-doityourself.com
 fixxashop.xyz
 fixyourbrokenrelationships.com
@@ -23966,7 +23965,6 @@ focusdezign.com
 focussedbrand.com
 fodl.net
 fog.one
-fogdiver.com
 fogkkmail.com
 fogmart.com
 fogzx.click
@@ -24182,7 +24180,6 @@ foxja.com
 foxmaily.com
 foxnetwork.com
 foxnew.info
-foxroids.com
 foxschool.edu
 foxspizzanorthhuntingdon.com
 foxtrotter.info
@@ -34473,7 +34470,6 @@ justdoit132.ml
 justdoit132.tk
 justdomain84.ru
 justemail.ml
-justep.news
 justfortodaynyc.com
 justfreemails.com
 justinbiebershoesforsale.com
@@ -42260,7 +42256,6 @@ mmmo.us.ci
 mmmv.ru
 mmnjooikj.com
 mmo.us.ci
-mmo2000.asia
 mmo365.co.uk
 mmo365.store
 mmo55.com
@@ -56005,7 +56000,6 @@ serveroutsource.net
 serverpro.cf
 serversiap.com
 serverwarningalert.com
-servetecenaz.network
 servetselcuk.cfd
 service-911.ru
 service4.ml
@@ -60254,6 +60248,7 @@ techxs.dx.am
 tecninja.xyz
 tecnosmail.com
 tecnotutos.com
+tecso.lat
 tectronica.com
 tedace.com
 tedale.com
