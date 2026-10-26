@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-25
+# progressive-email-suppression — generated 2026-10-26
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71730 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71734 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8459,7 +8459,6 @@ baanr.com
 baasdomains.info
 baatz33.universallightkeys.com
 baazo.anonbox.net
-bab72.anonbox.net
 bababox.info
 baban.ml
 babaratomaria.com
@@ -23361,7 +23360,6 @@ filet.site
 filetodrive.com
 fileu.site
 filevino.com
-filewise.biz.id
 filex.site
 filey.site
 fileza.site
@@ -23885,6 +23883,7 @@ flyeragency.com
 flyernyc.com
 flyerzwtxk.com
 flyfrv.tk
+flyhie.sbs
 flyhubs.top
 flyinggeek.net
 flyingjersey.info
@@ -26357,6 +26356,7 @@ gloriousfuturedays.com
 glorylandconnections.com
 gloservma.com
 glossier-group.com
+glovaiptv.com
 glovebranders.com
 glovesprotection.info
 glowend.xyz
@@ -34177,7 +34177,6 @@ joymail.cyou
 joynet.info
 joystill.com
 joytakip.xyz
-joytoc.com
 joywavelab.com
 joywavepoint.com
 jp-ml.com
@@ -45081,6 +45080,7 @@ ngobram.my.id
 ngocminhtv.com
 ngocsita.com
 ngolearning.info
+ngominhkhue.me
 ngontol.com
 ngowscf.pl
 ngrave.digital
@@ -53055,6 +53055,7 @@ relmarket.com
 relmosophy.site
 relopment.site
 relrb.com
+relrd.com
 relscience.us
 relumyx.com
 relvok.site
@@ -58702,6 +58703,7 @@ streamfly.biz
 streamfly.link
 streaming.cash
 streamingku.live
+streamsuboperation.cfd
 streamtv.biz.id
 streamtv2pc.com
 streamup.ru
@@ -59170,6 +59172,7 @@ supj.site
 supk.site
 suplemento.club
 suples.pl
+supliss.online
 supn.site
 supo.site
 supoa.site
@@ -59912,7 +59915,6 @@ tandlplith.se
 tandy.co
 tang-zxc.xyz
 tangarinefun.com
-tangeriin.com
 tanglewoodstudios.com
 tango-card.com
 tangocharlie.101livemail.top
@@ -63476,6 +63478,7 @@ u5tbrlz3wq.gq
 u5tbrlz3wq.ml
 u5tbrlz3wq.tk
 u6lvty2.com
+u7btp.anonbox.net
 u7cjl8.xorg.pl
 u7vt7vt.cf
 u7vt7vt.ga
@@ -65287,6 +65290,7 @@ victoryforanimals.com
 victoryheightsmaintenance.com
 victorysvg.com
 vidasole.com
+viday.lat
 vidchart.com
 vide0c4ms.com
 videeotron.ca
