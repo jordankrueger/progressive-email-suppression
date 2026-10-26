@@ -6,7 +6,7 @@
 #
 # Two parallel reviews run on every PR to main:
 #   1. OpenAI gpt-5.3-codex — logic bugs, error handling, edge cases, data integrity
-#   2. Anthropic claude-code-security-review — security-specific checks
+#   2. Anthropic claude-code-security-review (Sonnet 5.5; skipped on docs/image-only PRs)
 #
 # Both must pass for the PR to merge (enforce via branch protection).
 
@@ -400,18 +400,36 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha || github.sha }}
           fetch-depth: 2
 
+      # Skips the paid review (job still passes) when every changed file is docs or
+      # images. Not paths-ignore: a required check that never starts blocks the merge.
+      # Fails open: if the file list can't be read, the review runs.
+      - name: Check for docs/image-only PR
+        id: scope
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          files="$(gh api --paginate "repos/${{ github.repository }}/pulls/$PR/files" --jq '.[].filename')" || files=""
+          code="$(printf '%s\n' "$files" | grep -Eiv '\.(md|mdx|txt|png|jpe?g|gif|webp|avif|ico|pdf)$' || true)"
+          if [ -n "$files" ] && [ -z "$code" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Docs/images only: skipping the paid security review."
+          fi
+
       - name: Patch retired Haiku 3.5 model in security-review action
         # Upstream hardcodes claude-3-5-haiku-20241022 (retired 2026-02-19) in
         # validate_api_access(); the 404 silently turns off the false-positive
         # filter. Harmless no-op once upstream fixes it
         # (anthropics/claude-code-security-review#139).
         # The SHA below must match the `uses:` pin; a mismatch fails this step loudly.
+        if: steps.scope.outputs.skip != 'true'
         run: |
           f="$RUNNER_WORKSPACE/../_actions/anthropics/claude-code-security-review/0c6a49f1fa56a1d472575da86a94dbc1edb78eda/claudecode/claude_api_client.py"
           sed -i 's/claude-3-5-haiku-20241022/claude-haiku-4-5-20251001/g' "$f"
           grep -Hn 'model="claude' "$f"
 
       - name: Run Claude security review
+        if: steps.scope.outputs.skip != 'true'
         # Dedicated security-review action: auths with a plain Anthropic API key —
         # no GitHub App / OIDC, so no per-repo app install and no self-modifying-PR
         # workflow-validation failure. Pinned by commit SHA (no release tags exist);
@@ -419,6 +437,8 @@ jobs:
         uses: anthropics/claude-code-security-review@0c6a49f1fa56a1d472575da86a94dbc1edb78eda
         with:
           claude-api-key: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Action default was Opus 4.8 ($5/$25 per MTok); Sonnet 5.5 is $2/$10 (2026-10-26).
+          claude-model: claude-sonnet-5-5
           comment-pr: true
           # Self-terminate under the job's timeout-minutes (10) so a slow run finishes
           # cleanly instead of being hard-killed mid-analysis (action default is 20m).
