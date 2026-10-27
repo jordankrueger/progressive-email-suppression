@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-26
+# progressive-email-suppression — generated 2026-10-27
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71734 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71771 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -6954,6 +6954,7 @@ ariaz.jetzt
 aribeth.ru
 aridasarip.ru
 arido.ir
+arifachmad.com
 arigo.site
 ariking.com
 arimlog.co.uk
@@ -8729,6 +8730,7 @@ bananadream.site
 bananamail.org
 bananamails.info
 bananashakem.com
+bananaspace.shop
 banancaocap.com
 banca.sld.tw
 banclone.pro
@@ -9782,6 +9784,7 @@ bg4llrhznrom.ga
 bg4llrhznrom.gq
 bg4llrhznrom.ml
 bg4llrhznrom.tk
+bg56n.anonbox.net
 bg5ld.anonbox.net
 bg6i6.anonbox.net
 bgbed.anonbox.net
@@ -9814,7 +9817,6 @@ bgult.anonbox.net
 bgx.ro
 bgyfr.anonbox.net
 bgyiacczy.top
-bh3zw.anonbox.net
 bh4lh.org
 bh4qt.anonbox.net
 bh5zr.anonbox.net
@@ -11291,6 +11293,7 @@ boxmailbox.club
 boxmailers.com
 boxnavi.com
 boxnexa.com
+boxnguyenlieumeta.com
 boxofficevideo.com
 boxomail.live
 boxs5.anonbox.net
@@ -12769,6 +12772,7 @@ cantsleep.gq
 canuster.xyz
 canvaedu.id
 canvasarttalk.com
+canvaspace.shop
 canvasshoeswholesalestoress.info
 canvect.com
 canyouhearmenow.cf
@@ -14861,6 +14865,7 @@ codeh.site
 codei.site
 codej.site
 codel.site
+codeledmail.com
 codem.site
 codemail1.com
 codeo.site
@@ -15459,6 +15464,7 @@ copley.entadsl.com
 copot.info
 copperemail.com
 copperstream.club
+coppersurfer.site
 copyandart.de
 copycashvalve.com
 copyhome.win
@@ -15963,6 +15969,7 @@ cssu.edu
 csupes.com
 csuzetas.com
 csvcialis.com
+csvlark.me
 csw4s.anonbox.net
 csx-1.store
 cszbl.com
@@ -17369,7 +17376,6 @@ devij.site
 devin.lat
 devinaaureel.art
 devinmariam.coayako.top
-deviouswiraswati.biz
 devla.site
 devlb.site
 devlc.site
@@ -18250,6 +18256,7 @@ dnsdujeskd.com
 dnses.ro
 dnsink.com
 dnslog.tech
+dnsprism.me
 dntsmsekjsf.com
 dnyx.online
 do.cashbenties.com
@@ -20067,6 +20074,7 @@ educationvn.tk
 educharved.site
 educourse.xyz
 edudingy.cfd
+eduemail.me
 edugmail.bond
 edugonext.in
 eduheros.com
@@ -21173,6 +21181,7 @@ entrens.com
 entribod.xyz
 entropy.email
 entrum.cz
+entrynow.sbs
 entuziast-center.ru
 enu.kr
 env.tools
@@ -22531,6 +22540,7 @@ fancyzuhdi.net
 fandamtastic.info
 fandemic.co
 fandoe.com
+fanfanhenkuai.xyz
 fangeradelman.com
 fangoh.com
 fangxiaobai.us.ci
@@ -26241,6 +26251,7 @@ glasscanisterheaven.com
 glasses88.com
 glassesoutletsaleuk.co.uk
 glassesoutletuksale.co.uk
+glasswhitehub.com
 glassworks.cf
 glastonventures.net
 glastore.ar
@@ -28458,6 +28469,7 @@ happygoluckyclub.com
 happyheadshed.org
 happyhealthyveggie.com
 happyhome.eu.cc
+happyhorsespace.shop
 happykorea.club
 happykoreas.xyz
 happymail.guru
@@ -28841,6 +28853,7 @@ heinz-reitbauer.art
 heirfoundation.com
 heisei.be
 heissenpfefferfarms.com.com
+heiuse.com
 heixs.com
 hekarro.com
 helamakbeszesc.com
@@ -30586,6 +30599,7 @@ huangniu8.com
 huany.net
 huationgjk888.info
 huaweisdk.com
+hubaiclass.org
 hubglee.com
 hubhost.store
 hubii-network.com
@@ -34272,6 +34286,7 @@ jsjns.com
 jskypedo.com
 jsnc.cloud
 jsncos.com
+jsonmender.me
 jsonp.ro
 jsrsolutions.com
 jsvojfgs.pl
@@ -36458,6 +36473,7 @@ lak.pp.ua
 lakarstwo.info
 lakarunyha65jjh.ga
 lakefishingadvet.net
+lakeground.shop
 lakelivingstonrealestate.com
 lakemneadows.com
 lakeplacid2009.info
@@ -36543,6 +36559,7 @@ langitserver.biz
 lanipe.com
 lankew.com
 lanoixe.com
+lanstudio.top
 lantofe.ga
 lanuiopl.bond
 lanvos.com
@@ -40424,6 +40441,7 @@ makeraura.online
 makertrial.com
 makeshopping.pp.ua
 makesnte.com
+makesomestone.shop
 makethebadmanstop.com
 makeun.de
 makeupneversleeps.com
@@ -40738,6 +40756,7 @@ mark-compressoren.ru
 mark-sanchez2011.info
 mark234.info
 markableytrust.org.uk
+markaihub.shop
 markandvirginiarometty.org
 markapia.com
 markaspoker88.com
@@ -40763,6 +40782,7 @@ marklewitz.com
 markmurfin.com
 marko.lat
 marksearcher.com
+markstonehub.org
 marlboro-ez-cigarettes.com
 marloni.com.pl
 marmaryta.com
@@ -41808,6 +41828,7 @@ mikeesprem.shop
 mikeformat.org
 mikelson.online
 mikelsonmail.site
+mikesomelike.shop
 mikesweb6.com
 mikfarm.com
 miki7.site
@@ -42662,6 +42683,7 @@ moonpiemail.com
 moonran.com
 moons.7amail.top
 moonshine.4amail.top
+moonstarsun.shop
 moonwake.com
 mooo.com
 mooo.ml
@@ -44142,6 +44164,8 @@ nam.su
 namail.com
 namakuirfan.com
 nambi-nedv.ru
+namdev-mail-01.bond
+namdev-mail-01.cyou
 namdevmail2.qzz.io
 namdong.site
 nameaaa.myddns.rocks
@@ -45170,6 +45194,7 @@ nicefreshtexts.site
 nicegarden.us
 nicegashs.info
 nicegirl5.me
+niceground.shop
 nicejoke.ru
 nicelibbook.site
 nicelibbooks.site
@@ -46657,6 +46682,7 @@ officemanagementinfo.com
 officepoland.com.pl
 offices.freshbreadcrumbs.com
 officesupport.fun
+officesurvive.com
 officetechno.ru
 official-colehaan.com
 official-louisvuitton.com
@@ -48869,6 +48895,7 @@ pdfsx.site
 pdfsy.site
 pdfsz.site
 pdft.site
+pdftinker.me
 pdfu.site
 pdfw.site
 pdfy.site
@@ -49112,7 +49139,6 @@ perspectivescs.org
 pertera.com
 perthusedcars.co.uk
 pertinem.ml
-pertinenthersavira.net
 pertok.com
 peru-nedv.ru
 peruss.biz.id
@@ -51795,6 +51821,7 @@ qqzymail.win
 qrav.com
 qrd6gzhb48.xorg.pl
 qreciclas.com
+qrmason.me
 qrmta.works
 qropspensionadvice.com
 qropspensiontransfers.com
@@ -55341,6 +55368,7 @@ schaden.net
 schafmail.de
 schaufell.pl
 scheduleer.com
+schemastash.me
 schiborschi.ru
 schift.com
 schilderkunst.de
@@ -55671,6 +55699,7 @@ see.lakemneadows.com
 see.makingdomes.com
 see.marksypark.com
 seed.ml
+seedancespace.shop
 seedcorn.foundation
 seedscommerce.com
 seedspeed.site
@@ -57631,6 +57660,7 @@ somerandomdomains.com
 somersetoil.com
 somervillepartners.net
 somesite.com
+somestoneair.shop
 sometainia.site
 somethingsirious.com
 somniasound.com
@@ -57946,7 +57976,6 @@ spararam.ru
 sparkfilter.online
 sparkfilter.xyz
 sparkletoc.com
-sparkling.vn
 sparkmail.top
 sparkmate.lat
 sparkpool.info
@@ -58301,6 +58330,7 @@ sskmail.top
 ssl-aktualisierung-des-server-2019.icu
 ssl.tls.cloudns.asia
 sslclaims.com
+sslglance.me
 sslglobalnetwork.com
 sslporno.ru
 sslsecurecert.com
@@ -58566,6 +58596,7 @@ stokyards.info
 stomach4m.com
 stomatogomail.ru
 stomatolog.pl
+stoneground.shop
 stonesinwater.com
 stonesmails.cz.cc
 stonvpshostelx.com
@@ -59034,6 +59065,7 @@ sunise.ch
 sunmail.ga
 sunmail.gq
 sunmail.ml
+sunmoonlight.shop
 sunmulti.com
 sunnyblogexpress.com
 sunnysamedayloans.co.uk
@@ -59058,6 +59090,7 @@ sunshine94.in
 sunshineautocenter.com
 sunshineskilled.info
 sunsol300.com
+sunstarmoon.shop
 sunster.com
 sunstones.biz
 suntory.ga
@@ -59353,6 +59386,7 @@ svda.com
 svds.de
 sverta.ru
 svetims.com
+svgmend.me
 svigrxpills.us
 svil.net
 sviodd.com
@@ -60861,6 +60895,7 @@ textmedude.ga
 textmedude.gq
 textmedude.ml
 textmedude.tk
+textpivot.me
 textprayer.com
 textpro.site
 textsave.net
@@ -65018,6 +65053,7 @@ vercelli.cf
 vercelli.ga
 vercelli.gq
 vercelli.ml
+vercelspace.shop
 vercmail.com
 verdecapitalresources.com.com
 verdejo.com
@@ -69050,6 +69086,7 @@ xxxu.fun
 xxxvideos.com
 xxxxilo.com
 xxxxx.cyou
+xxymail.me
 xxyxi.com
 xxzyr.com
 xy1qrgqv3a.cf
