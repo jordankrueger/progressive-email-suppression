@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-27
+# progressive-email-suppression — generated 2026-10-28
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71771 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71770 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -9902,6 +9902,7 @@ bibucabi.gq
 bibucabi.ml
 bicie.my.id
 bicrun.info
+bid3w.anonbox.net
 bidcoin.cash
 biden.com
 bidly.pw
@@ -11279,6 +11280,7 @@ boxem.store
 boxermail.info
 boxfi.uk
 boxformail.in
+boxguangan.com
 boximail.com
 boxlet.ru
 boxlet.store
@@ -23051,6 +23053,7 @@ femdom-here.com
 femdomfan.net
 femdomfree.net
 femingwave.xyz
+femme.lat
 femmestyle.name
 femmestyle.or.at
 femqi.click
@@ -29142,7 +29145,6 @@ hidvex.site
 hidzz.com
 hiemail.net
 hieu.in
-hieu0971927498.com
 hieuclone.com
 hieuclone.net
 hiflt.click
@@ -31604,6 +31606,7 @@ igpond.net.au
 igqtrustee.com
 igrat-v-igrovie-avtomati.com
 igri.cc
+igrounehb.com
 igrovieavtomati.org
 igsvmail.com
 igtook.org
@@ -35460,7 +35463,6 @@ kivoid.blog
 kiwkiw.shop
 kiworegony.com
 kiwsz.com
-kiyoapk.web.id
 kiz.rip
 kiziwi.xyz
 kj-a.cc
@@ -38623,7 +38625,6 @@ luckindustry.ru
 luckjob.pw
 luckmail.us
 lucktaro.com
-lucktoc.com
 lucky.bthow.com
 lucky.wiki
 luckyladydress.com
@@ -48922,7 +48923,6 @@ peakac.xyz
 peakairconfix.xyz
 peakengineeringdubai.xyz
 peakfixkey.com
-peakfizz.com
 peakinbox.net
 peakinstallations24x7.xyz
 peakkutsutenpojp.com
@@ -55182,7 +55182,6 @@ saukute.me
 saungadaid.biz.id
 saungadaid.pro
 sausen.com
-sauto.me
 savageattitude.com
 savagemods.com
 save-on-energy.org
@@ -61527,6 +61526,7 @@ tiffanyelite.com
 tiffanypower.com
 tiffincrane.com
 tigasu.com
+tigger.lat
 tigo.tk
 tigoco.tk
 tigpe.com
@@ -62936,6 +62936,7 @@ trusttravellive.biz
 trusttravellive.info
 trusttravellive.net
 trusttravellive.travel
+truta.lat
 truthaboutcellulitereviews.com
 truthfinderlogin.com
 truthmaker.top
@@ -66846,7 +66847,6 @@ webpiko.top
 webpix.ch
 webpoets.info
 webpro24.ru
-webpromailbox.com
 webprospekt24.ru
 webproton.site
 webscash.com
@@ -69880,7 +69880,6 @@ ycomcast.net
 ycxrd1hlf.pl
 ycykly.com
 yd2yd.org
-yd3jj.anonbox.net
 ydah.me
 ydeclinegv.com
 ydgeimrgd.shop
