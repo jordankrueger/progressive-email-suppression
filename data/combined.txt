@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-28
+# progressive-email-suppression — generated 2026-10-29
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71770 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71761 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4642,7 +4642,6 @@ aegis-conference.eu
 aegiscorp.net
 aegiswe.us
 aegoneinsurance.cf
-aeimpu.es
 aeissy.com
 aeliatinos.com
 aelo.es
@@ -7724,7 +7723,6 @@ autosdis.ru
 autoshake.ru
 autosouvenir39.ru
 autosportgallery.com
-autospozarica.com
 autosseminuevos.org
 autostupino.ru
 autotest.ml
@@ -8742,7 +8740,6 @@ bandar389a.com
 bandariety.xyz
 bandcalledmill.com
 bandera.bond
-bandmuflikhun.biz
 bandsoap.com
 bandspeed.com
 bandtoo.com
@@ -8979,6 +8976,7 @@ bazavashdom.info
 bazmool.com
 bazoocam.co
 bazookagoldtrap.com
+bazq3.anonbox.net
 bazreno.com
 bazybgumui.pl
 bb-a.top
@@ -11222,7 +11220,6 @@ bostonhydraulic.com
 bostonplanet.com
 bot.cd
 bot.nu
-bot3n.anonbox.net
 botasky.eu.cc
 botasuggm.com
 botasuggsc.com
@@ -12294,7 +12291,6 @@ by.lakemneadows.com
 by.poisedtoshrike.com
 by6tz.anonbox.net
 by8006l.com
-by9.lol
 byagu.com
 byahoo.com
 byakuya.com
@@ -13133,7 +13129,6 @@ cbdpowerflower.com
 cbdw.pl
 cbes.net
 cbgh.ddns.me
-cbghot.com
 cbhb.com
 cbjunkie.com
 cbnd.online
@@ -13862,7 +13857,6 @@ checkedity.com
 checkemail.biz
 checkmatemail.info
 checknew.pw
-checknow.online
 checknowmail.com
 checkotpmail.com
 checkout.lakemneadows.com
@@ -23764,6 +23758,7 @@ flatimostore.cloud
 flatoledtvs.com
 flatteringsandita.biz
 flauntify.com
+flavia.lat
 flavourity.com
 flaxpeople.info
 flaxpeople.org
@@ -24113,6 +24108,7 @@ formedisciet.site
 formodapk.com
 formserwis.pl
 fornow.eu
+forogise.com
 forore.ru
 forotenis.com
 forprice.co
@@ -35290,7 +35286,6 @@ kieea.com
 kiejls.com
 kielon.pl
 kierastyle.shop
-kieravogue.shop
 kierko.com
 kigwa.com
 kiham.club
@@ -39167,6 +39162,7 @@ maia.aniyah.coayako.top
 maidlow.info
 maidy.sld.tw
 maife.sld.tw
+maihienphucthanh.com
 maiil.bg
 maiil.com
 maiil.ru
@@ -51050,7 +51046,6 @@ ptsculure.com
 ptsejahtercok.online
 pttj.de
 ptusnet.com.au
-pu-c.lol
 puabook.com
 puanghli.com
 puapickuptricksfanboy.com
@@ -51772,7 +51767,6 @@ qovnz.cfd
 qp-tube.ru
 qpalong.com
 qpaud9wq.com
-qpdishwhd.buzz
 qpdm.beer
 qpfoejkf2.com
 qpi8iqrh8wtfpee3p.ga
@@ -51953,7 +51947,6 @@ quid4pro.com
 quikdrop.space
 quiline.com
 quillet.eu
-quimail.site
 quimbanda.com
 quintalaescondida.com
 quintania.top
@@ -56732,7 +56725,6 @@ simemia.co
 similarians.xyz
 simillegious.site
 simmanllc.com
-simoaudio.live
 simoka.sbs
 simoka73.vv.cc
 simple-mail-server.bid
@@ -61947,7 +61939,6 @@ tmpmail.org
 tmpmailtor.com
 tmpnator.live
 tmpx.sa.com
-tms.sale
 tms12.com
 tmtdoeh.com
 tmtfdpxpmm12ehv0e.cf
@@ -65300,7 +65291,6 @@ vibi4f1pc2xjk.tk
 vibzi.net
 vicard.net
 vicceo.com
-vicentejurado.es
 vices.biz
 vicimail.com
 vicious.life
@@ -66440,6 +66430,7 @@ walmartsshop.com
 walmarttonlines.com
 walna.sld.tw
 walnuttree.com
+walrus.lat
 walter01.ru
 walterandnancy.com
 waltin.site
