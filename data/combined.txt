@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-10-31
+# progressive-email-suppression — generated 2026-11-01
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71889 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71903 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -1337,6 +1337,7 @@
 2ez6l4oxx.pl
 2f2tisxv.bij.pl
 2fdgdfgdfgdf.tk
+2fmng.anonbox.net
 2gear.ru
 2gep2ipnuno4oc.cf
 2gep2ipnuno4oc.ga
@@ -4831,6 +4832,7 @@ aganseo.com
 agapetus.info
 agar.co.pl
 agartstudio.com.pl
+agatha.lat
 agave.buzz
 agcd.com
 agdrtv.com
@@ -7555,7 +7557,7 @@ attefs.site
 attemptify.com
 attendness.com
 attention.support
-atticus-finch.es
+attgency.com
 attn.et
 attn.net
 attnetwork.com
@@ -8575,6 +8577,7 @@ backwis.com
 backyardduty.com
 backyardfood.com
 backyardgardenblog.com
+backyardorbit.me
 backyr.com
 bacninhmail.us
 baconporker.com
@@ -10158,6 +10161,7 @@ birbakmobilya.com
 bird-gifts.net
 bird.favbat.com
 birdbabo.com
+birdharbor.me
 birdion.com
 birdsfly.press
 birecruit.com
@@ -11495,6 +11499,7 @@ brevionix.cfd
 brevisionarch.xyz
 brevitron.cfd
 brevn.net
+brewlyric.me
 brewstudy.com
 brex.sld.tw
 brflix.com
@@ -12217,6 +12222,7 @@ buzzcol.com
 buzzcompact.com
 buzzcut.ws
 buzzdating.info
+buzzloom.fun
 buzzsocial.tk
 buzzuoso.com
 buzzvirale.xyz
@@ -14574,6 +14580,7 @@ clonemailsieure.com
 clonemoi.tk
 clonenpa.com
 clonere.net
+cloneshop24h.com
 clonetop1.shop
 clonetrust.com
 clonevip.click
@@ -15712,6 +15719,7 @@ craet.top
 craft.bthow.com
 craftinc.com
 craftlures.com
+craftmirth.me
 crafttheweb.com
 craftyplaytime.com
 crankengine.net
@@ -17641,6 +17649,7 @@ dibbler7.pl
 dibon.site
 dibteam.xyz
 dibtec.store
+diceparlor.me
 dicerollplease.com
 diceservices.com
 dichalorli.xyz
@@ -23807,6 +23816,7 @@ flaxx.ru
 flayeraaron.eu.cc
 flayerhu.eu.cc
 flcarpetcleaningguide.org
+fldubai.com
 fleckens.hu
 fleeebay.com
 fleetcommercialfinance.org
@@ -24650,6 +24660,7 @@ friendlymail.co.uk
 friendlyorbit.cyou
 friendsack.com
 friendsofbram.com
+frigo.lat
 frintier.com
 friontier.com
 friscaa.cf
@@ -28087,7 +28098,6 @@ gxuzi.com
 gxxx.com
 gxybkq6.theworkpc.com
 gyagwgwgwgsusiej70029292228.cloudns.cl
-gyahh.anonbox.net
 gyahoo.com
 gyan-netra.com
 gyhunter.org
@@ -37384,7 +37394,6 @@ lilspam.com
 lilsuite.id
 lilyclears.com
 lilylee.com
-lilywear.shop
 lilzyy.com
 lilzyy.site
 limahfjdhn89nb.tk
@@ -37451,7 +37460,6 @@ linkedindiscount.com
 linkedintuts2016.pw
 linkfieldrun.com
 linkfixweb.com
-linkhivezone.com
 linki.lat
 linki321.pl
 linkjetdata.com
@@ -38270,7 +38278,6 @@ longmonkey.info
 longmontpooltablerepair.com
 longsbkt.xyz
 longshot.2amail.top
-longsieupham.online
 lonker.net
 lonrahtritrammail.com
 lonthe.ml
@@ -45644,7 +45651,6 @@ noclegiwsieci.com.pl
 noclickemail.com
 nocp.ru
 nocp.store
-nocturnalresha.io
 nocturne.7amail.top
 nocujunas.com.pl
 nod03.ru
@@ -47329,7 +47335,6 @@ online.nno
 online.no.no
 online.noo
 online.on
-online.xn--6frz82g
 online5.ru
 onlineaccutaneworldpills.com
 onlineadultwebcam.com
@@ -48719,6 +48724,7 @@ passwordhacking.net
 passwort.schwarzmail.ga
 past-line.com
 pastcraze.xyz
+pastcrumbs.me
 pastebinn.com
 pastebitch.com
 pasterlia.site
@@ -49723,6 +49729,7 @@ plant1plant.com
 plantcarbs.com
 plantfeels.com
 planto.net
+plantporch.me
 plants61.instambox.com
 plantsvszombies.ru
 planworker.pro
@@ -52044,6 +52051,7 @@ quicksend.ch
 quicksend17.click
 quicktv.xyz
 quid4pro.com
+quietdetour.me
 quikdrop.space
 quiline.com
 quillet.eu
@@ -52985,6 +52993,7 @@ ree.fr
 reebnz.com
 reediffmail.com
 reeducaremagrece.com
+reelpicnic.me
 reemail.hu
 reenet.de
 reestore.site
@@ -53482,6 +53491,7 @@ reymisterio.com
 reynox.com
 rezalabs.shop
 rezato.com
+rezeptegesunde.com
 rezkavideo.ru
 rezoth.ml
 rezumenajob.ru
@@ -56447,6 +56457,7 @@ sheinup.com
 shejumps.org
 shelbymattingly.com
 sheless.xyz
+shelfsonnet.me
 shelvem.com
 shemy.site
 shengxia.asia
@@ -58668,6 +58679,7 @@ stewartsimmonsvfd.org
 stexsy.com
 stg.malibucoding.com
 stgeorgefire.com
+stgodanang.com
 sthaniyasarkar.com
 stick-tube.com
 stiedemann.com
@@ -61736,6 +61748,7 @@ tinyhost-temp.v6.army
 tinyhost.dns.army
 tinyhost.v6.navy
 tinymill.org
+tinyroomlife.me
 tinyshortcuts.click
 tinytimer.org
 tinyurl24.com
@@ -66643,7 +66656,6 @@ waroengmail.app
 waroengmail.com
 waroengpremium.com
 waroengpt.com
-waroengto.my.id
 warplavua.space
 warptwo.com
 warren.com
@@ -67030,6 +67042,7 @@ weeco.me
 weeds.6amail.top
 weedseedsforsale.com
 weekendemail.com
+weekendwok.me
 weekfly.com
 weekprime.com
 weekzs.icu
@@ -68641,6 +68654,7 @@ xiangshan.eu.cc
 xiaoche.ggff.net
 xiaoguaishou.icu
 xiaohuangyu.ccwu.cc
+xiaokong.site
 xiaolone.com
 xiaominglu88.com
 xiaomitvplus.com
