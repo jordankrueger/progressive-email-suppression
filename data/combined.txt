@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-01
+# progressive-email-suppression — generated 2026-11-02
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71903 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71921 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -448,6 +448,7 @@
 10minutmail.pl
 10mt.cc
 10pmdesign.com
+10timer.com
 10vpn.info
 10x.es
 10x9.com
@@ -4811,6 +4812,7 @@ aftttrwwza.com
 afun.com
 afunthingtodo.com
 afuture.date
+afuyo.com
 afw.fr.nf
 afyonbilgisayar.xyz
 ag.us.to
@@ -5121,6 +5123,7 @@ aips.store
 aipuma.com
 aiqisp.com
 aiqoe.com
+aiqseo.com
 air-blog.com
 air-bubble.bedzin.pl
 air-inbox.com
@@ -11359,6 +11362,7 @@ bpvi.ga
 bpvi.gq
 bpvi.ml
 bpvi.tk
+bq3sr.anonbox.net
 bq45o.anonbox.net
 bq6t2.anonbox.net
 bqaxcaxzc.com
@@ -11644,7 +11648,6 @@ bs6bjf8wwr6ry.cf
 bs6bjf8wwr6ry.ga
 bs6bjf8wwr6ry.gq
 bs6bjf8wwr6ry.ml
-bs6mr.anonbox.net
 bsaloving.com
 bsbhz1zbbff6dccbia.cf
 bsbhz1zbbff6dccbia.ga
@@ -17837,6 +17840,7 @@ dinve.xubi.org
 diokgadwork.ga
 diolang.com
 diomandreal.online
+dioramafern.me
 diornz.com
 diosasdelatierra.com
 dioscolwedddas.3-a.net
@@ -18798,7 +18802,6 @@ dpwlvktkq.pl
 dpxqczknda.pl
 dqhs.site
 dqkerui.com
-dqmail.org
 dqnwara.com
 dqpw7gdmaux1u4t.cf
 dqpw7gdmaux1u4t.ga
@@ -20772,6 +20775,7 @@ emailforyounow.com
 emailfowarding.com
 emailfoxi.pro
 emailfreedom.ml
+emailfutureme.com
 emailgap.com
 emailgen.uk
 emailgenerator.de
@@ -21030,6 +21034,7 @@ emmail.com
 emmail.info
 emmailoon.com
 emmajulissa.kyoto-webmail.top
+emman.my.id
 emmasart.com
 emmasmale.com
 emmys.life
@@ -21746,6 +21751,7 @@ etwienmf7hs.gq
 etwienmf7hs.ml
 etxe.com
 etxm.gq
+etymoasis.me
 etzdnetx.com
 etzg.de5.net
 eu.blatnet.com
@@ -24989,7 +24995,6 @@ fusu.sld.tw
 futbolcafe11.xyz
 futcost.online
 futcost.ru
-futilesandilata.net
 futuramarketing.we.bs
 futuramind.com
 futuraseoservices.com
@@ -28295,6 +28300,7 @@ hadal.net
 hadanu.us
 haddo.eu
 hadigel.net
+hadjoy.com
 hadmins.com
 haeac.com
 hafan.sk
@@ -29363,7 +29369,6 @@ hitlerbehna.com
 hitmail.co
 hitmail.es
 hitmail.us
-hitmanz02.online
 hitmildot.com
 hitprice.co
 hitsfit.com
@@ -35527,6 +35532,7 @@ kiuyutre.ml
 kivdg.click
 kivoid.blog
 kiwkiw.shop
+kiwof.com
 kiworegony.com
 kiwsz.com
 kiz.rip
@@ -37564,6 +37570,7 @@ liteb.site
 litec.site
 liteclubsds.com
 lited.site
+litedl.com
 litedrop.com
 litee.site
 litef.site
@@ -38713,6 +38720,7 @@ lueyonder.co.uk
 lufaf.com
 luffygadgets.com
 luggagetravelling.info
+lugiz.com
 luhman16.lavaweb.in
 luhupo.com
 luilkkgtq43q1a6mtl.cf
@@ -44048,6 +44056,7 @@ mytempdomain.tk
 mytempemail.com
 mytempmail.com
 mytempmail.org
+mythmarsh.me
 mythnick.club
 mythoughtsexactly.info
 mytivilebonza.com
@@ -46570,7 +46579,6 @@ obelisk4000.gq
 obeliskenterprises.co
 obemail.com
 obermail.com
-obesekisbianti.biz
 obesityhelp.online
 obest.com.br
 obet889.online
@@ -46850,6 +46858,7 @@ ofth3crumrhuw.tk
 ofvn.com
 og.com.br
 og2j06b2y.xorg.pl
+ogcover.com
 ogeco.ca
 ogemail.com
 ogers.com
@@ -49418,6 +49427,7 @@ phuongpt9.tk
 phuongsimonlazy.ga
 phuotngay.com
 phus8kajuspa.cu.cc
+phuturemail.com
 phymail.info
 phymix.de
 phyones.com
@@ -50437,6 +50447,7 @@ pr4y.web.id
 pr7979.com
 prac6m.xyz
 practicalsight.com
+practicys.com
 practitionergrowthinstitute.com
 practoso.com
 prada-bags-outlet.org
@@ -51643,6 +51654,7 @@ qcomcast.net
 qcvsziiymzp.edu.pl
 qd.je
 qd28max.eu.cc
+qdoit.com
 qdrwriterx.com
 qe41hqboe4qixqlfe.gq
 qe41hqboe4qixqlfe.ml
@@ -52052,7 +52064,6 @@ quicksend17.click
 quicktv.xyz
 quid4pro.com
 quietdetour.me
-quikdrop.space
 quiline.com
 quillet.eu
 quimbanda.com
@@ -53403,6 +53414,7 @@ ret35363ddfk.gq
 ret35363ddfk.ml
 ret35363ddfk.tk
 retailtopmail.cz.cc
+retech.lat
 reteme.online
 retep.com.au
 rethmail.ga
@@ -54463,6 +54475,7 @@ runmail.info
 runmail.xyz
 running-mushi.com
 runningdivas.com
+runpebble.me
 runqx.com
 runrunrun.net
 ruomvpp.com
@@ -57308,6 +57321,7 @@ slwedding.ru
 sly.3amail.top
 sly.io
 slyouthuk.org
+smaau.com
 smack.email
 smailpost.info
 smailpostin.net
@@ -57868,6 +57882,7 @@ soulinluv.com
 soulsuns.com
 souma.duckdns.org
 soumail.info
+soundattic.me
 soundclouddownloader.info
 sounditems.com
 soundmovie.biz
@@ -59530,6 +59545,7 @@ swaidaindustry.org
 swamex.email
 swanticket.com
 swap.name.ng
+swapagrawal.work.gd
 swapfinancebroker.org
 swapinsta.com
 swaps.ml
@@ -61555,6 +61571,7 @@ three.fackme.gq
 threecreditscoresreview.com
 threekitteen.site
 threepp.com
+thriftmorrow.me
 thrma.com
 throam.com
 throopllc.com
@@ -63078,7 +63095,6 @@ try.z9.cloudns.nz
 tryalert.com
 trydeal.com
 tryeverydrop.com
-tryhiveclick.com
 tryhivekey.com
 tryjetrun.com
 trymail.tk
@@ -64180,6 +64196,7 @@ unicobd.com
 unicodeworld.com
 unicorntoday.com
 unicredit.tk
+unidas.lat
 unidoxx.com
 unids.com
 unif8nthemsmnp.cf
@@ -68582,6 +68599,7 @@ xeosa9gvyb5fv.tk
 xeoty.com
 xeovo.ru
 xepa.ru
+xeramail.com
 xerizon.net
 xermo.info
 xerontech.com
