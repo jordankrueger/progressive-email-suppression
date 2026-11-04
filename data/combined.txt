@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-03
+# progressive-email-suppression — generated 2026-11-04
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71926 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71915 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -909,7 +909,6 @@
 1sj2003.com
 1slate.com
 1smail.top
-1smailbr.top
 1spcziorgtfpqdo.cf
 1spcziorgtfpqdo.ga
 1spcziorgtfpqdo.gq
@@ -6046,7 +6045,6 @@ amerilinkmail.com
 ameriteh.net
 amertech.net
 amerusa.online
-ametitas.com
 amex-online.ga
 amex-online.gq
 amex-online.ml
@@ -8481,6 +8479,7 @@ babau.mywire.org
 babau.nut.cc
 babau.usa.cc
 babayigithukuk.xyz
+babayshop.id
 babbien.com
 babe-idol.com
 babe-store.com
@@ -10239,6 +10238,7 @@ bityemedia.com
 bitymails.us
 bitzonasy.info
 biubiuwholeworld.cn
+biukv.anonbox.net
 biumemail.com
 biuranet.pl
 biuro-naprawcze.pl
@@ -11349,6 +11349,7 @@ bpghmag.com
 bph4i.anonbox.net
 bpham.info
 bphwk.anonbox.net
+bpihh.anonbox.net
 bplinlhunfagmasiv.com
 bpmsound.com
 bpool.site
@@ -18078,7 +18079,6 @@ divaroni.com
 diveexpeditions.com
 divermail.com
 diverseness.ru
-diverseperdiawan.co
 diversify.us
 diversitycheckup.com
 divestops.com
@@ -18985,7 +18985,6 @@ dropcode.ru
 dropcourse.net
 dropd.ru
 drope.ml
-dropeso.com
 dropfresh.net
 dropinboxes.com
 dropjar.com
@@ -19377,7 +19376,6 @@ dvspitfuh434.tk
 dvx.dnsabr.com
 dw.now.im
 dwa.wiadomosc.pisz.pl
-dwakm.com
 dwango.cf
 dwango.ga
 dwango.gq
@@ -20048,7 +20046,6 @@ edge.blatnet.com
 edge.cowsnbullz.com
 edge.marksypark.com
 edge.ploooop.com
-edgenestlab.com
 edgepodlab.com
 edger.dev
 edgetopgrid.com
@@ -23456,7 +23453,6 @@ filezx.site
 filezy.site
 filflix.site
 filipinoweather.info
-filipx.com
 fillnoo.com
 film-blog.biz
 film-tv-box.ru
@@ -28513,7 +28509,6 @@ haomei456.com
 haoniubia.cc
 haosuhong.com
 haotmail.com
-haotuwu.com
 haoyunlaiba.cc
 happenhotel.com
 happiseektest.com
@@ -35068,7 +35063,6 @@ keepmyshitprivate.com
 keepsave.club
 keepyourshitprivate.com
 keeta.lat
-keevle.com
 kehangatan.ga
 keheddd.store
 kehine.com
@@ -36052,7 +36046,6 @@ kroniks.com
 krouter.net
 krovanaliz.ru
 krovatka.su
-krpbroadcasting.com
 krsw.sonshi.cf
 krsw.tk
 krte3562nfds.cf
@@ -38554,7 +38547,6 @@ lovingnessday.net
 lovingr3co.ga
 lovisvuittonsjapan.com
 lovitolp.com
-lovleo.com
 lovlyn.com
 lovomon.com
 lovxwyzpfzb2i4m8w9n.cf
@@ -47905,7 +47897,6 @@ oskarstalbergcitygenerator.com
 oslermedical.com
 osmo.ooguy.com
 osmom.justdied.com
-osmqg.anonbox.net
 osmqgmam5ez8iz.cf
 osmqgmam5ez8iz.ga
 osmqgmam5ez8iz.gq
@@ -48789,7 +48780,6 @@ pawfullyfit.com
 pawgpt.nl
 pawobby.cfd
 pawssentials.com
-pawtopup.com
 paxeluni.com
 paxlys.com
 paxnw.com
@@ -49381,7 +49371,6 @@ phimteen.net
 phkp446e.orge.pl
 phmail.site
 phmail.us
-phobicpatiung.biz
 phoe.com
 phoenixdate.com
 phoenixstyle.com
@@ -67030,7 +67019,6 @@ webuser.in
 webweb.marver-coats.marver-coats.xyz
 webwolf.co.za
 webxio.pro
-webxios.pro
 webylist.com
 webyzonerz.com
 wecanmakehit.win
@@ -70727,6 +70715,7 @@ yu7ahoo.com
 yuahoo.com
 yuandex.ru
 yubc.com
+yucaipabomb.com
 yuduma.com
 yue.universallightkeys.com
 yueluqu.cn
