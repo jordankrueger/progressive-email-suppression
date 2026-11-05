@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-04
+# progressive-email-suppression — generated 2026-11-05
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71915 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71930 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3987,6 +3987,7 @@ abb.dns-cloud.net
 abb.dnsabr.com
 abba.co.pl
 abbaji.emailind.com
+abbellerfani.co.uk
 abbelt.com
 abbeyrose.info
 abbuzz.com
@@ -6356,7 +6357,6 @@ annanakal.ga
 annapayday.net
 annarahimah.ml
 annasblog.info
-annavogue.shop
 annazahra.cf
 annd.us
 anneholdenlcsw.com
@@ -7639,6 +7639,7 @@ auraqq.com
 aureliajobs.com
 aureliandata.space
 aurelstyle.ru
+aurensess.com
 auria.lat
 auris.lat
 auroracontrol.com
@@ -8358,6 +8359,7 @@ b2g6anmfxkt2t.gq
 b2g6anmfxkt2t.ml
 b2g6anmfxkt2t.tk
 b2ieu.anonbox.net
+b2luv.anonbox.net
 b2npv.anonbox.net
 b2ntj.anonbox.net
 b2vja.anonbox.net
@@ -13432,6 +13434,7 @@ cenurytel.net
 cenxi.sld.tw
 ceoll.com
 cepllc.com
+ceramicdrift.me
 ceramicsouvenirs.com
 ceramictile-outlet.com
 cerapht.site
@@ -13943,6 +13946,7 @@ cheska-nedv.ru
 chesles.com
 chessgameland.com
 chessgamingworld.com
+chessmeadow.me
 chestcloudx.com
 chesterfieldcountyschools.com
 chevachi.com
@@ -15610,6 +15614,7 @@ couponhouse.info
 couponm.net
 couponmoz.org
 couponoff.com
+couponrook.me
 couponsdisco.com
 couponsgod.in
 couponslauncher.info
@@ -17238,6 +17243,7 @@ deornaumail.com
 depadua.eu
 depaduahootspad.eu
 department.com
+depde.com
 depdocla.net
 deplature.site
 deposin.com
@@ -17823,6 +17829,7 @@ dinksai.ga
 dinksai.ml
 dinkysocial.com
 dinlaan.site
+dinnerdrape.me
 dino.icu
 dinocheap.com
 dinogam.com
@@ -24213,6 +24220,7 @@ forzadenver.com
 forzataraji.com
 fosil.pro
 fosiq.com
+fossilwharf.me
 fossimaila.info
 fossimailb.info
 fossimailh.info
@@ -24660,6 +24668,7 @@ friday12.store
 fridaymovo.com
 friedfriedfrogs.info
 frienda.site
+friendfete.me
 friendlyhollow.sbs
 friendlymail.co.uk
 friendlyorbit.cyou
@@ -29765,6 +29774,7 @@ hopeence.com
 hopefunder.com
 hopemail.biz
 hopesx.com
+hoplise.com
 hopoverview.com
 hopto.org
 hoquality.com
@@ -34084,7 +34094,6 @@ joef.de
 joelpet.com
 joeltest.co.uk
 joeneo.com
-joerty.network
 joestar.us
 joetestalot.com
 joey.com
@@ -36132,6 +36141,7 @@ ku1hgckmasms6884.ml
 ku1hgckmasms6884.tk
 kuai909.com
 kuaijenwan.com
+kuailesidiwen.top
 kuaixueapp01.mygbiz.com
 kuantumdusunce.tk
 kuatcak.cf
@@ -41548,6 +41558,7 @@ men.oldoutnewin.com
 mendoan.uu.gl
 mendoanmail.club
 mendoo.com
+mendpetal.me
 menece.com
 menene.com
 meng2026.bond
@@ -50077,6 +50088,7 @@ pomyslnaatrakcjedladzieci.pl
 pomysloneo.net
 pomyslynabiznes.net
 ponahakizaki.xyz
+pondmosaic.me
 pongpong.org
 ponibo.com
 ponibox.com
@@ -54120,6 +54132,7 @@ rosechina.com
 roselarose.com
 rosella.my.id
 roselug.org
+rosemarrty.shop
 rosequartzglow.beauty
 rosmillo.com
 rossa-art.pl
@@ -55475,6 +55488,7 @@ sceath.com
 sceenic.com
 scenero.com
 scenicmail.com
+scentlilt.me
 scglobal.net
 schabernack.ru
 schachrol.com
@@ -57723,6 +57737,7 @@ soldierofthecross.us
 soldierreport.com
 soleli.com
 solenox.cfd
+soleoddity.me
 solerbe.net
 soliaflatirons.in
 soliahairstyling.in
@@ -62590,6 +62605,7 @@ toy68n55b5o8neze.ga
 toy68n55b5o8neze.gq
 toy68n55b5o8neze.ml
 toy68n55b5o8neze.tk
+toyafterglow.me
 toyamail.com
 toyhiosl.com
 toyiosk.gr
@@ -63797,7 +63813,6 @@ uegumail.com
 ueiaco100.info
 ueig2phoenix.info
 ueimultimeter.info
-ueinx.anonbox.net
 uemail99.com
 uenct2012.info
 uengagednp.com
