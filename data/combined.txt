@@ -1,4 +1,4 @@
-# progressive-email-suppression — generated 2026-11-05
+# progressive-email-suppression — generated 2026-11-06
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
@@ -13615,6 +13615,7 @@ chappy9sagruz.ru
 chapsmail.com
 chardrestaurant.com
 charenthoth.emailind.com
+charge.lat
 charityforpoorregions.com
 charityrcao.org.uk
 charl.us
@@ -18726,7 +18727,6 @@ dowesync.com
 dowlex.co.uk
 dowment.site
 down.favbat.com
-downforest.online
 download-hub.cf
 download-master.net
 download-software.biz
@@ -22659,6 +22659,7 @@ farmdeu.com
 farmer.are.nom.co
 farmerlife.us
 farmerrr.tk
+farmstartlab.com
 farmtoday.us
 farouter.tech
 farrowgate.net
@@ -40194,7 +40195,6 @@ mailpr3.info
 mailpremium.net
 mailpress.gq
 mailprm.com
-mailpro.icu
 mailpro.lat
 mailpro.live
 mailpro5.club
@@ -43398,7 +43398,6 @@ multiplusclouds.com
 multireha.pl
 multiscanner.org
 multiwiseai.com
-mulyan.top
 mumbama.com
 mumgoods.site
 mumpangmeumpeung.space
@@ -44239,7 +44238,6 @@ nailooong.site
 nails111.com
 nailsmasters.ru
 naim.mk
-naiveyuliandari.biz
 najko.com
 najlakaddour.com
 najlepszehotelepl.net.pl
@@ -45232,6 +45230,7 @@ nguyenxuandathd1994.win
 nh3.ro
 nhacai88.online
 nhadatgiaviet.com
+nhan.tech
 nhanqualienquan.online
 nhatdinhmuaduocxe.info
 nhatu.com
@@ -48289,6 +48288,7 @@ oxmail.com
 oxmail.homes
 oxnipaths.com
 oxopoha.com
+oxplean.com
 oxsgyd.fun
 oxtenda.com
 oxudvqstjaxc.info
@@ -67792,7 +67792,6 @@ wo295ttsarx6uqbo.ga
 wo295ttsarx6uqbo.gq
 wo295ttsarx6uqbo.ml
 wo295ttsarx6uqbo.tk
-wo4sl.anonbox.net
 woa.org.ua
 wobz.com
 wocall.com
@@ -70641,6 +70640,7 @@ yoyo11.xyz
 yoyo69.com
 ypahoo.com
 ype68.com
+ypfa4.anonbox.net
 ypicall.shop
 ypmail.com
 ypmail.sehier.fr
