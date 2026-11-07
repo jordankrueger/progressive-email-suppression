@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-06
+# progressive-email-suppression — generated 2026-11-07
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71930 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71926 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -8902,7 +8902,6 @@ base.lakemneadows.com
 baseballboycott.com
 basebuykey.com
 basefixzone.com
-baseflowpro.com
 baselogicroute.com
 basemindway.com
 baseny-mat.com.pl
@@ -9074,7 +9073,6 @@ bbwg.one
 bbx.fr
 bbxb.fashion
 bbyb.fashion
-bbysn.anonbox.net
 bbzr4.anonbox.net
 bc3rv.anonbox.net
 bc4mails.com
@@ -12255,6 +12253,7 @@ bvz4p.anonbox.net
 bvzoonm.com
 bw6hf.anonbox.net
 bwa33.net
+bwcab.anonbox.net
 bweqvxc.com
 bweud.anonbox.net
 bwfvc.anonbox.net
@@ -27600,6 +27599,7 @@ gramail.org
 grammasystems.com
 gramy24.waw.pl
 gramyonlinee.pl
+granadm.com
 grand-slots.net
 grandcom.net
 grandecon.net
@@ -35394,7 +35394,6 @@ kilo.kappa.livefreemail.top
 kilo.sigma.aolmail.top
 kilocycl5.xyz
 kilomerica.xyz
-kiluch.com
 kilverstone.net
 kily.com
 kim-tape.com
@@ -36739,7 +36738,6 @@ latamdate.review
 latemail.tech
 latesmail.com
 latestgadgets.com
-latihanindrawati.net
 latinchat.com
 latinmail.com
 latovic.com
@@ -44331,6 +44329,7 @@ napoleonides.xyz
 naprawa-wroclaw.xaa.pl
 naprb.com
 napthex4.com
+napthex55.net
 naptz.cfd
 naqulu.com
 narcoboy.sbs
@@ -45989,7 +45988,6 @@ nowdigit.com
 nowemail.ga
 nowemailbox.com
 nowena.site
-nowfitpro.com
 nowfixweb.com
 nowhere.org
 nowhivehub.com
@@ -50696,7 +50694,6 @@ primelocationlets.co.uk
 primemaint.xyz
 primeorchard.top
 primered.shop
-primerisegrid.com
 primerka.co.cc
 primetek.cloud
 primetor.com
@@ -52030,7 +52027,6 @@ quequeremos.com
 quertzs.com
 querydirect.com
 questhivehub.com
-questionabledahuli.io
 questore.co
 questtechsystems.com
 questza.com
@@ -62712,7 +62708,6 @@ tradefinanceagent.org
 tradefinancebroker.org
 tradefinancedealer.org
 tradeinvestmentbroker.org
-tradepopclick.com
 tradermail.info
 tradeseze.com
 tradex.gb
@@ -66648,6 +66643,7 @@ wants.dicksinmyan.us
 wantwp.com
 wanu.homes
 wanva.shop
+waosoe.com
 wap-facebook.ml
 wapl.ga
 wappay.xyz
@@ -69123,7 +69119,6 @@ xuniyxa.ru
 xuogcbcxw.pl
 xuongdam.com
 xuseca.cloud
-xusieure.com
 xusn.com
 xutemail.info
 xuubu.com
@@ -71815,6 +71810,7 @@ zurtel.tk
 zutomayo.best
 zutyu.xubi.org
 zuvio.com
+zuya.store
 zv68.com
 zvii.eu.cc
 zvsn.com
