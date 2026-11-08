@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-07
+# progressive-email-suppression — generated 2026-11-08
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71926 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71946 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4436,6 +4436,7 @@ adcloud.us
 add3000.pp.ua
 add6site.tk
 addadsasd.icu
+addcious.com
 addictingtrailers.com
 addidas-group.com
 addimail.top
@@ -5027,6 +5028,7 @@ ai.vcss.eu.org
 ai100999.com
 ai4trade.info
 ai6188.com
+ai666666.me
 aiaccount.click
 aiafhg.com
 aiapes.publicvm.com
@@ -7319,6 +7321,7 @@ asitrai.com
 ask-bo.co.uk
 ask-mail.com
 ask-zuraya.com.au
+ask15da.party
 askandhire700.info
 askddoor.org
 askdrbob.com
@@ -8818,6 +8821,7 @@ banyansprings.com
 bao160.com
 baobaosport.com
 baocaothue.store
+baolaowang.com
 baomat.ml
 baomoi.site
 baonam.space
@@ -8903,7 +8907,6 @@ baseballboycott.com
 basebuykey.com
 basefixzone.com
 baselogicroute.com
-basemindway.com
 baseny-mat.com.pl
 basepathgrid.com
 baserda.net
@@ -9366,6 +9369,7 @@ belmed.uno
 belmed.xyz
 belmontfinancial.com
 belongestival.xyz
+belove.lat
 belqa.com
 belsouth.net
 belspb.ru
@@ -10617,6 +10621,7 @@ blueew.shop
 blueewin.ch
 blueeyondeer.co.uk
 bluefishpond.com
+bluefizzclub.me
 bluefriday.top
 bluegrassluck.com
 bluehourclub.cyou
@@ -11345,6 +11350,7 @@ bper.cf
 bper.ga
 bper.gq
 bper.tk
+bpesb.anonbox.net
 bpghmag.com
 bph4i.anonbox.net
 bpham.info
@@ -14555,6 +14561,7 @@ clipmail.gq
 clipmail.ml
 clipmail.tk
 clipmails.com
+clipnovella.me
 cliptik.net
 cliqueone.com
 clitbate.com
@@ -17069,6 +17076,7 @@ decoratinglfe.info
 decorationdiy.site
 decorbuz.com
 decornido.com
+decosprig.me
 decoymail.com
 decoymail.mx
 decoymail.net
@@ -17319,6 +17327,7 @@ desitashan.su
 desiys.com
 desk.cowsnbullz.com
 desk.oldoutnewin.com
+deskblossom.me
 desknewsop.xyz
 deskova.com
 desksonline.com.au
@@ -18832,6 +18841,7 @@ dragcok2.ml
 dragcok2.tk
 dragonads.net
 dragonballxenoversecrack.com
+dragonbookcase.me
 dragonextruder.com
 dragonfly.4amail.top
 dragonfly.africa
@@ -19330,7 +19340,6 @@ dusrui.com
 dust.marksypark.com
 dustinry.com
 dustmail.net
-dustysyawalina.biz
 dutchconnie.com
 dutchfemales.info
 dutiesu0.com
@@ -22461,6 +22470,7 @@ fagbxy1iioa3ue.ga
 fagbxy1iioa3ue.gq
 fagbxy1iioa3ue.ml
 fagbxy1iioa3ue.tk
+fahjnlgfa1fa2.com
 fahmi-amirudin.tech
 fahoo.com
 fahrgo.com
@@ -23539,7 +23549,6 @@ fineoak.org
 finery.pl
 finesseindia.in
 finews.biz
-finexhouse.com
 fingermail.top
 fingermouse.org
 fingso.com
@@ -25560,6 +25569,7 @@ gd6ubc0xilchpozgpg.ga
 gd6ubc0xilchpozgpg.gq
 gd6ubc0xilchpozgpg.ml
 gd6ubc0xilchpozgpg.tk
+gdasg.bid
 gdb.armageddon.org
 gdcac.com
 gdcmedia.info
@@ -26076,6 +26086,7 @@ ghfh.de
 ghfnhcf.xyz
 ghgluiis.tk
 ghid-afaceri.com
+ghiyugh.uk
 ghk55.us
 ghkoyee.com.uk
 gholar.com
@@ -27870,7 +27881,6 @@ gtgstoreid.com
 gthpprhtql.pl
 gthw.com
 gthyjuytr.dynv6.net
-gtidf.anonbox.net
 gtime.com
 gtkesh.com
 gtmail.com
@@ -29144,6 +29154,7 @@ hhcqldn00euyfpqugpn.tk
 hhe.org.uk
 hhh.sytes.net
 hhhhb.com
+hhhhbfshb.date
 hhhotmail.com
 hhjqahmf3.pl
 hhjqnces.com.pl
@@ -33674,6 +33685,7 @@ jeld.com
 jellow.ml
 jelly-life.com
 jellycat.eu.cc
+jellyglimmer.me
 jellyraccoon.lol
 jellyrollpan.net
 jellyrolls.com
@@ -35319,6 +35331,7 @@ khoi-fm.org
 khoigame.com
 khoke.nl
 khongsocho.xyz
+khonicksieure.com
 khotmail.com
 khpkufk.pl
 khtextile.com
@@ -39239,6 +39252,7 @@ mahazai.com
 mahdevip.com
 mahiidev.site
 mahindrabt.com
+mahjonglore.me
 mahreenlifestyle.shop
 mai.25u.com
 mai.bg
@@ -46014,6 +46028,7 @@ npfd.de
 npfd.gq
 npfz6.anonbox.net
 nphcsfz.pl
+npobox.us
 npoexp.us
 npofgo90ro.com
 npoopmeee.site
@@ -48458,6 +48473,7 @@ packersproteamsshop.com
 packerssportstore.com
 packiu.com
 packsurfwifi.com
+packwhistle.me
 pacnoisivoi.com
 pacnut.com
 pacourts.com
@@ -49028,7 +49044,6 @@ peachsleep.com
 peakac.xyz
 peakairconfix.xyz
 peakengineeringdubai.xyz
-peakfixkey.com
 peakinbox.net
 peakinstallations24x7.xyz
 peakkutsutenpojp.com
@@ -52462,6 +52477,7 @@ ralala.com
 raleigh-construction.com
 raleighshoebuddy.com
 raligaan.com
+rallywisp.me
 ralph-laurensoldes.com
 ralphlauren51.com
 ralphlaurenfemme3.com
@@ -52555,6 +52571,7 @@ rapidducting.xyz
 rapidefr.fr.nf
 rapidinstallations365.xyz
 rapidmail.com
+rapidrambler.me
 rapik.online
 raposoyasociados.com
 rapplo.com
@@ -55445,6 +55462,7 @@ scalet.be
 scalixmail.lady-and-lunch.xyz
 scalpongs.com
 scamerahot.info
+scamlantern.me
 scams.website
 scandiskmails.gdn
 scanf.ga
@@ -58074,6 +58092,7 @@ spammotel.com
 spammy.host
 spamobox.com
 spamoff.de
+spamok.com
 spamsalad.in
 spamsandwich.com
 spamserver.cf
@@ -58349,6 +58368,7 @@ sqmail.xyz
 sqoai.com
 sqpo.online
 squadmetrix.com
+square32o.com
 squeezeproductions.com
 squirtsnap.com
 squizzy.de
@@ -63101,7 +63121,6 @@ try.z9.cloudns.nz
 tryalert.com
 trydeal.com
 tryeverydrop.com
-tryhivekey.com
 tryjetrun.com
 trymail.tk
 tryninja.io
@@ -65943,6 +65962,7 @@ vlstwoclbfqip.ml
 vlstwoclbfqip.tk
 vlwomhm.xyz
 vmadhavan.com
+vmail.lat
 vmail.me
 vmail.site
 vmail.tech
@@ -66768,6 +66788,7 @@ watkinsmail.bid
 watpho.online
 watrf.com
 watsawang.com
+wattcottage.me
 wattpad.pl
 wavecable.com.com
 waventra.cfd
@@ -71008,7 +71029,6 @@ zaragozatoros.es
 zard.website
 zarduz.cfd
 zarhq.com
-zariaglam.shop
 zarkbin.store
 zarmail.com
 zarnuq.cfd
