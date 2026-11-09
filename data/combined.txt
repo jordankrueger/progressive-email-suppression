@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-08
+# progressive-email-suppression — generated 2026-11-09
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71946 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71961 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -6238,6 +6238,7 @@ andrewcluh.top
 andrewm.art
 andrewmurphy.org
 andreych4.host
+andrivers.com
 android-quartet.com
 android.lava.mineweb.in
 androidevolutions.com
@@ -6718,6 +6719,7 @@ app.ploooop.com
 app.poisedtoshrike.com
 appakin.com
 appbotbsxddf.com
+appbott.com
 appc.se
 appcloudmurah.email
 appcloudmurah.works
@@ -7624,7 +7626,6 @@ augstusproductions.com
 auguridibuonapasqua.info
 auguryans.ru
 augustone.ru
-auhit.com
 auku.sld.tw
 auloc.com
 aumails.us
@@ -10874,6 +10875,7 @@ bofrateyolele.com
 bofthew.com
 boftm.com
 bog3m9ars.edu.pl
+bogchi.com
 bogger.com
 bogneronline.ru
 bogotadc.info
@@ -12067,6 +12069,7 @@ businesstutorialsonline.org
 busniss.com
 buspad.org
 buspilots.com
+bussaco.com
 bussinesa.app
 bussinessemails.website
 bussinessmail.info
@@ -15285,6 +15288,7 @@ comprehensivesearchinitiatives.com
 comprensivosattacarbonia.it
 compressionrelief.com
 compressjpg.io
+comproa.org
 compscorerric.eu
 compservmail.com
 compservsol.com
@@ -17460,6 +17464,7 @@ devlw.site
 devlx.site
 devly.site
 devlz.site
+devmant.com
 devmeyou.tech
 devnityinfotech.in
 devnullmail.com
@@ -17485,6 +17490,7 @@ devov.site
 devow.site
 devox.site
 devoz.site
+devpoet.com
 devq.site
 devr.site
 devreg.org
@@ -23128,6 +23134,7 @@ femqi.click
 femrix.online
 fencesrus.com
 fenceve.com
+fenfax.com
 fengnu.com
 fengting01.mygbiz.com
 fengyun.net
@@ -23879,7 +23886,6 @@ flirtey.pw
 flitafir.de
 flitify.com
 flixluv.com
-flixsu.fun
 flmail.info
 flmcat.com
 flmmo.com
@@ -24327,6 +24333,7 @@ framemail.cf
 francanet.com.br
 france-monclers.com
 france-nedv.ru
+france.edu.pl
 francemel.com
 francemonclerpascherdoudoune1.com
 francepoloralphlaurenzsgpascher.com
@@ -28276,6 +28283,7 @@ ha92.store
 haadishah.co.uk
 haagsekillerclan.tk
 haanhwedding.com
+haanhwedding.vn
 haanmaail.net
 habbo.lat
 habboftpcheat.com
@@ -28650,6 +28658,7 @@ hashtagtesla.com
 hasilon.com
 hasslex.com
 hassmiry.online
+hastana.com
 hastynurintan.io
 hasvr.online
 hat-geld.de
@@ -29388,7 +29397,6 @@ hitlerbehna.com
 hitmail.co
 hitmail.es
 hitmail.us
-hitmildot.com
 hitprice.co
 hitsfit.com
 hitthatne.org.ua
@@ -33777,6 +33785,7 @@ jeux-gratuits.us
 jeux-online0.com
 jeux3ds.org
 jeuxds.fr
+jewby.com
 jewel.ie
 jewellrydo.com
 jewelrycellar.com
@@ -35421,6 +35430,7 @@ kimchichi.com
 kimdyn.com
 kimfetme.com
 kimgmail.com
+kimgmail.online
 kimim.tk
 kimkim.store
 kimmyjayanti.art
@@ -41530,6 +41540,7 @@ melonic.store
 melorvian.com
 melowsa.com
 melroseparkapartments.com
+meltcoo.com
 meltedbrownies.com
 meltmail.com
 meltp.com
@@ -42655,6 +42666,7 @@ momomacknang.com
 momonono.info
 momopifa.cc.cd
 momos12.com
+momroad.org
 momswithfm.com
 mon-entrepreneur.com
 mona.edu.kg
@@ -48673,6 +48685,7 @@ paridisa.ga
 paridisa.gq
 paridisa.ml
 paridisa.tk
+paris.edu.pl
 parisannonce.com
 parisdaily.fr
 parisdentists.com
@@ -50040,6 +50053,7 @@ polemarh.ru
 polen-ostsee-ferienhaus.de
 polezno2012.com
 policare.com
+policiman.com
 policity.ml
 poliden.me
 polimatsportsp.com
@@ -56950,6 +56964,7 @@ sinemailing.com
 sinessumma.site
 sinfiltro.cl
 singapore-nedv.ru
+singapore.edu.pl
 singaporetravel.network
 single-lady-looking-for-man.club
 singlecoffeecupmaker.com
@@ -63232,7 +63247,6 @@ ttxcom.info
 ttxe.com
 ttytgyh56hngh.cf
 ttyuhjk.co.uk
-tu2uu.anonbox.net
 tu6oiu4mbcj.cf
 tu6oiu4mbcj.ga
 tu6oiu4mbcj.gq
@@ -63682,6 +63696,7 @@ u5tbrlz3wq.tk
 u6lvty2.com
 u7btp.anonbox.net
 u7cjl8.xorg.pl
+u7ig4.anonbox.net
 u7vt7vt.cf
 u7vt7vt.ga
 u7vt7vt.gq
