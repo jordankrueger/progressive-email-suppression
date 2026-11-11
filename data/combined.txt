@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-09
+# progressive-email-suppression — generated 2026-11-11
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71961 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71969 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -646,7 +646,6 @@
 174gmail.com
 1758indianway.com
 175gmail.com
-175vip.xyz
 1766258.com
 176gmail.com
 17890714.xyz
@@ -1772,7 +1771,6 @@
 3j4rnelenwrlvni1t.gq
 3j4rnelenwrlvni1t.ml
 3j4rnelenwrlvni1t.tk
-3jcsx.anonbox.net
 3jf.cn
 3kbyueliyjkrfhsg.ga
 3kbyueliyjkrfhsg.gq
@@ -2519,6 +2517,7 @@
 5so1mammwlf8c.gq
 5so1mammwlf8c.ml
 5so1mammwlf8c.tk
+5sounds.com
 5starimport.com
 5sun.net
 5sword.com
@@ -7046,6 +7045,7 @@ artan.fr
 artbellrules.info
 artdigimail.com
 artdrip.com
+artegin.com
 artemmel.info
 arteol.pl
 artflowerscorp.com
@@ -8656,7 +8656,6 @@ bagsonline-store.com
 bagsshopjp.com
 bagx.site
 bahadir.eu
-bahannes.network
 bahiscasinoparayatirma.xyz
 bahlill.cfd
 bahv5.anonbox.net
@@ -11391,6 +11390,7 @@ bqmjotloa.pl
 bqois.click
 bqsaptri.ovh
 bqv36.anonbox.net
+bqxt5.anonbox.net
 br.mintemail.com
 br5l6.anonbox.net
 br6qtmllquoxwa.cf
@@ -11742,7 +11742,6 @@ btgmka0hhwn1t6.cf
 btgmka0hhwn1t6.ga
 btgmka0hhwn1t6.ml
 btgmka0hhwn1t6.tk
-btiho.anonbox.net
 btiinternet.com
 btinernet.com
 btinetnet.com
@@ -12267,6 +12266,7 @@ bweqvxc.com
 bweud.anonbox.net
 bwfvc.anonbox.net
 bwhdk.anonbox.net
+bwingmedia.com
 bwm.de5.net
 bwmail.us
 bwmyga.com
@@ -14201,6 +14201,7 @@ churchestate.org.uk
 churchhousemanaton.co.uk
 churchinsouthampton.org.uk
 churning.app
+chuwel.com
 chvtqkb.pl
 chvz.com
 chwilowkiibezbik.pl
@@ -23163,7 +23164,6 @@ ferastya.tk
 ferd.live
 ferdomnermail.com
 ferencikks.org
-fergetic.com
 fergley.com
 feriwor.com
 ferloq.click
@@ -24923,6 +24923,7 @@ fullaircond.xyz
 fullalts.cf
 fullangle.org
 fullcoolmaintenance.xyz
+fulldiets.com
 fulledu.ru
 fullen.in
 fullepisodesnow.com
@@ -26995,6 +26996,7 @@ godfare.com
 godjdkedd.com
 godlike.us
 godmail.gq
+godog.lat
 godpeed.com
 godrod.gq
 godsofguns.com
@@ -28537,6 +28539,7 @@ haomei456.com
 haoniubia.cc
 haosuhong.com
 haotmail.com
+haowanyou.site
 haoyunlaiba.cc
 happenhotel.com
 happiseektest.com
@@ -34475,6 +34478,7 @@ jumbox.site
 jumbunga3502.cf
 jumeirahmaintenance.com
 jumeirahparkmaintenance.com
+jumex.lat
 jumgita6884.tk
 jumlamail.ml
 jumlatifani8910.tk
@@ -34660,6 +34664,7 @@ jyliananderik.com
 jymfit.info
 jymz.xyz
 jynmxdj4.biz.pl
+jysnk.com
 jytewwzz.com
 jywa.social
 jyzaustin.com
@@ -41269,6 +41274,7 @@ mciek.com
 mcintoshemails.com
 mcjassenonlinenl.com
 mcjazz.pl
+mcjt7.anonbox.net
 mckaymail.bid
 mckenzie.rebekah.miami-mail.top
 mckinleymail.net
@@ -44520,6 +44526,7 @@ nb8qadcdnsqxel.tk
 nbabasketball.info
 nbacheap.com
 nbalakerskidstshirt.info
+nbasweeps.com
 nbcutelemundoent.com
 nbfd.com
 nbhealthcare.com
@@ -49991,6 +49998,7 @@ podmozon.ru
 podpiski24.online
 poegal.ru
 poehali-otdihat.ru
+poemment.com
 poers.com
 poesd.com
 poesie-de-nuit.com
@@ -53510,6 +53518,7 @@ rewardents.com
 rewas-app-lex.com
 rewermail.com
 rewerty.fun
+rewind.lat
 rewolt.pl
 rewqweqweq.info
 rewtorsfo.ru
@@ -55160,7 +55169,6 @@ samvix.life
 san-marino-nedv.ru
 sana-all.com
 sanalankara.xyz
-sanalcell.network
 sanalgos.club
 sanalgos.online
 sanalgos.site
@@ -56702,7 +56710,6 @@ shopsuperbowl49ers.com
 shopsuperbowlravens.com
 shoptheway.xyz
 shopussy.com
-shopvia2fa.net
 shopvipduzk666.shop
 shopvipduzk6868.shop
 shopvpn.uk
@@ -59172,7 +59179,6 @@ sukaloli.n-e.kr
 sukasukasuka.me
 sukenjp.com
 suksesnet.com
-suksukagua.com
 sul.bar
 sulari.gq
 sulat.horiba.cf
@@ -63218,6 +63224,7 @@ ttirv.com
 ttirv.net
 ttirv.org
 ttlrlie.com
+ttmail.lat
 ttmail.vip
 ttmgss.com
 ttmps.com
@@ -71164,6 +71171,7 @@ zeft-ten.ga
 zeft-ten.gq
 zeft-ten.ml
 zeft-ten.tk
+zefvo.com
 zehnminuten.de
 zehnminutenmail.de
 zeinconsulting.info
