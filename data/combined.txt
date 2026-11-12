@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-11
+# progressive-email-suppression — generated 2026-11-12
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71969 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71962 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -7141,6 +7141,7 @@ asa-dea.com
 asahi.cf
 asahi.ga
 asajv2ray.site
+asamotoshogun.me
 asana.biz
 asapbox.com
 asapcctv.com
@@ -8440,6 +8441,7 @@ b755t.anonbox.net
 b7ba4ef3a8f6.ga
 b7bpa.anonbox.net
 b7fk3.anonbox.net
+b7fqg.anonbox.net
 b7nsd.anonbox.net
 b7s.ru
 b7s42.anonbox.net
@@ -12047,7 +12049,6 @@ businessagent.email
 businessbackend.com
 businessbayproperty.com
 businesscardcases.info
-businesscell.network
 businesscredit.xyz
 businessfinancetutorial.com
 businesshowtobooks.com
@@ -16784,7 +16785,6 @@ datosat.com
 datphuyen.net
 datprovn.io.vn
 datprovnn.io.vn
-datquynhon.net
 datrr.gq
 datum2.com
 datuxtox.host
@@ -17875,7 +17875,6 @@ dipan.xyz
 dipath.com
 dipes.com
 diplease.site
-diplo.edu.pl
 diplom-voronesh.ru
 diplomnaya-rabota.com
 dipoelast.ru
@@ -24325,7 +24324,6 @@ fr4nk3nst3inerweb20.com
 fractal.international
 fractalblocks.com
 fraddyz.ru
-fragileferonova.biz
 fragolina2.tk
 framail.net
 frame.favbat.com
@@ -32447,8 +32445,8 @@ insgrmail.site
 inshapeactive.ru
 inshuan.com
 insidegpus.com
+insiderecholink.com
 insidershq.info
-insidiousahmadi.biz
 insighbb.com
 insischildpank.xyz
 insomniade.org.ua
@@ -33626,6 +33624,7 @@ jbsze.ne
 jbsze.net
 jc56owsby.pl
 jc58t04.kozow.com
+jcaton.com
 jcausedm.com
 jcdmail.men
 jceffi8f.pl
@@ -35287,7 +35286,6 @@ kf2ddmce7w.ml
 kf2ddmce7w.tk
 kfamilii2011.co.cc
 kfark.net
-kfd7a.anonbox.net
 kfhgrftcvd.cf
 kfhgrftcvd.ga
 kfhgrftcvd.gq
@@ -37451,7 +37449,6 @@ limiteds.me
 limon.biz.tm
 limpasseboutique.com
 limsoohyang.com
-limtu.com
 limuzyny-hummer.pl
 lin.lingeriemaid.com
 lin889.com
@@ -41883,6 +41880,7 @@ micro.lat
 microcenter.io
 microcreditoabruzzo.it
 microfibers.info
+micropaste.com
 micropul.com
 microsoftt.biz
 microsses.xyz
@@ -44334,7 +44332,6 @@ nanofielznan3s5bsvp.ml
 nanofielznan3s5bsvp.tk
 nanonym.ch
 nanopools.info
-nanopoolscore.online
 nanos.lat
 nanoskin.vn
 nansyiiah.xyz
@@ -48306,7 +48303,6 @@ oxcel.art
 oxe.de5.net
 oxfarm1.com
 oxfo.edu.pl
-oxfor.edu.pl
 oxford-edu.cf
 oxford-edu.university
 oxford.gov
@@ -52579,7 +52575,6 @@ raodrunner.com
 rap-master.ru
 rapa.ga
 rapally.site
-rapatbahjatya.net
 rape.lol
 rapenakyodilakoni.cf
 rapid-guaranteed-payday-loans.co.uk
@@ -59751,7 +59746,6 @@ syosetu.gq
 sypatico.ca
 sysdoctor.win
 sysee.com
-sysgalaica.es
 syslinknet.com
 sysout.cloud
 systechmail.com
@@ -65875,7 +65869,6 @@ vitalizeskinforwomen.com
 vitalparcel.eu
 vitalpetprovisions.com
 vitaltools.com
-vitaltransporte.shop
 vitalyzereview.com
 vitamin-water.net
 vitamins.com
