@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-12
+# progressive-email-suppression — generated 2026-11-13
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71962 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71961 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2410,7 +2410,6 @@
 5am5ung.ml
 5am5ung.tk
 5aol.com
-5auto.anonbox.net
 5biya2otdnpkd7llam.cf
 5biya2otdnpkd7llam.ga
 5biya2otdnpkd7llam.gq
@@ -8380,6 +8379,7 @@ b3nxdx6dhq.cf
 b3nxdx6dhq.ga
 b3nxdx6dhq.gq
 b3nxdx6dhq.ml
+b3ord.anonbox.net
 b3zig.anonbox.net
 b44tz.anonbox.net
 b45y3.anonbox.net
@@ -30389,6 +30389,7 @@ houtil.com
 houtlook.com
 houtlook.es
 houtlook.xyz
+hoveniero.nl
 hovikindustries.com
 how-to-offshore.com
 how.blatnet.com
@@ -46230,7 +46231,6 @@ nuevomail.com
 nuf.fr
 nugaba.com
 nugastore.com
-nughtclab.com
 nuitx.com
 nujayar.com
 nukahome.com
@@ -49865,6 +49865,7 @@ ployerem.com
 plrdn.com
 plsh.xyz
 plt.com.pl
+pluffy.site
 pluggedinsocial.net
 plugintonature.org.uk
 plumber-thatcham.co.uk
@@ -55752,6 +55753,7 @@ seasiapoker.info
 seasideorient.com
 seasonhd.ru
 seasonofgrace.org
+seatence.com
 seattguru.com
 seattledec.com
 seattleovariancancerresearch.org
@@ -61529,7 +61531,6 @@ they.warboardplace.com
 thg.cc.cd
 thhdfws.us
 thichanthit.com
-thichkiemtien.com
 thichmmo.com
 thidthid.cf
 thidthid.ga
@@ -64225,7 +64226,6 @@ uneppwqi.pl
 unevideox.fr
 unfairship.com
 unfilmx.fr
-unfortunatesanny.net
 ungolfclubs.com
 unheatedgems.net
 unhjhhng.com
@@ -68870,7 +68870,6 @@ xn--ao-jea9qe46h.com
 xn--ao-yea9oe46h.com
 xn--aufsteckbrsten-kaufen-hic.de
 xn--b-dga.vn
-xn--b1accdn5bheqm.site
 xn--bei.cf
 xn--bei.ga
 xn--bei.gq
