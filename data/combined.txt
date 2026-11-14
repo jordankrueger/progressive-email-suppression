@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-13
+# progressive-email-suppression — generated 2026-11-14
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71961 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71955 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -11739,7 +11739,6 @@ btd4p9gt21a.ml
 btd4p9gt21a.tk
 bteg3n.click
 btf3z.anonbox.net
-btfhn.anonbox.net
 btgmka0hhwn1t6.cf
 btgmka0hhwn1t6.ga
 btgmka0hhwn1t6.ml
@@ -15438,7 +15437,6 @@ coobz0gobeptmb7vewo.gq
 coobz0gobeptmb7vewo.ml
 coobz0gobeptmb7vewo.tk
 cooc.xyz
-coochi.nl
 coocuuu.food
 cood.food
 coofy.net
@@ -20243,7 +20241,6 @@ effective-pheromones.info
 effexts.com
 effobe.com
 effortance.xyz
-effortlessinneke.io
 efhuxvwd.pl
 eflfnskgw2.com
 efmsts.xyz
@@ -20532,7 +20529,6 @@ elimam.org
 elinbox.com
 elinore1818.site
 eliotkids.com
-elisestyle.shop
 elisione.pl
 elite-altay.ru
 elite-seo-marketing.com
@@ -43147,7 +43143,6 @@ msk.ru
 mskey.co
 mskey.net
 mskhousehunters.com
-mskin.top
 msm.com
 msmail.bid
 msmail.cf
@@ -49145,7 +49140,6 @@ penandpaper.site
 pencalc.xyz
 pencap.info
 pencemaran.com
-pendapatmini.net
 pendivil.site
 pendokngana.cf
 pendokngana.ga
@@ -53701,7 +53695,6 @@ rinaldistore.site
 rincewind4.pl
 rincewind5.pl
 rincewind6.pl
-rincianjuliadi.net
 ring.favbat.com
 ring123.com
 ringobaby344.ga
@@ -63451,6 +63444,7 @@ twlcd4i6jad6.gq
 twlcd4i6jad6.ml
 twlcd4i6jad6.tk
 twmail.tk
+twn6h.anonbox.net
 twnecc.com
 two.emailfake.ml
 two.fackme.gq
