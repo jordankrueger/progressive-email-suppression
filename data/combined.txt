@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-14
+# progressive-email-suppression — generated 2026-11-15
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71955 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 71998 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2102,6 +2102,7 @@
 4iftt.anonbox.net
 4ijn7.anonbox.net
 4invision.com
+4jcescis.icu
 4k5.net
 4kmovie.ru
 4kqk58d4y.pl
@@ -2410,6 +2411,7 @@
 5am5ung.ml
 5am5ung.tk
 5aol.com
+5at52.anonbox.net
 5biya2otdnpkd7llam.cf
 5biya2otdnpkd7llam.ga
 5biya2otdnpkd7llam.gq
@@ -2496,6 +2498,7 @@
 5r6atirlv.pl
 5rk4a.anonbox.net
 5rof.cf
+5rrs7gyd.icu
 5se17.com
 5se24.com
 5se30.com
@@ -3207,6 +3210,7 @@
 849gmail.com
 84gmail.com
 84hotmail.com
+84kif0sx.icu
 84mce5gufev8.cf
 84mce5gufev8.ga
 84mce5gufev8.gq
@@ -4274,6 +4278,7 @@ achatairjordansfrshop.com
 achatjordansfrshop.com
 achatz.ga
 ache.co.pl
+acheroesdubai.xyz
 acherouae.xyz
 acheterairmaxs.com
 achetertshirt.com
@@ -5364,6 +5369,7 @@ akapost.com
 akapple.com
 akara-ise.com
 akash9.gq
+akashv1.cfd
 akazq33.cn
 akb007.com
 akbip.com
@@ -9128,6 +9134,7 @@ bd6rt.anonbox.net
 bda.io.vn
 bdaov.anonbox.net
 bdas.com
+bdbdw.cyou
 bdf343rhe.de
 bdgdn.anonbox.net
 bdgstr.com
@@ -12811,6 +12818,7 @@ canvasarttalk.com
 canvaspace.shop
 canvasshoeswholesalestoress.info
 canvect.com
+canyontitan.fun
 canyouhearmenow.cf
 canytimes.com
 caonima.gq
@@ -14997,6 +15005,7 @@ codx.site
 codyfosterandco.com
 codyting.com
 codywon.top
+codyxue.com
 codz.site
 codzy.net
 coeco.ca
@@ -16292,6 +16301,7 @@ cxcc.cf
 cxcc.gq
 cxcc.ml
 cxcc.tk
+cxcffirx.icu
 cxenturylink.net
 cxioms.help
 cxmyal.com
@@ -18161,6 +18171,7 @@ dkert2mdi7sainoz.gq
 dkert2mdi7sainoz.ml
 dkert2mdi7sainoz.tk
 dkfksdff.com
+dkgnds.cloud
 dkgr.com
 dkinodrom20133.cx.cc
 dkkffmail.com
@@ -18315,8 +18326,6 @@ dnlien.com
 dnrc.com
 dns-cloud.net
 dns-privacy.com
-dns.army
-dns.navy
 dns123.org
 dnsabr.com
 dnsclick.com
@@ -19179,6 +19188,7 @@ dtv42wlb76cgz.gq
 dtv42wlb76cgz.ml
 dtv42wlb76cgz.tk
 dtvpn.dpdns.org
+du3aquli.icu
 dua.unibiz.edu.pl
 duacgel.info
 dualscreenplayer.com
@@ -19484,6 +19494,7 @@ dynamic-domain-ns1.ml
 dynamitemail.com
 dynarix.cfd
 dynastyantique.com
+dynlexspirit.fun
 dynofusion-developments.com
 dynu.net
 dyoeii.com
@@ -20314,6 +20325,7 @@ ehoie03og3acq3us6.ml
 ehoie03og3acq3us6.tk
 ehomeconnect.net
 ehowtobuildafireplace.com
+ehrjkc.asia
 ehstock.com
 ehvgfwayspsfwukntpi.cf
 ehvgfwayspsfwukntpi.ga
@@ -20620,6 +20632,7 @@ elysium.ml
 elzire.com
 em-meblekuchenne.pl
 em-solutions.com
+em1z7v3c.icu
 ema-sofia.eu
 emaagops.ga
 emaail.com
@@ -22367,6 +22380,7 @@ faan.de
 fabaos.com
 fabiopisani.art
 fabioscapella.com
+fabm4msw.icu
 fabook.com
 fabricmarsh.cfd
 fabricsukproperty.com
@@ -25047,6 +25061,7 @@ fuwari.be
 fux0ringduh.com
 fuzitea.com
 fuzmail.info
+fuzmwa.asia
 fuznm.online
 fvgs.com
 fvguj.anonbox.net
@@ -25099,6 +25114,9 @@ fws.fr
 fwumoy.buzz
 fwxr.com
 fwxzvubxmo.pl
+fwya.asia
+fwyi.asia
+fwze.asia
 fx-banking.com
 fx-brokers.review
 fx8333.com
@@ -25263,6 +25281,11 @@ gag16dotw7t.ga
 gag16dotw7t.gq
 gag16dotw7t.ml
 gag16dotw7t.tk
+gagagaga1.icu
+gagagaga10.icu
+gagagaga3.icu
+gagagaga8.icu
+gagagaga9.icu
 gagahsoft.software
 gagcalculator.me
 gage.ga
@@ -25552,6 +25575,7 @@ gcfleh.com
 gcfv.skin
 gchatz.ga
 gcheck.xyz
+gclwiv9p.icu
 gcmail.top
 gcordobaguerrero.com
 gcpainters.com
@@ -25577,6 +25601,7 @@ gdcac.com
 gdcmedia.info
 gdcrm.store
 gddao.com
+gddghh.space
 gddp2018.edu.vn
 gdemoy.site
 gdfgergrer.online
@@ -26088,6 +26113,7 @@ ghfh.de
 ghfnhcf.xyz
 ghgluiis.tk
 ghid-afaceri.com
+ghis.beer
 ghiyugh.uk
 ghk55.us
 ghkoyee.com.uk
@@ -28067,6 +28093,7 @@ gvdk.com
 gviagrasales.com
 gvpn.com
 gvpn.us
+gvqnpt.asia
 gvztim.gq
 gwahtb.pl
 gwehuj.com
@@ -28383,7 +28410,6 @@ hairstrule.xyz
 hairstyles360.com
 hairstylesbase.com
 hairwizard.in
-haiserat.network
 haitaous.com
 haiticadeau.com
 haitinn5213.com
@@ -29451,6 +29477,7 @@ hktmail.com
 hku.us.to
 hkuv.skin
 hkvtop.us
+hkxrde.asia
 hl-blocker.site
 hl51.com
 hldn.de
@@ -29493,6 +29520,7 @@ hmsn.com
 hmx.at
 hmxmizjcs.pl
 hn-skincare.com
+hnamkqdl.icu
 hndard.com
 hneywell.com
 hnfw-ngd.top
@@ -31814,6 +31842,7 @@ ijmxty3.atm.pl
 ijointeract.com
 ijsdiofjsaqweq.ru
 ijur.sld.tw
+ijwqvo.asia
 ik7gzqu2gved2g5wr.cf
 ik7gzqu2gved2g5wr.ga
 ik7gzqu2gved2g5wr.gq
@@ -34655,6 +34684,7 @@ jxin.hair
 jxiv.com
 jxpomup.com
 jxz.im
+jy36nnvi.icu
 jyfc88.com
 jyliananderik.com
 jymfit.info
@@ -35055,6 +35085,7 @@ kcmh5.anonbox.net
 kcoporation.com
 kcql.hair
 kcrw.de
+kcxxvqyx.icu
 kcya.skin
 kd2.org
 kdesignstudio.com
@@ -35244,6 +35275,7 @@ kexvd.tokyo
 key-mail.net
 key-windows-7.us
 key2info.com
+keyepin.com
 keyesrealtors.tk
 keyforteams.com
 keygenninjas.com
@@ -37544,6 +37576,7 @@ lioplpac.com
 liopolo.com
 liopolop.com
 liopsacac.shop
+liovexphoenix.fun
 lipih.anonbox.net
 lipitorprime.com
 lipo13blogs.com
@@ -42784,7 +42817,6 @@ monyal.fun
 monyal.sbs
 monyal.shop
 mooblan.ml
-moodyaofa.biz
 mooecofficail.club
 moola4books.com
 moolee.net
@@ -43424,6 +43456,7 @@ multiscanner.org
 multiwiseai.com
 mumbama.com
 mumgoods.site
+mumm.beer
 mumpangmeumpeung.space
 muncieschool.org
 muncloud.com
@@ -43541,6 +43574,7 @@ mvgn5.anonbox.net
 mviq.ru
 mvlnjnh.pl
 mvmusic.top
+mvnofijm.asia
 mvo.pl
 mvoa.site
 mvoudzz34rn.cf
@@ -47523,6 +47557,7 @@ onvruxe.site
 onwardmail.com
 onwmail.com
 onwond.it
+onwp6ved.icu
 onx2p.anonbox.net
 onymi.com
 onzmail.com
@@ -47775,6 +47810,7 @@ opusnet.com.au
 oputlook.com
 opwebw.com
 opwq.site
+opxwbt.asia
 opzeo.com
 oqao.com
 oqgd.skin
@@ -49301,7 +49337,6 @@ peterschoice.info
 petertijj.com
 petervwells.com
 petesauto.com
-petiteyusefha.co
 petitlien.fr
 petloca.com
 petrolgames.com
@@ -49449,7 +49484,6 @@ phuctdv.top
 phugruphy.com
 phuked.net
 phukiend2p.store
-phukk.anonbox.net
 phuongblue1507.xyz
 phuongfb.com
 phuongnhicare.com
@@ -51747,6 +51781,7 @@ qg8zn7nj8prrt4z3.ga
 qg8zn7nj8prrt4z3.gq
 qg8zn7nj8prrt4z3.ml
 qg8zn7nj8prrt4z3.tk
+qg9flboa.icu
 qgae.com
 qgau2.anonbox.net
 qgfkslkd1ztf.cf
@@ -51776,6 +51811,7 @@ qibl.at
 qici.sld.tw
 qienzisdomain.site
 qifnsklfo0w.com
+qincode.online
 qinenut.site
 qingheluo.com
 qinicial.ru
@@ -51839,6 +51875,7 @@ qluiwa5wuctfmsjpju.cf
 qluiwa5wuctfmsjpju.ga
 qluiwa5wuctfmsjpju.gq
 qluiwa5wuctfmsjpju.ml
+qlvnux.asia
 qm1717.com
 qmail.abrdns.com
 qmail.com
@@ -51966,6 +52003,7 @@ qqwtrnsqdhb.edu.pl
 qqzymail.win
 qrav.com
 qrd6gzhb48.xorg.pl
+qrduwpak.asia
 qreciclas.com
 qrmason.me
 qrmta.works
@@ -57441,6 +57479,7 @@ smellrear.com
 smellypotato.tk
 smesthai.com
 smeux.com
+smevzoli.icu
 smfsgoeksf.com
 smi.ooo
 smileair.org
@@ -61950,6 +61989,7 @@ tk3od4c3sr1feq.gq
 tk3od4c3sr1feq.ml
 tk3od4c3sr1feq.tk
 tk4535z.pl
+tk4em7sk.icu
 tk8phblcr2ct0ktmk3.ga
 tk8phblcr2ct0ktmk3.gq
 tk8phblcr2ct0ktmk3.ml
@@ -63689,6 +63729,7 @@ u5tbrlz3wq.ga
 u5tbrlz3wq.gq
 u5tbrlz3wq.ml
 u5tbrlz3wq.tk
+u6a9a5wy.icu
 u6lvty2.com
 u7btp.anonbox.net
 u7cjl8.xorg.pl
@@ -64903,9 +64944,6 @@ v58tk1r6kp2ft01.ga
 v58tk1r6kp2ft01.gq
 v58tk1r6kp2ft01.ml
 v58tk1r6kp2ft01.tk
-v6.army
-v6.navy
-v6.rocks
 v6iexwlhb6n2hf.ga
 v6iexwlhb6n2hf.gq
 v6iexwlhb6n2hf.ml
@@ -64922,6 +64960,7 @@ va5vsqerkpmsgibyk.ga
 va5vsqerkpmsgibyk.gq
 va5vsqerkpmsgibyk.ml
 va5vsqerkpmsgibyk.tk
+va7tkaqk55.icu
 vaasfc4.tk
 vaastu.com
 vaati.org
@@ -65889,6 +65928,7 @@ vivie.club
 vivista.co.uk
 vivopoker.pro
 viwsala.com
+vixces.cyou
 vixej.com
 vixletdev.com
 vixmalls.com
@@ -68777,6 +68817,7 @@ xjau.homes
 xjgbw.com
 xjin.xyz
 xjkbrsi.pl
+xjm.homes
 xjoi.com
 xjsi.com
 xjyfoa.buzz
@@ -70381,6 +70422,7 @@ yogamaven.com
 yoggm.com
 yogirt.com
 yogivest.com
+yogo.beer
 yogod.com
 yogoka.com
 yogurtcereal.com
@@ -70696,6 +70738,7 @@ yqww14gpadey.ml
 yqww14gpadey.tk
 yrahoo.com
 yraj46a46an43.tk
+yralexchimera.fun
 yreferenta.ru
 yreilof.xyz
 yrmno5cxjkcp9qlen8t.cf
