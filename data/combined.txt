@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-15
+# progressive-email-suppression — generated 2026-11-16
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 71998 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 72027 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4452,6 +4452,11 @@ addthis.site
 addtocurrentlist.com
 addy.io
 addyoubooks.com
+addyourcustomdoaminhere.store
+addyourdoaminhere.online
+addyourdoaminhere.sbs
+addyourdoaminhere.site
+addyourdoaminhere.store
 adeany.com
 adeata.com
 adec.name
@@ -4602,6 +4607,7 @@ adverstudio.com
 advertence.com
 advertforyou.info
 advertiseall.com
+advertisehereon.tech
 advertisingmarketingfuture.info
 advew.com
 advextreme.com
@@ -4865,6 +4871,7 @@ agent.makingdomes.com
 agent.oldoutnewin.com
 agent.ploooop.com
 agent.poisedtoshrike.com
+agent.qq.com
 agent.warboardplace.com
 agentescp.com
 agentloop.sbs
@@ -8665,6 +8672,7 @@ bagsshopjp.com
 bagx.site
 bahadir.eu
 bahiscasinoparayatirma.xyz
+bahitarahero.store
 bahlill.cfd
 bahv5.anonbox.net
 bahzv.anonbox.net
@@ -12126,6 +12134,7 @@ buy003.com
 buy6more2.info
 buyad.ru
 buyairjordan.com
+buyaitools.site
 buyamoxilonline24h.com
 buyandsmoke.net
 buyanessaycheape.top
@@ -12283,6 +12292,7 @@ bwpo6.anonbox.net
 bwrqi.anonbox.net
 bwsf2.anonbox.net
 bwtdmail.com
+bwvpn.anonbox.net
 bwwbt.anonbox.net
 bwwsb.com
 bwwsrvvff3wrmctx.cf
@@ -18045,6 +18055,7 @@ disneystudioawards.com
 dispand.site
 dispatchsolutions.club
 displaylightbox.com
+displayme.store
 displays2go.com
 displayside.com
 displaystar.com
@@ -22731,6 +22742,7 @@ fashionzone69.com
 fashond.com
 fasigula.name
 fasl4kas3.site
+fasristore.com
 fassa.giize.com
 fassagforpresident.ga
 fasssd.ru
@@ -27999,6 +28011,7 @@ guess.bthow.com
 guesschaussurespascher.com
 guesstimatr.com
 gueto2009.com
+guetshb.store
 gufacoding.com
 gufum.com
 gug.la
@@ -28040,7 +28053,6 @@ gujckksusww.com
 gujika.org
 gukox.org
 guksle.website
-gulasurakhman.net
 gulfacmaintenance.xyz
 gulfclimate.xyz
 gulfhvacrepair.xyz
@@ -28060,6 +28072,7 @@ gungratemail.ga
 guntherfamily.com
 guozivpn.cc.cd
 guqoo.com
+gurmerly.online
 gurpz.com
 gurubooks.ru
 gurulegal.ru
@@ -30749,6 +30762,7 @@ huekieu.com
 hugbenefits.ga
 huge.ruimz.com
 hugesale.in
+huggsfeld.store
 hugofairbanks.com
 hugohost.pl
 huhu8686.us
@@ -32029,6 +32043,7 @@ imicplc.com
 iminimalm.com
 imitrex-sumatriptan.com
 imitrex.info
+imlimikom.store
 immail.com
 immail.ml
 immediategoodness.org
@@ -33547,7 +33562,6 @@ jangansharing.my.id
 janiceaja.atlanta-webmail.top
 janics.com
 janismedia.tk
-janjiabdurrohim.biz
 janmail.org
 jannat.ga
 jannice.com
@@ -34854,6 +34868,7 @@ kalimantantengah.net
 kalimantantimur.net
 kalimantanutara.net
 kalkulator-kredytowy.com.pl
+kallokarlabahi.online
 kaloolas.shop
 kalosgrafx.com
 kalquoris.cfd
@@ -34897,6 +34912,7 @@ kangkunk44lur.cf
 kangsohang.com
 kangzheng33.xyz
 kanhamods.ml
+kanjoosbahi.site
 kankankankan.com
 kanker.website
 kankoplm.eu.cc
@@ -34928,6 +34944,7 @@ karavic.com
 karbonaielite.com
 karbonbet.com
 karcherparts.info
+kardarankab.online
 karelklosse.com
 karement.com
 karenkey.com
@@ -34945,6 +34962,7 @@ karinmk-wolf.eu
 kariplan.com
 karisss3.com
 karitas.com.br
+karkambahi.store
 karlinainawati.art
 karlov-most.ru
 karmapuma.tk
@@ -36603,6 +36621,7 @@ laikacyber.gq
 laikacyber.ml
 laikacyber.tk
 lailakhan.net
+lailmiki.store
 lain.ch
 lajoska.pe.hu
 lak.pp.ua
@@ -48572,7 +48591,6 @@ paketos.ru
 pakkaji.com
 pakolokoemail.com.uk
 pakrocok.tech
-pakservices.info
 pakwork.com
 palaciosvinodefinca.com
 palaena.xyz
@@ -49169,6 +49187,11 @@ pemberontakjaya88.com
 pembola.com
 pembrookgroup.net
 pemess.com
+pemoteme.online
+pemoteusonourweb.online
+pemoteusonourweb.sbs
+pemoteusonourweb.site
+pemoteusonourweb.store
 pemwe.com
 pen960.ml
 penampilannieken.io
@@ -51037,6 +51060,7 @@ proscaronlinesure.com
 proscarprime.com
 prosdeira.xyz
 prosdubaiuae.xyz
+proseeding.shop
 prosek.xyz
 prosemaar.xyz
 proseriesm.info
@@ -52599,6 +52623,7 @@ rangkutimail.me
 rankify.sbs
 rankingweightgaintablets.info
 rankmagix.net
+rankme.site
 ranky.com
 ranmoi.net
 ranro.lat
@@ -55374,6 +55399,7 @@ saukute.me
 saungadaid.biz.id
 saungadaid.pro
 sausen.com
+sautcuso.com
 savageattitude.com
 savagemods.com
 save-on-energy.org
@@ -56657,6 +56683,7 @@ shmeriously.com
 sho94.xpath.site
 shockinmytown.cu.cc
 shockmail.win
+shockong.com
 shoeonlineblog.com
 shoes-market.cf
 shoes.net
@@ -58314,6 +58341,7 @@ spoasta.me
 spokedcity.com
 spoksy.info
 spolujizda.info
+sponserme.store
 sponsored-by-xeovo-vpn.ink
 sponsored-by-xeovo-vpn.site
 spont.ml
@@ -58594,7 +58622,6 @@ stacys.mom
 stafabandk.site
 staffburada.com
 staffchat.tk
-stafflazarus.com
 staffprime.com
 stagedandconfused.com
 stagingresults.net
@@ -60834,6 +60861,7 @@ tempmail.au
 tempmail.bearzi.it
 tempmail.best
 tempmail.cc
+tempmail.cloud
 tempmail.cn
 tempmail.co
 tempmail.codes
@@ -60948,6 +60976,7 @@ tenesu.tk
 tenet.gr
 tenhepe.tech
 tenhub.uk
+tenmin.app
 tennesseeinssaver.com
 tennisan.ru
 tenniselbowguide.info
@@ -64137,6 +64166,7 @@ ulaptopsn.com
 ulava.xubi.org
 ulemail.com
 ulisaig.com
+ulitmtehub.store
 ulm-dsl.de
 ulmich.edu
 ulmzd.tokyo
@@ -71318,7 +71348,6 @@ zezis.ru
 zf-boilerplate.com
 zf4r34ie.com
 zfasao.buzz
-zfbxh.anonbox.net
 zfilm1.ru
 zfilm3.ru
 zfilm5.ru
