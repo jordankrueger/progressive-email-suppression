@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-16
+# progressive-email-suppression — generated 2026-11-17
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 72027 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 72043 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -780,6 +780,7 @@
 1ayj8yi7lpiksxawav.tk
 1bedpage.com
 1bi.email-temp.com
+1bin.sbs
 1blackmoon.com
 1blueymail.gq
 1c-spec.ru
@@ -834,6 +835,7 @@
 1liqu1d.gq
 1load-fiiliiies.ru
 1lv.in
+1mail.lt
 1mail.ml
 1mail.site
 1mail.uk.to
@@ -3546,6 +3548,7 @@
 99-brand.com
 99.com
 990.net
+990907.xyz
 990ys.com
 991-sh.top
 991gmail.com
@@ -8673,6 +8676,7 @@ bagx.site
 bahadir.eu
 bahiscasinoparayatirma.xyz
 bahitarahero.store
+bahitarastarha.store
 bahlill.cfd
 bahv5.anonbox.net
 bahzv.anonbox.net
@@ -9110,6 +9114,7 @@ bccstudent.me
 bccto.cc
 bccto.me
 bcdmail.date
+bcfsr.anonbox.net
 bcg-adwokaci.pl
 bcglobal.net
 bchatz.ga
@@ -12806,6 +12811,7 @@ canie.assassins-creed.org
 canilvonhauseferrer.com
 canitta.icu
 canja.sld.tw
+cankaohe.com
 canmath.com
 canmorenews.com
 cannabisresoulution.net
@@ -13106,6 +13112,7 @@ catchall.fr
 catchemail1.xyz
 catchemail5.xyz
 catchletter.com
+catchmail.io
 catchmeifyoucan.xyz
 catchonline.ooo
 catdogmail.live
@@ -16800,7 +16807,6 @@ datingx.co
 dationish.site
 datokyo.com
 datosat.com
-datphuyen.net
 datprovn.io.vn
 datprovnn.io.vn
 datrr.gq
@@ -17231,6 +17237,7 @@ demotivatorru.info
 demotywator.com
 dena.ga
 dena.ml
+denanet.com
 denarcteel.com
 denbaker.com
 dencxvo.com
@@ -17759,7 +17766,6 @@ digeros.com
 diggcrypto.com
 diggmail.club
 digi-value.fr
-digiactiveai.com
 digial.jo3.org
 digibeast.my
 digibeast.store
@@ -19205,6 +19211,7 @@ duacgel.info
 dualscreenplayer.com
 duam.net
 duanehar.pw
+duanju888.site
 dubaiacplumbing.com
 dubaiapartmentcare.com
 dubaiapartmentfix.com
@@ -21832,6 +21839,7 @@ euneeedn.com
 euonia.xyz
 euphoriaworld.com
 eupin.site
+euploading.com
 eur-sec1.cf
 eur-sec1.ga
 eur-sec1.gq
@@ -22631,7 +22639,6 @@ fancoder.xyz
 fancoilsquad.xyz
 fancycarnavalmasks.com
 fancynix.com
-fancyzuhdi.net
 fandamtastic.info
 fandemic.co
 fandoe.com
@@ -25522,7 +25529,6 @@ gashoainam.io.vn
 gasil.com
 gasken.online
 gaskuy.me
-gaskuy93.art
 gasocin.pl
 gassfey.com
 gassmail.com
@@ -26818,6 +26824,7 @@ gmatl.com
 gmaul.com
 gmawil.com
 gmaxil.com
+gmayll.com
 gmazil.com
 gmcail.com
 gmcd.de
@@ -33348,6 +33355,7 @@ izeao.com
 izemail.com
 izeqmail.com
 izhowto.com
+izimybes.lt
 izkat.com
 izmail.net
 izmin.store
@@ -33366,6 +33374,7 @@ izte.xubi.org
 izunasan.my.id
 izunasuite.biz.id
 izvi.sld.tw
+izymybes.lt
 izzum.com
 j-b.us
 j-jacobs-cugrad.info
@@ -35598,7 +35607,6 @@ kitiva.com
 kitkat.pop3.lavaweb.in
 kitnastar.com
 kitooes.com
-kitools.es
 kitsappowdercoating.com
 kitten-mittons.com
 kittenemail.com
@@ -40088,6 +40096,7 @@ mailingo.net
 mailintor.com
 mailisia.com
 mailismagic.com
+mailistry.com
 mailita.tk
 mailivw.com
 mailj.tk
@@ -42422,6 +42431,7 @@ mmail.trade
 mmail.xyz
 mmailinater.com
 mmaily.com
+mmayl.com
 mmcat.icu
 mmccproductions.com
 mmcdoutpwg.pl
@@ -51033,6 +51043,7 @@ promudon.xyz
 promx.cc
 promyscandlines.pl
 promyvia.cfd
+proncapel.com
 prontobet.com
 prontonmail.com
 proodigy.net.mx
@@ -57533,6 +57544,7 @@ smkanba.com
 sml2020.xyz
 smlmail.com
 smlmail.net
+smmlikebot.com
 smmok-700nm.ru
 smmwalebaba.com
 smncloud.com
@@ -60838,6 +60850,7 @@ tempemaill.com
 tempemailo.org
 tempemails.io
 tempestme.com
+tempfastmail.com
 tempfree.v6.rocks
 tempgmail.ga
 tempikpenyu.xyz
@@ -60953,7 +60966,6 @@ temporarymailaddress.com
 temporeal.site
 tempp-mails.com
 temppppo.store
-temppy.com
 tempr.email
 tempremail.cf
 tempremail.tk
@@ -62989,6 +63001,7 @@ treehouseburning.com
 treehousetherapy.com
 treeremovalmichigan.com
 treesforderby.org
+tregerge.shop
 tremo.lat
 trend-maker.ru
 trendbettor.com
@@ -64723,6 +64736,7 @@ uslugi-i-tovary.ru
 uslugiseo.warszawa.pl
 uslyn.com
 usm.ovh
+usmail.one
 usmailbook.com
 usmailstar.com
 usmajor.us
@@ -64773,6 +64787,7 @@ utilsans.ru
 utkarsh.tech
 utlook.com
 utmail.com
+utmastream.com
 utmkg.icu
 utoi.cu.uk
 utoo.email
@@ -67223,6 +67238,7 @@ weipai.ws
 weipl.com
 weird3.eu
 weirdcups.com
+weirdlytemp.sbs
 weirenqs.space
 weiruipingji.com
 weizixu.com
@@ -68477,7 +68493,6 @@ x3gsbkpu7wnqg.ga
 x3gsbkpu7wnqg.gq
 x3gsbkpu7wnqg.ml
 x3mailer.com
-x3puf.anonbox.net
 x3sbp.anonbox.net
 x4all.nl
 x4u.me
@@ -71291,6 +71306,7 @@ zephyramcpro.xyz
 zephyrhvac.xyz
 zephyros.cfd
 zepp.dk
+zeppost.com
 zepter-moscow.biz
 zer-0.cf
 zer-0.ga
