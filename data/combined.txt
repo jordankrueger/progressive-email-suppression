@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-18
+# progressive-email-suppression — generated 2026-11-19
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 72123 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 72125 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4799,6 +4799,7 @@ afriendship.ru
 afro.com-posted.org
 afrobacon.com
 afrocelts.us
+afronewz.com
 afroprides.com
 afsaf.com
 afse-gh.top
@@ -5405,7 +5406,6 @@ akgq701.com
 akhl.autos
 akhmadi.cf
 akhost.trade
-akhpremium.site
 akihiro84.downloadism.top
 akina.pl
 akinesis.info
@@ -8442,7 +8442,6 @@ b6o7vt32yz.ga
 b6o7vt32yz.gq
 b6o7vt32yz.ml
 b6o7vt32yz.tk
-b6quk.anonbox.net
 b6vscarmen.com
 b6xh2n3p7ywli01.cf
 b6xh2n3p7ywli01.ga
@@ -11015,6 +11014,7 @@ bonnellproject.org
 bonobo.email
 bonrollen.shop
 bont.edu.gr
+bonuscable.com
 bonusess.me
 bonuspharma.pl
 bonwear.com
@@ -19407,6 +19407,7 @@ dvd.dnsabr.com
 dvd315.xyz
 dvdallnews.com
 dvdcloset.net
+dvdee.com
 dvdexperts.info
 dvdjapanesehome.com
 dvdkrnbooling.com
@@ -24219,6 +24220,7 @@ forge45k.io.vn
 forgetmail.com
 forgetmenotbook.com
 forgetmenotstudio.org.uk
+forims.com
 forklift.edu
 forliion.com
 form.bthow.com
@@ -36102,6 +36104,7 @@ krakowskiadresvps.com
 kramatjegu.com
 kramwerk.ml
 krankenversicherungvergleich24.com
+kranove.com
 krapaonarak.com
 kras-ses.ru
 krasavtsev-ua.pp.ua
@@ -36672,6 +36675,7 @@ lakemneadows.com
 lakeplacid2009.info
 lakesidde.com
 laketahoe-realestate.info
+laketerrace.sbs
 lakevilleapartments.com
 laklica.com
 lakngin.ga
@@ -38692,7 +38696,6 @@ lowprizo.com
 loy.kr
 loyalherceghalom.ml
 loyalnfljerseys.com
-loyalwiranti.biz
 loyalworld.com
 lozno.sld.tw
 lpaoaoao80101919.ibaloch.com
@@ -39035,6 +39038,7 @@ lwwz3zzp4pvfle5vz9q.ga
 lwwz3zzp4pvfle5vz9q.gq
 lwwz3zzp4pvfle5vz9q.ml
 lwwz3zzp4pvfle5vz9q.tk
+lx25f.anonbox.net
 lxbeta.com
 lxlxdtskm.pl
 lxupukiw4dr277kay.cf
@@ -39423,6 +39427,7 @@ mail-j.tk
 mail-jetable.com
 mail-jim.gq
 mail-jim.ml
+mail-jp.net
 mail-lab.net
 mail-line.net
 mail-list.top
@@ -50528,7 +50533,6 @@ pp-n6.top
 pp-nn.lol
 pp-no.lol
 pp-tw.cc
-pp-vc.lol
 pp.com.br
 pp.gamess.bot.cd
 pp.hostdaddy.dns.navy
@@ -50559,7 +50563,6 @@ ppbanr.com
 ppbk.ru
 ppbomail.com
 ppc-e.com
-ppcmedia.co
 ppdf.cc
 ppedu.pp.ua
 ppetw.com
@@ -53138,6 +53141,7 @@ rediffmal.com
 redifmail.com
 rediiffmaiil.com
 redinggtonlaz.xyz
+redir.lat
 redirect.plus
 redirectr.xyz
 rediska.site
@@ -64598,7 +64602,6 @@ uptra.lat
 uptuber.info
 upumail.com
 upurfiles.com
-upvotes.me
 upwithme.com
 upy.kr
 upyahoo.com
@@ -65750,7 +65753,6 @@ viewcastmedia.net
 viewcastmedia.org
 viewleaders.com
 viewmuse.com
-viewspotfit.com
 viewtechnology.info
 vigil4synod.org
 vigilantkeep.net
