@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-19
+# progressive-email-suppression — generated 2026-11-20
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 72125 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 72124 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -4867,7 +4867,6 @@ agendawe.us
 agendka.mielno.pl
 agenimc6.com
 agenpremium.store
-agenra.com
 agent.blatnet.com
 agent.cowsnbullz.com
 agent.lakemneadows.com
@@ -8211,7 +8210,6 @@ azote.gq
 azoven.run.place
 azpuma.com
 azqas.com
-azrmail.com
 azrvdvazg.pl
 azsdz2xc1d2a3sac12.com
 azt.sk
@@ -9126,6 +9124,7 @@ bcnet.store
 bcnetlite.xyz
 bcompiled3.com
 bcooq.com
+bcough.com
 bcp33.anonbox.net
 bcpfm.com
 bcrhc.anonbox.net
@@ -9890,6 +9889,7 @@ bhgm7.club
 bhhej.anonbox.net
 bhhpl.anonbox.net
 bhicw.anonbox.net
+bhkpx.anonbox.net
 bhmhtaecer.pl
 bhmvy.anonbox.net
 bho.hu
@@ -12856,7 +12856,6 @@ capcut.sbs
 capcut.space
 capcut.team
 capcut02.shop
-capcuter.com
 capcutgw.cfd
 capcutisme.app
 capcutku.app
@@ -19158,6 +19157,7 @@ dsitip.com
 dsjie.com
 dskqidlsjf.com
 dsleeping09.com
+dsmspaces.com
 dspwebservices.com
 dsresearchins.org
 dstchicago.com
@@ -23210,7 +23210,6 @@ feriwor.com
 ferloq.click
 fermaxxi.ru
 fermer1.ru
-fermiro.com
 fernet89.com
 ferngrove.org
 fernl.pw
@@ -29379,6 +29378,7 @@ hildredcomputers.com
 hiliteplastics.com
 hillary-email.com
 hillaxiant.xyz
+hillcabin.live
 hillmail.men
 hilltopcove.top
 hilltoptreefarms.com
@@ -47308,7 +47308,6 @@ omegacoin.org
 omegafive.net
 omegasale.org
 omegaxray.thefreemail.top
-omegazetacryptopool.online
 omeprazolex.com
 omeraydinoglu.com
 omerfaruksahin.com
@@ -48932,6 +48931,7 @@ paulsmithnihonn.com
 paulsmithpresent.com
 paulwardrip.com
 paulzbj.ml
+paveice.com
 pavilionx2.com
 pavnk.online
 pavoraplants.lol
@@ -50776,6 +50776,7 @@ presences.me
 preseven.com
 presidentoto.com
 preskot.info
+presloma.com
 prespa.mochkamieniarz.pl
 prespaprespa.e90.biz
 presporary.site
@@ -65831,7 +65832,6 @@ vip-mail.ml
 vip-mail.tk
 vip-payday-loans.com
 vip-replica1.eu
-vip-sparkyv2.com
 vip-timeclub.ru
 vip-watches.ru
 vip-watches1.eu
@@ -71084,7 +71084,6 @@ z5cpw9pg8oiiuwylva.ga
 z5cpw9pg8oiiuwylva.gq
 z5cpw9pg8oiiuwylva.ml
 z5cpw9pg8oiiuwylva.tk
-z6dls.anonbox.net
 z6z7tosg9.pl
 z7az14m.com
 z7az14m.com.com
