@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-21
+# progressive-email-suppression — generated 2026-11-22
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 72124 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 72143 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2433,7 +2433,6 @@
 5dsmartstore.com
 5ej7f.anonbox.net
 5el5nhjf.pl
-5esnu.anonbox.net
 5fcie.anonbox.net
 5fhu5.anonbox.net
 5fingershoesoutlet.com
@@ -3627,6 +3626,7 @@
 9o04xk8chf7iaspralb.ml
 9oul.com
 9ox.net
+9pyxis.my.id
 9q.ro
 9q402.com
 9q8eriqhxvep50vuh3.cf
@@ -4612,6 +4612,7 @@ advertforyou.info
 advertiseall.com
 advertisehereon.tech
 advertisingmarketingfuture.info
+adveuble.com
 advew.com
 advextreme.com
 advidsstudio.co
@@ -6167,6 +6168,7 @@ anadoo.fr
 anaf.com
 anafentos.com
 anahiem.com
+anajak.sbs
 anajakstore.site
 anakindonesiamenghafal.com
 anakjalanan.ga
@@ -6411,6 +6413,7 @@ anonimousemail.win
 anonmail.top
 anonmail.xyz
 anonmails.de
+anonmart.com
 anonpop.com
 anonymail.dk
 anonymbox.com
@@ -8396,6 +8399,7 @@ b3nxdx6dhq.gq
 b3nxdx6dhq.ml
 b3ord.anonbox.net
 b3zig.anonbox.net
+b43pf.anonbox.net
 b44tz.anonbox.net
 b45y3.anonbox.net
 b4jlg.anonbox.net
@@ -9080,7 +9084,6 @@ bbq59.xyz
 bbqlight.com
 bbreghodogx83cuh.ml
 bbroot.com
-bbrsr.anonbox.net
 bbs.edu
 bbsaili.com
 bbsmoodle.com
@@ -15297,7 +15300,6 @@ compare-carinsurancecanada.info
 compare-carinsuranceusa.info
 comparedigitalcamerassidebyside.org
 comparegoodshoes.com
-comparekro.com
 comparepetinsurance.biz
 compareshippingrates.org
 comparisherman.xyz
@@ -15548,6 +15550,7 @@ copjlix.de.vc
 copley.entadsl.com
 copot.info
 copperemail.com
+copperhomestead.online
 copperstream.club
 coppersurfer.site
 copyandart.de
@@ -15992,6 +15995,7 @@ cryptontrade.ga
 cryptosmileys.com
 cryptoszone.ga
 cryptovilla.info
+cryqiqi.web.id
 crystalcoolservice.xyz
 crystalhack.com
 crystalrp.ru
@@ -19297,7 +19301,6 @@ dudleymail.bid
 dudmail.com
 dudscc.com
 dudscc.sbs
-dudscuapcut.store
 duetube.com
 dufeed.com
 dufmk.icu
@@ -21320,6 +21323,7 @@ eodfku.info
 eodocmdrof.com
 eoemail.com
 eoffice.top
+eoknh.anonbox.net
 eolot.site
 eomail.com
 eona.me
@@ -22485,6 +22489,7 @@ facilityservices24.de
 fackme.gq
 factionsdark.tk
 factopedia.pl
+factoryai.tech
 factoryburberryoutlet.com
 factorydrugs.com
 factoryuk.org.uk
@@ -26429,7 +26434,6 @@ glick.tk
 glide.lat
 glitch.sx
 glitchwave.it
-glitteringmediaswari.io
 gliwicemetkownice.pl
 glmail.ga
 glmail.top
@@ -28486,6 +28490,7 @@ halvfet.com
 hamadr.ml
 hamail.net
 hamakdupajasia.com
+hamdipyxis.ai.id
 hamham.uk
 hamkodesign.com
 hammadali.com
@@ -28640,6 +28645,7 @@ hapsomail.info
 haqed.com
 haqimi.cc.cd
 haqoci.com
+har.loc.cc
 harakirimail.com
 haramod.com
 haramshop.ir
@@ -29624,6 +29630,7 @@ hobbyrate.com
 hobbysecurity.com
 hobbytraining.com
 hoboc.com
+hoboevortexkinship.lol
 hobosale.com
 hobsun.com
 hocgaming.com
@@ -35301,6 +35308,7 @@ kerupukmlempem7.cf
 kerupukmlempem7.ga
 kerupukmlempem8.ga
 kerupukmlempem9.cf
+kervunio.store
 kespear.com
 ket-qua.org
 ketchet.com
@@ -35503,7 +35511,10 @@ killyourtime.com
 kilo.kappa.livefreemail.top
 kilo.sigma.aolmail.top
 kilocycl5.xyz
+kilomail.my.id
+kilomail.tech
 kilomerica.xyz
+kilosms.web.id
 kilverstone.net
 kily.com
 kim-tape.com
@@ -37580,7 +37591,6 @@ linkbearer.com
 linkbento.me
 linkbet88.org
 linkbet88.xyz
-linkbitsmart.com
 linkbm.one
 linkbm365.com
 linkcoll.my.id
@@ -39967,7 +39977,6 @@ mailf5.com
 mailfa.cf
 mailfa.tk
 mailfall.com
-mailfance.com
 mailfasfe.com
 mailfast.pro
 mailfavorite.com
@@ -42341,6 +42350,7 @@ miur.tk
 mivex.sbs
 mivlos.online
 mivqen.click
+mivqento.store
 miwacle.com
 mix-good.com
 mix-mail.online
@@ -44538,6 +44548,7 @@ nationwidedebtconsultants.co.uk
 natiret.com
 nativityans.ru
 natmls.com
+natronmaw.lol
 nattestad.com
 natuanal.com
 naturalious.com
@@ -44809,6 +44820,7 @@ nekosan.uk
 nel21.cc
 nel21.me
 nelcoapps.com
+nemesfurl.lol
 nemhgjujdj76kj.tk
 nemo.4amail.top
 nemobaby.store
@@ -45231,6 +45243,7 @@ nexofinance.us
 nexorabio.pro.vn
 nexoriumet.xyz
 nexosphere.lifestyle
+nexqoria.store
 nexral.com
 nexshinz.app
 nexsolutions.com
@@ -45598,7 +45611,6 @@ nimiety.xyz
 nimilite.online
 nimilite.shop
 ninaanwar.art
-ninafashion.shop
 ninakozok.art
 nincsmail.com
 nincsmail.hu
@@ -46128,7 +46140,6 @@ nowdigit.com
 nowemail.ga
 nowemailbox.com
 nowena.site
-nowfixweb.com
 nowhere.org
 nowhivehub.com
 nowlike.com
@@ -46770,7 +46781,6 @@ obznd.tokyo
 ocassettew.com
 ocbxpz3.camdvr.org
 occasics.site
-occasionalmandiri.co
 occept.com
 occumulately.site
 occural.site
@@ -48846,7 +48856,6 @@ party4you.me
 partyearrings.com
 partyweddingdress.net
 parusie.de
-pasarakun.art
 pasarakun.me
 pasarjohar.biz
 pascherairjordanchaussuresafr.com
@@ -50191,7 +50200,6 @@ polishbs.pl
 polishmasters.ml
 polishusa.com
 polishxwyb.com
-politesuharnita.io
 politicalcowboy.com
 politikerclub.de
 poliusraas.tk
@@ -51670,6 +51678,11 @@ pyrosenex.cfd
 pyskillsgame.com
 pystyportfel.pl
 pyxe.com
+pyxis.web.id
+pyxisaja.my.id
+pyxisdev.my.id
+pyxislearn.web.id
+pyxium.my.id
 pzikteam.tk
 pzu.bz
 pzuilop.de
@@ -51851,6 +51864,7 @@ qeqrtc.ovh
 qesnu.site
 qeurtor.com
 qeve.sld.tw
+qevnaro.store
 qevnx.icu
 qevrox.click
 qewaz21.eu
@@ -52739,7 +52753,6 @@ rasczsa2a3.com
 rasczsa2a34.com
 rasczsa2a345.com
 rash-pro.com
-rashchotimah.co
 raskhin54swert.ml
 rasnick.dynamailbox.com
 raspa96.plasticvouchercards.com
@@ -53783,6 +53796,7 @@ ricis.net
 ricketmail.com
 rickifoodpatrocina.tk
 ricoda.store
+ricoovi.com
 ricret.com
 ricrk.com
 riddermark.de
@@ -54344,6 +54358,7 @@ rover75.gq
 rover75.ml
 rover75.tk
 rovesurf.com
+rovexani.store
 rovianconspiracy.com
 rovnk.icu
 rovolowo.com
@@ -58434,7 +58449,6 @@ sport-live-com.ru
 sport-polit.com
 sport-portalos.com.uk
 sport4me.info
-sport9.win
 sportanswers.ru
 sportcornwall.org
 sportifyku.me
@@ -60249,6 +60263,7 @@ tamera.eu
 tamgaaa12.com
 tammega.com
 tammyes.my.id
+tamo.my.id
 tampa-seo.us
 tampabaycoalition.com
 tampaflcomputerrepair.com
@@ -60393,6 +60408,7 @@ taus.ml
 tauttjar3r46.cf
 tavares.com
 tavazan.xyz
+tavluniq.store
 tavqir.click
 tavriq.online
 tawagnadirect.us
@@ -62648,6 +62664,7 @@ topwebplacement.com
 topwm.org
 topyte.com
 topzpost.com
+toque.lat
 tora1.info
 toracw.com
 torange-fr.com
@@ -64314,7 +64331,6 @@ uman.com
 umanit.net
 umanit.online
 umanit.space
-umaw.site
 umbrellascolors.info
 umds.com
 umehlunua.pl
@@ -65241,6 +65257,7 @@ vbweqva.com
 vc.com
 vc.taluabushop.com
 vcamp.co
+vcard.lat
 vcbmail.ga
 vcbox.pro
 vcghv0eyf3fr.cf
@@ -65606,7 +65623,6 @@ via-paypal.com
 via.foo.ng
 via.tokyo.jp
 via17.com
-via902.com
 viagenpwr.com
 viagra-cheap.org
 viagra-withoutadoctorprescription.com
@@ -66285,6 +66301,7 @@ vorga.org
 vorgilio.it
 vorgoloo.it
 vorgon.net
+vornelixa.store
 vors.info
 vorscorp.mooo.com
 vortalis.cfd
@@ -70560,6 +70577,7 @@ yohoo.co.in
 yokmpqg.pl
 yolanda.1amail.top
 yolbiletim.xyz
+yolkcairnnudge.lol
 yolkspinrollway.lol
 yolmid.site
 yoloisforgagsnoob.com
@@ -71984,6 +72002,7 @@ zukmail.tk
 zulamri.com
 zuldev.live
 zuldev.tech
+zulmavix.store
 zulrex.site
 zumail.net
 zumnime.me
