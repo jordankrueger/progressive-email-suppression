@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-22
+# progressive-email-suppression — generated 2026-11-23
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 72143 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 72142 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -12373,7 +12373,6 @@ byggcheapabootscouk1.com
 byiepsxqu.top
 byj53bbd4.pl
 byjkprh.top
-byknv.anonbox.net
 bylup.com
 bymail.info
 bymcn.anonbox.net
@@ -25740,6 +25739,7 @@ gemarbola.news
 gembul.site
 gemil.com
 geminicg.com
+geminicode.shop
 gemipro1.store
 gemmarosefoundation.co.uk
 gemniultra.me
@@ -28106,6 +28106,7 @@ gungratemail.com
 gungratemail.ga
 guntherfamily.com
 guozivpn.cc.cd
+gupta.lat
 guqoo.com
 gurmerly.online
 gurpz.com
@@ -31324,7 +31325,6 @@ ib5dy8b0tip3dd4qb.ml
 ib5dy8b0tip3dd4qb.tk
 ibande.xyz
 ibaoju.com
-ibarz.es
 ibaxdiqyauevzf9.cf
 ibaxdiqyauevzf9.ga
 ibaxdiqyauevzf9.gq
@@ -42708,7 +42708,6 @@ modernsailorclothes.com
 modernsocialuse.co.uk
 moderntransfers.info
 modernx.site
-modestmugnia.io
 modikulp.com
 modila.asia
 modirosa.com
@@ -48347,7 +48346,6 @@ ovbest.com
 ovea.pl
 ovedapparel.com
 ovefagofceaw.com
-ovenyudhaswara.biz
 over-craft.ru
 over-you-24.com
 over.ploooop.com
@@ -48634,6 +48632,7 @@ pafrem3456ails.com
 pagamenti.tk
 page1ranker.com
 pagedangan.me
+pagoya.lat
 paharpurmim.cf
 paharpurmim.ga
 paharpurmim.gq
@@ -52140,6 +52139,7 @@ qtfxtbxudvfvx04.ga
 qtfxtbxudvfvx04.gq
 qtfxtbxudvfvx04.ml
 qtfxtbxudvfvx04.tk
+qtkv5.anonbox.net
 qtlhkpfx3bgdxan.cf
 qtlhkpfx3bgdxan.ga
 qtlhkpfx3bgdxan.gq
@@ -55226,7 +55226,6 @@ salonean.shop
 salonean.site
 salonean.store
 salonean.xyz
-salonesmila.es
 salonkarma.club
 salonkarma.online
 salonkarma.site
@@ -60465,6 +60464,7 @@ tc-solutions.com
 tc4q7muwemzq9ls.ml
 tc4q7muwemzq9ls.tk
 tcases.com
+tcb69.store
 tcbi.com
 tcfr2ulcl9cs.cf
 tcfr2ulcl9cs.ga
@@ -68156,7 +68156,6 @@ worstcoversever.com
 wosenow.com
 woshiemoman.cloud-ip.cc
 wosipaskbc.info
-wotomail.com
 would.blatnet.com
 would.cowsnbullz.com
 would.lakemneadows.com
