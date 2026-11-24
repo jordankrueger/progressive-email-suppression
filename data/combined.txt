@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-23
+# progressive-email-suppression — generated 2026-11-24
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 72142 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 72140 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -3024,6 +3024,7 @@
 7j7cf.anonbox.net
 7kawan.web.id
 7klm5.anonbox.net
+7koez.anonbox.net
 7kuiqff4ay.cf
 7kuiqff4ay.ga
 7kuiqff4ay.gq
@@ -16828,7 +16829,6 @@ daun.net
 dautubds.io.vn
 davecooke.eu
 davehicksputting.com
-davenstore.com
 davesbillboard.com
 davesdadismyhero.com
 davidcoremail.site
@@ -17414,7 +17414,6 @@ dettol.gq
 dettol.ml
 dettol.tk
 deucemail.com
-deupa.anonbox.net
 deutsch-nedv.ru
 deutsch-sprachschule.de
 dev-null.cf
@@ -17747,6 +17746,7 @@ diendanhocseo.com
 diendanit.vn
 dienlanhtruongtien.cloud
 diennuocnghiahue.com
+dienthoaigiare.net
 dier.com
 dietacudischudl.pl
 dietamedia.ru
@@ -28119,7 +28119,6 @@ gustidharya.com
 gustore.co
 gustpay.com
 gustr.com
-gustyjatiprakoso.co
 gutierrezmail.bid
 gutmenschen.company
 gutmorgen.moscow
@@ -28677,7 +28676,6 @@ harlingenapartments.com
 harlowfashion.shop
 harlowgirls.org
 harmani.info
-harmfulsarianti.co
 harmonicanavigation.com
 harmony.com
 harmony.watch
@@ -39766,6 +39764,7 @@ mail7d.com
 mail8.ga
 mail8.gq
 mail8.vot.pl
+mail8686.us
 mail8app.com
 mail998.com
 mailabconline.com
@@ -41855,6 +41854,7 @@ mewx.xyz
 mex.broker
 mexamet.store
 mexcool.com
+mexicanglamour.com
 mexicanonlinepharmacyhq.com
 mexicobookclub.com
 mexicolindo.com.mx
@@ -45231,6 +45231,7 @@ newyoutube.ru
 newzbling.com
 newzeroemail.com
 newzgraph.net
+nex.edu.kg
 nexafilm.com
 nexarisystems.online
 nexarsh.store
@@ -49715,7 +49716,6 @@ pilpres2018.ga
 pilpres2018.ml
 pilpres2018.tk
 pilv.com
-pimeariver.com
 pimmel.top
 pimpedupmyspace.com
 pimples.com
@@ -50537,7 +50537,6 @@ pp-gua.top
 pp-mc.lol
 pp-n1.lol
 pp-n6.top
-pp-nn.lol
 pp-no.lol
 pp-tw.cc
 pp.com.br
@@ -50949,6 +50948,7 @@ priyp.com
 prkmail.xyz
 prlinkjuicer.info
 prmail.top
+prmoble.com
 pro-baby-dom.ru
 pro-expert.online
 pro-files.ru
@@ -59140,7 +59140,6 @@ stsgraphics.com
 sttd.us
 sttf.com
 stu.lmstd.com
-stubbornakdani.io
 stuckhere.ml
 stuckmail.com
 student.base101.com
@@ -70685,7 +70684,6 @@ yotmail.com
 yotmail.fr.nf
 yotmir.online
 yotogroup.com
-yotomail.com
 you-qi.com
 you-spam.com
 you.cowsnbullz.com
