@@ -1,4 +1,4 @@
-# progressive-email-suppression — generated 2026-11-24
+# progressive-email-suppression — generated 2026-11-25
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
@@ -10703,7 +10703,6 @@ bluffersguidetoit.com
 blulapka.pl
 blumenkranz78.glasslightbulbs.com
 bluna.lat
-bluni.anonbox.net
 blurbulletbody.website
 blurmail.net
 blurme.net
@@ -12119,6 +12118,7 @@ buttmonkey.com
 buttonfans.com
 buttonrulesall.com
 buuu.com
+buvbl.anonbox.net
 buvzk.tokyo
 buwt2.anonbox.net
 buxap.com
@@ -16776,6 +16776,7 @@ datarca.com
 dataretrievalharddrive.net
 datasoma.com
 datastrip.com
+datatransfer.site
 datauoso.com
 datawurld.com
 datazo.ca
@@ -22800,7 +22801,6 @@ fastcashloansbadcredit.com
 fastcdn.cc
 fastchevy.com
 fastchrysler.com
-fastdating.lat
 fastdeal.com.br
 fastdownloadcloud.ru
 fastee.edu
@@ -26525,7 +26525,6 @@ glovebranders.com
 glovesprotection.info
 glowend.xyz
 glowinbox.info
-glowingsyabrianty.biz
 glownymail.waw.pl
 glqbsobn8adzzh.cf
 glqbsobn8adzzh.ga
@@ -45082,6 +45081,7 @@ new.lakemneadows.com
 new.rr.com.com
 newaddr.com
 newagemail.com
+newagent.us
 newairconpro.xyz
 newairmail.com
 newbalanceretail.com
@@ -49588,7 +49588,6 @@ phugruphy.com
 phuked.net
 phukiend2p.store
 phuongblue1507.xyz
-phuongfb.com
 phuongnhicare.com
 phuongphamfb.site
 phuongpt9.tk
@@ -71383,6 +71382,7 @@ zenpoczb.com.pl
 zenpoczc.com.pl
 zenrepair365.xyz
 zenrz.itemdb.com
+zens.business
 zensolutions.info
 zensurpirat.de
 zenthara.cfd
