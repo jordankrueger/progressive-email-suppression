@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-25
+# progressive-email-suppression — generated 2026-11-26
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 72140 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 72143 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -12431,7 +12431,6 @@ bztf1kqptryfudz.ga
 bztf1kqptryfudz.gq
 bztf1kqptryfudz.ml
 bztf1kqptryfudz.tk
-bzvql.anonbox.net
 bzvrxf8.ooguy.com
 bzwhe.anonbox.net
 bzx7c.anonbox.net
@@ -15607,6 +15606,7 @@ corsovenezia.com
 cortex.kicks-ass.net
 coruco.com
 corunda.com
+cosas.lat
 cosbn.com
 cosdas.com
 coslots.gdn
@@ -20325,7 +20325,6 @@ egodmail.com
 egofan.ru
 egri.sld.tw
 egru.sld.tw
-egsolucoes.shop
 egsouq.shop
 eguccibag-sales.com
 egumail.com
@@ -26186,6 +26185,7 @@ giangholang.xyz
 gianna1121.club
 giantessa.net
 giantmail.de
+giantth.com
 giantwebs2010.info
 gianunzio34.spicysallads.com
 giany.sld.tw
@@ -37538,6 +37538,7 @@ lilzyy.site
 limahfjdhn89nb.tk
 limamail.ml
 limaquebec.webmailious.top
+limas.lat
 limax.lat
 limbostudios.com
 limcil.cyou
@@ -53930,6 +53931,7 @@ rjacks.com
 rjbemestarfit.site
 rjbtech.com
 rjolympics.com
+rjprp.anonbox.net
 rjtjfunny.com
 rjtrainingsolutions.com
 rjwm.com
@@ -56013,6 +56015,7 @@ see.marksypark.com
 seed.ml
 seedancespace.shop
 seedcorn.foundation
+seedingfb.click
 seedscommerce.com
 seedspeed.site
 seegars.com
@@ -65136,7 +65139,6 @@ vajq8t6aiul.gq
 vajq8t6aiul.ml
 vajq8t6aiul.tk
 valanides.com
-valaqua.es
 valdezmail.men
 valemail.net
 valenciabackpackers.com
@@ -68350,6 +68352,7 @@ wusnet.site
 wusolar.com
 wusongdahu.cc.cd
 wustl.com
+wutmail.com
 wuupr.com
 wuuvo.com
 wuyc41hgrf.cf
