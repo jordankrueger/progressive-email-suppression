@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-26
+# progressive-email-suppression — generated 2026-11-27
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 72143 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 72141 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -2894,7 +2894,6 @@
 726xhknin96v9oxdqa.gq
 726xhknin96v9oxdqa.ml
 726xhknin96v9oxdqa.tk
-727ec.es
 727gmail.com
 728gmail.com
 729406.xyz
@@ -9924,6 +9923,7 @@ bhwjl.anonbox.net
 bhyson.site
 bhz2v.anonbox.net
 bi5zg.anonbox.net
+biai5.anonbox.net
 bialode.com
 bialy.agencja-csk.pl
 bialystokkabury.pl
@@ -10277,7 +10277,6 @@ biuro-naprawcze.pl
 bivforbrooklyn.com
 bivon.sld.tw
 biweia615.icu
-biwf5.anonbox.net
 biyac.com
 biyug.com
 biz.st
@@ -12679,6 +12678,7 @@ calvinkleinbragas.com
 calypsoservice.com
 cam4you.cc
 camachohome.com
+camaradanzacba.com
 cambridge-satchel.com
 cambridge.ga
 cambridgechina.org
@@ -14632,7 +14632,6 @@ clonemoi.tk
 clonenpa.com
 clonere.net
 cloneshop24h.com
-clonetop1.shop
 clonetrust.com
 clonevip.click
 cloneviptmc1.club
@@ -24125,7 +24124,6 @@ fondgoroddetstva.ru
 fonmail.com.br
 fontainbleau.com
 fonte.lat
-fontfee.com
 fontier.com
 fontier.net
 fontiernet.net
@@ -26194,6 +26192,7 @@ giaotiep.xyz
 giaovienvn.gq
 giaovienvn.tk
 giare.fun
+giarevcl.click
 gibit.us
 giblpyqhb.pl
 gibme.com
@@ -50776,6 +50775,7 @@ preorderdiablo3.com
 preownedluxurycars.com
 preparee.top
 preparmy.com
+prepge.com
 prescription-swimming-goggles.info
 prescriptionbyphone.com
 presences.me
@@ -51923,7 +51923,6 @@ qienzisdomain.site
 qifnsklfo0w.com
 qincode.online
 qinenut.site
-qingheluo.com
 qinicial.ru
 qinova.io.vn
 qiott.com
@@ -59593,7 +59592,6 @@ supportain.site
 supportbox.xyz
 supporthpprinters.com
 supporticult.site
-supportlike.online
 supportorganization.online
 supporttc.com
 suppp.site
