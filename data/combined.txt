@@ -1,9 +1,9 @@
-# progressive-email-suppression — generated 2026-11-27
+# progressive-email-suppression — generated 2026-11-28
 # Source: https://github.com/jordankrueger/progressive-email-suppression
 # License: mixed — see LICENSE and LICENSES/ in the source repo.
 # Compilation: CC0 1.0 where permissible; portions from
 # mailchecker (MIT), fakefilter (BSD 3-Clause), disposable-email-domains (CC0).
-# 72141 domains (two progressive advocacy orgs' historical lists + upstream community lists)
+# 72146 domains (two progressive advocacy orgs' historical lists + upstream community lists)
 0-00.usa.cc
 0-30-24.com
 0-attorney.com
@@ -1649,6 +1649,7 @@
 364gmail.com
 3657she.com
 365boxmail.com
+365boxmail.name
 365jjs.com
 365live7m.com
 365mailvn.com
@@ -5935,6 +5936,7 @@ altuswe.us
 altwow.ru
 alufelgenprs.de
 aluimport.com
+aluminico.com
 aluminum-rails.com
 alumix.cf
 alumnimp3.xyz
@@ -7463,6 +7465,7 @@ aswatna-eg.net
 aswertyuifwe.cz.cc
 aswpt.click
 asyabahis51.com
+asypen.com
 asza.ga
 at.blatnet.com
 at.cowsnbullz.com
@@ -7542,6 +7545,7 @@ atozcashsystem.net
 atozconference.com
 atpm.us
 atpxl.cfd
+atque.tech
 atrais-kredits24.com
 atrakcje-na-impreze.pl
 atrakcje-nestor.pl
@@ -8519,7 +8523,6 @@ babirousa.ml
 babirusa.info
 babiszoni.pl
 babkm.anonbox.net
-bablace.com
 babraja.kutno.pl
 babroc.az.pl
 babski.az.pl
@@ -8820,6 +8823,7 @@ bankinnepal.com
 bankionline.info
 bankoff.me
 bankofthecarolinas.com
+bankours.com
 bankowepromocje.com.pl
 bankparibas.pl
 bankpravo.ru
@@ -9832,6 +9836,7 @@ bgboad.ga
 bgboad.ml
 bgbsj.anonbox.net
 bgchan.net
+bgcir.anonbox.net
 bgctw.anonbox.net
 bget0loaadz.ru
 bget3sagruz.ru
@@ -9921,7 +9926,6 @@ bhuyarey.ml
 bhwbx.anonbox.net
 bhwjl.anonbox.net
 bhyson.site
-bhz2v.anonbox.net
 bi5zg.anonbox.net
 biai5.anonbox.net
 bialode.com
@@ -16970,6 +16974,7 @@ dcndiox5sxtegbevz.ga
 dcndiox5sxtegbevz.gq
 dcndiox5sxtegbevz.ml
 dcndiox5sxtegbevz.tk
+dcodesign.com
 dcom.space
 dcomp.lat
 dcpa.net
@@ -17904,7 +17909,6 @@ dioramafern.me
 diornz.com
 diosasdelatierra.com
 dioscolwedddas.3-a.net
-dipan.xyz
 dipath.com
 dipes.com
 diplease.site
@@ -21353,6 +21357,7 @@ eowlgusals.com
 eozxzcbqm.pl
 ep77.com
 epaco9t.loseyourip.com
+epaiy.com
 epam-hellas.org
 eparis.pl
 epaynine.com
@@ -25707,6 +25712,7 @@ gegearkansas.com
 geggos673.com
 gehensiemirnichtaufdensack.de
 gehnkwge.com
+geidbr.com
 gekk.edu
 gekury4221mk.cf
 gekury4221mk.ga
@@ -27472,6 +27478,7 @@ gotravelzone.net
 gotspoiler.com
 gottahaveitclothingboutique.com
 gotti.otherinbox.com
+gotypes.com
 gouapatpoa.gq
 gourmetnation.com.au
 gouwu116.com
@@ -31749,7 +31756,6 @@ igcom.br
 igcwellness.us
 igdinhcao.click
 igdinhcao.com
-igdinhcao.site
 ige.es
 igelonline.de
 igenservices.com
@@ -32953,7 +32959,6 @@ irinakicka.site
 irish2me.com
 irishbella.art
 irishspringrealty.com
-iristrend.shop
 irlanc.com
 irland-nedv.ru
 irlmail.com
@@ -33381,7 +33386,6 @@ iz4acijhcxq9i30r.gq
 iz4acijhcxq9i30r.ml
 iz4acijhcxq9i30r.tk
 izbe.info
-izeao.com
 izemail.com
 izeqmail.com
 izhowto.com
@@ -34176,6 +34180,7 @@ jobcheetah.com
 jobdatei.de
 jobdesk.org
 jobeksuche.com
+jobkeeping.com
 jobkim.com
 jobku.id
 jobmegov.com
@@ -36914,6 +36919,7 @@ laychuatrenxa.ga
 laymro.com
 layout-webdesign.de
 layze.camdvr.org
+lazago.com
 lazarskipl.com
 lazdmzmgke.mil.pl
 lazerbade.com
@@ -37631,6 +37637,7 @@ linuxmail.com
 linuxmail.so
 linuxmail.tk
 linuxpl.eu
+linuzer.com
 linx.email
 linxi.online
 linyu.qzz.io
@@ -44813,7 +44820,6 @@ neko2.net
 nekochan.fr
 nekomi.net
 nekopoker.com
-nekos96.xyz
 nekosan.uk
 nel21.cc
 nel21.me
@@ -49274,7 +49280,6 @@ pemoteusonourweb.site
 pemoteusonourweb.store
 pemwe.com
 pen960.ml
-penampilannieken.io
 penandpaper.site
 pencalc.xyz
 pencap.info
@@ -51827,6 +51832,7 @@ qc0lipw1ux.tk
 qcai.skin
 qcgmtzhzh.top
 qcmail.qc.to
+qcode.lat
 qcomcast.net
 qcvsziiymzp.edu.pl
 qd.je
@@ -53188,6 +53194,7 @@ ree.fr
 reebnz.com
 reediffmail.com
 reeducaremagrece.com
+reelhouse.fun
 reelpicnic.me
 reemail.hu
 reenet.de
@@ -59250,7 +59257,6 @@ succeedx.com
 success.ooo
 successforu.org
 successforu.pw
-successfulnewspedia.com
 successfulvideo.ru
 successlocation.work
 sucess16.com
@@ -63235,7 +63241,6 @@ trujillon.xyz
 trulli.pl
 trulyfreeschool.org
 trumanpost.com
-trumclone.click
 trumclone.com
 trumclone.net
 trumclsr.com
